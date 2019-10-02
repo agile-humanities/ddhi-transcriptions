@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dartmouth Oral History Customization</title>
+                <author xml:id="jhf">Julia Flanders</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>for use by whoever wants it</p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="ns">http://www.example.org/ns/nonTEI</note>
+            </notesStmt>
+            <sourceDesc>
+                <p>created on Thursday 25th July 2019 05:11:19 PM</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change resp="#jhf" when="2019-07-25">Created initial ODD file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <divGen type="toc"/>
+        </front>
+        <body>
+            <p>This is a draft customization for the Dartmouth Digital Initiative</p>
+            <schemaSpec ident="oral_history" docLang="en" prefix="tei_" xml:lang="en">
+                
+            <!-- List of modules included, together with deleted elements -->
+                <moduleRef key="core"
+                    except="add addrLine address analytic biblScope binaryObject cb cit citedRange del desc divGen gb gloss graphic headItem headLabel hi imprint index l label lb lg listBibl measure measureGrp media meeting mentioned monogr num pb postBox postCode relatedItem series sp speaker stage street teiCorpus textLang time unit"/>
+                <moduleRef key="tei" except=""/>
+                <moduleRef key="header" except=""/>
+                <moduleRef key="textstructure"
+                    except="argument back byline closer div1 div2 div3 div4 div5 div6 div7 docAuthor docDate docEdition docImprint docTitle epigraph floatingText front group imprimatur opener postscript salute signed titlePage titlePart trailer"/>
+                <moduleRef key="corpus" include="particDesc"/>
+                <moduleRef key="namesdates"
+                    except="climate geogFeat geogName listNym listObject terrain"/>
+                <moduleRef key="analysis"/>
+                <moduleRef key="spoken" except="annotationBlock broadcast writing"/>
+                <moduleRef key="linking" include="seg"/>
+                <moduleRef key="transcr" include="supplied"/>
+                
+                
+            <!-- Deleting attribute classes that aren't needed -->
+                
+                <classSpec type="atts" ident="att.global.rendition" mode="delete"/>
+                <classSpec type="atts" ident="att.global.change" mode="delete"/>
+                <classSpec type="atts" ident="att.global.facs" mode="delete"/>
+                <classSpec type="atts" ident="att.global.linking" mode="delete"/>
+                <classSpec type="atts" ident="att.global.source" mode="delete"/>
+                <classSpec type="atts" ident="att.declaring" mode="delete"/>
+
+            <!-- Removing specific unneeded attributes from classes -->
+
+                <classSpec type="atts" ident="att.global.responsibility" mode="change">
+                    <attList><attDef ident="cert" mode="delete"/></attList>                        
+                </classSpec>
+                
+                <classSpec type="atts" ident="att.global" mode="change">
+                    <attList>
+                        <attDef ident="xml:base" mode="delete"/>
+                        <attDef ident="xml:space" mode="delete"/>
+                    </attList>                        
+                </classSpec>
+
+                <elementSpec ident="body" mode="change">
+                    <desc>The body element contains the entire interview transcription.</desc>
+                </elementSpec>
+                
+            <!-- Customized attribute value lists -->
+                
+                <elementSpec ident="vocal" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="replace">
+                            <datatype>
+                                <dataRef key="data.enumerated"/>
+                            </datatype>
+                            <valList type="semi">
+                                <valItem ident="laugh"><desc>laughter</desc></valItem>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+
+            </schemaSpec>
+        </body>
+    </text>
+</TEI>
