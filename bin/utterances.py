@@ -18,11 +18,13 @@ p = re.compile(r'^([A-Z]+):\s+(.*?)$')
 for line in sys.stdin:
     line = line.rstrip()
     m = p.match(line)
-    if p.match(line):
+    if m:
         if in_utterance:
             print("</u>")
-        in_utterance = True
+            in_utterance = False
         print("<u who=\"#{}\">{}".format(m.group(1), m.group(2)))
-    print(line)
+        in_utterance = True
+    else:
+        print(line)
 if in_utterance:
     print("</u>")
