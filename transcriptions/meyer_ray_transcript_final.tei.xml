@@ -1,0 +1,303 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="CAROTHERS"/>
+        <person xml:id="MEYER"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="CAROTHERS">All right, so this is Andrew Carothers. It is 3:20 on November 2nd, 2015. I’m in Rauner [Special Collections] Library at Dartmouth College in Hanover, New Hampshire, and I am interviewing Ray [A.] Meyer, who is in Arlington, Virginia.</u>
+      <u who="MEYER">I’m fine. Thank you very much, Andrew.</u>
+      <u who="CAROTHERS">Great. So I want to start with your—your childhood and sort of early experiences. First of all, when—when were you born?</u>
+      <u who="MEYER">October 28th, 1943.</u>
+      <u who="CAROTHERS">All right. And where were you born?</u>
+      <u who="MEYER">Paterson, New Jersey.</u>
+      <u who="CAROTHERS">Paterson, New Jersey, and is that—where in New Jersey is that? Is that a suburban—</u>
+      <u who="MEYER">It’s in the northeastern corner of New Jersey, basically just a suburb, you know, of New York City.</u>
+      <u who="CAROTHERS">Great. So Paterson, New Jersey. And what was that environment like growing up in, in suburban—</u>
+      <u who="MEYER">Well, I didn’t grow up in Paterson. I grew up in Ridgewood. You asked me where I was born. I mean, technically—I was born in the hospital in Paterson, but I grew up in Ridgewood. And what that was about is—I don’t know, I just had a fairly typical, I guess, childhood. It was a little unusual in that Ridgewood is very upper-middle class, sort of a commuter town, but my parents were both immigrants, and my father owned a small mom-and-pop grocery store in town. And so I came from a somewhat different background than everybody else around town, but I don’t think it made a big difference.</u>
+      <u who="CAROTHERS">And tell me a little bit about your parents. Where did they immigrate from, and what brought them to Ridgewood?</u>
+      <u who="MEYER">My mother came from the Netherlands when she was a young girl. She was 11. She was born in 1901. And my father came when he was a young man. He was 23. He came to the United States I believe in 1923, and he was born in 1899, also in the Netherlands, but they met here, actually in the Paterson area.</u>
+      <u who="CAROTHERS">And did you talk with them at all about why they decided to come to the United States and how they specifically ended up in northern New Jersey?</u>
+      <u who="MEYER">Well, there was—well, as far as my mother goes—of course, she was one of seven children; she didn’t have much choice. She was only 11 at the time. But there was a large stream of people coming out of northern Europe at that time, before World War I, basically, you know, to get a better life in the United States. They were leaving what was pre-World War I Europe, where things were pretty rigid—there was a rigid class system. There wasn’t much economic opportunity. And so her father was a baker. Decided to come to the United States.</u>
+      <u who="CAROTHERS">And—so you talked about your parents being part of this Netherlands immigrant community. Did you find that that community was still active when you were growing up?</u>
+      <u who="MEYER">Oh, yeah, very much so. </u>
+      <u who="CAROTHERS">Were you really exposed to that community a lot? </u>
+      <u who="MEYER">That was the time little nationality had their own little society and their clubs and so forth. The Frisian society was called the UTY, which—pardon my Frisian, is Utspanning toch Ynspanning, which I believe meant something like “joy through strength” or something like that, or “joy through unity.” But at any case, they had—so they had a clubhouse in Prospect Park, New Jersey, which was sort of the big center of the Frisian community, so that was the social life for my parents. And in a sense, they’d sort of drag me along once in a while.</u>
+      <u who="CAROTHERS">Got it. So tell me about your brother Herbert a little bit. So he’s 12 years older than you.</u>
+      <u who="MEYER">Yeah. He’s 12 years older than I am.</u>
+      <u who="CAROTHERS">What was your relationship with him like, growing up, and what was it like having such a big—such a big age gap?</u>
+      <u who="MEYER">Well, it was—it was sort of funny, because I was about four or five when he went off to college, and he was one of the first kids—that generation was the first generation of my parents’ families that had—had gone to college. So I think he was the first one, actually, to go to college. All the other kids had—they went to high school and then, you know, joined various trades, became painters or printers or something like that. But my brother went to college.</u>
+      <u who="CAROTHERS">Wow. That’s an amazing story.</u>
+      <u who="MEYER">Oh, he’s quite a guy. He’s amazing. He’s 84, but he’s just pumping right along.</u>
+      <u who="CAROTHERS">That’s awesome. I’m actually from the Bay Area. I grew up in Marin. Is he—is he in San Francisco, or where—</u>
+      <u who="MEYER">No, he lives in Larkspur.</u>
+      <u who="CAROTHERS">Okay. I live in San Rafael. </u>
+      <u who="MEYER">Okay. Well, that’s just a couple of miles away.</u>
+      <u who="CAROTHERS">Yeah.</u>
+      <u who="MEYER">So you can Google up the Bay Area Disabled Sailors, or BAADS, and there’ll be some stuff in there about Herb Meyer.</u>
+      <u who="CAROTHERS">Very cool. Very cool. And so it sounds like you two are still—are still close.</u>
+      <u who="MEYER">Oh, yeah. Well, we’re in touch. We’ve never been close because our personalities were so different, for one thing. And another thing is that we were 12 years apart. By the time I was in kindergarten, he was in college.</u>
+      <u who="CAROTHERS">Yeah.</u>
+      <u who="MEYER">And then he was gone.</u>
+      <u who="CAROTHERS">And that was kind of—I’m sorry, go ahead.</u>
+      <u who="MEYER">So what I was saying is by the time I was, you know, cognizant of what’s going on, he was—he was a grownup and off on his own, and he had a family of his own.</u>
+      <u who="CAROTHERS">That was what I was wondering about a little bit. Sort of what role did he play in your—in your life, growing up, given that—you know, when you were in kindergarten, he was gone, and then by the time—when you were still in elementary school, it sounds like he was married or certainly by the time you were in middle school.</u>
+      <u who="MEYER">Yeah. No, I don’t think he played much of a role at all. In a sense, we were sort of two only children.</u>
+      <u who="CAROTHERS">Got it. And so you—you would have spent much more time with your—with your parents, then, and so—</u>
+      <u who="MEYER">Mm-hm.</u>
+      <u who="CAROTHERS">—tell me a little bit more about your parents. Sort of what, how did—how did they raise you? What was your relationship like with your parents, growing up?</u>
+      <u who="MEYER">Gee, it’s hard to describe. I guess they were my parents and I was their kid. We lived in this town, and they—by that time, my father had sold the store and was working for my uncle, my mother’s brother, Uncle Nick, who had a fuel delivery service, and he drove an oil truck all over that area, northeastern New Jersey. And they also owned two houses. First they has, one house that they bought when I was born, which had three apartments in it. They lived in one, and there were two others. And then they bought another house, where we moved, and also had apartments in it, so they were managing these two houses with I think a total of six apartments, as well as—you know, we lived in one of them. Which was unusual for that town because most of the—most of the—you know, you had your typical sort of Brady Bunch family. You had a dad who got on the train in the morning and went off to New York to work in an insurance agency or a brokerage or was a lawyer or something like that, and Mom stayed at home.</u>
+      <u who="CAROTHERS">Nice. And so did you—did you kind of notice that—that difference between sort of the typical family in Ridgewood and, you know, kind of like the background that—</u>
+      <u who="MEYER">No, not really.</u>
+      <u who="CAROTHERS">your family came from?</u>
+      <u who="MEYER">I mean, the—the main thing, looking back on it, the main thing is that the social life, the social contacts that my parents had were not with people in that town but, rather, with the other Frisians who lived in other places, and not many lived in Ridgewood. A lot of them lived in Prospect Park, which was the sort of Frisian ghetto, and a couple of other towns around there. And they all got together at the UTY. So that was the focus of the social life for them.</u>
+      <u who="CAROTHERS">Got it. And getting into your—your friends a little bit and your school life and social life growing up, what school did you go to, and what did you do in in school and what did you do outside of school?</u>
+      <u who="MEYER">Well, I attended the Ridgewood public schools, and, you know, just like all the other kids graduated from Ridgewood High School in 1961. And my main activity was singing. I was in the—in the glee club and the a cappella chorus at the high school. There had been a—there was a teacher named Leland Phillips in middle school, in junior high school, who every year put on a Gilbert and Sullivan [W. S. gilbert and Arthur Sullivan] production. And he ran the junior high school chorus, and I wound up being the lead for the—for the Gilbert and Sullivan—for The Gondoliers that year, so I sort of got into the singing thing and then wound up singing in a Presbyterian church choir. They recruited me—the same director recruited me to be in that. So I did that.</u>
+      <u who="CAROTHERS">Well, I’m actually—I was a Boy Scout, too, growing up. It’s a great program. Definitely a big part of my experience growing up. So are you—are you an Eagle Scout?</u>
+      <u who="MEYER">No. That was—I guess one of the things I remember about my childhood that’s sort of negative was I was never a good athlete. I was kind of chubby and uncoordinated and not very strong, not very fast, so I could never get the personal fitness merit badge, which was required in those days to be an Eagle Scout. It required somebody of my age to be able to do I think seven or eight pull-ups, and I never could do it, so I never made Eagle Scout. I made Life Scout on all the other things—you know, senior patrol leader and all the other stuff, but never made Eagle.</u>
+      <u who="CAROTHERS">Well, they definitely have loosened up that requirement now.</u>
+      <u who="MEYER">Yeah, they have. But not back then. And the Scouts were an interesting organization back then, because it was—the adult leaders were all veterans from World War II, and so it had a very sort of military side to it—you know, standing at attention and drilling and all that kind of stuff. We did a bunch of that kind of stuff. I guess they’ve changed that nowadays. And it was all very tightly organized. I was patrol leader, then a senior patrol leader and junior assistant scoutmaster and all that stuff. And, you know, we went camping every month, one weekend a month. It was a very active troop, and it was a great program.</u>
+      <u who="CAROTHERS">Absolutely. And do you think that—you know, and we’ll obviously circle back to Vietnam at length later, but do you think sort of that the slightly sort of military-based aspect to Scouts influenced you when you were in the Foreign Service and in Vietnam, and did you see some parallels between how some of that—</u>
+      <u who="MEYER">Hmm. Hmm.</u>
+      <u who="CAROTHERS">—the government—</u>
+      <u who="MEYER">Well, I think—I think that having experienced that sort of organization and having been successful, to an extent, in that organization made it a lot easier to accept discipline and sort of the idea of the structure situation than maybe for other people who had a different kind of personality. But I didn’t have any problem accepting that kind of structure. And I think that might have had something to do with it later on in terms of the psychological satisfaction of being part of a really good, well-functioning, elite organization.</u>
+      <u who="CAROTHERS">And I want to talk a little bit about kind of the political context that was around you,—</u>
+      <u who="MEYER">Mm-hm.</u>
+      <u who="CAROTHERS">—growing up. And so you—you grew up sort of during the early portion of the Cold War.</u>
+      <u who="MEYER">Mm-hm.</u>
+      <u who="CAROTHERS">And you graduated in ’61, so [John F.] Kennedy would have been elected your senior year of high school. What was—what was it like growing up under the shadow of the beginning of the Cold War?</u>
+      <u who="MEYER">It didn’t feel like a shadow. You didn’t really perceive it that way because it was just all around you. It’s like a fish swimming through the water. You don’t see the water. There had always been this problem of, you know, the Soviet Union, and there was this duck-and-cover stuff we used to do, and there was Civil Defense shelters around and so forth. And it was just the way it was with this situation. By the time I was cognizant of everything, the situation had pretty much stabilized in that the Russians—the Soviets had taken over eastern Europe, and the Warsaw Pact was in—was in existence, and NATO [North Atlantic Treaty Organization] was in existence, and the whole thing had become kind of routine by the time ’58 ’59, ’60 came along. There wasn’t any feeling there was an alternative to that.</u>
+      <u who="CAROTHERS">And what was your parents’ perspective like on the Cold War, having immigrated from the Netherlands—you know, western Europe country that—?</u>
+      <u who="MEYER">I have no idea. I have no idea what they thought about that. It was never discussed. World geopolitics was never a subject of discussion that I can recall.</u>
+      <u who="CAROTHERS">So you didn’t discuss it with your family. Did you discuss it with friends, or was it a topic at school?</u>
+      <u who="MEYER">No, no, it was—it was—as I said, it was just sort of in the background—like, you know, the background noise of our lives. But it’s not something you—you said, “There’s gotta be a better way” or “There’s an alternative.” You didn’t feel like you were sort of in a—a participant in history or something like that; you were just, you know, living your life, and this was the environment in which you lived</u>
+      <u who="CAROTHERS">Got it. And so it sounds like there wasn’t a ton of—of discussion around politics. Were you interested in—in politics and international relations, growing up?</u>
+      <u who="MEYER">Not particularly, no. [Chuckles.] My life went in through, hit a number of sort of little eddies or backwaters or dead-ends, whatever you want to call it, along the line, but we’ll get into that as we go along. But the whole question of, you know, what my future looked like and so forth was constantly changing, depending on what particular event had occurred in the recent past.</u>
+      <u who="CAROTHERS">Yeah. And was there—was there anything that particularly directed you towards Dartmouth versus one of the other Ivies?</u>
+      <u who="MEYER">Mmmm, maybe a little bit, the sort of the outdoor stuff, because of the Scouting experience—you know, the [Dartmouth] Outing Club (the DOC), that kind of stuff, and the idea it was sort of out in the country I guess might have had something to do with it. But it’s just—I guess I was pushed in that direction. I went ahead and looked at all the materials and applied early, got early admission.</u>
+      <u who="CAROTHERS">Very cool. So speaking of that outdoorsy experience, did you go on a trip before your freshman year when you arrived?</u>
+      <u who="MEYER">No,I did the freshman trip, and that was great, and climbed Mount Moosilauke, actually by myself. [Chuckles.] Went off and decided to just sort of climb up to the top and bushwhacked to the top. I darn near killed myself, but anyway, I made it up and made it back down. But, yeah, did the freshman trip and then started out.</u>
+      <u who="CAROTHERS">I have plenty of friends here who have had a similar experience when they go take organic—organic chemistry and decide that their—their pre-med days are over.</u>
+      <u who="MEYER">I was very naïve. I didn’t understand how it all worked. And so I was thrown in these classes with guys from the Bronx High School of Science, and New Trier High School, these really, really elite programs. And they had all been working out of the Baker and Kerry [Archivist Note: spelling uncertain] book, the organic chemistry book for months before they got to Dartmouth. They knew that that was the big test. And I had no idea it was like that.</u>
+      <u who="CAROTHERS">Got it. And then what did you—what did you switch over to after you—</u>
+      <u who="MEYER">I actually went up as an econ major, and I was pretty good at that. It turned out that I took a bunch of history courses. I took a bunch of things that I liked, which was—which was good. And, you know, the Darkness at Noon was a great course, the art course—things that I had never considered taking because I was looking at this very rigorous pre-med, scientific thing. But instead, I wound up doing music and art and architecture and the econ stuff and a lot of history courses. I took a minimum, I guess, of the number of econ courses in order to qualify for the major.</u>
+      <u who="CAROTHERS">And so speaking of the war, what was the political environment like on campus? And were people following what was going on in Vietnam, and were people aware, or—</u>
+      <u who="MEYER">Well, they were aware of it, certainly, because there were people who were in all kinds of ROTC programs. [U.S.] Army ROTC was very big—Air Force, Navy ROTC. So a lot of guys were in there. I mean, hundreds. And obviously when the bullets are flying, you pay attention to something like that. But it hadn’t become sort of the sort of political issue that it became later. Nowhere near. It was just everybody was looking at it from their own personal point of view, saying, “How can I get out of this if I can?” </u>
+      <u who="CAROTHERS">Got it. And what were your thoughts on the Vietnam War or the escalation of our involvement in Vietnam when you were at Dartmouth?</u>
+      <u who="MEYER">Well,—</u>
+      <u who="CAROTHERS">Was it entirely from the same point of how it related to you, or were you thinking of the larger political context?</u>
+      <u who="MEYER">No, I was thinking of it purely in personal terms. I didn’t now anything about Vietnam. Nobody did, you know. And they were talking about the domino theory and all this stuff. I never really took that quite seriously, but I didn’t know anything about that place and those people at all, and I don’t think very many people did. I thought about it purely in personal terms. You know, How am I going to avoid having to lug an M14 [rifle] through the swamps?</u>
+      <u who="CAROTHERS">Absolutely. So tell me a little bit more about your involvement in the Glee Club and singing at Dartmouth. It sounds like singing was something that’s been important to you for a long, long time.</u>
+      <u who="MEYER">Yes, that was the main extracurricular thing I could do. As I said, I was a cruddy athlete, so I wasn’t going to do any of that stuff. And the Glee Club was terrific. And back in those days, you couldn’t even sing in a glee club as a freshman. There was a freshman glee club, just like there’s a freshman football team, and so I joined that. Paul—started with a Z—was—Zinger? Zanger? [Paul R. Zeller.] Anyway, Paul something. Well, he was the Glee Club director. Had been in that position for many years. He was a terrific conductor.</u>
+      <u who="CAROTHERS">Hopkins Center [for the Arts].</u>
+      <u who="MEYER">Hopkins Center. Yeah, we did the opening of the Hopkins Center [unintelligible] of ’63 [sic. November 1962]. And then, of course, every—every spring break, we’d go on tour, and that was—that was really a lot of fun because you’d be in a bus. You’d get on one of these Vermont Transit buses on the first day, right after exams were over in the first day of the spring break, in March. And off you go, fifty guys in a bus. And you do a concert sponsored by an alumni club that evening. You’d stay with alumni, in their homes and eat dinner with them, and then after the concert there’s usually a party and lots of beer, and then crawl on the bus in the morning at 7 in the morning and write your thank-you note. You’d have to do that. And then ride the bus again all day and get off and do it all over again and do it for about ten or twelve times in a row. </u>
+      <u who="CAROTHERS">Absolutely, yeah. And have you—did you continue to sing after Dartmouth?</u>
+      <u who="MEYER">Oh, yeah. Last night, I was singing in a concert.</u>
+      <u who="CAROTHERS">Nice. Very cool.</u>
+      <u who="MEYER">So I’ve done it, you know, for fifty-something years now.</u>
+      <u who="CAROTHERS">That’s awesome.</u>
+      <u who="MEYER">Mmm.</u>
+      <u who="CAROTHERS">So the Kennedy assassination would have taken place during your junior fall,—</u>
+      <u who="MEYER">That’s right.</u>
+      <u who="CAROTHERS">—in November of ’63.</u>
+      <u who="MEYER">Right.</u>
+      <u who="CAROTHERS">What was the experience like of being on Dartmouth when that event happened?</u>
+      <u who="MEYER">Well, it was a huge shock to everybody. And, of course, everybody remembers where they were. I was at Lou’s [Restaurant &amp;amp; Bakery], sitting at the counter, drinking a cup of coffee and having a piece of chocolate cake. It was sort of the middle of the afternoon, I guess, or early afternoon. Classes were over for the day.</u>
+      <u who="CAROTHERS">And as—as the Johnson administration got started, did—did you think about how—was there a sense that Johnson would be more inclined to get into Vietnam than Kennedy was or that could affect the future of you and all of your classmates?</u>
+      <u who="MEYER">I think that as a college junior at that point, in a fairly isolated place—and it was a lot more isolated then than it is now—didn’t think about it very much, honestly. I don’t think so. There just wasn’t much thought given to it. As I said, most of the thought related to what am I gonna do? What’s this gonna do to me? But the idea—that you sort of had, you were expected to have an opinion about the substance. No, I don't think so. I don’t recall it that way.</u>
+      <u who="CAROTHERS">And so you graduated in ’65—</u>
+      <u who="MEYER">Yeah.</u>
+      <u who="CAROTHERS">—and in that fall started law school down at BU,—</u>
+      <u who="MEYER">Mm-hm. </u>
+      <u who="CAROTHERS">—at Boston University. What was grad school like, and what was it like going from little Hanover to Boston University?</u>
+      <u who="MEYER">Well, that was a huge culture shock for me, (and I thought maybe for others). But I wound up sharing an apartment, which I’d never done before, with a guy, and his name was Godfrey [J.] Tencer, who had graduated from Rutgers [University] was also going to law school there. And it was just a big shock in many ways, to be in the city that way, and very different in many ways.</u>
+      <u who="CAROTHERS">Yeah, I imagine Boston was a little bit more culturally liberal than Hanover. Is that fair to say?</u>
+      <u who="MEYER">Oh, yeah, yeah, in many ways. And just a lot more active. There’s a lot more going on, all kinds of stuff going on.</u>
+      <u who="CAROTHERS">And was the protest movement getting started? At that point, were you opposed—</u>
+      <u who="MEYER">Not—</u>
+      <u who="CAROTHERS">—not opposed, but were you exposed to that?</u>
+      <u who="MEYER">Not particularly. I don’t think it was that big a deal in ’65. By ’66, it certainly was getting there, and there was this—it was a mixture of—of the Vietnam protest plus the whole cultural revolution starting to take place in terms of the revolution, the—the reaction against the whole stability and rigidity of the postwar era, which was then starting to fracture and fall apart. Culturally—you know, rock and roll was coming in, and the music was all different, and the literature was all different. People were smoking weed, and it was a whole different thing.</u>
+      <u who="CAROTHERS">And as someone in his mid-20s at the time, going to law school, what did—what did you think about all that?</u>
+      <u who="MEYER">I don’t know. I didn’t have the thought. I was just sort of life. It was the way it was, you know? I wanted to go out and have a good time. I wanted to do well in school. And I did pretty well in law school. And law school was a lot easier for me than certainly college was. In particularly, I think I had gotten a good education at Dartmouth in—in—in a number of courses and being required to sort of run my mouth, as they say, and be in seminars and so forth, and I found that I was fairly articulate, could put my thoughts together. And that was very useful in law school.</u>
+      <u who="CAROTHERS">[Chuckles.]</u>
+      <u who="MEYER">I had just had about a five-minute conversation with a couple of my friends outside the room before—I said, you know,  “What’s this case about?” And so I’d pulled this thing off. And afterwards, I felt like, you know, these guys will pick me up almost carry me out of there on their shoulder. [Chuckles.] Because they knew I had just pulled it out of my butt.</u>
+      <u who="CAROTHERS">[Chuckles.]</u>
+      <u who="MEYER">And that gave me a lot of confidence and made me feel that I can actually do this stuff. And I did. But there was stuff going on around there. In ’67—by ’68, things are going nuts, you know. The whole—the whole culture was—was boiling and bubbling.</u>
+      <u who="CAROTHERS">Wow. And did you specialize within a certain area of law—</u>
+      <u who="MEYER">No.</u>
+      <u who="CAROTHERS">—when you were studying?</u>
+      <u who="MEYER">No, not at all. One thing I never did was take an international law course, you know, You never knew—my future never went the way you think it would have. So anyway, there I am in law school, and I’m, you know—so the war is really getting bad at that point, it’s ’67, ’68. And we had [the] Tet Offensive in February of ’68. And so it became a very all-consuming thing for everybody. I mean, it was a huge deal, and people were trying to figure out all kinds of ways to avoid the draft.</u>
+      <u who="CAROTHERS">And so by the time you graduated from law school in ’68, you were getting pretty close to 26, right? You were 23?</u>
+      <u who="MEYER">That’s right. And so it was a matter of some considerable interest to me. And then so I was thinking about what to do. I’m thinking about the Peace Corps. I’m thinking all kinds of stuff. And they put up a notice at the law school about the Foreign Service exam, which was given—it’s not the, February of ’68?—yeah. And I said, “Well, you know”—</u>
+      <u who="CAROTHERS">[Chuckles.]</u>
+      <u who="MEYER">And it was at a high school, Austin High School maybe?—in Boston. It was February. It was brutally cold. They turn off the heat in high schools on Friday afternoon and don’t turn it on again until Sunday afternoon, in order to save money. And so it was [chuckles] about 50 degrees in these classrooms. It was really freezing.</u>
+      <u who="CAROTHERS">Wow.</u>
+      <u who="MEYER">And we took—we took the exam, and it took all day. It was a multiple guess test in the morning and then a written portion in the afternoon. And I, you know, went on. I mean it was February of my senior year in law school, and I didn’t give it much thought after that.</u>
+      <u who="CAROTHERS">What did you think of working for the Office of Legislative Services? Did you—</u>
+      <u who="MEYER">Oh, that was a lot of fun. We were five of us, five young lawyers from various places, some from BU, and couple of guys from BC [Boston College], I think. Most of them are now, you know, judges and stuff but are retired. A great bunch of guys. And we—we—we would work all morning and then we’d go down to the Y [Young Men’s Christian Association] and play basketball at lunchtime, you know. It was—it was a good job. It was fine.</u>
+      <u who="CAROTHERS">And did you talk with these other guys that you were working with about Vietnam?</u>
+      <u who="MEYER">Oh, yeah, sure, we talked about it. But mostly, again, in terms of, you know, “Well, what’s your situation?” A couple of guys were married. They were set. A couple of guys had 4-F or whatever it might be. And so everybody was going to be okay, but I was the one who was—who was exposed. But we talked about it, I suppose, but it wasn’t—it wasn’t, like, we were, you know, politically engaged. We were just a bunch of young guys trying to get through the next week.</u>
+      <u who="CAROTHERS">Got it. And after you did that year at the Office of Legislative Services, then you went into the Foreign Service.</u>
+      <u who="MEYER">Yeah, that was funny. In February, I guess it was, of ’69? Yeah. I got a letter from the State Department [sic; the U.S. Department of State], completely unexpected, because I hadn’t heard anything from them. After I did the Foreign Service exam—and then I took the oral exam; that was the week I graduated from law school. I took the oral exam, which was also reputed to be remarkably tough. And it wasn’t. [Chuckles.] It wasn’t a walk in the park; it was pretty tough. Anyway, I took the oral exam, and then I hadn’t heard anything from them.</u>
+      <u who="CAROTHERS">Got it. And so in, then, August of 1969 you joined the Foreign Service and then the Foreign Service Institute for a year, doing your training. Tell me about that year.</u>
+      <u who="MEYER">Okay. Well, the first six or eight weeks—it was called A-100 course, and it’s the basic training for all Foreign Service officers, so there were 18 of us in that class. We all came in together. We were sworn in together. And we started talking and discovered that some of us had been misled (to put it kindly). The guys who got—and a couple of women, as a well—but the guys who got their Vietnam letter and said no got a second letter [that] said, “Well, in fact, there are some spots, and so you can come ahead and join the Foreign Service, but be aware that this is worldwide availability. Basically, you will go where we send you.”</u>
+      <u who="CAROTHERS">That’s kind of how you ended up in Vietnam?</u>
+      <u who="MEYER">Yeah, basically that’s it. And then after the A-100 class, those of us who were going to Vietnam, who’d been assigned to Vietnam—and that was interesting, too: At the end of the A-100 class, they’d bring everybody together and they said, “Okay, here’s where you’re goin’.” And there was no system, as there is now, of knowing ahead of time where the openings were and saying, “I’d like to go here or there. Here are my top ten choices of so and so forth.” But none of that. We had a lot to do with forming that—making that happen, actually, later on, because we had people who wanted to go to Place A and wind up at Place B, while there was somebody else who wanted to go to B and they wind up in A. And we made—because of this letter that came out and the whole flap about that—there was quite a—quite a stink made about that.</u>
+      <u who="CAROTHERS">And so speaking of—you reference that not a lot of people really knew anything about Vietnam, the country itself, including a lot of the leaders, and so speaking of those leaders—you know, [Richard M.] Nixon gets elected in—in ’68, and his silent majority speeches in November of ’69, while you’re at the Foreign Service, the Foreign Service Institute. What did you think about Nixon coming to power and the impact that that would have on Vietnam?</u>
+      <u who="MEYER">That’s a good question. Didn’t know anything really that much about Nixon. He said he had a secret plan to end the war. I didn’t believe that. Was that ’72? I take it back. Let’s—let’s get our politics straight here. It’s ’68, ’69—when was—I’m getting confused here a second. When did Johnson say he wasn’t going to run again? That was in ’68?</u>
+      <u who="CAROTHERS">Sixty-eight, yeah.</u>
+      <u who="MEYER">Right. Okay. So then we had the election. We also had, you know, the marches on Washington. All that stuff was going on. Friends of mine came down for the march. I remember the tear gas in the air. I was not at all pro-war in any sense, even though I was on my way to Vietnam. It wasn’t like I was on a crusade or something. </u>
+      <u who="CAROTHERS">I believe it was in ’68.</u>
+      <u who="MEYER">Well, anyway, if he said he had a secret plan, you know, who knew? I didn’t—nobody believed that. I certainly didn’t vote for Nixon, I can tell you that. But anyway, he came in, and I didn’t perceive anything much of a change, actually, you think about it. You had [Robert S.] McNamara over there, and, you know—you get confused in a sense because we know so much more now about what was happening then than we knew then. The Pentagon Papers hadn’t come out, obviously, so we didn’t know what was going on internally in the government back then. We just knew that the war was going on and on and on, and, you know, they had all these plans about getting the—the Vietnamization. That was the big deal, getting the Vietnamese to take a larger and larger part of the burden and for our guys to disengage and to move out.</u>
+      <u who="CAROTHERS">And when you did arrive, that was really as Vietnamization was getting into full swing.</u>
+      <u who="MEYER">Yeah, that’s right.</u>
+      <u who="CAROTHERS">Did you see that—did you see that really a lot of power was being turned over to the South Vietnamese and did that seem to be working at all?</u>
+      <u who="MEYER">Well, um, yeah. I’ll get to that in a minute. Let me pick up the chronology a little bit. At the end of September 1970, I got to Saigon and was assigned—we were all brought together and assigned to different places in the CORDS program, and I was assigned as the deputy district senior adviser in the Tuy An District in Phú Yên Province, in II Corps. And the other guys went all kinds of other places. </u>
+      <u who="CAROTHERS">And Tuy An District is one where there was a lot of—a lot of activity and a lot of conflict sort of in the aftermath of Tet. And then later, it was deemed pacified. Did you find that was actually the case when you were there, that it, that it really was pacified?</u>
+      <u who="MEYER">I was in the transition between those two things. Tet had been a disaster for the local VC [Viet Cong]. They had believed their own propaganda and thought that they would just march down Route 1 into Tuy An and take the place over. And they ran into the local RF [South Vietnamese Regional Force] battalion and just were slaughtered. I didn’t see that. That was in February ’68.</u>
+      <u who="CAROTHERS">Definitely. And what was the contrast like between going down to Saigon every few weeks and then going back to really, sort of, basically a military base?</u>
+      <u who="MEYER">Yeah. Well, what happened was that—well, let me talk about the CORDS Field Advisors Association. There were all these young guys out in the field, who had been through VTC, spoke Vietnamese, knew something about the history and the culture and so forth and were out there and were in contact with—with the political section in the embassy and somehow formed this thing. I think [Kenneth M.] “Ken” Quinn might have been involved in that. </u>
+      <u who="CAROTHERS">And what is the Sorbont?</u>
+      <u who="MEYER">The Sorbonne is in Paris. It’s the University of Paris. These are basically Franco-Vietnamese. These are people who, in the 20 or 30 years since the French had, you know—or the hundreds of years, when the French were there—there arose a group of people in the colonized country who were sort of halfway between the colonizers and the colonized. They always formed sort of a buffer layer between the two.</u>
+      <u who="CAROTHERS">And how—how early did that knowledge really sort of begin to develop amongst you and others in the Foreign Service, that this—this was wasn’t really going to be able to be won if it continued as it was going?</u>
+      <u who="MEYER">Oh, certainly by ’71. Certainly. It was clear that the military situation in ’71 was pretty much a stalemate. We were bombing the north. That wasn’t stopping the flow of supplies and people coming south. They had done the demographic studies, and they knew that that basically the North Vietnamese could—could produce, you know, significant numbers of 18-, 19-year-old young men from now until doomsday. Their birth rate was enormous. And we couldn’t beat them, so it was a question of whether or not they would ever give up.</u>
+      <u who="CAROTHERS">And so do you think a lot of Nixon’s policy of turning the war over to the South Vietnamese was—was really less about winning the war and more about enabling the United States to be able to get out?</u>
+      <u who="MEYER">Yeah, I think that was probably the case. It was all sold on the idea that the South Vietnamese, you know, could develop these capabilities and defend themselves, but after that—actually, basically for me it was—that was the epiphany. After that Christmas party, I knew that couldn’t happen.</u>
+      <u who="CAROTHERS">Got it. You mentioned earlier that you—your role as the deputy district senior adviser. Was it a lot about reporting, going out to villages and meeting with the people there and then reporting back?</u>
+      <u who="MEYER">Mmm.</u>
+      <u who="CAROTHERS">What were interactions like when you were going out into these rural villages as probably one of the few Americans around and meeting these people?</u>
+      <u who="MEYER">The folks were very—very reserved because every village had a [unintelligible]. They had sort of gotten—they had gone underground after Tet, but their political organization was still there. And so people were reserved and polite and so on and so forth, but, you know, you never really got below the surface.</u>
+      <u who="CAROTHERS">And what was that like, going in and having this be your job to gather information but knowing all the time that people weren’t really giving you the information about what was going on because they were afraid of the NLF?</u>
+      <u who="MEYER">Well, it was sort of—that was the job in a sense but part of the job was also sort of going back to Saigon and telling people what was really going on, so the fact that we were not winning in the countryside and getting that word back was I think important. The fact that I wasn’t able to, you know, do anything for the people per se was just an artifact of the situation.</u>
+      <u who="CAROTHERS">Tell me a little bit more about that and what the—what the sense of danger was when you were going out into these rural villages.</u>
+      <u who="MEYER">Well, I had a little International Harvester scout that was issued to me, and I just went out in the daytime. In the nighttime, we were locked down. But I’d go out in the daytime, buy myself—I had a—I had two sandbags under the seat; that was my protection against the mine. And I had an M16. And I’d just go out and do whatever I felt like doing, went where I wanted to go. I didn’t have any military escort or anything like that. </u>
+      <u who="CAROTHERS">Wow. </u>
+      <u who="MEYER">Well, after Tuy An—I was there nine months, and then I got assigned—and I don’t know exactly how it all happened; the whole personnel thing was totally opaque—I got assigned as the CORDS legal adviser, because I had been to law school. So actually they offered me a district. They offered me the district west of Tuy An. I can’t remember the name of it now. There as a district senior advisor, and that was really the Wild West out there. Basically it was in the middle of a little tiny valley in the middle of the mountains. And I said, “No, I don’t think I’m cut out for that. Thank you very much.”</u>
+      <u who="CAROTHERS">And what was the atmosphere? So you were at Ton Son Nhut, and, I mean, I imagine that it felt quite different than being up in Tuy An. Sort of what was the atmosphere like on the air base?</u>
+      <u who="MEYER">Well, it was different. It was a military headquarters kind of thing, so you had—you had these—these temporary buildings and then they had linoleum floors that were polished all the time. And it felt like sort of a military base. And I had a little office, and there were all these guys walking around, doing stuff. I have no idea what they were doing. And I was writing things and sending them up the chain and so on and so forth. It was a very bureaucratic—but it didn’t feel like it was connected to—to—to Vietnam at all, in any significant way except once you, you know, got in my little car and drove out, back to my apartment.</u>
+      <u who="CAROTHERS">Absolutely, yeah.</u>
+      <u who="MEYER">Just give me about two minutes. I’ll just leave the phone on [sic] the hook, okay?</u>
+      <u who="CAROTHERS">Sure. Sounds good.</u>
+      <u who="MEYER">Okay. </u>
+      <u who="MEYER">So where were we? We were in 1971, right? Yeah. And I’m in Saigon. And I don’t remember much about that—that period very much except that I remember the trips that I would take out of country, because we got—we got an R&amp;amp;R [rest and recuperation] every 90 days. It was a great deal. And so, at that time I went—let’s see, did I go to Australia? Went to Australia. Used to get into Singapore quite frequently because the families of a couple of our—a couple of the guys that I joined with were down in Singapore.</u>
+      <u who="CAROTHERS">Got it. And were the—</u>
+      <u who="MEYER">Yeah.</u>
+      <u who="CAROTHERS">Yeah. And were—were the guys that you knew who were living at 47 Phan Tan Gian—were they still there when you were in Saigon, and did you maintain this relationship?</u>
+      <u who="MEYER">Yeah, I think they were still there. It was a rotating crew, different guys, and I can’t remember who was actually living at 47 Phan Tan Gian and who used to come over for, you know, parties and dinners and stuff. I think Larry Pope might have been living there. Ray Burghardt lived there for a while. There was a guy named [W.] Gage McAfee III. Interesting fellow, who was quite—quite the man around—about town and later married the daughter of the guy who owns half the ships in Taiwan. And, he’s now—You can look up these people if you’re interested in them. W. Gage McAfee III. What a guy!</u>
+      <u who="CAROTHERS">Got it. </u>
+      <u who="MEYER">Well, what happened was while I was in Saigon—I guess it was Saigon—the Foreign Service has something called the inspectorate. They have their inspector general. And Foreign Service posts will periodically be inspected by the inspector, and they’ll come through and very thoroughly interview everybody. And so the inspectors were coming through Saigon at that point, and the guy who interviewed me was Frank [G.] Wisner [II]. Is that a name you know?</u>
+      <u who="CAROTHERS">It’s not, no.</u>
+      <u who="MEYER">Okay. Take a note: Frank Wisner, W-i-s-n-e-r, later ambassador to Egypt. And Frank Wisner was then assigned to the IG, and he knew all about what had happened to us with that famous letter and came by and said, essentially, “We need to make this up to you guys. What do you want for your next assignment?” And I said, “Well, I was an economics major, and I’d like a multilateral economics post in Europe.” And he said, “Okay.”</u>
+      <u who="CAROTHERS">That—that letter—that letter that you were referring to. That was the one that you got way back in sixty—</u>
+      <u who="MEYER">Right, this is way back in 1970, yeah. And apparently there had been quite a stink made about that because people had been misled, and they wanted to make it up. So I wound up being assigned to USEC [U.S. Mission to the European Communities]. </u>
+      <u who="CAROTHERS">Yeah, yeah.</u>
+      <u who="MEYER">There was a big offensive across the DMZ [demilitarized zone] by the NVA, and that was happening as—as I left Saigon. I didn’t know at that point whether there was—you know, that was going to end the war or not, but my views about the ultimate end of the war were pretty much fixed at that point, and I certainly wasn’t in the minority. I think everybody who was sort of in my position had the same general view. Maybe a couple of other—a couple who didn’t, like Art Kobler, he might have been one that I remember. Really did think that the South Vietnamese could eventually pull this off. </u>
+      <u who="CAROTHERS">And I’m curious about that visit to Tehran in ’72 because obviously Tehran’s wildly different now than it was in ’72.</u>
+      <u who="MEYER">Yeah.</u>
+      <u who="CAROTHERS">But what was it like to see Iran under the Shah [Mohammad Reza Pahlavi]?</u>
+      <u who="MEYER">Well, I mean, it’s not like you go into a place and sort of immediately do a political analysis of it. It was an entirely new culture to me. I was the guest of a friend of mine. I was only there two days. And it was very, very different, of course, from Vietnam. And we were at the upper end—Tehran—I don’t know—is a lot like Salt Lake City. I don’t know if you’ve ever been there, but it’s on a long slope coming down from the mountains, so the northern end is three or four thousand feet higher than the southern end. And the southern end is where the poor people live, and the middle is sort of where the businesses are. And the northern end is the beautiful suburbs and the villages and stuff. And, of course, that’s where I was. So that’s all I saw. I saw a place that seemed very peaceful and prosperous, at least the part of it that I did see. But it was only two days. It was just a very fleeting impression.</u>
+      <u who="CAROTHERS">Both those places I’m sure are quite different now than they were in ’72.</u>
+      <u who="MEYER">Yeah. Oh, yeah. Yeah, yeah. It was sort of, in some way, except for Vietnam, it was sort of the end of a—of a—sort of a idyllic era [chuckles] for a lot of those places. </u>
+      <u who="CAROTHERS">Yeah.</u>
+      <u who="MEYER">And Iran was still under the shah, and Beirut was peaceful, and, you know, it was—Cyprus before the Turks invaded, so, you know, a lot of stuff has changed since then.</u>
+      <u who="CAROTHERS">And what was the work you were doing in—in Brussels like, and what was that experience, to go from you know a very tumultuous Vietnam to, you know,—</u>
+      <u who="MEYER">Oh, it was completely different.</u>
+      <u who="CAROTHERS">—Western Europe?</u>
+      <u who="MEYER">I was a staff assistant to the ambassador, and his name was [Joseph A.] “Joe” Greenwald. And USEC was just a wonderful place. Let’s see, we’re having—well, for one thing, I met—I met my wife there. But it was just, you know, a whole different thing, being a staff aide. I had no idea what being a staff aide entailed. The person who had been there before me, a woman named Kay Stocker, had given me some—some indication, but I just had to sort of learn the job on the fly, and—and that’s what I did.</u>
+      <u who="CAROTHERS">And a quick question before we get into going back to Vietnam: Did you get a chance to go over and visit the Netherlands while you were—while you were in Brussels, and see the country your parents had come from?</u>
+      <u who="MEYER">I’m trying to remember. I don’t think so. I don’t think I did. I don’t think I did. Not—not during that little short period. I was only there for about six weeks and then went back to Vietnam. Once I went back to Brussels to finish that tour, yeah, yeah, of course I went over there and saw my distant relatives and stuff, yeah.</u>
+      <u who="CAROTHERS">Nice.</u>
+      <u who="MEYER">Mm-hm.</u>
+      <u who="CAROTHERS">What was—what was your thought when you saw that you would indeed be going back to Vietnam?</u>
+      <u who="MEYER">Well, because Gerald had given me this heads-up, I knew that it was going to happen, and so, you know, I got prepared, because the negotiations were coming down to the end and they were planning ahead, saying, “Once we have a ceasefire, we need people there to report on what’s happening.” At least that was the thought, I guess.</u>
+      <u who="CAROTHERS">And so a couple of questions about that second stint in Vietnam: What did you find when you were going out and reporting on the ceasefire? Did it just really confirm that the North was going to win?</u>
+      <u who="MEYER">Yeah, there was no more fighting. [Chuckles.] You know, that’s all—that’s all you saw. I don’t recall very precisely what in fact I was reporting about, but, you know, we would go out once in a while—I remember I went out with a guy who was a JAG [Judge Advocate General; member of Judge Advocate General’s Corps] officer. His name was Harry Schwethelm, from Texas, from the Hill Country of Texas, Kerrville, Texas. Nice guy.</u>
+      <u who="CAROTHERS">I imagine.</u>
+      <u who="MEYER">No, never heard. I never heard another thing. Don’t know. Don’t know.</u>
+      <u who="CAROTHERS">Alright. So after—in May of ’73, then, you went—you went back to Brussels and finished your tour there?</u>
+      <u who="MEYER">Yeah. Mm-hm. That’s when I met my wife. She had arrived there while I was in Vietnam. I had known she was coming because it was—it was—a cable came in, I saw all the personnel cables. And a cable came in saying, you know, this woman is being assigned; her name is Yortsberg [Archivist Note: spelling uncertain]. And I said, “Oh, she must be a blue-eyed blonde. It turned out she had brown eyes and dark red hair [chuckles], but other than that—[Chuckles.] But anyway, one thing led to another, and eventually—we got married in September of ’75.</u>
+      <u who="CAROTHERS">Very nice.</u>
+      <u who="MEYER">Yeah. Oh, I think it was pretty clear that once the ceasefire sort of took hold that there was no need for this huge presence of people there. They had this enormous presence there and capacity there to report on things that in fact never happened, so there was just a lot of wasted effort, I think, in that regard. But in any case, no, I never—never went back. </u>
+      <u who="CAROTHERS">Yeah. And what were you—what was your reaction as you watched, you know, from Brussels, the north, you know, progress down in South Vietnam and eventually take over Saigon and win the war?</u>
+      <u who="MEYER">I sort of had this feeling of, you know, Well, you know, that’s what I thought would happen, and there it is. Remember, there was this thing called the Highway of Death, where the South Vietnamese retreated from the highlands down this old, disused highway. That was the main road through the Phú Yên—through the Tuy An Valley. I used to drive that road all the time, though I never went back into the hills. But they really got torn up pretty badly there by the NVA. They were coming down pretty hard.</u>
+      <u who="CAROTHERS">And—so what did you do—what does you career look like after—after Vietnam and Brussels? And did you continue working in the Foreign Service?</u>
+      <u who="MEYER">Well, I left Brussels and came back to Washington and was assigned to the Economic Bureau and did international trade work. And then at the end of that tour, I was assigned, let’s see, to a minerals office that did—did raw materials and was assigned to be—to work with the Law of the Sea delegation [sic: United Nations Convention on the Law of the Sea] because they were—they were looking at—supposedly [chuckles] looking at—another long story, seabed mining, deep seabed mining, which was really a cover story for the recovery of the Russian submarine off of Hawaii. But it was a very elaborate cover story. And it involved this huge negotiation in the law of the sea talks about who owns the seabed and who owns these fantastically valuable nodules down there.</u>
+      <u who="CAROTHERS">So you went from not taking a single international law class at law school—</u>
+      <u who="MEYER">Mm-hm.</u>
+      <u who="CAROTHERS">—to having a good chunk of your career in international law.</u>
+      <u who="MEYER">Right. Precisely. Which just shows the value of a liberal education [chuckles] anybody’s looking for, and sort of a certain confidence that you develop, and your ability—maybe extending from that class with Monaghan, that, you know, if I can just understand this situation, I can talk my way through it and I can learn this stuff. And I did.</u>
+      <u who="CAROTHERS">Very cool.</u>
+      <u who="MEYER">Hmm. Yeah. One thing I learned about Vietnam is that there were two things going on at once. One was the Vietnam War, which was an American issue, domestic issue. And one was the war in Vietnam, which was a Vietnamese issue, taking place in Vietnam. And the two interacted back and forth and reflected back and forth the reality of the Vietnam War, which was an American issue—was reflected back from Vietnam, back into our culture. And the same, to a lesser extent, happened in Vietnam, though a much lesser extent.</u>
+      <u who="CAROTHERS">That, they are.</u>
+      <u who="MEYER">Not Iran. I mean Iraq. Wrong country.</u>
+      <u who="CAROTHERS">Yeah.</u>
+      <u who="MEYER">Wrong country. Nothing we can do about—no, the Iraq thing was—the Iran thing was something that was out of our hands, basically.</u>
+      <u who="CAROTHERS">Yeah. It seems like Iraq is going to be like my—to my generation what Vietnam is to yours.</u>
+      <u who="MEYER">Yeah, in some ways, except you didn’t have thousands of—well, let’s say maybe hundreds; there might have been some, sort of—diplomatic types over there, sort of absorbing the thing. The time scale was so much shorter. You had lots of military people, and a lot of their messages and a lot of their conclusions weren’t listened to, too. Until it was too late. But it was—it was not—not a well done operation, and Vietnam wasn’t a well done operation, in many ways. But it just took much, much longer. I mean, it was, you know, at least 10 years, maybe 12 of involvement. And ten times as many guys getting killed, which is not a pleasant thing to think about.</u>
+      <u who="CAROTHERS">No, definitely not.</u>
+      <u who="MEYER">What?</u>
+      <u who="CAROTHERS">No, go ahead.</u>
+      <u who="MEYER">I was just going to say I think the whole business of the draft and so forth has made things a lot different now. That—that was the—the dominating reality of our—of our lives a lot of the time back in the late ‘60s, early ’70s, was, you know, How am I going to deal with this thing, this threat, this fact? Which simply doesn’t exist anymore. </u>
+      <u who="CAROTHERS">Yeah, I could definitely see that being the case. And do you—do you think there’s any chance that the draft comes back, or do you think that after Vietnam it was pretty much [unintelligible]?</u>
+      <u who="MEYER">I would hope that some sort of national service would eventually come back, but it’s—it’s hard—hard to see the mechanism why that would happen. See, it’s very hard to see how any significant change in the sort of balance of forces in the—in the culture can take place legislatively anymore. The whole political situation in the country is so locked down and rigid that I don’t see how it can be done. Eventually, I guess—I mean, you know, I don’t know what’s going to happen in a hundred years, but things take a lot longer than you think they are—they should. Once an idea takes hold, it takes a long time for it to bear fruit. Even though everybody I think agrees that maybe it’s a good idea, then you got another 20 years of work to get it done. And the stars have to align in order to make it happen.</u>
+      <u who="CAROTHERS">Yeah.</u>
+      <u who="MEYER">Actually, I had some notes. [Apparently quickly peruses his notes.] No, not really. I don't think so. I just want to sort of indicate to you, emphasize to you again that the group of people that I joined the Foreign Service with was really exceptional. I’ve got a list, and at least four of them became ambassadors. [James F.] “Jim Collins was ambassador to Russia. Ray Burghardt became ambassador to Vietnam. His Vietnamese language skills are unbelievable. They sent him up to Hanoi to negotiate the prisoner release. He was—he was really something. Larry Pope. Again, I’d urge you to take a look at who Lawrence Pope is. And I don’t know if there’s anybody else. Yeah, oh, Gerald Scott became an ambassador, too [to the Gambia]. He was an interesting fellow.</u>
+      <u who="CAROTHERS">Yeah. Well, it certainly is different from any experience that I’ve heard about in Vietnam. And thank you for taking a couple of hours to chat with me about it. It’s great to hear.</u>
+      <u who="MEYER">Okay. All right. You’re very welcome. And, yeah, it’s starting—getting to be dinnertime, so, yeah, thank you very much for taking an interest in this and recording all this stuff, and I hope that someday maybe it has some kind of value for somebody. I enjoyed speaking with you.</u>
+      <u who="CAROTHERS">Yeah, I think it definitely will.</u>
+    </body>
+  </text>
+</TEI>

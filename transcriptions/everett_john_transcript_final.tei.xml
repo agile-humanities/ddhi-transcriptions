@@ -1,0 +1,230 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="EVERETT"/>
+        <person xml:id="RIDKER"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="RIDKER">So this is Elena Ridker. I’m sitting with John Everett. It is August 7th, and it’s about two o’clock, and we’re sitting in Rauner Library.</u>
+      <u who="EVERETT">You’re welcome. It’s a pleasure to meet you, and I’m happy to be able to help to the extent that I do help the Dartmouth Vietnam Oral History Project.</u>
+      <u who="RIDKER">Yeah, no, of course. Well, I’m glad to have you here, and I guess just to get started, I just want to start off asking some biographical questions, so where were you born and what were your parents’ names?</u>
+      <u who="EVERETT">I was born at the Phillips House at Massachusetts General Hospital in Boston, Massachusetts, to John Carroll Everett, Dartmouth Class of 1941, and Mary Anderson Everett. Even though they were living in New Hampshire at the time, I was born at Mass General because I wanted to be with my mom when I was born. But as soon as they let us out, and back then it was probably ten days or so, we went straight back to New Hampshire.</u>
+      <u who="RIDKER">And what was it like growing up in New Hampshire as a kid?</u>
+      <u who="EVERETT">I grew up in Nashua when it was still a very small city, when it was post-industrial and depressed from the downfall of the cotton, leather and paper mills in town, before the onset of its great light-industrial success with high-tech and electronics industry, with Sanders Associates being—Mr. Sanders being the father of one of my junior high school classmates.</u>
+      <u who="RIDKER">So how many siblings did you have in total?</u>
+      <u who="EVERETT">I have—I had three siblings, an older brother and two younger sisters. The youngest of my sisters died about six years ago.</u>
+      <u who="RIDKER">And did you have a good relationship with your father?</u>
+      <u who="EVERETT">Yeah. You know, there were difficult times, in large part because he was so busy at business, trying to be a single parent in the very few years after my mother died. My grandmother, who was bedridden and her nurse essentially raised us, and they were both wonderful folk. Took very good care of all of us. Took very good care of my two younger sisters.</u>
+      <u who="RIDKER">Mm-hm. You mentioned earlier that he was a Dartmouth grad as well?</u>
+      <u who="EVERETT">Yes, he is.</u>
+      <u who="RIDKER">So was that—was he pleased that you went to Dartmouth?</u>
+      <u who="EVERETT">Yes, he was. Yes, he was. We lived in Nashua, New Hampshire, and it was about two hours away, driving, and a little shorter once they put in the Everett Turnpike—</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">—no relation to us, but a relation to a different Everett Dartmouth family from New Hampshire. So we used to come up here all the time, not just for football games, for skiing and for other occasions, events, his reunions and stuff. And I thought it was a pretty cool place. I knew it had to be a good school because he was one of the smartest guys I ever met, quietly so, but very smart and a great businessman. And, as I would discover, being extraordinarily successful in lines of work—sales and financial management of a business—that he really would have preferred not to do if he’d had his ’druthers.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">“Apply someplace else?” I was working on an application to Williams when my early admissions came through, right after Thanksgiving.</u>
+      <u who="RIDKER">And so when you got to Dartmouth as a freshman, how was your experience like? Was it ’64, the first year?</u>
+      <u who="EVERETT">Yes, the fall of 1964. The freedom and lack of control was hard to deal with. My academic career did not start out well, and it got better over the out years, particularly in my major courses, which I did very well in. I was a history major with an emphasis on eastern European and Russian diplomatic history, and in those other courses that really interested me, as opposed to the ones I had to take for distributive requirements. And I had a good time while I was here.</u>
+      <u who="RIDKER">You mentioned you were involved in fraternity life. Was that a big part of Dartmouth for you?</u>
+      <u who="EVERETT">Well, yeah, I suppose it was. It was one of the—I lived in the fraternity my senior year, so a significant part then, but when I lived in the dorm, and I lived in the same dorm, Middle Fayerweather, for the first three years, what we did there was a big part of my life at the college as well. I was very active in Aquinas House, the Newman Club at Dartmouth, the Catholic Student Center.</u>
+      <u who="RIDKER">Mm-hm. And I’m just curious in regards to the Vietnam War kind of kicking off in ’64 with American involvement. Was that kind of—on campus, was there a climate surrounding that, and were people talking?</u>
+      <u who="EVERETT">No. People were not unaware. They might not have been very aware, but they weren’t unaware. And through 1966, probably, and not just on campus but within the local community because it was very hard to separate the two on this issue, there was not much of a hue and cry about it. I don’t remember when every Wednesday they started having people line one of the paths across the center of the Green, on Wednesday noons, to protest the war. But for the longest time, not many people came. I think after, a while after we had the first main force infantry landings in Vietnam in ’65, that it probably picked up. </u>
+      <u who="RIDKER">Were you involved in the ROTC in your time?</u>
+      <u who="EVERETT">No, I decided, as I was coming in freshman year and then in spring of sophomore year, facing sophomore summer, when you had another opportunity to get into other officer programs, reserve officer programs, and I was really looking only at the Navy because my dad was a Navy veteran—I decided at both of those times that, Oh, yeah, there’s something going on in that place called Vietnam. Where is that? But it was not yet serious enough, that it was not yet at the stage that it would become pretty quickly demanding of the participation of most able-bodied young men, which is where it was when we graduated.</u>
+      <u who="RIDKER">So with all these protests going on, did you find yourself involved in them or just more observing?</u>
+      <u who="EVERETT">I had a lot of friends who were in ROTC, and I had some very good friends in Navy ROTC, and I think that there were a couple of times when they used to do their drills and marching down on the football practice field, where Scully-Fahey Field is now. I think that there were sometimes three or four of us who would go down to taunt a couple of the guys, but it was more taunting our friends than a serious antiwar protest.</u>
+      <u who="RIDKER">Right. And so you mentioned that your dad was a Navy veteran.</u>
+      <u who="EVERETT">Yes.</u>
+      <u who="RIDKER">Did he frequently talk about that when you were growing up, or was that any sort of encouragement towards you eventually joining the Navy?</u>
+      <u who="EVERETT">No, it’s one of those interesting things. He was an officer on destroyer in the Guadalcanal and Solomon Islands campaigns early in the war. He joined the V-12 program and was in the V-12 program at Dartmouth after his sophomore year at Dartmouth, so after graduation, he went right into the Navy. He put the first ship in his destroyer class, a new destroyer class, in Bath, Maine, into commission and went out to the South Pacific. Did he talk about it? Well, you know, not a lot. It’s something I didn’t understand then as a young man. I didn’t understand why, when we went, all four of us kids went with dad to see a movie about Guadalcanal and the Solomon Islands campaign, my dad started crying in the middle of it. Time would come that I came to understand that.</u>
+      <u who="RIDKER">So quickly going back to your time at Dartmouth, and you mentioned kind of having the idea of being on the back of your mind was join the Navy, with this history of your father’s experience in mind, was join the Navy, kind of always, like, this option that you had in mind for after college?</u>
+      <u who="EVERETT">Was it always an option? No. Was it the only option when I considered it at the various times I did with that first opportunity to try and join ROTC going into freshman year? With that second opportunity, really, probably in spring term of sophomore year to get into the reserve officer program with the Navy, which one would participate in during summer between sophomore and junior years, and then you’d function with ROTC [pronouncing it ROT-cee] the rest of your time. And I got to consider that very hard because my cousin, same age, same year but at Georgetown University—he joined that program, and so he and I had dialogue about it. And he decided one way, and I decided, No, not yet. </u>
+      <u who="RIDKER">So—and you mentioned your cousin. Did he end up going to Vietnam as well?</u>
+      <u who="EVERETT">No.</u>
+      <u who="RIDKER">No.</u>
+      <u who="EVERETT">No, he was on an oceangoing—actually, no, Peter was first on—well, he was on an oceangoing minesweeper but didn’t do any minesweeping duty. He was up in the Aleutian Islands, but he was also on one of the old World War II aircraft carriers that had been converted to a helicopter assault ship. But I don’t think Peter ever deployed to WESTPAC. I think he was on that one even in the Med [Mediterranean]. But he certainly was not involved in the conflict in Vietnam in the way that I was.</u>
+      <u who="RIDKER">So I’m just curious how quick was that transition between graduation and joining?</u>
+      <u who="EVERETT">For me?</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">Well, I was on my way back from spring break in Florida and Bermuda, where I’d seen some of the rugby players play, and, as I said earlier, my dad had moved the family business to Atlanta. My draft board was in Atlanta, so I swung up through Atlanta from Florida to see my dad and stuck my head in the draft board. They wanted to be not very helpful, but I happened to run into one of the members of the board, and he said, “Oh, don’t worry, Mr. Everett, we won’t draft you out of college. What day was that you graduated? June 16th. Well, within a month you’ll have this letter, and month after that, you’ll be in the service.” I said, “Thank you very much.</u>
+      <u who="RIDKER">What was your experience like in Newport?</u>
+      <u who="EVERETT">They couldn’t have been happier to get rid of us. It was—[Chuckles.] It was one of those odd occurrences that you get sometimes in life. We had a bunch of guys in my company, in my class from Ivy League schools, from small New England liberal arts colleges—Amherst, Williams—from a lot of the small liberal arts colleges across the Midwest but I think principally in Ohio—you know, and a smattering of other people. You know, there was the guy [chuckles] from Troy State in Alabama, and there was a guy from University of Missouri at Rolla, and characters they were.</u>
+      <u who="RIDKER">So there was a lot of camaraderie between the guys.</u>
+      <u who="EVERETT">Yes, yes, and that—and I suspect it was, too, over in the Black Battalion, but I think their camaraderie came because they all suffered under the thumb or the footprint of first classmen, and ours was just because we were good friends and having a good time and, you know, how can we push somebody’s buttons? </u>
+      <u who="RIDKER">So in the midst of, you know, all this camaraderie and kind of making the time there fun, was there any, like, underlying anxieties about being shipped out, or was it unspoken?</u>
+      <u who="EVERETT">No. You know, you didn’t know until quite close to the end what your assignment was going to be. I’m going to guess that it was—as I said, we were there for four months. We ended up being there for longer than that because we had a Christmas-New Year’s holiday that we were able to leave for. But essentially there for four months of study, four months of study and then a week at the end to make sure they had enough time to get your orders and everybody had a chance to get organized.</u>
+      <u who="RIDKER">Right. [Chuckles.]</u>
+      <u who="EVERETT">[Laughs.] For the guys who, you know—I mean, not unlike my cousin who I talked about, who were going to go to an oceangoing minesweeper, he might have been anxious because those things—you were chronically seasick if the sea was high at all because they were such a shallow draft and they’d bounce around. Somebody’s going to an aircraft carrier? You’re on a city, big and heavy and just plowing through the ocean, you know. You’re not going to see any—you’re not going to have any serious threat, even if you’re running operations off North Vietnam.</u>
+      <u who="RIDKER">And what was the inclination for you to sign up for that instead of something else?</u>
+      <u who="EVERETT">There were two, really. The positive one was we had a couple of instructors, one being I think Peter J. Moran, from Fordham in New York City, a lieutenant, young lieutenant, who was just back from Vietnam as a tour as a swift boat driver. He was a great guy. He taught us navigation and maneuvering. I don’t remember who the other guy was, but there was a second guy. And he, too, had been a swift boat driver and back a little longer, I think.</u>
+      <u who="RIDKER">What was is name?</u>
+      <u who="EVERETT">Donald Elmore Dietz. [Chuckles.] And I haven’t seen him in 44 years. [Chuckles.] Great guy, great guy.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="EVERETT">They are very nice, you know, I’ve heard tell.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">Never been there.</u>
+      <u who="RIDKER">So I think I want to take a break so we can just pause for a second. [Pause.] </u>
+      <u who="EVERETT">No. Probably just about everybody went to some sort of training, where they said, “This is the real Navy. This is what you’re gonna do in the Navy. We’re gonna train you up for it.” The ship that I was assigned to was a patrol gunboat. It was the smallest commissioned ship in the Navy. It carried 24 or 25 enlisted men, depending on the complement, and four officers. The person in my billet was almost always the junior officer on board when he reported, and he was the gunnery officer, the deck officer and the supply officer, and usually whatever other duties they could dump on him.</u>
+      <u who="RIDKER">Was that exciting for you, just being there for the first time after all this training? And had you ever been to Southeast Asia before that?</u>
+      <u who="EVERETT">No. And since I came back, not since. I guess in anticipatory excitement. It was a pretty draining experience being on that plane that long because, of course, they tried to shoehorn as many bodies onto the plane as they could. It wasn’t that comfortable. And I think they stopped—on the occasions that they stopped, I think that they stopped more to let us out and walk around than for any other reason.</u>
+      <u who="RIDKER">Mm-hm.</u>
+      <u who="EVERETT">Well, it did.</u>
+      <u who="RIDKER">And what were your first impressions of Vietnam as a country?</u>
+      <u who="EVERETT">Sandy. Really pretty good beaches. The Navy site in Cam Ranh Bay was not on the inner harbor, where the big oceangoing ships went, but it was out on the coast, and there were sort of concentric circles that surrounded it. There was the Navy base and naval communications station, and there was the Army base, which was very big, and then there was the Air Force base outside of that.</u>
+      <u who="RIDKER">So were you at this point in communication with your father and your siblings?</u>
+      <u who="EVERETT">Only by mail. This was a time when there was no long-distance overseas phone service available. In fact, actually, you could try and get into something at the Air Force base or the Army base, I forget which, and it was just such a hassle—the travel all the distance to do it—that nobody on the ship ever tried, but you sort of had to wait in line, and they’d dial you up, and you were lucky if you had a good connection and you could make the call. So no sort of easy telecommunications with any of those people at that time. I mean, it was all done by—all done by mail and took a long time to get there and back again.</u>
+      <u who="RIDKER">Did you sense any worry from home or from friends at home, especially, like, post Tet, when things kind of [were] picking up again?</u>
+      <u who="EVERETT">I didn’t. Later, they would tell me they were worried, but I didn’t sense any. And I don’t know why I didn’t sense any. Maybe they hid it well. Maybe they didn’t believe it was going to happen. I don’t know. I don’t know. But I do remember after I finally got home, everybody said they were very relieved that I was back in one piece, more or less, and that they’d been very worried all the while.</u>
+      <u who="RIDKER">At that time, had you been kind of thinking about or, like, in tune with the media about the protest movement in America?</u>
+      <u who="EVERETT">When I first got there?</u>
+      <u who="RIDKER">Right, yeah.</u>
+      <u who="EVERETT">No, because the only new—well, the only two sources of news that you could regularly get were Armed Forces Radio—they didn’t report any of that protest stuff—and Stars and Stripes newspaper, which, unless something really extreme happened, and I would say something maybe like Kent State, it wasn’t going to get reported. </u>
+      <u who="RIDKER">Mm-hm.</u>
+      <u who="EVERETT">So, you know, while you were there, in country, with those limited media resources, you really didn’t hear anything. You might hear something if you had one of those subscriptions like I did or if you got mail from home when they were telling you about what was going on at home. So it was not a major consideration.</u>
+      <u who="RIDKER">So going back to—you said it was July of 1969 when you first—is that when you first boarded the Gallup?</u>
+      <u who="EVERETT">No, no, I didn’t board the Gallup until actually about this time in early August in 1969. Landed in country on the 31st of July, and then it was a week and a half before I made it down to the Gallup, so, you know, seventh, eighth, ninth, tenth, eleventh, something like that.</u>
+      <u who="RIDKER">And what was kind of the daily life like on board?</u>
+      <u who="EVERETT">Well, you faced essentially two different situations. One was—well, three different situations: one, when you were steaming offshore, which was usually transiting from Cam Ranh Bay down to the river, or back after you’d left the river; two, life in Cam Ranh Bay, when you were doing what you were doing and needed to do in order to get the ship ready to go out on another deployment; and then there was the circumstance on what you did and how you lived when you were deployed on the river, when you were always at greater and immediate risk of engaging, for the longest time, until the Cambodian incursion, just local Viet Cong. </u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">Would never have known him. And had some of those barges that attack helicopters could land on when it was necessary. And the number of swift boats came and went. Sometimes the complement was fairly small; sometimes it was fairly large. It all depended on what was happening.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">And they’d sneak up the river and they’d go out and do their routes.	</u>
+      <u who="RIDKER">Were they swimmer sappers?</u>
+      <u who="EVERETT">Yeah, they were underwater. They had some sort of rudimentary breathing apparatus. They were floating down the river in what seemed to be a not unreasonably normal-for-that-river-appearing bunch of flotsam—reeds and tree branches and stuff like that. Trouble was, it was sort of how they made its way towards the anchor line, and my two guys—it was my second class fire control technician, Terry Wiegand, and one of my seamen from Alabama, who were out in the boat together, in normal patrol. It ran a figure eight in front of the anchor line, and sort of every third time they made a pass, they’d make a big loop figure eight around both sides of the ship.</u>
+      <u who="RIDKER">Was there really any desire to be more—like, closer to more action like that, or was it a relief? Like, more—like, gunfire for you guys?</u>
+      <u who="EVERETT">You mean more incoming gunfire?</u>
+      <u who="RIDKER">Yeah, or outgoing, yeah.</u>
+      <u who="EVERETT">Well, we shot more bullets than anybody else did.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">So, I mean, we shot enough.  I think nobody had any desire to have more incoming. [Laughs.]</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">And, you know, I mean, we actually escorted one of our sister ships that took a couple of B-40 rockets back to Cam Ranh from the river.</u>
+      <u who="RIDKER">What was that ship?</u>
+      <u who="EVERETT">Hmm?</u>
+      <u who="RIDKER">What was the ship called?</u>
+      <u who="EVERETT">It could have been the [USS] Crockett. It could have been the [USS] Asheville. It could have been the [USS] Canon. No, Canon was the other event. I think Canon was the other event. But one of the B-40s they got went into the engine room, and that’s what everybody was worried about. And I think there might have been some minimal shrapnel injuries. There was no serious injuries. But we escorted them back. </u>
+      <u who="RIDKER">And were you guys working alongside South Vietnamese naval men as well?</u>
+      <u who="EVERETT">Not really. At some point—well,—at some point, and I would say probably some time in 1970, they really significantly began the Vietnamization of the war, which meant we were turning over all of our—many of our military assets to the Vietnamese, including the Vietnam Navy. So we were turning over swift boats to them, and other coastal patrol boats, and that kind of thing was happening at one of the other piers in Cam Ranh Bay, so we could just look across that short stretch of water and see it happening and see the boats that were still American boats go out with the Vietnamese boats on patrol, training and patrol. But we weren’t working really with them.</u>
+      <u who="RIDKER">Mm-hm. The Gallup was all American.</u>
+      <u who="EVERETT">Yes. Yup, yup. Until it became Greek.</u>
+      <u who="RIDKER">Really?</u>
+      <u who="EVERETT">Yeah. So I’m told.</u>
+      <u who="RIDKER">And so were these operations—</u>
+      <u who="EVERETT">Either that—either Greek or, since the hull was aluminum and the superstructure was fiberglass, it either became Greek and the Greek Navy did have two old U.S. Navy PGs—either that or soda cans, one or the other.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">I like the image of it being Greek.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">Or Turkish, because the Turks had some, too. I think it was Turks.</u>
+      <u who="RIDKER">Better than soda cans, huh?</u>
+      <u who="EVERETT">That’s a better—yeah.</u>
+      <u who="RIDKER">Yeah. [Chuckles.]</u>
+      <u who="EVERETT">Might have been Mountain Dew. It would have been all right if it was Pepsi.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">When I got over there, the Gallup—how do I say this? When I got over there, the squadron to which Gallup was assigned was still doing some Market Time patrols. However, the Market Time patrols that the Gallup and the other swifts were involved in by that time—so July, August of 1969—were offshore Market Time. But we would only do them essentially on the way down to the river or back.</u>
+      <u who="RIDKER">Oh, it was just about Operation Market Time.</u>
+      <u who="EVERETT">Oh, yeah, yeah. So, yeah, it had been successful, and they decided—they, the Navy powers that be decided that they could better utilize us, with our gun power, down on the river as naval gunfire support because, I mean, we very, very, very heavily outgunned the swift boats. I mean, they had—their significant armament was twin 50 caliber machine gun, in a—more useful in close fighting but not for, you know, firing from seven or eight miles away in disrupting the life of the bad guys.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">Twenty-four enlisted men.</u>
+      <u who="RIDKER">Enlisted and then four officers?</u>
+      <u who="EVERETT">Yes. Twenty-five, actually, when I reported on board ship because we had an extra guy. When he rotated off, he wasn’t replaced, which was too bad because he was a great sailor.</u>
+      <u who="RIDKER">Right.</u>
+      <u who="EVERETT">[Laughs.]</u>
+      <u who="RIDKER">Oh, man.</u>
+      <u who="EVERETT">Any one person that stands—stood out the most. Well, when I reported on board, my chief storekeeper was an amazing guy: bright, accomplished. I could rely on him like anything you might want in a man. He was in a bad position, though. He was a genuinely big, strong man. He was an African-American, and times were tough for him with the other guys on board the ship, the other chief petty officers on board the ship. But Chief Rose was—he was a spectacular sailor and a spectacular person. </u>
+      <u who="RIDKER">Wow.</u>
+      <u who="EVERETT">Arrived at Logan at about 6:30 in the morning, met by my family, who had stayed up all night waiting for me to come.</u>
+      <u who="RIDKER">Wow.</u>
+      <u who="EVERETT">I—you know, walking with a buzz cut, and people were going, “Aren’t you in Vietnam?” “No, I’m here at the Harvard-Dartmouth game. Where would you expect me to be on this weekend?”</u>
+      <u who="RIDKER">Wow.</u>
+      <u who="EVERETT">[Laughs.]</u>
+      <u who="RIDKER">And so you just came back for, like, a couple of days and then—</u>
+      <u who="EVERETT">Yeah, yeah, because he appreciated that. And then, as it turned out, the Yalie who I shared my stateroom with—he was the second engineering officer—and who fleeted up to XO while there was a little gap between the assigned people—and Jerry could do it—it was a great job. Good guy, who was a Yalie. While [chuckles] he was XO and had control of the personnel records, knowing that I’d done that, he made a judgment as the executive officer that that wasn’t leave. [Chuckles.] So I got time off and still had credit for the days to use when I’d come back.</u>
+      <u who="RIDKER">Wow.</u>
+      <u who="EVERETT">So, you know, so much of those kinds of things depend on the serendipity of who you get to serve with and what happens. And so those are the—</u>
+      <u who="RIDKER">I’m curious a little bit more about Chief Rose. You mentioned he was African-American, and I’m just wondering a little bit more about what that dynamic was like on the boat and if there were any conflicts [that] ever arose.</u>
+      <u who="EVERETT">Yeah, there were conflicts in the chiefs’ quarters, and I don’t know about those. God, he was always professional. He was a hell of a sailor. He knew his work professionally extraordinarily well, and yet you could see—I could see in my interactions with him that it was always hard for him. I’m trying to think who the other chiefs were when I came on board. There were four ch- —well, there were four people living in the chiefs’ quarters. </u>
+      <u who="RIDKER">And so you mentioned a few minutes ago kind of your process of coming home. I just wanted to ask a little bit about that, because I think you said August 23rd was eight days before you had come home.</u>
+      <u who="EVERETT">Eight days before I was scheduled to come home.</u>
+      <u who="RIDKER">For scheduling home [sic]. So did you end up going home on that scheduled date?</u>
+      <u who="EVERETT">No, I didn’t, but that was because the plane was late or didn’t work. I was scheduled to go home on the first of September. I think, as I said, we spent four or five more days down—or up the river and steamed back. </u>
+      <u who="RIDKER">Mmm.</u>
+      <u who="EVERETT">I was always the junior officer on board my ship. That’s pretty unusual. You’re usually relieved by somebody who’s junior to you. This guy had been the commander of all of the OCS candidates in the month before I was first class, so he was a month senior to me, and he had been the commander of the so-called Black Battalion, where they were demeaning to so many of the other officer candidates. And he was relieving me. He wasn’t happy to be there when he reported on board. He made that last appointment with us. He was less happy at the end of it [chuckles], when the sappers came in the water and had to stay. He wasn’t doing much in the way of the relieving process, because “I don’t have to because I’m senior to you.</u>
+      <u who="RIDKER">And so you mentioned stopping off to see Max before coming back home and then did you go back to Scituate?</u>
+      <u who="EVERETT">Yeah, I went to Scituate. Flew into Boston through SFO, through San Francisco International. I had—I’m trying to remember where I did—I changed into civilian clothes somewhere. [Repeatedly knocks on desk.] And I don’t remember whether I changed into civilian clothes at Sea-Tac and then flew to Oakland or changed when I got to the airport in Oakland or at the naval hospital or—well, at least at the naval hospital because I rented a car—no, you know, that was actually before I went to the naval hospital.</u>
+      <u who="RIDKER">So upon—when you came home and—was there sort of like resentment in the kind of work you were doing, or was it mostly just, like, trying to wind down? You mentioned that—</u>
+      <u who="EVERETT">Resentment?</u>
+      <u who="RIDKER">—conversation when you came home about the friend who was there that was a doctor—I mean,—</u>
+      <u who="EVERETT">Oh, resentment? No, no. I think disappointment that once again, as happened time and time again up to that point and has happened time and time again since—and what did I read, just read that Mark Twain said about it? The reason we have wars is because once more, fathers have lied to sons about war.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">You can ask as many questions as you’d like. You can ask me back.</u>
+      <u who="RIDKER">[Chuckles.] That’s true. And so in light of these things, I guess I’m just wondering when the war did finally come to a close and the last American withdrawals of troops—what that was like for you at home—like, what your reactions were to that.</u>
+      <u who="EVERETT">[No immediate response.] You know, I—1975, right? Yeah. I was in law school, I think, or otherwise engaged. I didn’t watch the films of the last helicopters leaving the U.S. Embassy. I mean, I saw some on the evening news, helicopters being pushed off those helicopter carriers, saving as many people as they could, unfortunately leaving people behind, not being able to make it.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">Oh, yeah.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">We don’t have time for me to talk about this at length, and I’d be happy to talk about it at length with you.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="EVERETT">[Sighs.] [Pause.] Yes, it had a profound effect. I can’t conceptualize how things might have turned out [hits desk] other than they did, but I know that because of what I had to do to adjust to operating and functioning on the river every night for three to four and a half weeks at a time, standing on the 02 level on my ship, being one of the two human silhouettes in the night at the top of the ship and how to get through that and how to get through all of the operations that we were on and doing what we were doing, including the H&amp;amp;I operations at the end of my time there, and how I had to put my psyche back together as a result of that therapy that I got while I was in and shortly after law school.</u>
+      <u who="RIDKER">Yeah, absolutely.</u>
+      <u who="EVERETT">But that’s the short answer.</u>
+      <u who="RIDKER">All right. Well, I just want to say thank you so much. It’s been an absolute pleasure for me to talk to you.</u>
+      <u who="EVERETT">Well, happy to be able to do it, and if, when you read over the transcript, you want to ask me back for the long answer, I’ll try and work up the long answer. I don’t think about it, work it up very often, but someplace in there it’s there.</u>
+      <u who="RIDKER">Well, thank you again, John.</u>
+      <u who="EVERETT">You’re welcome. Thank you. A pleasure. It’s very nice to meet you.</u>
+      <u who="RIDKER">You, too.</u>
+    </body>
+  </text>
+</TEI>

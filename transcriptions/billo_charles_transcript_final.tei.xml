@@ -1,0 +1,321 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="BILLO"/>
+        <person xml:id="DIM"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="DIM">This is Chileta Dim, and I’m here with Charles [G.] Billo at the Dartmouth Special Collections Library at Rauner Library [sic; Rauner Special Collections Library] in Hanover, New Hampshire. It’s August 14th, 2015, and right now it’s about 1:15.</u>
+      <u who="BILLO">My pleasure,</u>
+      <u who="DIM">I hope this comes to great fruit. So let’s just start at the very beginning. When were you born?</u>
+      <u who="BILLO">I was born in October 1942 in Bronxville, New York, a suburb of New York City. </u>
+      <u who="DIM">And what was it like living in that area of the city? World War II was just coming to an end. Do you have any recollection?</u>
+      <u who="BILLO">Well, my earliest memories are from 1947. I do recall, however, that my father participated in the U.S. Navy as a doctor in World War II, and I recall him coming home in his uniform and talking about his experiences in France. </u>
+      <u who="DIM">What was that like, having your father in the military, in a major war and growing up with those stories in your house?</u>
+      <u who="BILLO">Well, he was always—modestly pointed out that he was in D-Day-Plus-10. He wasn’t trying to pretend that he was in the D-Day invasion. And his job on the beaches was to sort out or triage the injured infantrymen and decide which ones could be treated locally and which ones should be put on a boat back to England.</u>
+      <u who="DIM">With all that going on with your father in the house, was military service something that you thought of early on?</u>
+      <u who="BILLO">No, my father wanted me to be a doctor, and that was the end of the story.</u>
+      <u who="DIM">It often is.</u>
+      <u who="BILLO">My mother. Barbara Leggett Billo, a Wellesley [College] grad.</u>
+      <u who="DIM">What was her maiden name?</u>
+      <u who="BILLO">Barbara Leggett.</u>
+      <u who="DIM">Leggett.</u>
+      <u who="BILLO">But she was a traditional 1950s homemaker. She helped raise me and my two sisters and supported my father, who had a very active pediatric practice in my home town and needed backstopping because of his very long hours.</u>
+      <u who="DIM">So what was it like living in your neighborhood? What kind of town was it? What kind of atmosphere was it for children?</u>
+      <u who="BILLO">It was a wonderful atmosphere for children. It was very safe. It was a town that was definitely upper middle class. A lot of corporate CEOs lived there. It was probably a predominantly Republican town, and I attended Bronxville schools from kindergarten all the way through high school. And [it] was a wonderful time and place to grow up, although later on, one discovers that it was a kind of protected life that we led and a very privileged life.</u>
+      <u who="DIM">So mentioning how privileged and protected that you felt your neighborhood was, what was your interaction with the rest of the city?</u>
+      <u who="BILLO">You mean New York City?</u>
+      <u who="DIM">Right.</u>
+      <u who="BILLO">It was very limited and sporadic in those days. We’re talking about the 1950s. My parents went out of their way to expose us to the cultural advantages of New York: the Hayden Planetarium, the museums, the Metropolitan Opera. The train into New York City from my home town was a 30-minute ride, and when I got older, I went into town, into New York City on my own, occasionally with my buddies when we were in high school. We went to—we really lived large and went to various concerts, rock ’n’ roll concerts, but that was when I was a junior or senior in high school. But prior to that, it was more along the lines of what I was saying, which was visiting cultural spots.</u>
+      <u who="DIM">So did that instill in you any sort of desire for travel or any sort of relation-want of outside the U.S.?</u>
+      <u who="BILLO">To a degree. One doesn’t really draw a straight line on that kind of thing when you’re 10, 11, 12, but  suppose in the back of my mind, there was always at some level, as I grew older, some curiosity about the wider world. And my parents, of course, encouraged us to learn foreign languages, encouraged us to think big about the world.</u>
+      <u who="DIM">We’ll probably return to that a little bit later, but you say “us.” Did you have siblings?</u>
+      <u who="BILLO">I had—I have two sisters, one older, a couple of years older, who lives in Richmond, Virginia, and the other is about five years younger, and she lives in Dorset, Vermont.</u>
+      <u who="DIM">So did you—were you three close? What sort of relationship did you have, especially?</u>
+      <u who="BILLO">I’d say we were reasonably close. One advantage that we had was we always vacationed together, growing up. We either went to—near Cape Cod in the summer for a week or two or we went to northern Vermont, the Northeast Kingdom of Vermont. And so we were a very tightly knit family, and my parents were very active in making sure that we understood the importance of family. Of course, like any other American family, there were always periodic rivalries and siblings disagreements. [Chuckles.]</u>
+      <u who="DIM">So let’s make our way up to starting school, kindergarten. You’re probably around five. What sort of transition was school for you? What was the elementary school experience like, if you have any remembrance of that?</u>
+      <u who="BILLO">I have all good memories of that. I mean, I can’t give you a whole lot of detail, but I went to a school that—for example, in high school there were only a hundred kids in the grade, and so you can imagine, in elementary school or in kindergarten, we were only talking, if I remember correctly, 15 kids in a classroom. </u>
+      <u who="DIM">Mmm.</u>
+      <u who="BILLO">The other part that I didn’t mention was that there was practically zero diversity in Bronxville, New York, just by the nature of the economy and that type of—the cost of living and et cetera, et cetera. So my recollection of that period that you asked me about was one of sitting in a classroom with all white children, a white teacher, very atypical of the wider world that was waiting for me out there.</u>
+      <u who="DIM">Mm-hm. Did you have—so this period probably extends all the way up into the later ’50s. Any recollection of the beginning of the civil rights movement or anything in the news at the time?</u>
+      <u who="BILLO">Yes. Of course, we paid attention to the news every day. We read the newspapers every day. But we were in our own silo, so it had no immediate import as a youngster, for my day-to-day life. I will remember—I will say, and I’m not sure about cause and effect, but my parents raised us to be respectful of all races and all ethnic backgrounds, and I remember—because I was actively involved in sports, I participated in a lot of sports that involved diverse groups, and I remember that I always—even though I led—I was living in this totally unrealistic kind of a cocoon, we always had respect for anyone who was different, who looked different or—because that was the way we were brought up.</u>
+      <u who="DIM">Thank you so much.</u>
+      <u who="BILLO">Well, yeah, I’ve got a lot of recollections.</u>
+      <u who="DIM">I mean about what year did you start high school?</u>
+      <u who="BILLO">Yeah. That would have been in about 1957, give or take.</u>
+      <u who="DIM">Fifty-seven.</u>
+      <u who="BILLO">I will say that up until ’57, I sometimes was a somewhat rebellious student, and I was seeking acceptance among my peers. I misbehaved somewhat. My parents decided to take things in hand. They weren’t happy with the trajectory I was on, and they sent me to Phillips Academy Andover summer school, which was a transformative experience for me.</u>
+      <u who="DIM">Do you know what year that was?</u>
+      <u who="BILLO">It was roughly the summer of 1957. The thing about that was twofold: One was that I met teachers who were very both athletic and intelligent. For me, this was extremely important, that I have male mentors or role models who I expected. It’s what perhaps I hadn’t found in middle school, which I was always cutting up. And there were some teachers at Andover that turned me around. And then in hindsight, later on, I came to realize that my parents were doing me a favor, or showing they cared about me enough to pay the money to send me to that school, and so I realized that I had a good thing going.</u>
+      <u who="DIM">It’s wonderful to meet older people who care and really believe in you.</u>
+      <u who="BILLO">Yeah. Of course, when you’re in ninth grade, you don’t—you don’t process that. At the time, my take-away was, Oh, my God, I have to leave my buddies at home to go to that place? But it was only later that—when I had my own kids, that it became clear that they cared about me, and so that was—that was transformative for me.</u>
+      <u who="DIM">Was there anyone in particular that stood out? Any names you remember?</u>
+      <u who="BILLO">Well, in particular, a math teacher, algebra teacher named Mr. [Thomas M.] Mikula [pronounced MIH-coo-luh]. It was a Finnish name.</u>
+      <u who="BILLO">Sorry?</u>
+      <u who="DIM">Could you spell it?</u>
+      <u who="BILLO">Yeah, M-i-k-u-l-a. I may not be giving it the proper Finnish pronunciation. I think we called him mih-COO-luh, Mr. mih-COO-luh. He was an ex-[U.S.] Marine and the wrestling coach. And I wasn’t going to mess with that guy. He taught me to stand up and take my medicine, and I came out at the end of a summer—after a long struggle, I came out with a pretty darn good grade in algebra. So that’s one memory I have.</u>
+      <u who="DIM">Thank you so much for sharing.</u>
+      <u who="BILLO">Well, most of my friends derived from sports teams in high school. I was a three-sport athlete.</u>
+      <u who="DIM">Wow.</u>
+      <u who="BILLO">In a very small school, as I said, with only a hundred students per grade, so a couple of these guys had this thought to go to the RKO [Hamilton] Theater in Harlem, where [Albert J.] “Alan” Freed, the king [sic; father] of rock ’n’ roll, was emceeing a concert, and Jerry Lee Lewis was there. I can’t remember now the other performers. But for a Bronxville kid to get on the train and risk going to a rock ’n’ roll concert—I think it was in the daytime (I don’t want to overdramatize this thing)—but for Charlie Billo, that was—I don’t even know if I told my parents we were going. That was a high-risk venture.</u>
+      <u who="DIM">Were these common occurrences?</u>
+      <u who="BILLO">No, no, it was seldom. But essentially in high school I was into sports, and I played soccer, basketball and baseball, and I had some good luck. I told you I won the scholarship to go to Italy. We lived with an Italian family that I still keep in touch with. It was a good time, but I had a lot of maturing to do, a lot of maturing to do.</u>
+      <u who="DIM">Well, if we can go back to the American Field Service trip that you mentioned, going to Italy, what was that application process like? How did you hear about it?</u>
+      <u who="BILLO">Well, American Field Service then, and probably still today, was the preeminent high school exchange student program, and our school traditionally hosted a couple of visiting scholarship students. And they would live with a Bronxville family for the whole school year. And, on the other side, the two or three Bronxville kids every year were awarded scholarships to go abroad. So my year, I went to Italy, and a colleague of mine went to Indonesia, and a third colleague went to New Zealand, so that was quite something.</u>
+      <u who="DIM">Branched out in what way?</u>
+      <u who="BILLO">Well, for one thing, they send a lot more Americans to developing countries than they did in my day. I don’t have specifics to back up that assertion, but I think, in my day, it was a fairly elite operation, and today it’s probably in every—the American Field Service may be active in every school—I don’t know—on the East Coast or across into California. I just haven’t been tracking it. But it’s a prestigious organization.</u>
+      <u who="DIM">And what year was all this?</u>
+      <u who="BILLO">That would have been the summer of ’59 I went to Italy, just before my senior year. It opened up experiences and exposure to different settings and operating away from my family, so it came at an important time, as I entered my senior year in high school. Yeah, it was—it also involved, when I got back, making a lot of speeches and trip reports and slide shows, the usual stuff you do in high school to share with your classmates and underclassmen. So that was a very, very lucky break.</u>
+      <u who="DIM">So that’s the summer before you enter your senior year.</u>
+      <u who="BILLO">Right.</u>
+      <u who="DIM">Senior year of high school, what were you thinking post graduation? What was the college application process like?</u>
+      <u who="BILLO">The long and the short of it was that my parents had gone to prestigious schools in New England, so there was no talk of me doing anything but going to prestigious schools in New England.</u>
+      <u who="DIM">Were they alumni? Your mother was from Wellesley.</u>
+      <u who="BILLO">Yeah. My father went to Williams College. And so probably some of my teachers and counselors in high school realized that maybe a highly competitive college wasn’t the best suited for me, that I was somewhat shy, and they were tossing out ideas, and, to make a long story short, there was only one possible opportunity for me, and that was to go to some Ivy League school full stop. I ended up going to Brown University. That was an interesting experience, in more ways than one, but—so that was that.</u>
+      <u who="DIM">What year did you matriculate?</u>
+      <u who="BILLO">Nineteen sixty, fall of 1960.</u>
+      <u who="DIM">So that was the year [President John F.] Kennedy was elected. Did you have any perceptions of that? How was the campus reacting to that campaign?</u>
+      <u who="BILLO">That’s a good question. Probably guys that I knew on campus were Democrats and very open to Kennedy and the New Frontier. I, having grown up in Bronxville as a Republican, in a Republican family, I was often just repeating various mantras that Republicans had at the time about the Kennedys. And so that was—yeah. I mean, I can’t—to be honest, I can’t remember what the undergraduate body was doing or thinking when Kennedy was elected. I would just say they were probably tilting towards supporting the Democrats, and people—that’s what I remember right now.</u>
+      <u who="DIM">Any in particular that you looked up to?</u>
+      <u who="BILLO">Well, there was a law professor at Columbia University named Richard [N.] Gardner, who was a mentor of mine when I went to graduate school. He was a Rhodes Scholar. So in one way or another—maybe this was, like, an ex post facto rationale—I signed onto the New Frontier, idealistic wave that by then, a lot of young Americans were into. And so this was—this was a feel-good kind of a thing. And get some direction in my life and have it sort of validated by these hotshots down in Washington[, D.C.].</u>
+      <u who="DIM">So you mentioned briefly before that you joined a fraternity? What year was that?</u>
+      <u who="BILLO">It was when I was a sophomore at Brown. We had a lot of soccer players and lacrosse players, and we—we weren’t the goody-goody student council president type of group. On the other hand, we weren’t as degenerate as some of the other fraternities. It was a good—a good experience. We knew how to throw a party. I still keep in touch with a couple of my colleagues. It was a good time. It was all about Charlie Billo learning—working on his social skills and gaining some confidence.</u>
+      <u who="DIM">And so how was soccer life for you? Since you’ve been involved in team sports since you were a child, was that a major factor in your—and you were a varsity soccer player in college. How did that affect your experience?</u>
+      <u who="BILLO">That’s a good question in that when you arrive—I think when a lot of people arrive as a freshman, you’re scared as heck. It’s all different. You don’t know anyone. So I had an immediate nucleus of friends who were teammates, so even if, you know, nowhere else, at least I had this nucleus of support, so you can gauge: Hey, am I as good as these guys? Am I as smart as these guys? Am I prepared the right way? You know, you can test yourself. And that was as huge lift for me, having that. I don’t what other—if I hadn’t had that, it’s hard to figure out where or how I would have landed on my feet.</u>
+      <u who="DIM">And so, in just sort of describing your school life, it seems that you went along collecting mentors, collecting friends, building your social capacities. Post graduation, did you keep in contact with a lot of these people? You mentioned some, but—</u>
+      <u who="BILLO">Yeah, yeah, very much, yeah. A bunch of us went down to New York after college. I was at Columbia Business School, and we had a good—we just picked up in New York where we left off in—at Brown. Mentors. Yeah, I had these high school teachers at Bronxville, a couple of them that I really respected, and I would look them up and try to—try to keep those flames going. Yeah, I—it’s not much to really comment on other than the obvious. I think going to New York City and going to Columbia University, you realize it’s a much bigger stage than anything I’d experienced in college. And so I—I mean, Columbia University, then and now, was a world-class institution, you know, in the sciences. And New York City is a world-class city. So I was—I was into enjoying all the delights of New York. </u>
+      <u who="DIM">It’s a tough choice, sure.</u>
+      <u who="BILLO">Well, in those days it as an honorable thing to do. I mean, not to repeat myself, in those days—this comes out in the Class of 1964 book on Vietnam that was published here at Dartmouth, how many of those authors said they either were in ROTC or they went to Navy Officer Candidate School, because it was an honorable thing to do, especially if your dad had served, you know, and it was in your family fabric.</u>
+      <u who="DIM">So you decided to go to Columbia Business School.  Tough choice. What did you major in in undergrad? Did that transfer to Columbia at all?</u>
+      <u who="BILLO">Not immediately. I was a history major, which was a smart move. Brown had an excellent history department, and European history was my main interest. It didn’t really play into the business school at all, but I learned when I got down there that the—Columbia had what they called a joint degree program, or dual degree program with the Columbia School of International Relations [sic; Columbia University's School of International Affairs, now Columbia University's School of International and Public Affairs]. And I argued or persuaded my way into that, so I ended up getting the MBA degree in about, let’s say, ’66, roughly. And then started working on another master’s degree in the School of International Relations. And that was where history and that kid of thing played an important role. That was cool.</u>
+      <u who="DIM">So we’re back after a short, one-minute break, and we’ll start off with maybe going back to Professor Roger Hilsman and what your relationship with him was like, and how did that feel, interacting with such a prominent figure?</u>
+      <u who="BILLO">Roger Hilsman taught a large lecture course at Columbia School of International Relations. He was a specialist on Southeast Asia. He had been a participant in Merrill’s Marauders [5307th Composite Unit (Provisional)] in World War II in Burma [now Myanmar]. He loved to talk war stories, and he was very opinionated. And I vaguely remember his lectures on Laos and the neutrality negotiations on Laos. This would have been in—these lectures took place in 1966, ’67 period. </u>
+      <u who="DIM">So you mentioned your time at Columbia was between ’66 and ’67, and we’re amping up our involvement in Vietnam. Protests are amping up. What was the sense on campus, in  New York City or just within you, yourself, with the war and a lot of the animosity, especially among students, towards the war?</u>
+      <u who="BILLO">Yeah, that’s an interesting question. Yeah, the war was more and more prominently treated on the evening news. By then there were several correspondents from each of the television networks on the ground in Vietnam, and so if one were a student or any aware person in our society, you were shown very graphic images of fighting and operations in Vietnam. So it began to get very, very real.</u>
+      <u who="DIM">Well, so you’re graduating Columbia in May of ’67? Your draft card has not come up?</u>
+      <u who="BILLO">Within a month, I got a letter from my local draft board, which was in a neighboring town, Mount Vernon, New York, asking me: “Hi, Mr. Billo. What are you up to these days?” And I had to reply that I was no longer in university, no longer in graduate school. So within a short period—I can’t remember the details right now—they sent me a letter inviting me to a pre-induction physical exam held in the Battery of New York City, way downtown, in Manhattan. So that got my attention very quickly.</u>
+      <u who="DIM">Wow.</u>
+      <u who="BILLO">And the second person said, “Well, I don’t think so.” So it all came down to this third individual, who was a businessman, local businessman, who was a volunteer. It wasn’t his full-time job to be on the draft board. He was older. It was around 12 noon. He was probably on a lunch break, coming down. And I sensed he was a well educated man by his demeanor. And he said, “Hold on. Wait a minute. I think this young man could do more for our country working for the Department of State than as a draftee.” And so the vote went down two to one against this lady, the clerk who wanted to make sure that some Bronxville kid got on the next train to Fort Dix. So that was—that made my day [chuckles], as you can imagine.</u>
+      <u who="DIM">Little do they know.</u>
+      <u who="BILLO">[Laughs.] So [chuckles] I was so thrilled to get this letter. I was going to be there for that appointment in D.C. come hell or high water. So the only reason I’m going through all this in this detail is that—and it’s a fairly obvious thing for me to say—is that I was by no means a war hero or any kind of a super patriotic, brave individual. As you can tell from what I’ve just said, I was trying every stratagem to forestall the draft and to find some other niche for myself, and so in that respect and for the record, it has to be said that I was not any different than a lot of folks in that era of my age, who joined Reserve units, people like Senator [William W.] “Bill” Bradley, who had connections and got into a Reserve unit, and countless others that I’m not even going to attempt to name. I was—I was—I wanted no part of—of joining the U.S. Army, and that’s all I have to say about that.</u>
+      <u who="DIM">Okay. So you made it into the Foreign Service.</u>
+      <u who="BILLO">I have to say, in just one footnote—</u>
+      <u who="DIM">Absolutely.</u>
+      <u who="BILLO">—I experienced a lot of pain in this decision area because it wasn’t in my family background or character or upbringing to run away and go to Canada, like a lot of people in that era were doing, so I was—I always felt a lot of stress, was the simplest way of putting it, that I had to do the—do what was asked. I wasn’t going to be a deserter. That was just not—not in the cards. No way. So, again, that’s a chapter that one will never know how that might have played out, if I’d been drafted and you know, what kind of—every person who’s in the [U.S.] Army has a specialty. There’s a name for it, and I can’t remember what it is. So not everyone in the Army is an infantryman, as you know.</u>
+      <u who="DIM">Right.</u>
+      <u who="BILLO">And there are scores of other tasks and specialties that are distributed, so—but as a youngster, you—you can’t—you can’t necessarily see that. And so—yeah. So, again, I can’t—if I had been drafted, I don’t know which of these specialties I might have followed, and blah, blah, blah.</u>
+      <u who="DIM">So maybe along with that, how did your family react to you joining the Foreign Service?</u>
+      <u who="BILLO">They were okay with that. They understood that I had some facility for foreign languages and that I had long since burned the medical school bridge. But the part that they didn’t realize on January of ’68 was that I was about to be assigned to the CORDS [Civil Operations and Revolutionary Development Support] in Vietnam. So that—that’s why I say they were pretty much okay with—you know, they made their peace with it, that I’d be doing honorable work for the United States, I’d be using a skill set that I had developed, that I would be working with good people and that I was a young guy trying to live the dream of John F. Kennedy. You know, “Ask not what your country…” So I guess they made their peace with this idea.</u>
+      <u who="DIM">Okay. So end of ’67, you made it into Foreign Service. When do you begin your language training?</u>
+      <u who="BILLO">Yeah. Well, we had a two-month basic training  course.</u>
+      <u who="DIM">Okay. </u>
+      <u who="BILLO">And there were some, let’s say, 40 people in my entering class. And ten of us—at the end of the two months, they have a ceremony where they announce your first assignment, and ten of us, including me, were sent—were assigned to the CORDS program in Vietnam, Civil Operations for [sic; and] Revolutionary Development Support. This was a program that LBJ had endorsed. Was run by Robert [W.] Komer. The thrust of it [chuckles], as LBJ would have put it, was to send trained Americans out into the field “to win the hearts and minds of the Vietnamese.” And these Americans were also language capable, all to the good, because they could pick up nuances of what was going on out in the provinces and gain a better appreciation of where things stood and help the economic development in the countryside, which was—you know, the counterpart to the fighting war was the economic development and social development side of the coin.</u>
+      <u who="DIM">So this is the beginning of ’68?</u>
+      <u who="BILLO">Yeah, this was March of ’68. So to answer your earlier question, I started Vietnamese language training in April of ’68. It was six hours a day, five days a week for ten months.</u>
+      <u who="DIM">Very intense.</u>
+      <u who="BILLO">Yeah. And it’s a tone language, as you know.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="BILLO">So it was something different than anything I’d ever experienced. I mean, I have to say a couple things. First of all, learning that I’d been assigned to the CORDS program was a total shock, a jaw-dropping shock. I didn’t realize that that was even in the cards. And my buddies, of course, from high school era, who had been following my path, the whole graduate school business and then the foreign service—they had sort of a good laugh at my expense, because I was going to Vietnam anyway.</u>
+      <u who="DIM">That’s right.</u>
+      <u who="BILLO">Martin Luther King Jr. is assassinated, and the—</u>
+      <u who="DIM">[Robert F.] “Bobby” Kennedy is assassinated.</u>
+      <u who="BILLO">Bobby Kennedy in the summer, and then the antiwar people were marching on the Pentagon, right, left and center, and getting arrested. So that was the context in which I was embarking on this venture. It was surreal. But so much of the whole coming years of my work was surreal, so—</u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="BILLO">And I went down there in May of ’68 to attend this so-called training course.</u>
+      <u who="DIM">Can you explain for the recorder what you’re showing me?</u>
+      <u who="BILLO">Oh. I have a certificate—(The Army is big into certificates. So is the State Department, for that matter.)—that shows that I completed the provincial senior adviser training course at the [U.S. Army] Special Warfare School [now U.S. Army John F. Kennedy Special Warfare Center and School] in Fort Bragg, North Carolina. As I recall, we were there for four or five days. We received a lot of briefings by young captains about what to expect when we got to Vietnam if we were going out to the provinces. I don’t remember a whole lot of detail. They detonated a couple of explosives near us, without telling us, to watch how high we could jump off the bleachers. They were having fun with the civilians. We were, like—I forget; let’s say a group of 20 or 30 civilians?</u>
+      <u who="DIM">So was this the extent of your weapons training? Basic training for Foreign Service does not deal with any sort of combat?</u>
+      <u who="BILLO">No. The Foreign Service, as I know you’re aware, staffs our embassies in capitals all over the world, and our job is to defend United States’ political interests vis-à-vis the host country, to deliver policy papers to the host government, to persuade them of our positions, and so—and then we write a lot of analytical reports on conditions in the host country, economic reports, political reports, make prognostications about which way the local government is likely to go on a particular matter. So the whole Vietnam chapter was way, way out of the traditional line of duty of a Foreign Service officer. </u>
+      <u who="DIM">Mmm. How everything just cycles back is incredible.</u>
+      <u who="BILLO">I was pretty jaded. I’ve talked to a lot of Americans who were in Vietnam early on, in the [President Dwight D.] Eisenhower administration, and they—that was well before the insurgency had heated up in the Mekong Delta. And so they felt that they were doing effective work in helping the South Vietnamese get organized. </u>
+      <u who="DIM">Absolutely.</u>
+      <u who="BILLO">The part I didn’t mention was that sometime during my language training, I took the initiative to seek out the [U.S.] Agency for International Development, AID folks responsible for Vietnam. And I persuaded them that I had the credentials and I would soon have the language training to do economic analysis, and that this turned out to be one of my more successful moves. So when I arrived in Saigon in March or April of ’69, I think it was, I was assigned to the joint embassy AID economic office. </u>
+      <u who="DIM">Yeah.</u>
+      <u who="BILLO">And so I had two bosses, and it was cool. I was 25, and people actually read the things I wrote. </u>
+      <u who="DIM">This is a document that Charlie has just handed to me.</u>
+      <u who="BILLO">Yeah.  And it’s dated June of ’69. And so it’s proof positive that I actually was at this location [chuckles] and that I had this title, and these were the colleagues that I dealt with. It was a very interesting organization. As you can see, it was half military and half civilian. And so that’s where I learned a lot about dealing with the U.S. military up close. We kept—we kept very busy, and I felt that I had some definite responsibility.</u>
+      <u who="DIM">Wow.</u>
+      <u who="BILLO">He was a civilian when I knew him and, again, a very controversial figure, and whole books have been written about him. I fortunately got along with him pretty well. I guess—I don’t know, I must have done something that he liked, and he sent my reports up a chain of command. He sent them to the RAND Corporation. And this report here [presents document] is one I wrote on rice production and marketing in the Mekong Delta.</u>
+      <u who="DIM">It’s another document that you’ve handed to me.</u>
+      <u who="BILLO">I just kept a copy. But for anyone who was intensely interested in how things worked in that society and the role of the Chinese rice merchants and the critical importance of rice in the Asian diet, this was a significant document. And the cool thing for me was that I found out later that some distinguished people at RAND in Santa Monica [California] had seen my work. So that was exciting.</u>
+      <u who="DIM">Thank you. That was a lot that you gave me.</u>
+      <u who="BILLO">Yeah.</u>
+      <u who="DIM">Maybe we can backtrack a little bit and piece through it part by part. So in the document that you gave, as you mentioned, while you were training, going through language training that you had passed protesters going to the Pentagon. What was that like? Did they interact with you at all? What was your perception of them?</u>
+      <u who="BILLO">That’s a tricky question because I had already said I wasn’t a true believer in what I was engaged in, but I wasn’t going to—for whatever reason, because of my background or my youth or my upbringing, I was not going to engage in rabble rousing, and not going to launch missiles [chuckles] at people, you know. On the other hand, I was smart enough to realize that some of the arguments that these antiwar people were advancing had some—some truth to them.</u>
+      <u who="DIM">Right.</u>
+      <u who="BILLO">That was a riveting thing. I could not believe that students who were just being students—and even there were some protests, I know, at Dartmouth in this era—could be fired on by the National Guard! It was staggering. Yeah. But, I mean, later on, when Nixon came in—</u>
+      <u who="DIM">In ’69.</u>
+      <u who="BILLO">In ’69, he took office. They started wholesale arrest of protesters, and they had schemes of buses that were dedicated to—and so they’d arrest the students, put them on buses and take them to Robert [F.] Kennedy [Memorial] Stadium in D.C., for processing. You know, Nixon and people like John [N.] Mitchell, the attorney general were systematic, you know, in how they dealt with this.</u>
+      <u who="DIM">Thank you</u>
+      <u who="BILLO">Oh.</u>
+      <u who="DIM">Who this came from and—</u>
+      <u who="BILLO">Right, right, right, right.</u>
+      <u who="DIM">—explain a little bit for the tape recording.</u>
+      <u who="BILLO">Yeah. This is a copy of a letter from Secretary of State William P. Rogers to me dated March 7, 1969. He had just been appointed Secretary of State by Richard Nixon and the final day of our Vietnam training, our group of whatever it was—20? I can’t remember now; 15, 20?—were invited to a meeting at the office of the Secretary of State, and it was kind of a morale boosting effort, and it was a laying on of the hands by the Secretary of State, and “Go get ’em, fellas” and—it lasted maybe ten minutes, and then we were ushered out.</u>
+      <u who="DIM">This is before you went to the AID?</u>
+      <u who="BILLO">Yeah. And even after I went to the AID office, I had no sort of  assurance of what my job was going to be. They talked a good game about working in the Joint Economic Office, but I—you know. So I left the Secretary of State’s office, and I was slightly angry or perturbed, and I went downstairs, and I got access to a typewriter and wrote him a letter, saying that—I know I was kind of boasting that I’d had all this graduate training and all this and that, and I didn’t think it was appropriate for—I thought I’d joined the Foreign Service  in order to serve in our traditional embassies, and I didn’t think it was appropriate for folks with “this background” to be assigned to what I called—I think I put in the letter what I called “Peace Corps work.” And I guess—I didn’t say this, but I guess my point was, if I’d wanted to do Peace Corps work, I would have applied to the Peace Corps. That was the unstated message.</u>
+      <u who="DIM">And on the subject of people giving their all in tough situations, you mentioned briefly the 1968 attack on the U.S. embassy. I was wondering if you have any things on that.</u>
+      <u who="BILLO">Yeah. During the Tet Offensive, the Viet Cong sent a sapper team [members of the Viet Cong’s elite C-10 Sapper Battalion] that actually blew a hole in the outside defensive wall of the embassy, and the VC were running around in the compound at night, trying to blast through the front door. There were three Marine guards defending the front door, and there was a duty officer from the Foreign Service upstairs. He had the duty for that particular week. He happened to be on duty the night the VC broke in, and he had to react right away to take steps to defend the front door of the embassy. And one Marine was—was down, and it appeared that the Viet Cong had the power to break in, which would have been a horrific psychological and political effect for America, to have its own embassy invaded by the enemy.</u>
+      <u who="DIM">We’re taking a break. [Emotional moment in interview.]</u>
+      <u who="DIM">All right, so we’re back, and thank you so much, Charlie, for sharing that story. So with all of this, coming into Vietnam, the ’68 attack, all that’s going on before, how are you preparing entering into country? What do you do with the family? Was there any sort of talk amongst other—your other Foreign Service classmates?</u>
+      <u who="BILLO">I was essentially scared and didn’t have the experience to gauge what I was getting into when I landed in Saigon. I, of course, did talk to Forest Service colleagues who had come back from Saigon, or I picked up snippets of info about what it was like. I guess I also knew someone who worked in the Joint Economic office, who helped me settle in and answered a lot of my questions.</u>
+      <u who="DIM">What does PX stand for?</u>
+      <u who="BILLO">Post exchange. Every Army base around the world has a post exchange.</u>
+      <u who="DIM">Okay. </u>
+      <u who="BILLO">And civilians are often given acc- —government civilians have access to this, so people could be seen leaving the PX, you know, having purchased their tape recorders and their televisions and their Samsonite suitcases. Yes, Saigon was a—it was a very surreal environment. [Two loud mechanical tones.]</u>
+      <u who="DIM">We’ll be taking a short break.</u>
+      <u who="DIM">[Soft mechanical tone.] Okay. We’re back.</u>
+      <u who="BILLO">I was describing the surreal situation in Saigon with the thousands of Americans there, civilian and military. Kind of a bureaucratic—[loud mechanical tone]—that had formed up, and how—[a series of loud mechanical tones]—</u>
+      <u who="DIM">We’re actually going to stop for today. We’re having minor technical problems. And we’ll reconvene tomorrow, August 15th, 2016.</u>
+      <u who="DIM">This is Chileta Dim, and I am in Berry Library, Baker-Berry Library, in Hanover, New Hampshire. It’s August 15th, 11:30, and I’m here with Charlie Billo.</u>
+      <u who="BILLO">Yes. Let me start out by pointing out that I was present in Saigon in two installments. The first was in the spring of ’69, as you just mentioned. Then I was transferred to Can Tho [pronounced TUH], the regional capital in the Mekong Delta, and I lived there for some ten months, and then after that, I was brought back to the embassy in Saigon, due to some policy shifts that the embassy undertook. And the second installment lasted approximately six or eight months, as I recall. And I left Vietnam in about October of 1970.</u>
+      <u who="DIM">Do you remember a name?</u>
+      <u who="BILLO">I—I—I will come forth with his name. He’s since deceased.</u>
+      <u who="DIM">Oh.</u>
+      <u who="BILLO">He invited me up to Biên Hòa, and I saw his—what they called in those days a “hooch.” It was like a small dormitory room, and each—let’s say there were ten enlisted men to the dormitory; each one had a locker like one would have back in school, to hang all their worldly belongings, and —they probably—they—I don’t remember precisely, but they may have had bunk beds. </u>
+      <u who="DIM">Okay. Thank you.</u>
+      <u who="BILLO">The thing about this when I arrived very late in the game, ’69, was that the U.S. had undergone the big buildup, obviously, militarily, and they had a similar buildup in terms of civilian officials. And by the time I got there, money was no object for this war, and so there were—there were a lot of folks on the civilian side that were hired, and there were a lot of contractors who were hired because there was—everyone had his own motives, but I would just say that there was good money to be made. There was probably better money to be made working for the AID program than one could get back in the States. There were—the government was paying the regular salary plus hazardous duty pay.</u>
+      <u who="DIM">Thank you.</u>
+      <u who="BILLO">Well, I can’t say all that much, unfortunately, except I will note—and this may sound like bragging, but I spoke pretty good Vietnamese, and [chuckles] one of the fantastic benefits for a westerner who spoke their language was that the man or person on the street would light up immediately when you exchanged pleasantries with them in their own language and in a credible, intelligible way. So I—I took great satisfaction in that. I enjoyed the banter. The South Vietnamese were very friendly, by and large open, happy people. </u>
+      <u who="DIM">Thank you, Charlie. So I think you gave me a really clear description of what Saigon was like in ’69, and so maybe we’ll pivot a little bit and talk more about your day-to-day work. You mentioned yesterday that the bureaucracy that you were involved with involved both military and civilians, so I was wondering if you could a little bit about what it was like to work with actual military men.</u>
+      <u who="BILLO">Yeah, I’d like to do that. In my training course in Washington and when I got to Vietnam, the CORDS program had identified the top-of-the-line majors and lieutenant colonels in the Army and had decided that these were the people that were needed at the province level, to be province senior advisers. I got to know some of these people, and they indeed were very able. I mean, some of them were West Point grads. I mean, these are people that were so able, they’d been promoted at a very young age to major. They were occasionally lieutenant colonels, as I said. And they were no-nonsense, they were well educated, and I really respected those people.</u>
+      <u who="DIM">Thank you.</u>
+      <u who="BILLO">Right. That’s very good. It was a memorable period. I told you yesterday I reported to Allan Wendt,—</u>
+      <u who="DIM">Yes.</u>
+      <u who="BILLO">—who was branch chief in the market analysis division. And my first few weeks and months were spent in familiarizing myself with Saigon, with the country, with the office routine, and it ended up that I was asked to go to IV Corps, the headquarters in Can Tho, to replace a very able AID officer named Lee Jones. Lee now lives in Rutland, Vermont, and is a part-time professor at Boston University. Lee Jones was one of those individuals who was dedicated to solving economic problems, who had worked in the developing countries, especially in Laos and did some good work there, who volunteered for employment in Saigon because he wanted to test his analytical abilities in a setting like Vietnam. And so he was—he was a, you know, interesting individual. </u>
+      <u who="DIM">We’ll be taking a short break.</u>
+      <u who="DIM">Okay, so we’re back after a short, one-minute break. And thank you so much for talking about your first couple of months in Saigon, Charlie. And so now, after you’ve explained sort of how you were learning on the job, you were cutting your teeth those first couple of months in Saigon, and you described how you got your job in Can Tho. I was wondering if you can begin with when did you get to Can Tho, and what was the town like? What sort of place was it in comparison to Saigon?</u>
+      <u who="BILLO">My recollection is I probably transferred to Can Tho in about June of 1969. And Can Tho was a one-horse town. It happened to be the regional headquarters city for the Mekong area, and the CORDS program had a major presence there. AID had a low-rise apartment building for civilian employees. Across the street was an officers’ mess with a guard. All of these buildings had guards out front.</u>
+      <u who="DIM">Do you remember a name?</u>
+      <u who="BILLO">I can’t come up with it right off the top of my head.</u>
+      <u who="DIM">Thank you. Well, that might be a nice segue into just talking about what it was like working with these big-name guys. Colby eventually, as you said, would head the CIA. Paul Vann is a very famous person. What was it like interacting with them on a daily basis? Like, they were your direct bosses.</u>
+      <u who="BILLO">Yeah. I had relatively little interaction with William Colby. He was way, way above me. I remember the obvious things that people comment about he had these sort of thick eyeglasses, and he was a rather slender, athletic man, but people always compared him to the television show, Mister Peepers, just because of his physical feature. But he was a highly decorated [weeps] OSS operative. And he’d had multiple tours in Vietnam, so this guy knew what he was talking about. </u>
+      <u who="DIM">II Corps is where?</u>
+      <u who="BILLO">That’s two-thirds of the way up the peninsula. And he had a premature death, but he was trying to rally the Vietnamese commanders in that area that were facing an attack by the North Vietnamese, and his helicopter went down. I don’t remember the precise details.</u>
+      <u who="DIM">You mentioned female Vietnamese employees, so I was wondering if we could transition to how you interacted with these Vietnamese farmers that you were working with, your contacts in Can Tho, and maybe a little later we can talk a bit about what it was like working with Chinese merchants.</u>
+      <u who="BILLO">Yeah. One didn’t work with Vietnamese peasants and rice farmers. One talked to them anecdotally or one drove past them on the dirt roads and observed them. But the point to be made is that in my estimation, and I think books back this up, that the rice farmers and the peasants in general in South Vietnam weren’t—they were apolitical. They, in my estimation, weren’t terribly interested in the South Vietnamese government versus the VC. They wanted to be left alone and to do what their families had been doing for millennia, which was grow rice. These people were not educated people. They were hard workers, and they could be seen wading around in the rice paddies, and so that’s what I have to say about that.</u>
+      <u who="DIM">Owned by Vietnamese.</u>
+      <u who="BILLO">Yeah, right. At that time, they were owned by probably Chinese, what they called the “overseas Chinese” that had lived in Southeast Asia for—for centuries. Yeah, so I would go into these mills. I’d observe what was going [on], and the manager would show me around. As a visiting American, I guess they had to show you around and pretend to be happy to see you and, you know, make a good effort for you, and have a cup of tea together.</u>
+      <u who="DIM">Thank you.</u>
+      <u who="BILLO">—who spoke Chinese, and he did our legwork. And he developed much of the info that we had about who was running this show and how it worked.</u>
+      <u who="DIM">Can you talk a little bit about how it did work? So what were these networks doing? Were they just controlling the rice? Were they controlling distribution?</u>
+      <u who="BILLO">I guess—well, two things. One was that the motives of these networks was to drive the price of rice up as high as it could, so they obviously would buy as cheaply as they could from the people at the paddy level, and then by withholding rice from the market in Saigon, they would hope to then come forward and get the best price at the last minute. And what they were up against, though, was the Vietnamese government was aware of these people and could exercise their control to some degree in preventing this kind of distortion taking place. </u>
+      <u who="DIM">Okay. Thank you. </u>
+      <u who="BILLO">I can’t remember any tension along those lines. I mean, it’s a different economy, a different society, a different level of economic development. I don’t recall that the farmers were well organized the way you would expect, say, in a more developed country. So I don’t recall that the farmers had any leverage in the situation. In the French days and the millennia before that, there were individuals called “ramasseur”, whose job was to go from farm to farm and collect the paddy and—so that’s what I remember. You’re dealing with a society that was not an advanced society, so—</u>
+      <u who="DIM">Okay. Thank you.</u>
+      <u who="BILLO">They weren’t giving me advice. They were getting a quick snapshot of ground truth in Vietnam. Of course, in my recollection, 90 percent of these visitors were people who supported the war, so they—and probably people in the government, in the administration were only too happy to have those people go out, make an in-person assessment, and that’s what they were doing. And then they would write it up when they got home or go and talk to their contact person in the administration and add another degree of knowledge about what was going on.</u>
+      <u who="DIM">“This man” is?</u>
+      <u who="BILLO">Arthur Smithies. I’m just picking him as one example.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="BILLO">So he—and he had the common sense and the savvy to say, “I’m not going to sit here in Cambridge, imagining what’s happening in—I’m going to go out there and actually go to the field and take some risks and get a first-hand experience, and then when maybe I’m back in Cambridge I can talk to my colleagues in the faculty club and say, “Hey, wait a minute. You know, I was just there.” And so that was what that was all about.</u>
+      <u who="DIM">And do you have any names?</u>
+      <u who="BILLO">Well, I will mention one person, who I admired, who was Charles A. Cooper. He later became the minister-counselor for economic affairs at the embassy. He volunteered. He worked in Washington for a long time under Robert Komer. He was a brilliant person, who had already had a tour in Vietnam earlier, in the economic side of the house, and—I never showed him around the delta, but it was probably the sexiest moment I had in the two years in the sense that he sought me out. He wanted my opinion about things. And he gave me some inside information about the fact that he was probably going to come back to Saigon and that there was unhappiness with the existing policy in Washington, and they were going to make some changes because the present team was on the wrong path economically. And so that was—that was nice, to be courted like that. That was—that was unforgettable.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="BILLO">I’ll just mention very quickly that the existing leadership in the economic side in both State and [US] AID had bought into an idea of austerity and imposing economic austerity on the country. That was when they—I guess they just felt that the U.S. was spending too much money and it was a wasteful expense and that the idea was to tighten down on a lot of the programs and the monetary flow. </u>
+      <u who="DIM">Thank you, Charlie.</u>
+      <u who="BILLO">Right.</u>
+      <u who="DIM">Do you have about a month when that happens?</u>
+      <u who="BILLO">Yeah, I think it was—oh, my gosh! That was in the spring of 1970 sometime.</u>
+      <u who="DIM">Okay. </u>
+      <u who="BILLO">[Laughs.] I remember Charles Cooper coming up and sitting down with me and a couple of other guys, like Allan Wendt.  And he said, “I hear you’ve been brought back from Can Tho.” He said, “I hear you worked for John Paul Vann.” I said, “Yeah, I lived there for ten months, and now I’m back.” And these guys sort of looked at each other and said—the body language was: “Whoa! That might not be the best decision to be making, you know, as we’re trying to right this ship.” But I just—it was just one anecdote. </u>
+      <u who="DIM">Yeah. Thank you. Yeah, so that must have been a very emotional experience for you, October of ’70, going back home after two years of service in Vietnam.</u>
+      <u who="BILLO">Yes. It’s a letter from the minister of economics, Pham Kim Ngoc [pronounced fahm keem nyup], who incidentally was an Oxford [University]-educated economist. I’m not sure where he is today or whether he’s still living. But it was, I think, a gesture to recognize some of my work and some of my activities when I was in the Can Tho office. Given the date, he must have been aware that I had left the country, and he was giving me a nice send-off, where he says, “I wish to thank you for your devotion and your contribution to the economic welfare of my country.” </u>
+      <u who="DIM">Can you spell Ngoc for us?</u>
+      <u who="BILLO">Yeah, N-g-o-c.</u>
+      <u who="DIM">Yes, I definitely do want to hear what you think of the war now that you’ve gone through it. Maybe I’ll give you a couple of questions—</u>
+      <u who="BILLO">Yup.</u>
+      <u who="DIM">—to sort of structure your thoughts. So you mentioned earlier in our interview that you knew, and then some other people sort of come to the conclusion that counterinsurgency didn’t really work out in Vietnam, and I was wondering: Where do you place your own work in that frame of counterinsurgency? And did you think what you were doing was effective?</u>
+      <u who="BILLO">Yeah, I’d have to say, in my own corner of the operation, that if my work helped drive decisions in Saigon about bringing in American rice to compensate for a shortfall in the local production and let’s say that prevented potential rice riots that could have led to kind of political unrest, yeah, I have to say I thought my work was useful, to that extent.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="BILLO">Well, counterinsurgency—I will just say the obvious—involves the full spectrum of things, not just military but social and political and economic, so I think what I did, even though it’s not maybe that sexy, played into the economic piece of that. That’s as much as I can say.</u>
+      <u who="DIM">Okay. Thank you.</u>
+      <u who="BILLO">Oh, I think initially they were worried, and then over time—I wrote them letters, say, every couple of weeks, because I knew they—they wanted to hear from me. They wanted something. In those days, it was all snail mail. By the time I’d been there a few months and I was describing my coworkers and describing my routine and getting more and more enthusiastic about what I was involved with, et cetera, et cetera, they—I think they must have had a big sigh of relief.</u>
+      <u who="DIM">So it’s still ’69.</u>
+      <u who="BILLO">Yeah. So they were happy to see that I was alive and well.</u>
+      <u who="DIM">Yeah.</u>
+      <u who="BILLO">It’s one of those jobs that you do when you’re a bachelor, you know, and you’re footloose and you don’t even think about your own mortality. You know, you can do anything. So, yeah, it was—and I told you yesterday I had a lot of support. I had people sending me care packages. Yeah, so—</u>
+      <u who="DIM">So. Thank you. </u>
+      <u who="BILLO">Let me—so if I left in—yeah, I probably was more like 27.</u>
+      <u who="DIM">Twenty-seven. And what did you do immediately after your service?</u>
+      <u who="BILLO">Well, I stayed in the Foreign Service and was assigned to work in the Milan, Italy. And I went almost right away into Italian language training for four months, I believe it was. And I—we had a small consulate in Milan, and I was—I was swimming in those waters. It was fun to be back in Italy, where I’d been as an exchange student. I did find it hard to adjust to—this was a more traditional Foreign Service assignment than what I’d been involved with, and it was—it was—I had to follow the book more and do the routine stuff, so that—that was kind of a shock to the system, to be frank about it.</u>
+      <u who="DIM">Okay. And maybe we can talk a little bit more about when you were in Vietnam. So you went to Italy straightaway. You didn’t go back to the States at all?</u>
+      <u who="BILLO">No, I studied Italian in Washington. The Foreign Service, to my mind, had an excellent language program. That’s one of their strong suits. So, yeah, I went—I went home for Christmas and had some leave, then reported back to the State Department and started the Italian language training. That must have been in January. I can’t remember right now.</u>
+      <u who="DIM">Of ’71.</u>
+      <u who="BILLO">Yeah. Yeah. The whole thing about working in Vietnam in that era in the Foreign Service was that that was a posting that everyone was talking about, and I had colleagues in the economic section that volunteered to go there, thinking that down the road, because of the significance of our presence in Vietnam, the Cold War, blah, blah, blah, it’s going to be important to my career to say that I was there, and I’ll be able to tell war stories, and it’ll—you know. So [chuckles] there was some of this same—some of that attitude must have rubbed off on me. I didn’t volunteer, by any means, but there was this feeling of, hey, there were those of us that were there, and there were those of us that weren’t, you know? And so we like to—my colleagues and myself, you know, would like to get together and tell war stories and this and that and the other thing. </u>
+      <u who="DIM">Okay. </u>
+      <u who="BILLO">That’s right.</u>
+      <u who="DIM">And so what was your feeling when Saigon eventually fell a couple of years later, after going through a big of your life and getting this, as you said, more structured, bureaucratic job in Italy? What was that like?</u>
+      <u who="BILLO">I guess I was pretty disturbed by the images. As you know, there have been several documentaries about those final days.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="BILLO">And I knew a couple of fellow officers who deliberately flew back to Saigon to find their in-country colleagues—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="BILLO">—to help get them out of there. I didn’t—I didn’t do that. I guess—for whatever reason, I—I guess I—I won’t try to justify or explain that. I just [loud beep], but I—I was disturbed that after all those years, this is what [a softer beep] it came down to, this chaos at the gates of the U.S. mission, and people trying to climb on the helicopters. I mean, what a—to me, it was, like [loud beep]—it was very disturbing and, like, the lowest point of a series of events [low beep] over six or eight or more years that were extremely negative [loud beep], low events. So that’s as much as I can say. It was the lowest of the low, and [soft beep]—</u>
+      <u who="DIM">This is Chileta Dim, and I’m with Charlie Billo. It’s August 15th, 2015. We’re coming back from our previous recording, same day. We had some technical difficulties, so we had to stop for a few minutes. So we’ll pick up where we left off. </u>
+      <u who="BILLO">Well, it was a sense of watching these images of the South Vietnamese trying to escape and get on helicopters out of the city, and always then running through your mind, Do I know any of those people? What about my coworkers there? Where do they stand? You know, then later on, of course, one heard stories about those last few days and the lack of preparation and the poor execution of the evacuation plan and whatnot, which I don’t really want to get into.</u>
+      <u who="DIM">Thank you.</u>
+      <u who="BILLO">That’s right, I did.</u>
+      <u who="DIM">Yeah. And now you live up here, in the Upper Valley, and you volunteer with Dartmouth as a retiree. What final lessons do you have from Vietnam? Do you think about it in your day to day?</u>
+      <u who="BILLO">Yes, I have to say I think about it, as you can tell from this interview that we’ve had. It was a very critical time in my personal development, and it was certainly exciting. It was a lot different from having a, quote-unquote, “desk job.” But I—I came away with some basic conclusions about our foreign policy-making apparatus and about Washington politics and big organizations.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="BILLO">There were some mistakes made in the intelligence community, on the analytical side. Again, the same principle holds, that you—you have to have experienced people in the room who know what the right questions are and who have the background knowledge and whatever linguistic skills or on-the-ground experience to pose the right questions. And you—it takes strong people to run against the bureaucratic safety. And so we got into a lot of—a lot of thickets by people not—not inviting people into the room who’d actually been there and done something.</u>
+      <u who="DIM">Okay. Thank you.</u>
+      <u who="BILLO">Yeah, that’s a good question. I have always been a Vietnam junky ever since I came back, (a) because it’s unique experience and not everybody—my contemporaries had; and (b) I knew—I knew the players. I knew the names. I knew the locations. So right from early on, I was reading almost every serious book that came out about that war. And I read the Pentagon Papers, of course, back in the day. That was going back to ’75 or something. </u>
+      <u who="DIM">Thank you, Mr. Billo. I think that will conclude our interview. Let me just say I really appreciate you coming down and talking with me, and we will close this out. Again, it is August 15th, 2015. I am Chileta Din. Thank you.</u>
+      <u who="BILLO">Thank you very much.</u>
+      <u who="DIM">Thank you.</u>
+    </body>
+  </text>
+</TEI>
