@@ -46,8 +46,8 @@
       </langUsage>
       <particDesc>
         <person xml:id="CARBONE"/>
-        <person xml:id="BARBER"/>
         <person xml:id="BERBER"/>
+        <person xml:id="BARBER"/>
       </particDesc>
       <settingDesc>
         <setting>
@@ -59,9 +59,15 @@
   </teiHeader>
   <text>
     <body>
-      <u who="CARBONE">My name is Riley Carbone, and I am at Rauner [Special Collections] Library in Dartmouth College in Hanover, New Hampshire, and I’m doing a phone interview with Peter [D.] Barber, who is in Massachusetts. This is the 29th of September, 2016, just a little bit after 10 a.m., and this is an interview for the Dartmouth Vietnam Project.</u>
-      <u who="BARBER">I was born in Niagara Falls, New York, in 1944. At the age of four, my parents moved to the Main line, outside of Philadelphia, in the town of Wynnewood. My three sisters and myself grew up in that house, going to Merion Elementary School. It wasn’t the easiest childhood, as my dad was verbally abusive I while I grew up, so I for the most part tried to stay away from home as much as possible, by either playing sports, going to the playground—because back then, you could go by yourself, and there would be no risk or no danger—so I developed some athletic skills. </u>
-      <u who="CARBONE">[Chuckles.] I’m sure it was.</u>
+      <u who="CARBONE">My name is Riley Carbone, and I am at Rauner [Special Collections] Library in Dartmouth College in Hanover, New Hampshire, and I’m doing a phone interview with Peter [D.] Barber, who is in Massachusetts. This is the 29th of September, 2016, just a little bit after 10 a.m., and this is an interview for the Dartmouth Vietnam Project.
+
+So hello, Mr. Barber. Thank you so much. And would you mind just beginning by telling me a little bit about your childhood, where you were born?</u>
+      <u who="BARBER">I was born in Niagara Falls, New York, in 1944. At the age of four, my parents moved to the Main line, outside of Philadelphia, in the town of Wynnewood. My three sisters and myself grew up in that house, going to Merion Elementary School. It wasn’t the easiest childhood, as my dad was verbally abusive I while I grew up, so I for the most part tried to stay away from home as much as possible, by either playing sports, going to the playground—because back then, you could go by yourself, and there would be no risk or no danger—so I developed some athletic skills. 
+
+And then when I was 14, my mother had another child, so I ended up with four sisters. And obviously I was the oldest. Went to Lower Merion High School. Graduated thirty-two out of 400. Rejected by Cornell [University], and Dartmouth was my first-and-a-half choice, so I went into Dartmouth. My dad had gone there. My uncle had gone there. But there were a couple of people at my high school that were ranked lower than me, so maybe some of my talent got me into Dartmouth.</u>
+      <u who="CARBONE">[Chuckles.] I’m sure it was.
+
+So going back a little bit, you mentioned that your father graduated from Dartmouth, and looking him up in the yearbooks here, saw that he was a chemistry major. Did he work as a chemist of some sort, or—</u>
       <u who="BARBER">He worked for the Hooker Chemical Company, based in Niagara Falls, which was the chemical company responsible for the Love Canal. And I guess being a chemist got him out of the World War II draft, and he said he was part of the Manhattan Project, but if he was, he was certainly down at the very bottom. He ended up in sales for the—for the Hooker Chemical Company.</u>
       <u who="CARBONE">And when you guys moved to the Main Line in Pennsylvania, was he still working for the Hooker Company?</u>
       <u who="BARBER">Yes, he worked for the Hooker Chemical Company from ’42 to, oh, let’s say ’72, ’74, mostly in sales.</u>
@@ -84,11 +90,19 @@
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">So I was the number-one pitcher on—on the baseball team, and I started as a freshman. And in freshman year, somehow the freshman soccer coach, with very little recruiting, got—when we had about 24 people out there to—what is it?—tryouts for soccer, put out 11 guys, and somehow he’d gotten together enough notes, so that was the starting lineup for the—that season. </u>
       <u who="CARBONE">[Chuckles.]</u>
-      <u who="BARBER">So I started every game that I wasn’t hurt. Wasn’t particularly outstanding.</u>
+      <u who="BARBER">So I started every game that I wasn’t hurt. Wasn’t particularly outstanding.
+
+So moving on up, sophomore, junior year in baseball. Oh, I pitched a little, but not—not that much, but did—did okay, and then senior year, [Ulysses J.] “Tony” Lupien made me the number-one pitcher, so I pitched a lot of innings that year. One day on the bus, he came over and said, “I know you’re going to grad school but the [Boston] Red Sox and Detroit [Tigers] are wondering if there’s any chance of you wanting to play.” And I said, “Nope, I’m getting married. I’m going to grad school.” And he said, “Well, then, do you mind throwing on two days’ rest?” I said, “Not at all.”
+
+So I went out and threw on two days’ rest, and lasted till the seventh inning. And it was the second team, Eastern Intercollegiate Baseball League that year, and probably second team because the game I pitched—in seven innings, they gave up, like, four runs and, I don’t know, ten hits or something. Won the game but I’m sure the coach didn’t vote for me for All League.
+
+Anyway, I had a blast on—on the team. The captain of the team, Barry [F.] Machado [Class of 1966], ended up a professor at—in history, at Washington and Lee [University], and in two weeks I’ll be visiting him in Lake Geneva [Wisconsin]. We’ve stayed friends for—for 50 years.</u>
       <u who="CARBONE">Oh, wow.</u>
       <u who="BARBER">And soccer. Sophomore year, I was a struggling fullback on the—but starting. And then we played Harvard [University] down at Harvard, and we were supposed to get killed. They had an Olympian playing for them, Chris Ohiri and currently the Harvard soccer field is the Chris Ohiri Field.</u>
       <u who="CARBONE">Oh, wow.</u>
-      <u who="BARBER">And somehow in—we had one person guarding him most of the time. But we went out there just with our heads down, thinking we didn’t have a chance in the game, or at least some of us did, and I had probably the second-best player move over on my side of the field as I was obviously the weak link among the fullbacks. And we got tussled up. I rolled on the ground, and I sort of took myself out of the game just because I just wanted to.</u>
+      <u who="BARBER">And somehow in—we had one person guarding him most of the time. But we went out there just with our heads down, thinking we didn’t have a chance in the game, or at least some of us did, and I had probably the second-best player move over on my side of the field as I was obviously the weak link among the fullbacks. And we got tussled up. I rolled on the ground, and I sort of took myself out of the game just because I just wanted to.
+
+And that was probably the turning point in my career, when I said, That’s the last time that’s ever happening again. And somehow I got bigger, faster, better, and then by senior year was All League, so there are a few moments in an athlete’s career I think that do make or break you.</u>
       <u who="CARBONE">Mm-hm. And that was one that made you?</u>
       <u who="BARBER">I think it did. I had a good relationship with both coaches, especially my soccer coach.</u>
       <u who="CARBONE">Yeah. And so this was at Dartmouth, but going back four years to when you were in high school, did you know that you wanted to be a student athlete or play soccer and baseball in college?</u>
@@ -96,19 +110,31 @@
       <u who="CARBONE">And at the very beginning, you mentioned that Cornell was maybe your number-one college and Dartmouth was 1.5?</u>
       <u who="BARBER">Yeah.</u>
       <u who="CARBONE">Could you tell me more about kind of your—the process of ending up here in Hanover?</u>
-      <u who="BARBER">Sure. Junior year in high school, Cornell had a program where they would take two students from high school, go up, show them around, and so I was—I showed an interest. I wanted to be a veterinarian, so—and obviously Cornell has number one or two vet schools, and it sounded good. Went up there. Really liked the campus. They walked us around. We stayed in a—in a—oh, God, what do you call it? Dormitory. But there were—no, we stayed in a fraternity, and it was upstairs, and they had, like, 20 beds in one room. And so that kept my interest. Took a little tour of the vet school. Ithaca is beautiful. </u>
+      <u who="BARBER">Sure. Junior year in high school, Cornell had a program where they would take two students from high school, go up, show them around, and so I was—I showed an interest. I wanted to be a veterinarian, so—and obviously Cornell has number one or two vet schools, and it sounded good. Went up there. Really liked the campus. They walked us around. We stayed in a—in a—oh, God, what do you call it? Dormitory. But there were—no, we stayed in a fraternity, and it was upstairs, and they had, like, 20 beds in one room. And so that kept my interest. Took a little tour of the vet school. Ithaca is beautiful. 
+
+So senior year, that was my number-one choice. I wanted to apply for early admission. The counselor at the school said my—my boards were too low for early admission and I’d have to go regular admission. So I applied for arts and science program because I think my dad said, “Oh, don’t apply to the agricultural school. That’s—that’s beneath you” or something. I don’t know what.
+
+
+
+But I applied to arts and science, and sure enough, I think 12 or 14 of my closest friends, all ranked higher than me, applied to Cornell as their second or third choice. They all got in. I got rejected. I was really pissed.</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">So I wrote a letter to Cornell, stating my grievances and accepted a letter from Dartmouth saying I was in. Then about a week later, Cornell said they would take me in. I blew them off.</u>
       <u who="CARBONE">A little grudge.</u>
       <u who="BARBER">Because I had—I had seen Dartmouth in, I don’t know, seventh grade then in eleventh grade, so it wasn’t a bad second choice.</u>
       <u who="CARBONE">Yeah. Was it a school you had kind of grown up hearing, like, Dartmouth lore from your father? And I think you mentioned our uncle was also a graduate?</u>
-      <u who="BARBER">Yeah. My uncle died right after graduating in the Class of 1941, Clyde Sutherland [Archivist Note: spelling uncertain]. He had rheumatic fever as a kid and caught a cold or something and died right after graduation. But a lot—there were quite a few graduates from Dartmouth that went to Hooker Company, so I knew them. I would hear the drunken Dartmouth songs coming out of the basement, and so—yes, wild.</u>
-      <u who="CARBONE">Mm-hm. </u>
+      <u who="BARBER">Yeah. My uncle died right after graduating in the Class of 1941, Clyde Sutherland [Archivist Note: spelling uncertain]. He had rheumatic fever as a kid and caught a cold or something and died right after graduation. But a lot—there were quite a few graduates from Dartmouth that went to Hooker Company, so I knew them. I would hear the drunken Dartmouth songs coming out of the basement, and so—yes, wild.
+
+We went to the Dartmouth-Princeton game every year or every other year, or the Dartmouth-Penn [University of Pennsylvania] game, so there was always that going on. So, yes, Dartmouth—Dartmouth was a part of growing up for me.</u>
+      <u who="CARBONE">Mm-hm. 
+
+Yeah, so you show up at Dartmouth in the fall of—</u>
       <u who="BARBER">Sixty-two.</u>
       <u who="CARBONE">Sixty-two. So can you—you know, what was it like first stepping on the campus? Can you tell me about that first fall?</u>
       <u who="BARBER">I was scared spitless.</u>
       <u who="CARBONE">[Chuckles.]</u>
-      <u who="BARBER">I didn’t have much confidence. Wearing that beanie and getting caught to go help clean up the fraternities and meet upperclassmen and meet other freshmen just wasn’t my cup of tea, so I would just hang out in my room, not wanting to go out there and not really “getting it.” </u>
+      <u who="BARBER">I didn’t have much confidence. Wearing that beanie and getting caught to go help clean up the fraternities and meet upperclassmen and meet other freshmen just wasn’t my cup of tea, so I would just hang out in my room, not wanting to go out there and not really “getting it.” 
+
+Oh, before that, I did go on a freshman [Dartmouth] Outing [Club] trip,—</u>
       <u who="CARBONE">Oh!</u>
       <u who="BARBER">—which I—which I really liked. Met a couple of nice guys that I stayed friends with. Nobody from the trip. It’s just the way it worked out. But those were a great four days on the—on the trip.</u>
       <u who="CARBONE">What was your—what was the trip you did?</u>
@@ -126,7 +152,9 @@
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">That helped my writing confidence immensely.</u>
       <u who="CARBONE">[Chuckles.]</u>
-      <u who="BARBER">That led to another 2.3, I think. And then rock bottom was—was—was the spring semester, playing baseball, taking calculus—and I was one of the guys that could not take calculus or trig—not trig, maybe—some other course that most of my Dartmouth friends had taken. So between bio, bio and—and math, I was out of my league. It was an eight o’clock class. I missed quite a few classes. Never really understood it. And the three-hour final, I think I looked at the paper for 20 minutes and just—just sat there. I just—I was clueless.</u>
+      <u who="BARBER">That led to another 2.3, I think. And then rock bottom was—was—was the spring semester, playing baseball, taking calculus—and I was one of the guys that could not take calculus or trig—not trig, maybe—some other course that most of my Dartmouth friends had taken. So between bio, bio and—and math, I was out of my league. It was an eight o’clock class. I missed quite a few classes. Never really understood it. And the three-hour final, I think I looked at the paper for 20 minutes and just—just sat there. I just—I was clueless.
+
+So I flunked that, and I knew I would have to make up a course my—my—so I had a 2.3 average a B—I guess a C-plus. So I considered myself fortunate to still be in school, actually.</u>
       <u who="CARBONE">Did you—</u>
       <u who="BARBER">Did I?</u>
       <u who="CARBONE">Oh, I was just going to ask if you had—like, so you were kind of academically struggling. Was there a support network from, like, your teammates, or had you found your place socially?</u>
@@ -136,7 +164,11 @@
       <u who="CARBONE">Yeah.</u>
       <u who="BARBER">I felt like I was taking the wrong courses. I knew pre-med wasn’t for me, and so—I—yeah.</u>
       <u who="CARBONE">So you ended up majoring in geography. When did you kind of shift academic courses?</u>
-      <u who="BARBER">Well, it was the beginning of—either the first semester or second semester of my sophomore year. I was interested in history. I took a beginning history course, History 5, and after a week of that, I—I was so far behind in the reading, I knew this wasn’t going to work. And I had taken a—oh, this must have been sophomore—my second or third semester. I had taken a geography course and really liked it, and even though it was challenging, there wasn’t as much reading, and it was more memorization rather than interpreting history. So I decided to do that, not do history.</u>
+      <u who="BARBER">Well, it was the beginning of—either the first semester or second semester of my sophomore year. I was interested in history. I took a beginning history course, History 5, and after a week of that, I—I was so far behind in the reading, I knew this wasn’t going to work. And I had taken a—oh, this must have been sophomore—my second or third semester. I had taken a geography course and really liked it, and even though it was challenging, there wasn’t as much reading, and it was more memorization rather than interpreting history. So I decided to do that, not do history.
+
+I was still doing sports. Baseball was time consuming. Really enjoyed the southern baseball trip. Sophomore year. That winter term, I really had to turn it up a notch, and maybe that was my turning point at Dartmouth, because I had to take four courses to make up for flunking calculus.
+
+I did pretty well. I think I took an economics course. Really enjoyed that. And I forget my average, but I—I knew I could do it then. So to speak, the rest is history except the history major.</u>
       <u who="CARBONE">[Chuckles.] And what were other things you were—so you were on the soccer team, on the baseball team, and you were also a member of Phi Delta Alpha [also known as] Phi Delt?</u>
       <u who="BARBER">Correct. Yes. The soccer captain, my sophomore year was the captain of Phi Delt. Almost everybody I had met at the rush, I really enjoyed. I knew a couple of the frat— the sophomores that were joining, and it just seemed a good fit, and I really enjoyed my two and a half years at the fraternity.</u>
       <u who="CARBONE">Was that the kind of, like, the central, the foundation of your social life and extended group of friends?</u>
@@ -145,26 +177,44 @@
       <u who="BARBER">Yeah. And so, no, I hung out—for the most part, Monday through Friday or Sunday through Thursday, I was either actually studying somewhere or was at New Hamp Hall.</u>
       <u who="CARBONE">Mm-hm. </u>
       <u who="BARBER">And had many good friends there, and I still—still see maybe a half a dozen to 12 of those guys at a homecoming or at reunion.</u>
-      <u who="CARBONE">Wow. That’s—that’s amazing.</u>
+      <u who="CARBONE">Wow. That’s—that’s amazing.
+
+So in—so it would have been your sophomore fall in November of 1963, JFK [President John F. Kennedy] was assassinated. Do you remember that at all? some of the—</u>
       <u who="BARBER">Oh, I remember—</u>
       <u who="CARBONE">—political—</u>
-      <u who="BARBER">I remember where I was, but I was not really a political person. My parents were Republican, so for some reason I was glad [President Richard M.] Nixon won the election. I think our student body was 50-50 in high school, but I really didn’t follow his first a thousand days; I had other things on my—other things on my plate.</u>
+      <u who="BARBER">I remember where I was, but I was not really a political person. My parents were Republican, so for some reason I was glad [President Richard M.] Nixon won the election. I think our student body was 50-50 in high school, but I really didn’t follow his first a thousand days; I had other things on my—other things on my plate.
+
+With the 50th reunion, with the notes that people wrote about JFK’s death and how it affected them, I felt sort of weird or out of place because—not that—I didn’t blow it off, but I can say it probably didn’t affect me a whole lot.</u>
       <u who="CARBONE">Yeah. Were you aware of kind of the, like, political turmoil that was beginning to come about? And, like, you know, 1963 there’s the March on Washington [for Jobs and Freedom]. The Civil Rights Act is the following year. Was that at all on your radar or kind of outside of the college bubble?</u>
       <u who="BARBER">I was aware of the March on Washington because I had a cousin who was a political activist, and we got together one summer. She was trying to talk me into going, and she was explaining it. And quite a few of the—my friends in high school were African-American, so I was aware of the poverty. And my dad was basically an arch racist, so I grew—grew up—grew up with that. And to counteract that, I would pick the baseball team that had the most black players on it, which would have been the New York Giants [now the San Francisco Giants] and the football team that would have the most blacks. So, yes, I was well aware of the—the—the civil rights movement. But at Dartmouth, I did nothing—I didn’t take an activist role.</u>
       <u who="CARBONE">Yeah. You mentioned, I think, like, there was a baseball tour through the South?</u>
       <u who="BARBER">Yeah.</u>
       <u who="CARBONE">Was it something that kind of, like, confronted you, the, like, racism, or did you see or experience it in any way?</u>
-      <u who="BARBER">Most certainly. Every—every baseball team we played, like North Carolina State [University] or Old Dominion [University]—we never saw a black player. When we were at Duke [University]—obviously, they’re private so they could have taken a black player. I don’t think we saw a black player on any team on our southern tour. </u>
+      <u who="BARBER">Most certainly. Every—every baseball team we played, like North Carolina State [University] or Old Dominion [University]—we never saw a black player. When we were at Duke [University]—obviously, they’re private so they could have taken a black player. I don’t think we saw a black player on any team on our southern tour. 
+
+When we—I think it was my senior year, the one moment that stands out. Our captain, Barry Bachado, and I and about three other players went into a bar to watch the Kentucky all-white basketball team play Texas Western [College of the University of Texas at El Paso], an all-black basketball team. And during the entire game, the whites sitting around the bar, cheering for Kentucky, and the five of us were making quite a bit of loud noise for Texas Western. And after Texas Western won, we made a beeline out the door. The bill had been paid. We made the beeline out of the door, not wanting a confrontation that we knew we would lose.</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">Oh, and we were in ties—we were in ties and jackets, so it was obvious—because we had to wear ties and jackets wherever we went—it was obvious that we were probably northerners, and it would have been a good group of guys to beat up, so we hightailed it out of there.</u>
       <u who="CARBONE">[Chuckles.] Saving yourself in the game.</u>
       <u who="BARBER">So my three years there, I don’t think I saw one—one black baseball player. So, yeah. And we would comment on—every place we went. And obviously, I might have seen a black player—I mean, a black student at Duke, but certainly not at any of the other schools.</u>
       <u who="CARBONE">Were there African-American players on the Dartmouth teams?</u>
       <u who="BARBER">Not the baseball team. There were a couple of the football team. There were no blacks—no blacks in our fraternity, but we would have taken them. And some of the fraternities had blacks. But on the whole, I don’t think there were many African-Americans back then at Dartmouth.</u>
-      <u who="CARBONE">Yeah. Interesting.</u>
+      <u who="CARBONE">Yeah. Interesting.
+
+So your coach, [Alden H.] “Whitey” Burnham was the soccer coach while you were there?</u>
       <u who="BARBER">Yes.</u>
       <u who="CARBONE">And later, like, a pretty influential person in your life, so could you maybe just talk more about him, your time on his team and that experience?</u>
-      <u who="BARBER">Whitey—I don’t know how to describe him. He never swore. Always kept his cool. Had a dry—very dry sense of humor. He would have these little Whitey-isms that were as stupid as could be, but we would all—all laugh at them. He knew a great deal about soccer. Never talked about himself or being on an All-American soccer team, himself, at Springfield [College.] I think we were the first team in the United States that played a four-fullback system, and now everybody in the world plays it.</u>
+      <u who="BARBER">Whitey—I don’t know how to describe him. He never swore. Always kept his cool. Had a dry—very dry sense of humor. He would have these little Whitey-isms that were as stupid as could be, but we would all—all laugh at them. He knew a great deal about soccer. Never talked about himself or being on an All-American soccer team, himself, at Springfield [College.] I think we were the first team in the United States that played a four-fullback system, and now everybody in the world plays it.
+
+We enjoyed his practices. He was my type of coach. In senior year, after the practice, we would me, another player, and our goalies would practice our penalty kicks, in case. In case there was a penalty kick, one of us would have taken it. And that took an extra 20 minutes, so the four of us would—would kid around.
+
+I know he helped me be awarded the [Alfred E.] Watson Cup [sic; Trophy]. I didn’t stay in contact till 1970, but after I’d gotten—’69—after I’d gotten hurt, he had written a nice letter to my parents, after I had gotten hurt on the—on the—on the battlefield. And I went up to a Dartmouth soccer game, and we talked then. By then, [William S.] “Bill” Smoyer [Class of 1967] had been killed, so we—one of the soccer players that we—we were up there with Bill Smoyer’s parents, Whitey and myself, so that was a—that was a tough Saturday for all of us.
+
+And then over the years, we would write notes, or if I called, he would recognize my voice immediately. And then starting in, oh, 1990 I would probably be up at Dartmouth every two years or so, and we’d get together for dinner, see a soccer game. Once the Internet was easier to work, would talk on the Internet, would talk quite a bit.
+
+
+
+Now he’s just—just a great role model and really a father figure.</u>
       <u who="CARBONE">Mm-hm. And a fantastic coach. Your team was, like, quite successful under him.</u>
       <u who="BARBER">We had one good year, where we made the NCA[A National Collegiate Athletic Association] tournament if we had—</u>
       <u who="CARBONE">Yeah, 1964.</u>
@@ -180,12 +230,16 @@
       <u who="CARBONE">Was that [Richard W.] “Dick” Horton [Class of 1965]?</u>
       <u who="BARBER">No, that was [Stephen B.] “Steve” Dichter [Class of 1964].</u>
       <u who="CARBONE">Steve Victor [sic].</u>
-      <u who="BARBER">And my college roommate, my—his senior year, my junior year, Dick Horton—he was drafted by the [Baltimore] Orioles, one notch up the [unintelligible] on his bench, so somebody made a mistake there. And there was a junior, [Theodore W.] “Ted” Friel was drafted, so Tony—Tony had a knack for developing players. He knew pretty fast where to play somebody, how to make a pitcher—he usually liked to develop one senior pitcher a year that did the bulk of the pitching. Having played in the Major Leagues, himself, he knew a lot about hitting, so he helped develop hitters.</u>
+      <u who="BARBER">And my college roommate, my—his senior year, my junior year, Dick Horton—he was drafted by the [Baltimore] Orioles, one notch up the [unintelligible] on his bench, so somebody made a mistake there. And there was a junior, [Theodore W.] “Ted” Friel was drafted, so Tony—Tony had a knack for developing players. He knew pretty fast where to play somebody, how to make a pitcher—he usually liked to develop one senior pitcher a year that did the bulk of the pitching. Having played in the Major Leagues, himself, he knew a lot about hitting, so he helped develop hitters.
+
+Tony—Tony was the king. You never—you didn’t disagree with him. You did exactly what he said. I know he got in trouble with the administration for—for allowing alcohol on the buses for games that the teams would win,—</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">—so he was a player’s coach. He had a sense of humor.  He knew—he knew a heck of a lot about baseball. And tougher than nails. He had forearms twice the size of almost anybody else’s.</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">That tough guy came to see me in the VA hospital when he was down in Boston. Wrote a couple of letters. Now, it was fun playing with him. He had his faults, but don’t we all?</u>
-      <u who="CARBONE">Yeah.</u>
+      <u who="CARBONE">Yeah.
+
+So by the time you—you graduate in 1966—and your senior year, you were awarded the Watson Trophy?</u>
       <u who="BARBER">Correct.</u>
       <u who="CARBONE">And that is given to the best athlete? Can you—</u>
       <u who="BARBER">Yes. I did not—was not awarded the best student athlete, but the best—</u>
@@ -199,10 +253,14 @@
       <u who="BARBER">People ask me that. Well, you don’t play every game as a pitcher, and I was playing every minute as a soccer player, so I can’t—it’s like 50:50.</u>
       <u who="CARBONE">Yeah.</u>
       <u who="BARBER">So one—one moment, I think, Oh, God, baseball was fun, but then—or I was really good, but then my senior year, I go, Well, I was really a good soccer player, so it depends on my mood.</u>
-      <u who="CARBONE">Yeah. [Chuckles.] Great. Thank you.</u>
+      <u who="CARBONE">Yeah. [Chuckles.] Great. Thank you.
+
+So—yes. As I said, you graduate in June of 1966, and then you were married four days later?</u>
       <u who="BARBER">Yes, to a woman from Colby Junior College then [now Colby-Sawyer College] and went down to live in Philadelphia, as I was going to the University of Penn School of Education. </u>
       <u who="CARBONE">Yeah. Can you tell me a little bit more about kind of your thoughts as you were leaving college and what pushed your towards University of Pennsylvania?</u>
-      <u who="BARBER">Well, by then I’d decided that I’d go into counseling. I hadn’t even taken that many psychology courses at Dartmouth. But clearly I thought Penn was my first choice because I enjoyed Philadelphia so much. Quite a few guys were going down to Penn, or quite a few of the undergraduates at Penn that I knew were going on. So I knew—I knew the city, so it was—it was a safety net for me, one less thing to worry about.</u>
+      <u who="BARBER">Well, by then I’d decided that I’d go into counseling. I hadn’t even taken that many psychology courses at Dartmouth. But clearly I thought Penn was my first choice because I enjoyed Philadelphia so much. Quite a few guys were going down to Penn, or quite a few of the undergraduates at Penn that I knew were going on. So I knew—I knew the city, so it was—it was a safety net for me, one less thing to worry about.
+
+My thoughts globally about the war? I was pretty naïve about—and the more I see guys at reunions and we do talk about our experience at Dartmouth and our knowledge of what was going on, I was at the bottom end of knowing anything about the war or knowing about the draft process or, really—oh, and whether pro war, anti war. I guess there were a lot of bull sessions going on in various dorms or classes about the war, and whether if they, themselves, would fight. So I was at the—the bottom end of that. I was doing—doing other things, so I was pretty apolitical.</u>
       <u who="CARBONE">Yeah. Had you voted in 1964?</u>
       <u who="BARBER">I could not vote—</u>
       <u who="CARBONE">[Lyndon B.] Johnson and [Barry M.] Goldwater?</u>
@@ -210,7 +268,9 @@
       <u who="CARBONE">Oh. Mm-hm. Ah.</u>
       <u who="BARBER">In ’66 in Philadelphia, I went into the polling booth, and there was a lever there that you could pull for the entire Republican candidates, so I pulled the Republicans—and there were probably no ballot initiatives back then—so I was probably out of the booth pretty darn fast.</u>
       <u who="CARBONE">[Chuckles.] So you mentioned, though, kind of—[the] Vietnam War was beginning to enter conversation, and questions about the draft, so at the time when you decided to continued your education at University of Pennsylvania, there were still academic draft deferments.</u>
-      <u who="BARBER">Yes, there were, so I thought I was pretty safe. And I thought, Well, after getting a master’s, I’ll go on and get a Ph.D., then that’ll be a couple more years that I don’t have to worry about it, so—the thought of going into a National Guard office or [U.S. Army] Reserve unit never occurred to me. Obviously, they weren’t fitting the war or put in my—my service, so—I had friends that were doing that, or a lot of guys were doing that, and so I did not go. </u>
+      <u who="BARBER">Yes, there were, so I thought I was pretty safe. And I thought, Well, after getting a master’s, I’ll go on and get a Ph.D., then that’ll be a couple more years that I don’t have to worry about it, so—the thought of going into a National Guard office or [U.S. Army] Reserve unit never occurred to me. Obviously, they weren’t fitting the war or put in my—my service, so—I had friends that were doing that, or a lot of guys were doing that, and so I did not go. 
+
+Over the winter semester, I got a letter from my Buffalo draft board saying I could complete my—my year at Penn, but then I had to take an Army physical and my student deferment was—was dead.</u>
       <u who="CARBONE">And this was 1967.</u>
       <u who="BARBER">Yeah, January of ’67, December of ’66. So then—then my mind started to think. But once again, it wasn’t joining any Reserve or National Guard unit. The only thing that came to mind was back then, if you had a child, you were deferred, so being married, we gave it a five-month trial, of making a kid. That didn’t work out, so May of that year, I—well, no, I lost my deferment. Took an Army physical—I forget, in July or something like that. And so I—I—I was drafted.</u>
       <u who="CARBONE">Yeah. Did you have any, like, strong opinions about the war at that time, or were you informed? Did you have any idea what you were getting yourself into?</u>
@@ -234,7 +294,9 @@
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">They tried to put a little fear factor in there to make you train harder, but I thought it was pretty poor training.</u>
       <u who="CARBONE">Yeah. Was the advanced infantry training you mentioned also at Fort Dix?</u>
-      <u who="BARBER">Yes. Yeah, right in the winter, so I’m out and we’re outside in tents, with oil burners, snowing, crawling through the snow; on the machine gun range, lying down in the snow; and the whole time we’re thinking, Why don’t we go to Korea instead of Vietnam? Plus the [USS] Pueblo [AGER-2], which was a boat that got taken by the North Koreans then and there were hostages—there was talk of sending more troops into South Korea, so quite a few of us were hoping, Well, here we are. We’re in the snow. Maybe we’ll just be sent to South Korea.</u>
+      <u who="BARBER">Yes. Yeah, right in the winter, so I’m out and we’re outside in tents, with oil burners, snowing, crawling through the snow; on the machine gun range, lying down in the snow; and the whole time we’re thinking, Why don’t we go to Korea instead of Vietnam? Plus the [USS] Pueblo [AGER-2], which was a boat that got taken by the North Koreans then and there were hostages—there was talk of sending more troops into South Korea, so quite a few of us were hoping, Well, here we are. We’re in the snow. Maybe we’ll just be sent to South Korea.
+
+The training was better, but once again, they’d hit one subject for two days and then hit the radio for two days. Once again, more—more—more practice with different weapons, but not very thorough.</u>
       <u who="CARBONE">Yeah. Did it feel as if you were being, like, rushed to Vietnam?</u>
       <u who="BARBER">Yes. Looking around, most definitely, and from my reading since then, it’s—whether it was World War I or World War II or even the [American] Civil War, a lot of guys are thrown into the front after their initial training, and, like they show in the movies, nobody wants to hang around with what they call a newbie, because they’re just a danger to themselves and everybody else out there.</u>
       <u who="CARBONE">Mm-hm. So you do eight weeks of basic training, eight weeks advanced infantry training,—</u>
@@ -246,11 +308,17 @@
       <u who="CARBONE">Was it a select group of people from Fort Dix who were chosen to—were sent along to Fort Carson?</u>
       <u who="BARBER">No, I think—no, they probably had a certain number of, I would think, non-commissioned officers, but most of them were going to be the guys that graduated from infantry training that were going to be sent.</u>
       <u who="CARBONE">And so what did your training at Fort Carson consist of?</u>
-      <u who="BARBER">I’m thinking here. There was a quite a bit of training as—as a unit, coordination between artillery, infantry. We were out in the field again, out in the snow again, humping the mountains right—right around Fort Carson, working as a unit, getting to know the guys, getting to know your officers. </u>
+      <u who="BARBER">I’m thinking here. There was a quite a bit of training as—as a unit, coordination between artillery, infantry. We were out in the field again, out in the snow again, humping the mountains right—right around Fort Carson, working as a unit, getting to know the guys, getting to know your officers. 
+
+
+
+The training there was—was pretty good. I mean, we could function fairly well as a unit. Most of the leaders were good. Actually, the captain of our company that was there in Fort Carson just stayed at our place in Massachusetts for—for ten days with us, so—</u>
       <u who="CARBONE">Oh, wow!</u>
       <u who="BARBER">—I’ve been in touch with him over the last 20 years. But anyway, our training was good, learning about tanks and artillery. We were supposed to ride on the anti-personnel carriers, APCs. It was more or less a coordination, and we were going to do what the Marines told us to do, so after four months, they flew us all over, as a unit.</u>
       <u who="CARBONE">So tell me about that. Like, had you ever flown before?</u>
-      <u who="BARBER">Oh, yeah. My wife had joined me in Fort Carson for the four months, not that we saw a whole lot of each other, but I had the two weeks of R-—not R&amp;amp;R [rest and recuperation]—two weeks’ leave, so we—we hiked around the mountains of Colorado, national parks: Yellowstone [National Park], the Tetons [sic; Grand Tetons National Park], Glacier [National Park], so we had a good two weeks, which made getting on the plane more difficult.</u>
+      <u who="BARBER">Oh, yeah. My wife had joined me in Fort Carson for the four months, not that we saw a whole lot of each other, but I had the two weeks of R-—not R&amp;amp;R [rest and recuperation]—two weeks’ leave, so we—we hiked around the mountains of Colorado, national parks: Yellowstone [National Park], the Tetons [sic; Grand Tetons National Park], Glacier [National Park], so we had a good two weeks, which made getting on the plane more difficult.
+
+The flight was long. I can’t remember where we landed first, Wake Island or Guam, I forget. But I can remember seeing all the B-52s [Boeing B-52 Stratofortresses] on the island. And then we took another hop to the Philippines, and they were in the middle of a typhoon, so got soaking wet getting off that plane. And then landing in Da Nang [Air Base] in July of ’68. And then we took another hop from Da Nang to Quảng Trị [Combat Base], which was further north in I Corps.</u>
       <u who="CARBONE">Were you—I mean, you’d been through eight months of training at this point. Vietnam was in the news. You know, this was really, like, a national conversation. Were you prepared at all?</u>
       <u who="BARBER">Prepared for what I was going to see?</u>
       <u who="CARBONE">Mm-hm.</u>
@@ -288,7 +356,9 @@
       <u who="CARBONE">Mm-hm.</u>
       <u who="BARBER">Didn’t know enough about the Marines to—to answer that question. I’m sure the Marines were younger, but no, I would—I would be talking in generalizations.</u>
       <u who="CARBONE">Yep. So you show up in—in July you arrive in Vietnam. And did you immediately go to Con Thien [also known as A4, short for Alpha 4]?</u>
-      <u who="BARBER">No. No, I think we hung out in Quảng Trị for—I can’t remember—maybe three weeks so people could get used to the heat, and doing patrols. What we would do for the patrols, we would do little patrols—day patrols out around the—the—the—Quảng Trị. But it was called something else, Pedro or—I forget the name.</u>
+      <u who="BARBER">No. No, I think we hung out in Quảng Trị for—I can’t remember—maybe three weeks so people could get used to the heat, and doing patrols. What we would do for the patrols, we would do little patrols—day patrols out around the—the—the—Quảng Trị. But it was called something else, Pedro or—I forget the name.
+
+Anyhow, after maybe three, maybe four weeks we marched up to Con Thien,—</u>
       <u who="CARBONE">And this—</u>
       <u who="BARBER">—also called A4.</u>
       <u who="CARBONE">What was it called? Sorry?</u>
@@ -306,11 +376,15 @@
       <u who="CARBONE">Mm-hm. And so that was a typical day, uh, on the base.</u>
       <u who="BARBER">Yeah.</u>
       <u who="CARBONE">And then you said you would go out for seven days at a time?</u>
-      <u who="BARBER">Seven days—up to 21 days at a time. And that was totally different. For the most part, by nightfall you’re dug in. Either you dug a foxhole or put some sort of protection around you, probably put some sort of poncho tent up over you. Two-man units, one with a rifle, staying awake; hopefully, the other, sleeping. And changing every two hours. Eating cold C-Rations at night because you didn’t want to make a fire. Putting mosquito repellent on because sometimes the mosquitos were just too bad to even discuss.</u>
+      <u who="BARBER">Seven days—up to 21 days at a time. And that was totally different. For the most part, by nightfall you’re dug in. Either you dug a foxhole or put some sort of protection around you, probably put some sort of poncho tent up over you. Two-man units, one with a rifle, staying awake; hopefully, the other, sleeping. And changing every two hours. Eating cold C-Rations at night because you didn’t want to make a fire. Putting mosquito repellent on because sometimes the mosquitos were just too bad to even discuss.
+
+And then during the day, hotter than hell. Or once November hit, staying constantly wet for 14 days. So each day different because you’re wet, you’re dry. For the most part, we didn’t see any action. We’re finding bunkers. We might blow a bunker complex up so it can’t be used again. Checking out a village for weapons. We had an interpreter with us.</u>
       <u who="CARBONE">So this interpreter was a Vietnamese man?</u>
       <u who="BARBER">Yes, yes, we had a Vietnamese interpreter, and then we had—there’s a term, but he’s a North Vietnamese soldier, and he is—he turned and was working for us. But there’s a term, but I forget it. And two of them—actually, I hung out with the two of them quite a bit.</u>
       <u who="CARBONE">What were—what was your relationship with these two Vietnamese men like?</u>
-      <u who="BARBER">Well, with the North Vietnamese person who was married and had a couple of kids, we would just tease a lot. I’d call him “gook,” and he’d call me—I forget their term for—for us. A lot of teasing. He wanted to learn some English words. He’d listen to this Chinese—his music, and I’d give him grief about that. So there was a lot of teasing.</u>
+      <u who="BARBER">Well, with the North Vietnamese person who was married and had a couple of kids, we would just tease a lot. I’d call him “gook,” and he’d call me—I forget their term for—for us. A lot of teasing. He wanted to learn some English words. He’d listen to this Chinese—his music, and I’d give him grief about that. So there was a lot of teasing.
+
+The interpreter wasn’t really a soldier. More learned. Can’t even remember the conversations we had. He was very shy, very timid, probably 110—110 pounds. Can’t remember talking with him much, but with our interpreter—I mean, with our soldier bond and hanging around with him, and I go, Well, if this is a typical North Vietnamese soldier, we aren’t gonna win this war.</u>
       <u who="CARBONE">Really? </u>
       <u who="BERBER">Really.</u>
       <u who="CARBONE">Just because he—</u>
@@ -325,10 +399,14 @@
       <u who="BARBER">Oh, yeah. Yes. But I think by then, we really didn’t think of them as communist; we knew for the most part they weren’t—weren’t communists. And, no, like every army, we used our nicknames to dehumanize them, to make killing them easier, just like calling German[s] “Krauts” or Japs, “Nips.” So for the most part, it was fighting—excuse me for using this word, the “gook” and not really the communists.</u>
       <u who="CARBONE">Yeah.</u>
       <u who="BARBER">There was a bash—I mean, it was just a battle of survival. Everybody wanted to live. So you do what you’re doing, and it’s too bad they have to die and it’s too bad we have to die.</u>
-      <u who="CARBONE">Yeah. </u>
+      <u who="CARBONE">Yeah. 
+
+So you—you mentioned a number—that you were on a number of bases: Con Thien, Đông Hà [Combat Base], Quảng Trị and then also some fire bases?</u>
       <u who="BARBER">Right.</u>
       <u who="CARBONE">Can you maybe just give me a sense of, like, the timeline, if you have any sense of the timeline?</u>
-      <u who="BARBER">Sometimes we would go out to a fire base and stay there a couple of weeks. Which wasn’t bad duty other than everybody knew that you were there, because it’s a—it’s a small hill that they’d taken all the foliage off of. There’s a bunch of bunkers, and it has 175—oh, I forget what they call ‘em—oh! The fire shell. So that they’re around us, so it’s easy for the enemy to see where we are. Sometimes we would leave one—let’s say we’d leave LG Sharon and go to LG Pedro, and then we might come back to Sharon because it was—had been vacant and maybe the North Vietnamese had been there a couple of nights. So we were always—always changing position, always going back to where we were.</u>
+      <u who="BARBER">Sometimes we would go out to a fire base and stay there a couple of weeks. Which wasn’t bad duty other than everybody knew that you were there, because it’s a—it’s a small hill that they’d taken all the foliage off of. There’s a bunch of bunkers, and it has 175—oh, I forget what they call ‘em—oh! The fire shell. So that they’re around us, so it’s easy for the enemy to see where we are. Sometimes we would leave one—let’s say we’d leave LG Sharon and go to LG Pedro, and then we might come back to Sharon because it was—had been vacant and maybe the North Vietnamese had been there a couple of nights. So we were always—always changing position, always going back to where we were.
+
+One of our jobs out in the field was finding any unexploded 500-, 750-pound bombs, so we would have some demolition soldiers with us who would blow the bombs up so they couldn’t be booby-trapped by the enemy. Or unexploded shells from—from us that could be easily booby-tr[apped]. So that was—that was an important thing that we were out there doing also.</u>
       <u who="CARBONE">Did you—so it kind of sounds like you were moving and the North Vietnamese were moving but never necessarily, like, coming to a head?</u>
       <u who="BARBER">Exactly. There would be—everybody’s war is different, so I was never—until the final day that I got hurt, we really had not had head-on confrontation with the enemy. For the first seven months, we didn’t even have one of us killed—</u>
       <u who="CARBONE">Wow.</u>
@@ -354,7 +432,11 @@
       <u who="CARBONE">Mm-hm.</u>
       <u who="BARBER">The radio?</u>
       <u who="CARBONE">Mm-hm.</u>
-      <u who="BARBER">Let’s say it’s 14 inches by 14 inches. I don’t know how heavy it was, 25, 30 pounds. Normally I carried two batteries, which were, oh, small loaves of bread size. But we carried plastic so they wouldn’t get wet. I had a spare for myself and a spare for somebody in a different platoon, who was too stupid and let his battery get wet.</u>
+      <u who="BARBER">Let’s say it’s 14 inches by 14 inches. I don’t know how heavy it was, 25, 30 pounds. Normally I carried two batteries, which were, oh, small loaves of bread size. But we carried plastic so they wouldn’t get wet. I had a spare for myself and a spare for somebody in a different platoon, who was too stupid and let his battery get wet.
+
+And then the antenna that we carried is about three feet high, so you’re a target for the Vietnamese, but I would put my radio in my knapsack and then I would work the antenna down the front of my webbing, so I was trying to hide it from the Vietnamese.
+
+So my job was to keep the radio dry, talk to the three platoons in the company, and there’d be another person next to me, carrying a radio, that would be talking to battalion, so there’d be three or four companies that would talk to battalion. I would be carrying the radio that we used for company communications.</u>
       <u who="CARBONE">Mm-hm. And you said this was the radio of the captain?</u>
       <u who="BARBER">Yes, I carried the radio for the captain. So sometimes he’s talking or he’s asking me to talk to—so if we were going to call in artillery before we’d walk someplace—well, actually, that would be on the other radio, but if he’s sending out platoons to go in different directions, that’s the—that’s the radio that we would be using.</u>
       <u who="CARBONE">Was it—what was your relationship with this captain like?</u>
@@ -374,21 +456,55 @@
       <u who="CARBONE">So would you mind walking me through that?</u>
       <u who="BARBER">Sure. We came out of the field around March 23rd or so, and we knew we were going to part of this big operation up near the DMZ. </u>
       <u who="CARBONE">The demilirized—demilitarized zone.</u>
-      <u who="BARBER">Right. I was out playing Ping-Pong the night before we were supposed to leave, and the first lieutenant came in, and he was at a meeting at a battalion level. There were, like, four companies, 140 men, and so it was going to be bigger than—our battalion had a certain area to cover, and three captains were up there. And, like I said, our captain was on leave. So when our first lieutenant came in and told us what we were doing, it was, like, well, he was the low man on the totem pole, and we got the—the crap job, which was—he told us the night before, that they were going to blast the shit out of the hill and get rid of every tree and piece of vegetation on it, and then we were going to—they were going to land us on top of the hill. We were just supposed to stay there, I guess. I’m not sure quite what we were supposed to do. Maybe go to the rescue of one of the other companies if something happened.</u>
+      <u who="BARBER">Right. I was out playing Ping-Pong the night before we were supposed to leave, and the first lieutenant came in, and he was at a meeting at a battalion level. There were, like, four companies, 140 men, and so it was going to be bigger than—our battalion had a certain area to cover, and three captains were up there. And, like I said, our captain was on leave. So when our first lieutenant came in and told us what we were doing, it was, like, well, he was the low man on the totem pole, and we got the—the crap job, which was—he told us the night before, that they were going to blast the shit out of the hill and get rid of every tree and piece of vegetation on it, and then we were going to—they were going to land us on top of the hill. We were just supposed to stay there, I guess. I’m not sure quite what we were supposed to do. Maybe go to the rescue of one of the other companies if something happened.
+
+So I had a couple more beers because I knew this wasn’t going to be good. I went back and wrote a letter to my wife and said—oh, it was probably four pages, but then at the end I said, “This is really bad. We’re gonna get the shit handed to us,” blah, blah. I can’t believe how pessimistic this letter was. I went up that night and mailed it, but I woke up the next morning, and I said, Oh, jeez, what have a done?
+
+So I wrote another letter and said things were cool. They landed us on top of the hill. It was not nearly as bad as I had thought, so ignore my first letter, and went off and mailed that.
+
+So it was about 95 degrees outside, and we were told that—and I’d always worn my flak vest. I probably wore it more than anybody else. But they said—it was 95, and I was carrying all the—the radio, two batteries, and then they said, if we had to walk off the hill, we had to walk it off with our flak vest on. They weren’t going to pick those up with the helicopter.
+
+So I said, Shit, I can’t do that. I didn’t wear my flak vest. So we get on the helicopters. There are about three helicopters circling this hill, but it’s—it’s on fire from all the artillery that had blasted this hill, so we went back to Quảng Trị, I guess, landed and waited an hour. It might have been 11 o’clock then. Might have waited two hours; I’m not sure.
+
+So then they—I think they just sent two helicopters up, and two helicopters landed on the hill, and there were quite a few bunkers that were on the hill. I remember that. There were trees with limbs that were still burning. And so everybody scattered off. I followed the first lieutenant. I don’t know where he went. He was sort of on top of the hill, and everybody scattered around.
+
+And we did have a spotter plane up in the sky that I was talking to. Nothing was—nothing was happening except people trying to find a place that wasn’t on fire, that was somewhat safe. And the two helicopters went back to pick up more—more—more troops. But I don’t think we were up there very long until I was talking to the pilot up—up there in the spotter plane, and he said, “Have you had any mortar fire?” And I—as I said in my article, I said, “No.” And it couldn’t have been five seconds later where there’s this huge explosion behind me, and I’m thrown up into the air, and I land on my helmet and knees with the radio on my back. I realized right away that I can’t move, so I can’t talk to the pilot, but it didn’t take a genius to figure out that the North Vietnamese had sent mortars ahead of time and had the hill marked for various sectors, and seeing two radios or seeing a group of people, actually, they figured that that was the—what we call a CP, command post—I guess that’s short for.
+
+
+
+So, they knew that the first—the first mortar was going to land on the communication and the lieutenant’s site. So I know I’m hit. I know I’m paralyzed. For the next three, four hours, we’re peppered with mortar fire, small arms fire. Jets are making lots of sorties, dropping bombs where they think they can see the mortar fire. I really don’t know what’s happening, although they are using my radio, which was right next to me.
+
+So we are getting peppered. It’s getting hotter. At one point, they do turn me on my back, so with a spinal cord injury, that probably wasn’t the most helpful thing in the world, but were trying to survive—not—make sure I’m not hurt more.
+
+
+
+So eventually, the—the—I think they do land another helicopter or two. I’m not quite sure about that. It could have been just the first—no, in retrospect, I don’t think they landed another helicopter, because if they’d landed another helicopter and that took a hit, then they’re not going to get any more helicopters on this hill.</u>
       <u who="CARBONE">Mm-hm.</u>
-      <u who="BARBER">The first helicopter that came in was—wasn’t really a medevac [medical evacuation]; it was just another troop ship that was being used as a medevac, so that was probably the first—first helicopter that landed troops, and they were able to throw, I don’t know, four or five of the most seriously wounded onto the helicopter.</u>
+      <u who="BARBER">The first helicopter that came in was—wasn’t really a medevac [medical evacuation]; it was just another troop ship that was being used as a medevac, so that was probably the first—first helicopter that landed troops, and they were able to throw, I don’t know, four or five of the most seriously wounded onto the helicopter.
+
+So they picked me up. I hold my head and neck and get thrown on the helicopter. Probably not thrown. And I—I just know I’m going to see a flash of explosion from a mortar round. The two machine guns on the helicopter are going non-stop, and the helicopter does take off, and I’m lifted off the hill for a short ride to the triage tent I assume at Quảng Trị. I think I’ve stayed awake the entire time, but after a while, I’m staying awake, but I’m not—I’m not seeing much.</u>
       <u who="CARBONE">Yeah.</u>
-      <u who="BARBER">And on the helicopter, I’m seeing—I’m seeing, for the most part, what’s happening. They take me off the helicopter into a unit, and they’re asking me a bunch of—of questions that I answer all in the positive: Who am I, blah, blah, am I married, where am I from—the standard stuff that’s making no sense to me. So they’re obviously taking off all my clothes to see what’s happened. </u>
+      <u who="BARBER">And on the helicopter, I’m seeing—I’m seeing, for the most part, what’s happening. They take me off the helicopter into a unit, and they’re asking me a bunch of—of questions that I answer all in the positive: Who am I, blah, blah, am I married, where am I from—the standard stuff that’s making no sense to me. So they’re obviously taking off all my clothes to see what’s happened. 
+
+So I’m there, and I’m taken by helicopter to a hospital ship, and I don’t know, I’m there seven—seven, nine days, I guess. Don’t remember much there. I think they were keeping me under. About the only thing I remember is that a tape from WBZ[-TV] in Boston that somebody was running the entire time, with music or what was going on. I did see one guy that I was wounded with. He came down, and we talked for a while.
+
+Then I went to Japan. I’m with it those—those four days, five days, on our unit that’s mostly brain injuries, so the time I’m on a gurney for tests, I’m going by soldiers who I’m seeing metal plates or bandages around or seeing into brains, too, that they couldn’t—the brain was too swollen to work on. So a bunch of pretty depressing ward.</u>
       <u who="CARBONE">Yeah.</u>
       <u who="BARBER">I believe I saw some cherry trees in blossom on my way to x-ray, so they take me to a house the last day, or something that looks like a house. I watched the movie, The Graduate. They fly me to the States through Alaska to [Washington] D.C., then I spend a night in D.C., talk to my wife. I think I talked to my family in Buffalo. And then I’m flown to Boston and taken to Chelsea Naval Hospital, where I was for probably five weeks or so.</u>
-      <u who="CARBONE">Mm-hm. </u>
+      <u who="CARBONE">Mm-hm. 
+
+Going back to the beginning, when you were talking about when you were on the hill and then a helicopter comes in and picks up the most severely wounded, do you have any idea of how many people were wounded that day?</u>
       <u who="BARBER">I do. I looked it up, and there were eight killed in our company. There were a lot more killed in other companies. And perhaps 20 wounded.</u>
       <u who="CARBONE">And you mentioned—so you were injured, and then it was a number of hours before—</u>
       <u who="BARBER">Right.</u>
       <u who="CARBONE">—you were able to be removed, lifted from the area. What was your thought process? What were you thinking?</u>
-      <u who="BARBER">Well, the thought process was my uncle broke his neck, so—and he was walking around, so I figured, My neck’s broken, so there’s a chance I’ll walk again. Thought process is: I gotta get off this hill. I am talking to guys that I’m hearing, “So-and-so’s dead” or “So-and-so’s wounded” or mortar rounds going off and there’s a bunch of swear words; the lieutenant saying, “Well, we can’t get”—we were getting updates. I could see some jets go by, dropping bombs, so that’s when I was on my back. So I was—I was hearing everything that was going around. Every now and then, I was taking little bits of shrapnel here and there that I really wasn’t aware of but sooner or later I found out were in my skull or in my chest, just really fragments, and I mean small.</u>
+      <u who="BARBER">Well, the thought process was my uncle broke his neck, so—and he was walking around, so I figured, My neck’s broken, so there’s a chance I’ll walk again. Thought process is: I gotta get off this hill. I am talking to guys that I’m hearing, “So-and-so’s dead” or “So-and-so’s wounded” or mortar rounds going off and there’s a bunch of swear words; the lieutenant saying, “Well, we can’t get”—we were getting updates. I could see some jets go by, dropping bombs, so that’s when I was on my back. So I was—I was hearing everything that was going around. Every now and then, I was taking little bits of shrapnel here and there that I really wasn’t aware of but sooner or later I found out were in my skull or in my chest, just really fragments, and I mean small.
+
+They were peppering us constantly with the smaller mortars, I think, 60-millimeter mortars, but they had been the larger—I think they were 120 millimeters. We would have gotten blasted off the hill, or if they had used—if they had used rockets, that would—it would really have been bad. So there was no rocket fire, either.</u>
       <u who="CARBONE">Yeah. So from—oops, sorry.</u>
-      <u who="BARBER">I was just going to say, thought process was survival and trying—trying to keep an update on what was going on.</u>
+      <u who="BARBER">I was just going to say, thought process was survival and trying—trying to keep an update on what was going on.
+
+</u>
       <u who="CARBONE">Yeah, so you were very much, like, aware of where you were,—</u>
       <u who="BARBER">Oh, yeah.</u>
       <u who="CARBONE">—time that was passing.</u>
@@ -404,7 +520,9 @@
       <u who="CARBONE">Yeah. When was the first time that you spoke with your family, spoke with your wife?</u>
       <u who="BARBER">I talked to my wife probably the second day. She had gotten a letter that—no, I guess the phone call that she got. Hell, she didn’t even know what it meant to be a quadriplegic, so she had to get some help on that one. So whether we talked more than once, I’m not sure. Probably did talk twice, but phone calls back then weren’t all the easy to Japan to Boston.</u>
       <u who="CARBONE">Yeah. Did you fully—you said your wife kind of needed some help in understanding what had happened, what it meant to be a quadriplegic. Were you, like, being kept updated medically and stuff like that? Did you understand?</u>
-      <u who="BARBER">No, I think I was probably afraid to ask, and maybe the third day, there was a really great doctor, and he came along and said—asked do I have any questions or anything. “Yeah,” I said, “I don’t know anything.” And then he explained to me that, well, your spinal cord is severed, so you’ll never walk again.” So there went any hope of being this tough guy and getting rehabbed and getting back to the, quote, “normal life.”</u>
+      <u who="BARBER">No, I think I was probably afraid to ask, and maybe the third day, there was a really great doctor, and he came along and said—asked do I have any questions or anything. “Yeah,” I said, “I don’t know anything.” And then he explained to me that, well, your spinal cord is severed, so you’ll never walk again.” So there went any hope of being this tough guy and getting rehabbed and getting back to the, quote, “normal life.”
+
+So we discussed that, what I could or couldn’t do in the future, and he tried to be upbeat, saying I had the education, I had the brain—I didn’t lose my brain there. So he tried to be upbeat. Real nice guy. So I started to synthesize all that. I had no visitors, and I wasn’t talking to anybody in the wards, and obviously I couldn’t read a book or listen to the radio. Hopefully, I slept most of the time.</u>
       <u who="CARBONE">Yeah. Were you—like, what were your thoughts at this point about what would—like, what was coming, what it would be like to return to the United States, what it would be like to go through rehab and recovery?</u>
       <u who="BARBER">I probably had absolutely no thoughts on that. I think I was—I think I was going day by day, I wanted to get back there, and every now and then—I think it got pushed back a day, and I had a serious nose bleed, and they said I couldn’t fly if that didn’t stop, so I’m worried about that. I just—I knew once I got back to the States that at least I’d see my wife and maybe things would change. I wasn’t—probably wasn’t even thinking about rehab or being this—this tough guy.</u>
       <u who="CARBONE">Yeah.</u>
@@ -438,7 +556,9 @@
       <u who="CARBONE">Mm-hm. By the time you began socializing, you mentioned that you were up in a chair. Do you think—had your mental state improved at all?</u>
       <u who="BARBER">Well, I was depressed but didn’t know I was depressed. One of those things?</u>
       <u who="CARBONE">Mm-hm. </u>
-      <u who="BARBER">But thinking back on it, I really didn’t push myself in physical therapy or push myself in building up my stamina in the wheelchair. I don’t think I read much. And just watched a bunch of TV. Didn’t do much occupational therapy, whatever that really means. I probably spent 45 minutes a day in physical therapy, but not on the weekend, so there was a lot more I could have done and probably a lot more I could have done to get out of the hospital faster.</u>
+      <u who="BARBER">But thinking back on it, I really didn’t push myself in physical therapy or push myself in building up my stamina in the wheelchair. I don’t think I read much. And just watched a bunch of TV. Didn’t do much occupational therapy, whatever that really means. I probably spent 45 minutes a day in physical therapy, but not on the weekend, so there was a lot more I could have done and probably a lot more I could have done to get out of the hospital faster.
+
+When the psychologist came up, I said, oh, I was fine. “I’m not depressed.” And he bought it, so that took care of any talk with a therapist.</u>
       <u who="CARBONE">Were you thinking at all about what your future looked like, or very much kind of—</u>
       <u who="BARBER">I think I was.</u>
       <u who="CARBONE">Yeah.</u>
@@ -450,20 +570,32 @@
       <u who="CARBONE">Mm-hm.</u>
       <u who="BARBER">So March first, I’m out. So we hung around Boston for a couple of months before we took off.</u>
       <u who="CARBONE">And what were your thoughts about the Vietnam War at this point? There was still men being drafted.</u>
-      <u who="BARBER">Well, there’s the lottery had started. There were men being drafted. There were protests. My—my wife hung out with the linguistics department at MIT [Massachusetts Institute of Technology], and she knew [A.] Noam Chomsky, and her uncle worked with Chomsky, and so she was—she was a part of the Vietnam movement. I went to the big Common rally against the Vietnam War. So I was thoroughly against the war, and it wasn’t till I got to California when I really did some antiwar stuff. </u>
+      <u who="BARBER">Well, there’s the lottery had started. There were men being drafted. There were protests. My—my wife hung out with the linguistics department at MIT [Massachusetts Institute of Technology], and she knew [A.] Noam Chomsky, and her uncle worked with Chomsky, and so she was—she was a part of the Vietnam movement. I went to the big Common rally against the Vietnam War. So I was thoroughly against the war, and it wasn’t till I got to California when I really did some antiwar stuff. 
+
+But by then—or just the whole time I’m in the VA, I’m against the war. And the My Lai [Massacre] incident had happened, and that made us look even worse, so that was on the news. That was on the news a lot. I don’t know if the trial was going on, but—so that was being on the TV, and it made us look even—made the war look even worse, so I knew it was a lost cause then.</u>
       <u who="CARBONE">Yeah. Do you think your personal experiences played a large part in your perspective on the war, or was that also largely due to just the evolution of the information that was coming out about the war and the direction that it was taking?</u>
       <u who="BARBER">I think my personal experiences being over there—saw that this was a no- —it was a no-win—I mean, I was nowhere near [the Battle of] Hamburger Hill, but they would take a hill like Hamburger Hill, lose 70 or 80 people, and then leave the hill the next—within—with the week. It was, like, why fight it in the first place? The way they were fighting it just was not working. “Search and destroy” was one phrase. “Vietnamization” was another. Cambodia was starting to get bombed illegally.</u>
       <u who="CARBONE">Yeah, invasion, 1970.</u>
-      <u who="BARBER">Lots of lies was coming to the forefront. Everything was falling apart slowly, which—</u>
+      <u who="BARBER">Lots of lies was coming to the forefront. Everything was falling apart slowly, which—
+
+Oh, as a side thought, I did vote for Nixon in ’68, one of my many mistakes in life.</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">Anyway, so that—</u>
-      <u who="CARBONE">So that would have been—yup.</u>
-      <u who="BARBER">We landed in the East Bay of—across from Oakland and San Francisco. I went over to Stanford [University] for an interview for a Ph.D. program. Went right to the—because it was late. I went straight to the dean that a friend of a friend knew, that got me an interview, and he said, “Well, I don’t see any reason why we can’t take you for this program.”</u>
+      <u who="CARBONE">So that would have been—yup.
+
+So you leave the VA in early 1970, and you’re in Boston briefly before moving to California? And you mentioned that your wife’s family was from there? So when did you guys—where did you guys land?</u>
+      <u who="BARBER">We landed in the East Bay of—across from Oakland and San Francisco. I went over to Stanford [University] for an interview for a Ph.D. program. Went right to the—because it was late. I went straight to the dean that a friend of a friend knew, that got me an interview, and he said, “Well, I don’t see any reason why we can’t take you for this program.”
+
+So my wife and I packed up our Chevy Impala and drove across the country, perhaps starting in July and—to pick up our stuff in Boston, because we had just traveled out of three or four suitcases when we drove westward. So I think somewhere in the Midwest, Stanford called and said, “No, we can’t take you.” So, Oh, great.
+
+So we packed up—</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">—drove to Boston, packed up our stuff anyway and drove to California, not knowing what we were going to do. And so living with her parents wasn’t much fun. Moved over to the other side of San Francisco Bay and rented a place in Palo Alto that was two seventy-five [$275] a month. And that’s when I began my antiwar—oh, going into classrooms at high schools or colleges, giving my speech with John [F.] Kerry and Senator [Alan M.] Cranston at the Stanford chapel in the winter of 1970. So I was doing that, showing up at these demonstrations, so that was taking up a lot of my time from September to, I don’t know, I guess March of ’70. And then I had a call from somebody from the Social Security office who had gone up to Stanford and looked at applications. Probably illegal.</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">But he gave me a call and said, “Well, I saw your name up there and thought, well, would you like to work?” Work. I said, “Hell, yes.” I hadn’t really gone for many job interviews, maybe one other. “Sure, I’ll take the Civil Service test. So I went down, took the Civil Service test with all this other stuff going on, and I guess was told I was hired in June of ’70. [Makes “thinking” sounds.] Losing—losing track here. That was ’70 that I—yeah, so it was ’71 then so I started to work for Social Security [Administration], in July of ’71. So my antiwar stuff came to a halt because I was working—working eight hours a day and that was full time in itself.</u>
-      <u who="CARBONE">Yeah.</u>
+      <u who="CARBONE">Yeah.
+
+So going back to when you first become involved with the antiwar movement, you’re in Palo Alto, and you mentioned you were going into classrooms—high school, college—and giving, like, slide presentations. Was this with Vietnam Veterans Against the War?</u>
       <u who="BARBER">Yeah. I was the only one—I mean, in the classroom. But, yes, I was a member of the organization. I guess some of my gigs were—the colleges probably called up Vietnam Vet, and then they’d give me a call and say, “Do you want to do it?” So I would do it. And—</u>
       <u who="CARBONE">And how did you first get—oop.</u>
       <u who="BARBER">Go ahead.</u>
@@ -519,17 +651,29 @@
       <u who="CARBONE">So you begin working for the Social Security Administration.</u>
       <u who="BARBER">Right.</u>
       <u who="CARBONE">What were you—what were you doing? [Chuckles.]</u>
-      <u who="BARBER">Oh, for the most part, I was taking claims or applications from retired, disabled persons. I became a supervisor after a couple of years, and then Social Security doubled in size when it took over the federal SSI program, Supplemental Security Income for aged, blind and disabled adults. So for the next 35 years, I worked in one or the other program, for the most part in the claims process, always not accepting requests to go back to Baltimore in a higher-paying job or changing my job description back in Baltimore, which was the headquarters.</u>
+      <u who="BARBER">Oh, for the most part, I was taking claims or applications from retired, disabled persons. I became a supervisor after a couple of years, and then Social Security doubled in size when it took over the federal SSI program, Supplemental Security Income for aged, blind and disabled adults. So for the next 35 years, I worked in one or the other program, for the most part in the claims process, always not accepting requests to go back to Baltimore in a higher-paying job or changing my job description back in Baltimore, which was the headquarters.
+
+I sort of enjoyed being in northern California after moving out of Palo Alto, moving up to Santa Rosa. We were sort of in the farm country, near Sonoma, in Santa Rosa and couldn’t get any better than that, so I was happy with just having two kids, wife and doing a little coaching, a little volunteer work, and just having fun doing that.</u>
       <u who="CARBONE">Mm-hm. Did you maintain your political activism and involvement with Vietnam Veterans Against the War?</u>
       <u who="BARBER">Nope, after nineteen seventy- —probably 1972, my activism came to a halt. I think working for the federal government and doing that—I can’t remember whether it was illegal or frowned upon, so—</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">I would have to check on that. Or either I didn’t have the time, I was a little nervous about doing it, or life was getting further complicated. Now, maybe saw that we were pulling out and on a timeframe. I think the activism was dying out, if I remember correctly.</u>
       <u who="CARBONE">Yeah. Were you involved with other, like, veterans groups of any sort or—</u>
-      <u who="BARBER">No. And that’s probably one—one regret that I have had. I stayed out of Veterans of Foreign Wars. I stayed out of meetings. I stayed out of going to hospitals or putting—putting my name on lists to go talk to—to, I don’t know, disabled vets or vets with problems or going to the—what do you call it? The vets hall in Santa Rosa. I don’t know—I don’t have a good reason why. I was then—I’m not that outward going. I was content the way things were, so I sometimes—</u>
-      <u who="CARBONE">Mm-hm. </u>
+      <u who="BARBER">No. And that’s probably one—one regret that I have had. I stayed out of Veterans of Foreign Wars. I stayed out of meetings. I stayed out of going to hospitals or putting—putting my name on lists to go talk to—to, I don’t know, disabled vets or vets with problems or going to the—what do you call it? The vets hall in Santa Rosa. I don’t know—I don’t have a good reason why. I was then—I’m not that outward going. I was content the way things were, so I sometimes—
+
+Oh, one of the reasons probably is the work I did—once people see what type of person you are, they latch on you, and when they latch on you, next thing they’re asking you to do more and more things, and with my volunteer activities in the town I was living—school board, soccer board—I just didn’t want to be pulled in too many directions.</u>
+      <u who="CARBONE">Mm-hm. 
+
+Is there—like, do you think you’ve had a unique experience being a veteran who also is fairly visibly injured from your service?</u>
       <u who="BARBER">Do I feel what?</u>
       <u who="CARBONE">Do you think that’s a unique experience or you have kind of a unique relationship with people?</u>
-      <u who="BARBER">Yes and no. I think everybody’s war is different. Everybody’s experience, once they get off of the war, out of the service is different. If somebody feels bad they didn’t go to war or that they escaped their draft. Do I feel unique being disabled at Dartmouth? Heck, no. </u>
+      <u who="BARBER">Yes and no. I think everybody’s war is different. Everybody’s experience, once they get off of the war, out of the service is different. If somebody feels bad they didn’t go to war or that they escaped their draft. Do I feel unique being disabled at Dartmouth? Heck, no. 
+
+There’s a classmate of mine who was paralyzed freshman year at a lacrosse banquet, and he graduated from Dartmouth I think in the Class of ’69. He’s still alive. He’s an architect in San Diego. He’s a higher quad than I am. So here’s somebody in my class, who’s gone to more school than I have, who’s probably had a more difficult time with his disability than I have, so just when I start feeling unique and special, there’s somebody in my class that’s done more than I have, so—
+
+
+
+Now, especially when you—there’s always somebody bigger, stronger, faster or he’s done more than you. I do not feel unique. My kids might think me unique, maybe a friend or two, but I’m more of an oddball than anything.</u>
       <u who="CARBONE">[Chuckles.] Was this classmate—I don’t know his name—was he a resource to you when you first return from Vietnam?</u>
       <u who="BARBER">Never, ever. Nobody ever knew what happened to him. And I might be wrong, but I think he sort of pulled back from our class, and his rehab took longer, so no. And actually, the president of our class once came up to me and said, “Whatever happened to [Charles W. [“Duke] “Chuck” Oakley?” And I said, “I don’t have a clue.</u>
       <u who="CARBONE">[Chuckles.]</u>
@@ -552,10 +696,14 @@
       <u who="BARBER">Well, a Donut Dolly was—some people think they’re candy-stripers, that they’d just go to hospitals and wear these cute little dresses, but they would be attached to Marines, and they would go out to the fire bases and do what was needed: play games with vets, help write letters, talk to vets, just so—I don’t mean vets, Marines—just to be there for them and just be somebody from the real world. So you can Google it and get a better description. But they did more than just stay behind the lines and be cheerleaders.</u>
       <u who="CARBONE">Yeah.</u>
       <u who="BARBER">I think one was even killed in action, but um, no. So it’s weird that here she was in Vietnam a year before he was.</u>
-      <u who="CARBONE">Mm-hm. Certainly.</u>
+      <u who="CARBONE">Mm-hm. Certainly.
+
+Have you had much to do, much involvement with the VA and VA hospitals since the ’70s ?</u>
       <u who="BARBER">Oh, God, yes! I tried to avoid the VA for, I don’t know, 15 years. When we moved to Palo Alto, I would go to the hospital every six months because they told me to, ran me through a bunch of urological tests, and I’m seeing residents, and I’m going, Other than getting a few medical prescriptions, they’re not doing crap for me. So—</u>
       <u who="CARBONE">[Chuckles.]</u>
-      <u who="BARBER">So [for], like, 15 years, they had a process. They would just resupply me with meds—I mean, nothing serious—and not see me. And then I forget when someone came in charge and said, “Well, if we’re going to give meds to vets, we are going to make a requirement that we see them once a year and evaluate them.” So the VA that I went to, Palo Alto, which had a spinal cord unit, once this program started, did, I thought, a pretty good job seeing me once a year and seeing if I had any physical problems, mental problems, problems of any sort. And they kept me supplied with wheelchairs or cushions. The tests they gave me were appropriate. </u>
+      <u who="BARBER">So [for], like, 15 years, they had a process. They would just resupply me with meds—I mean, nothing serious—and not see me. And then I forget when someone came in charge and said, “Well, if we’re going to give meds to vets, we are going to make a requirement that we see them once a year and evaluate them.” So the VA that I went to, Palo Alto, which had a spinal cord unit, once this program started, did, I thought, a pretty good job seeing me once a year and seeing if I had any physical problems, mental problems, problems of any sort. And they kept me supplied with wheelchairs or cushions. The tests they gave me were appropriate. 
+
+So I had no problems with the VA other than one incident where I—I never really got along with the chief of the unit, but I never really had to see him much. But he promised to coordinate a urological procedure for me, and he told me he was going to do it, and he ended up having a resident do it that sort of butchered me.</u>
       <u who="CARBONE">OH!</u>
       <u who="BARBER">I bled out a couple pints, and—</u>
       <u who="CARBONE">Wow.</u>
@@ -564,7 +712,9 @@
       <u who="BARBER">Oh, there’s some bad ones. God knows the one I was in was horrible in the ’70s. I think they’re getting better.</u>
       <u who="CARBONE">Yeah. Yeah, I would say not much can be worse than what you experienced at Chelsea.</u>
       <u who="BARBER">Right. There’s a beginning scene in the movie, Coming Home with [Jonathan V.] “Jon” Voigt, where he’s in a VA hospital, and I think they filmed it in Long Beach. I’m not sure. But that VA I think had a reputation of being almost the worst in the country, just because they had so many vets there. Anyway, there’s a—there’s also a couple of good scenes where he talks to classrooms, so it’s one of my favorite Vietnam movies. So anyway, that’s neither here nor there.</u>
-      <u who="CARBONE">[Chuckles.] No, no, everything is—everything is good.</u>
+      <u who="CARBONE">[Chuckles.] No, no, everything is—everything is good.
+
+Do you think that the relationship of the American public with veterans—have you seen it change over the past decades?</u>
       <u who="BARBER">Yes. It would be hard not to be—yeah, everybody thanks vets for their service, and it’s not condescending, either. I don’t know when that change took place, probably starting in ’91, with the Kuwait War [sic; Persian Gulf War] and the wounded veterans that brought veterans back into light after Vietnam. And then when everybody started to talk about the Vietnam reception—it was so poor that the public wasn’t going to let that happen again. So ever since ’91, there’s been not much wrong with the way the public looks at veterans.</u>
       <u who="CARBONE">Mm-hm. Were you subjected to that pretty cold welcome that many veterans received?</u>
       <u who="BARBER">Never. No. Obviously, I came home in a sheltered hospital, so there wasn’t—if there was anybody protesting where I landed, I wouldn’t have seen it. Nobody protested Boston. They aren’t going to—they were against the war, not the veterans. So I was never subjected to it. My only experience is when I was protesting against the war and we were trying to get into a veterans’ cemetery, some National Guard tried to put a bayonet next to me so I couldn't go any further, but other than that, it never happened for me.</u>
@@ -572,7 +722,9 @@
       <u who="BARBER">No, not for me. That was the only time that there was—I was in a major protest. Whether it was Veterans Day or something, we were marching for the cemetery. They were told—they were like the policemen today: “You’re not passing this line.”</u>
       <u who="CARBONE">Yeah.</u>
       <u who="BARBER">So I went forward a bit more. This poor guy didn’t know what to do, so—I mean, he wasn’t going to hurt me. I knew that. But it was—it was interesting. Another experience. We just turned around, and we probably stood there or something.</u>
-      <u who="CARBONE">Mm-hm. Great.</u>
+      <u who="CARBONE">Mm-hm. Great.
+
+I know—I mean, I don’t have any more questions. Is there anything that you feel I left out or you’d love to include?</u>
       <u who="BARBER">Like I said, the only thing I’d like to say is everybody’s experience is different. Everybody’s PTSD [post-traumatic stress disorder] is different. Everybody’s non-vet experience is different. So you have to—you have to collect a whole bunch of information to come up with any type of—</u>
       <u who="CARBONE">[Chuckles.]</u>
       <u who="BARBER">—what war is like or what the VA is like.</u>
@@ -585,7 +737,9 @@
       <u who="CARBONE">[Chuckles.] Oh, thank you so much.</u>
       <u who="BARBER">Okay!</u>
       <u who="CARBONE">It’s been fascinating to hear you talk, and thank you so much for taking three hours to listen to me ramble.</u>
-      <u who="BARBER">No problem. Thanks very much.</u>
+      <u who="BARBER">No problem. Thanks very much.
+
+[End of interview.]</u>
     </body>
   </text>
 </TEI>

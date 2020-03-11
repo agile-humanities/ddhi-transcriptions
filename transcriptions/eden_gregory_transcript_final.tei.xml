@@ -45,8 +45,8 @@
         <language ident="en-us">English</language>
       </langUsage>
       <particDesc>
-        <person xml:id="EDEN"/>
         <person xml:id="FARKAS"/>
+        <person xml:id="EDEN"/>
       </particDesc>
       <settingDesc>
         <setting>
@@ -58,7 +58,11 @@
   </teiHeader>
   <text>
     <body>
-      <u who="FARKAS">This is the Dartmouth Vietnam Project. My name is Sandor Farkas, and I’m talking to Charles Gregory [H.] Eden. I’m in Webster Hall in the Dartmouth College campus, and it is January 28th, 2016.</u>
+      <u who="FARKAS">This is the Dartmouth Vietnam Project. My name is Sandor Farkas, and I’m talking to Charles Gregory [H.] Eden. I’m in Webster Hall in the Dartmouth College campus, and it is January 28th, 2016.
+
+
+
+So I was wondering if you could tell me where you were born, and in what year.</u>
       <u who="EDEN">I was born in Iowa City, Iowa, in 1944.</u>
       <u who="FARKAS">Now, what were your parents’ names?</u>
       <u who="EDEN">Charles [H.] and Irmgard [Lehner] Eden.</u>
@@ -67,7 +71,9 @@
       <u who="FARKAS">All right. And what did your parents do for work?</u>
       <u who="EDEN">Well, my father, when I was young, as a superintendent of schools in small Iowa towns, for the most part. My mother was a registered nurse and would work in local hospitals.</u>
       <u who="FARKAS">Now, in your pre-interview materials, you mentioned that your father was a pilot during the Second World War [World War II]. Can you tell me about what you knew of his service?</u>
-      <u who="EDEN">Well, you know, it’s interesting. I didn’t really know a lot until I got ready to apply to college, myself, and then was approached by the guidance counselor at my high school in Omaha, Nebraska, as to whether or not I would entertain the NROTC [Naval Reserve Officers Training Corps] scholarship as a way for paying my tuition at Dartmouth. </u>
+      <u who="EDEN">Well, you know, it’s interesting. I didn’t really know a lot until I got ready to apply to college, myself, and then was approached by the guidance counselor at my high school in Omaha, Nebraska, as to whether or not I would entertain the NROTC [Naval Reserve Officers Training Corps] scholarship as a way for paying my tuition at Dartmouth. 
+
+And so I talked with my father then, and he told me he had been a naval aviator. He was stationed in north Africa 1944, 1945, and he flew an airplane called the PV-1 [Ventura], like Poppa Victor-1, which was an antisubmarine bomber. And it had a crew of six to eight, but it was a land-based naval airplane, and he flew that for almost two years, until the war ended in ’45.</u>
       <u who="FARKAS">So in the first years of your life, your father was in north Africa.</u>
       <u who="EDEN">Yes.</u>
       <u who="FARKAS">Now, can you tell me about the town in which you grew up, Iowa City?</u>
@@ -79,7 +85,9 @@
       <u who="FARKAS">Now,—I mean, you moved around quite a lot between rural and urban areas, between different rural and different urban areas all before you went to high school.</u>
       <u who="EDEN">That’s true.</u>
       <u who="FARKAS">What—what was that like? Was it much of a culture shock going from relatively the—mm, it’s all kind of the Midwest/West, but going from different states, rural-urban, did you get used to moving around?</u>
-      <u who="EDEN">You know, I didn’t have any other reference that I could cite to compare or contrast what we were doing. I just assumed when I was young that, you know, people did that. They would rotate from one town to another or one school to another, and I never really thought anything about it. </u>
+      <u who="EDEN">You know, I didn’t have any other reference that I could cite to compare or contrast what we were doing. I just assumed when I was young that, you know, people did that. They would rotate from one town to another or one school to another, and I never really thought anything about it. 
+
+I think it did have an impact on my outlook as far as other people were concerned because you were basically tasked with the responsibility of making new friends, and that was a responsibility you couldn’t shift to anyone else, so I—I think it probably encouraged me to become more gregarious than I otherwise would have been, simply because if you wanted to enjoy the environment, you had to work hard to get people to know and accept what you were doing and saying.</u>
       <u who="FARKAS">Now, you mentioned you had two sisters. Are they older or younger than you?</u>
       <u who="EDEN">They’re younger. One is two years younger, and she’s retired. She was on the West Coast for years and years, and still is, near Los Angeles, and then my other sister was younger, and she had gone to Smith [College] for undergrad and married a guy, and they have lived in Boston for their entire professional career. He’s a partner in the bond law area with McDermott Will &amp;amp; Emery.</u>
       <u who="FARKAS">Now, were you very close with your younger sisters, growing up?</u>
@@ -92,12 +100,18 @@
       <u who="EDEN">Well, I did percussion in the band. I was in the orchestra. I played timpani. I was, I would say, pretty much academically involved in high school. I didn’t play sports other than tennis, no other team sports, and I really spent the better part of my time as—as a student in high school.</u>
       <u who="FARKAS">Did you have a favorite subject?</u>
       <u who="EDEN">History.</u>
-      <u who="FARKAS">History. Glad to hear that. </u>
-      <u who="EDEN">It was active.  You know, it was—I was attending a high school called Westside [High School], which was one of the better high schools in the state of Nebraska, and I really enjoyed it. I was a debater. I did well in debating. Little things were of interest, I—because I had a good speaking voice, I was asked to give the announcements each morning when the high school gathered.</u>
+      <u who="FARKAS">History. Glad to hear that. 
+
+So what was your social life in high school like?</u>
+      <u who="EDEN">It was active.  You know, it was—I was attending a high school called Westside [High School], which was one of the better high schools in the state of Nebraska, and I really enjoyed it. I was a debater. I did well in debating. Little things were of interest, I—because I had a good speaking voice, I was asked to give the announcements each morning when the high school gathered.
+
+I played the piano for different groups that were involved in music. I was Curly [McLain] in Oklahoma! I was, you know, active in other types of thespian-like activities. I had a great time. It was a very enjoyable experience.</u>
       <u who="FARKAS">So at that time, what were you thinking about for a career after high school? Were you expecting to go to college?</u>
       <u who="EDEN">Yes, I was expecting, but I really hadn’t spent any time, nor did I talk with anybody until I was probably beginning my senior year. It just—I just sort of assumed that if I went to college or university, it would probably be the University of Nebraska, which was nearby, or my uncle was chairman of the psychology department at UCLA [University of California, Los Angeles], and he had suggested that I think about going to the West Coast and maybe applying to UCLA. But it was a very ill-formed series of thoughts. It was not structured; it was not—there was no pressure. It was just something that was on the horizon that had to be dealt with at some point. And that’s the way I approached it.</u>
       <u who="FARKAS">Now, how did Dartmouth enter the picture?</u>
-      <u who="EDEN">Hah! Well, I mentioned I was in the percussion section in the band, and a guy that was a year older than I was, a guy named [Ronald E.] “Ron” Tegtmeier [Class of 1965], had been accepted at Dartmouth and had encouraged me to look at it, so he had given me the names of one or two Dartmouth alumni, and I made arrangements to talk to them.</u>
+      <u who="EDEN">Hah! Well, I mentioned I was in the percussion section in the band, and a guy that was a year older than I was, a guy named [Ronald E.] “Ron” Tegtmeier [Class of 1965], had been accepted at Dartmouth and had encouraged me to look at it, so he had given me the names of one or two Dartmouth alumni, and I made arrangements to talk to them.
+
+And I was on the debate team, and there were four of us, you know, on the debate team. The other three—two were applying to Yale [University], and one was applying to Harvard [University]. So I thought, Well, if they’re going there, I might enjoy applying to Dartmouth. And I mentioned that to my guidance counselor, and he said, “Well, Dartmouth has a very strong NROTC program. Would you consider taking the exam and going to Dartmouth as an NROTC student?” And I said, “Sure.” So I did that.</u>
       <u who="FARKAS">Now,—I mean, that’s a big step to decide to enter NROTC, especially before you go to college. What did your parents think of that?</u>
       <u who="EDEN">Well, of course, my father had been a naval aviator, so it wasn’t something that was completely removed from what I was familiar with. But, you know, just as a “for example,” I never went to Dartmouth before I matriculated, so the first time I saw Dartmouth, I was signing up for classes my freshman year.</u>
       <u who="FARKAS">Now, when you decided to apply to the Naval ROTC, what were you thinking you would do? Aside from possibly being a naval aviator, what did you think that would entail?</u>
@@ -121,7 +135,9 @@
       <u who="FARKAS">Can you tell me about arriving on the campus, what the first couple of weeks was like?</u>
       <u who="EDEN">Well, first of all, the trip from White River to Hanover was just—it was late in the afternoon. The sun was low in the sky. The trees were turning color. I mean, it was just beautiful. And, you know, of course, I’ve always thought the Dartmouth campus is—is a beautiful campus as well, so I was very pleased that I was there and very pleased that I had made a decision to attend.</u>
       <u who="FARKAS">So when you came to Dartmouth, what groups did you kind of fall in with? How do you kind of begin to find your place?</u>
-      <u who="EDEN">You know, that’s—that’s a good question. I was very active when I was at Dartmouth. I was in Russell Sage [Hall] and became the dorm chairman. I was in Green Key [Society] as a junior. I was a member of Sigma Phi Epsilon fraternity when I was a sophomore. I was the announcer for the Dartmouth Band at halftime, for the various football games. So those were the sorts of things that I found interesting. </u>
+      <u who="EDEN">You know, that’s—that’s a good question. I was very active when I was at Dartmouth. I was in Russell Sage [Hall] and became the dorm chairman. I was in Green Key [Society] as a junior. I was a member of Sigma Phi Epsilon fraternity when I was a sophomore. I was the announcer for the Dartmouth Band at halftime, for the various football games. So those were the sorts of things that I found interesting. 
+
+I was active at WDCR [Dartmouth College Radio], as a news announcer, the radio station.</u>
       <u who="FARKAS">So can you tell me a bit about why you chose to join that particular fraternity?</u>
       <u who="EDEN">[Laughs.] Yes, because the guy who was a year ahead of me in high school, who had encouraged me to go to Dartmouth, was a member of Sigma Phi Epsilon, and he had encouraged me to come by and meet the people who were members of that fraternity, which I did. And I liked them.</u>
       <u who="FARKAS">Now, were there any other ROTC cadets in that fraternity?</u>
@@ -166,8 +182,12 @@
       <u who="EDEN">We had one that was in our fraternity that we had invited to join. And other than that individual, I can’t remember carrying on conversations with any other person.</u>
       <u who="FARKAS">And he was—and what ethnicity was he?</u>
       <u who="EDEN">He was Korean.</u>
-      <u who="FARKAS">Ah. </u>
-      <u who="EDEN">Well, at that time it was a trimester system. It may still be a trimester system. But we—instead of taking 36 courses, we  had to take 39, so we had an additional academic load because we were in the NROTC. I don’t remember how many people were in our class that were in ROTC. I would think at least 20, maybe more. But it was interesting. By the time we reached senior year, I think five of the 20 were presidents of different fraternities, for whatever reason. </u>
+      <u who="FARKAS">Ah. 
+
+So now moving towards ROTC. Can you tell me about what you did in Naval ROTC and what that was like?</u>
+      <u who="EDEN">Well, at that time it was a trimester system. It may still be a trimester system. But we—instead of taking 36 courses, we  had to take 39, so we had an additional academic load because we were in the NROTC. I don’t remember how many people were in our class that were in ROTC. I would think at least 20, maybe more. But it was interesting. By the time we reached senior year, I think five of the 20 were presidents of different fraternities, for whatever reason. 
+
+But during the summer, the Navy would indoctrinate us with exposure, for example, sophomore summer with the [U.] Marine Corps in Quantico [Virginia]. Junior summer—no, I take that back. Sophomore summer I was on a destroyer in the Caribbean [Sea] during the summer months, and then the following summer—</u>
       <u who="FARKAS">What destroyer?</u>
       <u who="EDEN">The destroyer was DD-770, the [USS] Lowry, L-o-w-r-e-y [sic; L-o-w-r-y]. It was a World War II submarine—“submarine”!—it was a World War II destroyer. It was a pretty tired ship. But my last tour, I was on the aircraft carrier. I’m trying to think now which one it was. It may have been the [USS] Lexington. But that was my senior—between junior and senior year. And that’s when I decided I wanted to go ahead and see if I could become a naval aviator.</u>
       <u who="FARKAS">So going back to ROTC on campus, where were the offices, and who were the ROTC instructors?</u>
@@ -178,7 +198,9 @@
       <u who="EDEN">Yes. Well, for marching.</u>
       <u who="FARKAS">For marching.</u>
       <u who="EDEN">Uh-huh. </u>
-      <u who="FARKAS">Interesting.</u>
+      <u who="FARKAS">Interesting.
+
+Let’s see, so do you have any memories that stand out from those summer, as you said, indoctrination sessions?</u>
       <u who="EDEN">Oh, sure. I mean, I—I—mostly good memories, but there was so much that I was learning and seeing that I hadn’t seen before. It was all first impression. And it was very interesting, I thought. And I enjoyed the people I was with.</u>
       <u who="FARKAS">Now, the ROTC commanders, that naval captain—</u>
       <u who="EDEN">Mmm?</u>
@@ -208,7 +230,9 @@
       <u who="EDEN">You know, I didn’t. I didn’t.</u>
       <u who="FARKAS">Did you ever talk about this with President Dickey?</u>
       <u who="EDEN">I—I think we touched on it because, you know, he had a career—he was actively involved in the creation of the United Nations, and so he was very knowledgeable about international relations, and I—I would periodically ask him questions, and he would take the time to, you know, basically evaluate what had been asked and—and generally would come back with answers that I could understand and relate to.</u>
-      <u who="FARKAS">Interesting.</u>
+      <u who="FARKAS">Interesting.
+
+Now, towards the end of your time at Dartmouth, can you describe the branching—or I don’t know what they call it in Naval ROTC, but can you describe the process by which you figured out you were going to be a naval aviator?</u>
       <u who="EDEN">Oh, sure, yeah. I mean, basically we knew that the Navy would take into account our grade-point average. In my situation, because I had gone through the flight indoctrination program, they knew that I was capable of flying an airplane. And you would put together a list of requests, and my first choice was to go to Pensacola, Florida, and become a naval aviator, and that’s what I was accepted to do.</u>
       <u who="FARKAS">So at graduation, did your family come down to see you commissioned and graduate?</u>
       <u who="EDEN">They did. They did.</u>
@@ -220,10 +244,14 @@
       <u who="EDEN">No, I didn’t because she was five years younger than I was, so I—</u>
       <u who="FARKAS">Ah.</u>
       <u who="EDEN">—I would have to make a special trip to go see her.</u>
-      <u who="FARKAS">Sorry, I didn’t make that connection.</u>
+      <u who="FARKAS">Sorry, I didn’t make that connection.
+
+So you said you gave the, or a speech, the class speech at graduation?</u>
       <u who="EDEN">Yes.</u>
       <u who="FARKAS">What did you talk about?</u>
-      <u who="EDEN">[Laughs.] Well, it was not a very popular speech, and I think after Angus King and I gave the speech, that Dean Seymour, Thaddeus Seymour put a new rule in place where he had the right to review the text of any speeches that were given. [Chuckles.] </u>
+      <u who="EDEN">[Laughs.] Well, it was not a very popular speech, and I think after Angus King and I gave the speech, that Dean Seymour, Thaddeus Seymour put a new rule in place where he had the right to review the text of any speeches that were given. [Chuckles.] 
+
+The general gist of our speech was that we had spent four years together and that we had had a terrific experience, but one of the things that we had ignored or had not emphasized was the absence of diversity, that the people who were students at Dartmouth at that time—first of all, it was all male, and the people who came to Dartmouth tended to come from wealthy suburbs—Shaker Heights [Ohio] or what the city happened to be—and that—whereas we thought of ourselves as sort of worldly and involved in society, the fact of the matter was we were, for the most part, still relatively removed from any number of world events. And the audience didn’t want to hear that.</u>
       <u who="FARKAS">That’s an incredibly interesting topic for a speech.</u>
       <u who="EDEN">[Laughs.]</u>
       <u who="FARKAS">So—</u>
@@ -248,7 +276,9 @@
       <u who="EDEN">No.</u>
       <u who="FARKAS">Did he—did you know of any interaction between him and Dickey? Do you know what they thought of each other?</u>
       <u who="EDEN">You know what? That’s a great question. I really don’t know whether they were friends, or they admired one another in terms of professional qualifications. I just didn’t see the two of them being in the same room at the same time.</u>
-      <u who="FARKAS">Interesting.</u>
+      <u who="FARKAS">Interesting.
+
+Now, can you tell me about other parts of graduation, commissioning, any other parts that stick out in your mind?</u>
       <u who="EDEN">Well, you know, I was—I’m trying to think what they call it now. I was one of the class—I carried the stick with me, whatever it is, so, I mean, I was fairly involved as far as leadership and being part of Palaeopitus and the traditional involvement that you had as a member of Palaeopitus at graduation. I was—I was actually thinking ahead to being in Pensacola during the graduation because after we got our diplomas, we put on our uniforms and were commissioned, and the next step was to drive to Pensacola. </u>
       <u who="FARKAS">So can you tell me about what happened after Dartmouth, how you went from that kind of day of commissioning—</u>
       <u who="EDEN">[Laughs.]</u>
@@ -297,19 +327,27 @@
       <u who="FARKAS">Strange? I’m sure that is—that about describes it.</u>
       <u who="EDEN">[Laughs.]</u>
       <u who="FARKAS">So you get—you get back to flight training. How far was that into flight training?</u>
-      <u who="EDEN">I was—actually, when I was with her, I was in Pensacola again because we had gotten through basic jet training, which took place in Meridian, Mississippi, and then the next phase was to go back to Pensacola, where we got introduced to a new jet, which was called the North American T-2 Buckeye. And we used that jet for aerial gunnery and formation flying. So that was a relatively brief phase. That was June, July, August, thereabouts, in Pensacola.</u>
+      <u who="EDEN">I was—actually, when I was with her, I was in Pensacola again because we had gotten through basic jet training, which took place in Meridian, Mississippi, and then the next phase was to go back to Pensacola, where we got introduced to a new jet, which was called the North American T-2 Buckeye. And we used that jet for aerial gunnery and formation flying. So that was a relatively brief phase. That was June, July, August, thereabouts, in Pensacola.
+
+And then I was transferred to Kingsville, Texas, to do advanced jet training, which was to become indoctrinated in the swept wing aircraft. And we flew the [Grumman] F-9 Cougar, which had been the primary Korean [War] fighter for the Navy back in the early ‘50s.</u>
       <u who="FARKAS">Would you say you did well—</u>
       <u who="EDEN">I did.</u>
       <u who="FARKAS">—in flight training?</u>
       <u who="EDEN">I did.</u>
       <u who="FARKAS">So—so at that point, what kind of plane were you hoping to fly?</u>
-      <u who="EDEN">Well, I was approached by the commanding officer in the squadron, asking me that question, and I said—because we were all indoctrinated, you can imagine, with the silk scarves and the leather flying jackets—we were all totally indoctrinated by the Navy. They had done a great job in convincing us that the only way to go if you did well was to be a fighter pilot, and that was it. And there were only two fighter aircraft that you could go for, and one was the [McDonald Douglas] F-4 Phantom [II], and the other was the [Vought] F-8 Crusader.</u>
+      <u who="EDEN">Well, I was approached by the commanding officer in the squadron, asking me that question, and I said—because we were all indoctrinated, you can imagine, with the silk scarves and the leather flying jackets—we were all totally indoctrinated by the Navy. They had done a great job in convincing us that the only way to go if you did well was to be a fighter pilot, and that was it. And there were only two fighter aircraft that you could go for, and one was the [McDonald Douglas] F-4 Phantom [II], and the other was the [Vought] F-8 Crusader.
+
+So I thought, Well, you know, F-8 Crusader looks like a great airplane. And it was. It’s what John [J.] Glenn [Jr.] set a speed record from California to New York in. But the only F-8s that were flying when I was going through flight training were the photo recon F-8s, and they weren’t lasting very long because they had no armament.
+
+So I was sort of confronting the dilemma, and the skipper of the squadron said, “You should opt and put your first choice down for the [Grumman] A-6 Intruder. It’s a brand-new airplane. It does wonderful things. It’s just incredibly sophisticated, and you’ll enjoy the systems, and it’s a great airplane to fly.” So I went with the A-6.</u>
       <u who="FARKAS">So you made that decision, and I presume you got selected for that.</u>
       <u who="EDEN">I did! [Chuckles.]</u>
       <u who="FARKAS">Can you tell me—can you tell me what the process was from that selection to training on the aircraft and—</u>
       <u who="EDEN">Uh-huh, sure.</u>
       <u who="FARKAS">—figuring out where you were going after that?</u>
-      <u who="EDEN">Yeah. I got my wings the same day in December that my father had received his wings, in Kingsville. They came down from Omaha. I think they were still in Omaha at that time. And they attended the ceremony where I got my wings. That was December of 1967. </u>
+      <u who="EDEN">Yeah. I got my wings the same day in December that my father had received his wings, in Kingsville. They came down from Omaha. I think they were still in Omaha at that time. And they attended the ceremony where I got my wings. That was December of 1967. 
+
+And then from then, I was transferred to Oceana Naval Air Station [Naval Air Station Oceana], near Virginia Beach, Virginia, and I was placed in what was called Attack Squadron 42, which was called the RAG, an R-A-G, which was a Replacement Air Group. And so I started training in the A-6 Intruder in January of 1968, and I completed my training. And, again, I was on an accelerated training path, and so in July I was told that I’d be going to Vietnam, because they were pulling me out of the—</u>
       <u who="FARKAS">So–</u>
       <u who="EDEN">—regular routine.</u>
       <u who="FARKAS">Interesting. So on one hand, you—you did not have any choice where you would be deployed.</u>
@@ -321,19 +359,31 @@
       <u who="FARKAS">Oh, yeah. No worries—</u>
       <u who="EDEN">—we’re going to have to reschedule, but can you hold on for a minute and I’ll be back?</u>
       <u who="FARKAS">I’ll pause—I’ll pause the recording.</u>
-      <u who="EDEN">All right.</u>
-      <u who="FARKAS">This is Sandor Farkas, talking to Charles Gregory Eden as part of the Dartmouth Vietnam Project. I’m in Webster Hall on the Dartmouth College campus, and this is January 28th, 2016.</u>
+      <u who="EDEN">All right.
+
+[Recording resumes.]</u>
+      <u who="FARKAS">This is Sandor Farkas, talking to Charles Gregory Eden as part of the Dartmouth Vietnam Project. I’m in Webster Hall on the Dartmouth College campus, and this is January 28th, 2016.
+
+So we were talking about the end of your training and going to Vietnam,—</u>
       <u who="EDEN">Yes.</u>
       <u who="FARKAS">—what your opinion on that was.</u>
       <u who="EDEN">Mmm. Well, I mean, I was completely involved. I was flying seven days with one day off, and so there was a lot to learn. It was a complicated aircraft and very sophisticated at that time, so I would finish a day’s worth of flying, go home and fall asleep on the sofa. But I—I got my orders to go to Vietnam, and actually I was replacing an aviator who was leaving the Navy. And so the crews had already started, so I met the carrier, which was the America, in the Philippines, and that’s when I became a member of Attack Squadron 85, known as the Black Falcons. And I was then, of course, indoctrinated by the squadron into their appropriate procedures for flying in Vietnam.</u>
       <u who="FARKAS">Can you tell me about the trip from the United States to the Philippines?</u>
-      <u who="EDEN">Yeah, it was fascinating. We flew non-stop from Virginia to Hawaii and then got on a flight from Hawaii and landed in Clark Air Force Base in the Philippines, which is where the carrier was scheduled to berth. So I—of course, this was hours and hours and hours to go from Virginia to the Philippines. Got off the airplane, and there was a bus. It looked like a converted school bus, and they said, “This is your transportation from Clark Air Force Base to Subic Bay [Naval Base Subic Bay], which is where the carrier was. [Chuckles.]</u>
+      <u who="EDEN">Yeah, it was fascinating. We flew non-stop from Virginia to Hawaii and then got on a flight from Hawaii and landed in Clark Air Force Base in the Philippines, which is where the carrier was scheduled to berth. So I—of course, this was hours and hours and hours to go from Virginia to the Philippines. Got off the airplane, and there was a bus. It looked like a converted school bus, and they said, “This is your transportation from Clark Air Force Base to Subic Bay [Naval Base Subic Bay], which is where the carrier was. [Chuckles.]
+
+And oh, by the way, I was a lieutenant junior grade, which was—you start out as ensign, and then you go to lieutenant JG, and then lieutenant. So I was a lieutenant junior grade, and I was 24. And there were probably 50 people standing around the bus, all going to Subic Bay. And the guy who was coordinating the effort approached me. He said, “You’re the senior officer present. You’re in charge of this bus.” [Laughs.]
+
+So we got on the bus, and the area that we were driving through—the roads were horrible, and it was—you were sort of in mountains. It was like being in a tropical environment. And, of course, there were people that were out there that didn’t like Americans, and so they gave me—if I remember correctly, I had a .45 caliber pistol or—I think that’s what they gave me for the trip.
+
+And so we were on the bus for some period of time. I don’t know how long it was, but it was middle day, it was hot, it was humid, and we’d gone through all these mountainous roads, and the bus finally got to Subic Bay, and I got out, and I looked at the right front tire, and the inner tube was ballooning out of the tire. And I thought [chuckles]—if that thing had blown up while we were traveling from Clark Air Force Base, I wouldn’t be here talking with you.</u>
       <u who="FARKAS">Now, was that the first time you had ever been put in command of any group of people?</u>
       <u who="EDEN">I think it was. Yes, I think it was.</u>
       <u who="FARKAS">And had you had any prior training with firearms?</u>
       <u who="EDEN">Yes. Yeah, we had it not only at NROTC, I was on the rifle team my freshman year in NROTC, but, yes, we had been schooled in basically all sorts of survival.</u>
       <u who="FARKAS">Did you—what kind of survival trainings had you been through?</u>
-      <u who="EDEN">Well, all naval aviators had to go through two at that time. One was up in Bangor, Maine, which was in January, which was an unforgettable experience, where we were being chased by the bad guys and ultimately rounded up and put in something that was supposed to look like a prisoner of war camp, here they played loud music 24 hours a day, and it was, like, 10 degrees below zero. [Chuckles.] We had guys get frostbite while they were there.</u>
+      <u who="EDEN">Well, all naval aviators had to go through two at that time. One was up in Bangor, Maine, which was in January, which was an unforgettable experience, where we were being chased by the bad guys and ultimately rounded up and put in something that was supposed to look like a prisoner of war camp, here they played loud music 24 hours a day, and it was, like, 10 degrees below zero. [Chuckles.] We had guys get frostbite while they were there.
+
+And then the second area for—I’m trying to think what they called it, now. It was escape, evasion, something or other.</u>
       <u who="FARKAS">Would that be SERE [Survival, Evasion, Resistance, and Escape] training?</u>
       <u who="EDEN">Pardon?</u>
       <u who="FARKAS">SERE, Survival—that’s it. Went through that, and then went through SERE again in the Philippines, where it was probably 100 degrees.</u>
@@ -341,7 +391,11 @@
       <u who="EDEN">Well, the most interesting one for me was the senior officer present was a lieutenant commander, who was an aviator, and it was very, very cold, and they weren’t letting us sleep, and it was—it was—it was rough. And they broke this guy. He just became a whimpering mess. And they put him on all fours, and they took out a fire hose—and this was—literally it was below zero—and they sprayed him down with a fire hose, and, you know, the guy was just—he was—he basically lost it. And he actually dropped out of the flying program. That was kind of an interesting experience.</u>
       <u who="FARKAS">But you got through it.</u>
       <u who="EDEN">I did. Yeah.</u>
-      <u who="FARKAS">Yeah.</u>
+      <u who="FARKAS">Yeah.
+
+
+
+Now, when you got to the ship in the Philippines, you’ve arrived at that port—what’s the name of the ship?</u>
       <u who="EDEN">The America.</u>
       <u who="FARKAS">The America. Can you tell me about your first impressions of the America?</u>
       <u who="EDEN">Well, you know, it’s 1,000 feet long, as a starter, with an angled deck. It was a relatively new carrier at that time. It was a conventional carrier; it was not nuclear, so it had to get refueled every two or three days. But it was a great ship, and it was—it was—it was well run, and the squadron was well run. I couldn’t have asked for more in terms of a working environment.</u>
@@ -374,13 +428,27 @@
       <u who="FARKAS">In terms of the other officers who were there, did you find they came from similar backgrounds to yourself, from—</u>
       <u who="EDEN">Yes. Yes, that was interesting because we had—you know, we had pilots who were from [University of] Notre Dame, University of Pennsylvania, University of Kansas, [University of] Georgia, Auburn [University]. I mean, it was a smattering of—of colleges and universities around the country, but very—very similar. We were all white. I think we had one black officer, who was a bombardier/navigator; he was not a pilot. The airplane had two crew members. The pilot sat on the left side, and the bombardier/navigator sat next to him on the right side of the airplane. So we had one black guy who was a bombardier/navigator. No—no black pilots.</u>
       <u who="FARKAS">Who was your bombardier/navigator?</u>
-      <u who="EDEN">I had a guy named John Champ, who was a bachelor, a fun-loving guy. He’s from Michigan—Livonia, Michigan. I’m not sure where he had gone to college, but I don’t think it was a major issue in his life. He was just a great guy to be with, a total professional. [Chuckles.] You know, everybody develops their own quirks and methodologies, and he was a guy that loved to eat peanuts from a peanut can while we were flying, getting ready to drop ordnance. </u>
+      <u who="EDEN">I had a guy named John Champ, who was a bachelor, a fun-loving guy. He’s from Michigan—Livonia, Michigan. I’m not sure where he had gone to college, but I don’t think it was a major issue in his life. He was just a great guy to be with, a total professional. [Chuckles.] You know, everybody develops their own quirks and methodologies, and he was a guy that loved to eat peanuts from a peanut can while we were flying, getting ready to drop ordnance. 
+
+So we came back one night. It was about midnight. We got into the pattern. Things were kind of out of kilter, and he forgot to close the peanut can, so when we hit the wire, it was like 500 shots ricocheting around,—</u>
       <u who="FARKAS">[Chuckles.]</u>
       <u who="EDEN">—which was what was left of the can of peanuts. [Chuckles.]</u>
       <u who="FARKAS">So can you describe how a typical mission went,—</u>
       <u who="EDEN">Yeah.</u>
       <u who="FARKAS">—from kind of preparation to—</u>
-      <u who="EDEN">Yeah. Well, first of all, we had an intelligence group, and they had photographs, and they would decide what our targets were on any given day. So we would have what amounted to different briefings. We would have a briefing about where the target was and how we were going to approach the target, who we were going to be involved with, what roles we were going to be performing, what ordnance we were carrying, what our escape procedures were in the event we were hit. It was a very thorough briefing.</u>
+      <u who="EDEN">Yeah. Well, first of all, we had an intelligence group, and they had photographs, and they would decide what our targets were on any given day. So we would have what amounted to different briefings. We would have a briefing about where the target was and how we were going to approach the target, who we were going to be involved with, what roles we were going to be performing, what ordnance we were carrying, what our escape procedures were in the event we were hit. It was a very thorough briefing.
+
+And then we would transfer data, where we had to, to the appropriate charts that we would take. We had an IBM computer on the A-6, so we could punch in the coordinates, which is what they do today. You know, if you get on a commercial airplane, they’ll punch in the longitude and latitude. So when we got airborne, we could actually tell the carrier where it was with greater accuracy than it could tell itself because of the sophistication of the inertial navigation system and the computers on the A-6.
+
+
+
+Once we launched—in the A-6 we had two primary ways of delivering ordnance. One was to go in with two planes. Typically, you’d have a lead and a wingman. And the other approach that we started using in ’68 and ’69—because I went over beginning in August of ’68—was what were called alpha strikes, and the alpha strikes would include as many as 20 aircraft, different types of aircraft, and the A-6 would typically lead the alpha strike because it had the most sophisticated navigation on board. And so those were the
+
+approaches that we generally used.
+
+I also was qualified to fly what was called the standard ARM [anti-radiation missile] version of the airplane, which was an air-to-surface missile that was basically designed to get rid of sand sites that were along the coast of North Vietnam. And I actually had an opportunity to fire a standard ARM missile. I think at that time, they were $100,000 apiece. Of course, the airplane was only $6 million, but this was 1968.
+
+So I flew both the standard ARM, and I flew regular missions while I was in the squadron.</u>
       <u who="FARKAS">What was it like, flying over Vietnam?</u>
       <u who="EDEN">Well, it depended. The weather was not good a lot of the time. A lot of humidity, clouds, low clouds. The terrain was mostly limestone ridges where we were flying. We did a lot of our flying at night, so we really had—other than the terrain clearance radar that we had, we never really saw the ground. And, of course, during the day when we were flying, we were constantly looking for antiaircraft and other aircraft coming in, MiGs coming in to attack us.</u>
       <u who="FARKAS">Did that ever happen?</u>
@@ -388,7 +456,9 @@
       <u who="FARKAS">I mean, did that happen often?</u>
       <u who="EDEN">On my first mission, we went out as I think a three-plane formation, and one of the three planes didn’t come back because we think he was hit by a SAM. But I—I never—I saw them for a day or two and then they were gone. And never recovered. So, yes, we were—we were subject to SAM attacks quite often.</u>
       <u who="FARKAS">Are there any other missions that stick out in your memory like that one?</u>
-      <u who="EDEN">Oh, sure, there were—I mean, I flew 100-plus missions, so you can imagine, you saw quite a bit of variety. I mean, if you hit a petroleum or an oil storage area, the fires were just horrendous. </u>
+      <u who="EDEN">Oh, sure, there were—I mean, I flew 100-plus missions, so you can imagine, you saw quite a bit of variety. I mean, if you hit a petroleum or an oil storage area, the fires were just horrendous. 
+
+One of the things that we did a lot of at night, because the airplane did a lot of flying at night, because we could, was we had ordnance—they were called ball bombs or CBUs [cluster bomb units], and what they were were large canisters that had lots of little tennis-type balls that were all shrapnel, so when you dropped one of these weapons, it would cover an area roughly the size of a football field. And one of our primary missions at night was to go out at low altitude and work with the [U.S.] Air Force to ensure that we could go on target to stop the flow of supplies from North Vietnam to South Vietnam. So one of the things we would do is interdict the trucks and Jeeps and general movements at night, and we did it with what were then called the CBUs or the ball bombs.</u>
       <u who="FARKAS">So can you give me the time span of that first tour on the America?</u>
       <u who="EDEN">Yeah, I joined the squadron in August of ’68, and we left Vietnam and returned to Virginia in December of ’68.</u>
       <u who="FARKAS">So—</u>
@@ -409,7 +479,9 @@
       <u who="EDEN">No, we got divorced, and I’m now remarried.</u>
       <u who="FARKAS">Ah.</u>
       <u who="EDEN">We got divorced in—let me think—1979, 1980? I’m not sure. It’s been too long.</u>
-      <u who="FARKAS">Uh. </u>
+      <u who="FARKAS">Uh. 
+
+So going back to your time in Vietnam,—</u>
       <u who="EDEN">Mm-hm.</u>
       <u who="FARKAS">—so you had completed your first tour on the America and your second tour on the Constellation. What did you—</u>
       <u who="EDEN">Here’s something for you:</u>
@@ -434,8 +506,16 @@
       <u who="FARKAS">So a couple more questions about that—those two tours. You said you landed in Da Nang. Did you ever get a chance to meet any Vietnamese people?</u>
       <u who="EDEN">Never.</u>
       <u who="FARKAS">Never.</u>
-      <u who="EDEN">Never. What I did do, which was very interesting, as a junior officer, I was asked in—it must have been—I’m going to say it was in December of ’69—whether I wanted to be an exchange officer with the 4th Infantry Division of the Army, in the 101st Airborne [Division]. And I said, “Yes!” So there are, like, five or six of us from the carrier, and we were flown into the Central Highlands [of Vietnam], and five or six officers, junior officers from the Army were flown back to the carrier for almost two weeks of activity. </u>
-      <u who="FARKAS">[Chuckles.]</u>
+      <u who="EDEN">Never. What I did do, which was very interesting, as a junior officer, I was asked in—it must have been—I’m going to say it was in December of ’69—whether I wanted to be an exchange officer with the 4th Infantry Division of the Army, in the 101st Airborne [Division]. And I said, “Yes!” So there are, like, five or six of us from the carrier, and we were flown into the Central Highlands [of Vietnam], and five or six officers, junior officers from the Army were flown back to the carrier for almost two weeks of activity. 
+
+So when we were in the Central Highlands, we did meet one or two Vietnamese people, but mostly the Vietnamese people were the—what were they called?—the “hooch ladies.” They would clean and wash your laundry and keep your living area clean. But they were not officers.
+
+So it was interesting for me because at the end of the ten-day or two-week experience—and we literally—you know, we flew Hueys [Bell UH-1 Iroquois], we flew all the helicopters that were in the Army inventory. The [Bell AH-1] Cobra, we flew.
+
+So it came time for us to go back to the carrier, and the guys on the carrier didn’t want to leave. [Laughs.]</u>
+      <u who="FARKAS">[Chuckles.]
+
+Can you tell me more about what it was like being an exchange officer and what that even meant?</u>
       <u who="EDEN">Yeah. It convinced me I didn’t want to be in the Army. We were carrying 60-, 70-pound packs, and it was rugged. I mean—you know, there was an air of uncertainty. It wasn’t like being on a carrier, where you had silverware and cloth napkins every night.</u>
       <u who="FARKAS">What were you doing exactly?</u>
       <u who="EDEN">With the—as an exchange officer? I was going out on patrol with a unit of the 101st Airborne.</u>
@@ -446,17 +526,25 @@
       <u who="FARKAS">[Chuckles.]</u>
       <u who="EDEN">Well they, you know, this was a time when bad things were happening in Vietnam, and so junior officers—you’ve heard  of fragging. I mean, they were actually shot by their own troops at times. It was not a happy place to be, from what I could gather. I didn’t sense that during the time that we were there in the Central Highlands, because it was all so structured and formal, but it wouldn’t have been an attractive option. Not in my way of thinking.</u>
       <u who="FARKAS">Now, looking back on those two tours, the one on the America and the one on the Constellation, is there anything else that sticks out to you or you’d like to tell me?</u>
-      <u who="EDEN">You know, we had an experience. One of the last flights that we took was a night mission, and I was with John Champ, and this was on the America. And we were coming in for a landing, and we boltered. The hook skipped over the—you know, there were four wires, where you can catch with your tail hook and stop the aircraft on the deck. But if your hook hits the deck and it—it bounces, you could miss all four wires, and you have to go around again.</u>
+      <u who="EDEN">You know, we had an experience. One of the last flights that we took was a night mission, and I was with John Champ, and this was on the America. And we were coming in for a landing, and we boltered. The hook skipped over the—you know, there were four wires, where you can catch with your tail hook and stop the aircraft on the deck. But if your hook hits the deck and it—it bounces, you could miss all four wires, and you have to go around again.
+
+So we—we boltered, and it was dark, and, of course, you only have two dimensions at night; you don’t have a third dimension. And we were sort of talking with one another because I didn’t bolt—didn’t have bolters very often. And during that period of 10 or 15 seconds, I wasn’t watching the gauges, and we came within 50 feet of becoming part of the ocean. That was scary.</u>
       <u who="FARKAS">Wow. I mean, I can’t even imagine.</u>
       <u who="EDEN">[Chuckles.]</u>
-      <u who="FARKAS">One of the reasons why I have no desire to fly planes, but—</u>
+      <u who="FARKAS">One of the reasons why I have no desire to fly planes, but—
+
+So after your tour on the Constellation, where did you go?</u>
       <u who="EDEN">I went back to Air Station Oceana, and I was a flight instructor from February of ‘ 70 to May of ’71, when I had completed my fifth year. I resigned my commission. I had a regular commission. And I enrolled at the University of Virginia Law School [sic; University of Virginia School of Law], starting in September.</u>
       <u who="FARKAS">Just one question about the flight training. So how did you feel training these other, young pilots whose position you’d been in just a few years earlier, to go do what you had been doing?</u>
       <u who="EDEN">Well, you know, there were lots of conversations, and by that time, there was a lot of disgruntlement. I mean, it was bad. The society was falling apart. So to some extent, when you’re in that environment, you’re insulated from sort of day-to-day activities, but as soon as you leave the base and go back to your apartment—and most of the officers didn’t live in bachelor officer quarters; they lived in the community. And, of course, it was a heavily weighted community in favor of naval officers and enlisted men. So you didn’t get the full brunt of the kinds of conversations that were taking place in Washington, D.C., or in New York or Boston. You would see it in the newspaper, and you would see it on the news, but it was, to some extent, removed from your day-to-day activities because you were in such an entirely different orbit, if that makes sense.</u>
-      <u who="FARKAS">Yeah. </u>
+      <u who="FARKAS">Yeah. 
+
+So can you tell me about your—so during your time in law school, did you interact with any other recent Vietnam veterans or, for that many, any anti-Vietnam protesters?</u>
       <u who="EDEN">So we had a cocktail party on—have to been to the University of Virginia? </u>
       <u who="FARKAS">Yes.</u>
-      <u who="EDEN">So the law school used to be at one end of the Lawn. It’s now off campus. But it was still on the lawn when I was a student there, so we had a cocktail party—must have been in late August or thereabouts—for people who were in the first-year class of the law school. And there were 300 students, and I think 290 were men. I think they had 10 women, so it was still overwhelmingly male. But, you know, there were women there who were the wives and girlfriends of others that were enrolled.</u>
+      <u who="EDEN">So the law school used to be at one end of the Lawn. It’s now off campus. But it was still on the lawn when I was a student there, so we had a cocktail party—must have been in late August or thereabouts—for people who were in the first-year class of the law school. And there were 300 students, and I think 290 were men. I think they had 10 women, so it was still overwhelmingly male. But, you know, there were women there who were the wives and girlfriends of others that were enrolled.
+
+So we were standing with a glass of wine—I was, and somebody approached me from the class and said, “You must have come from a different environment because I don’t recognize you as being part of our graduating class.” I said, “Yes, I just resigned my commission from the Navy.” And the person, the woman said, “Oh, really? What did you do in the Navy?” I said, “Well, I was a carrier pilot.” And she said, “So you were flying missions over North Vietnam.” And I said, “Yes, that’s what I did.” And she stopped, and she turned to me, and she said, “How does it feel to be a killer?”</u>
       <u who="FARKAS">What did you answer?</u>
       <u who="EDEN">I was stunned. I had no answer.</u>
       <u who="FARKAS">Did you have any other experiences like that?</u>
@@ -470,7 +558,11 @@
       <u who="FARKAS">So can you give a brief overview of what your career has been—</u>
       <u who="EDEN">[Laughs.]</u>
       <u who="FARKAS">—since graduating from law school? Just kind of a brief sense of what you ended up doing?</u>
-      <u who="EDEN">Well, I joined a law firm that had 25 lawyers, and when I left six years later, there were over 300. It was called Kutak Rock [LLP], and it was the fastest-growing law firm in the United States because they were bond lawyers, and they would go out—you didn’t have to be admitted to the bar of the state where you were practicing if you were a bond lawyer, and so they developed different techniques for financing different kinds of things for industry. So whether it was for emissions control or whatever the overall topic was, Kutak would try to come up with an efficient and economical way to finance it. </u>
+      <u who="EDEN">Well, I joined a law firm that had 25 lawyers, and when I left six years later, there were over 300. It was called Kutak Rock [LLP], and it was the fastest-growing law firm in the United States because they were bond lawyers, and they would go out—you didn’t have to be admitted to the bar of the state where you were practicing if you were a bond lawyer, and so they developed different techniques for financing different kinds of things for industry. So whether it was for emissions control or whatever the overall topic was, Kutak would try to come up with an efficient and economical way to finance it. 
+
+And a lot of it involved the issuance of tax-exempt bonds, so that’s what I did. And while I was there, I developed, along with others, something called tax-exempt leasing, which was a way municipalities and colleges and counties could get funding at low interest rates because of the insertion of what was called then non-appropriation language, because most state and local governments would look at what we were doing, and if we had non-appropriation language, that would make it a current expense, and most state constitutions defined debt as an obligation that goes beyond the then-current fiscal period. And if you didn’t have an obligation or you chose not to exercise it, you could still get the money at the low—low interest rate.
+
+And then I evolved from being a partner in the law firm to being an investment banker and have been an investment banker for 25 years, doing public-private partnerships. That’s my career.</u>
       <u who="FARKAS">And where do you currently live?</u>
       <u who="EDEN">Austin, Texas.</u>
       <u who="FARKAS">So since resigning your commission, have you had any interaction with any Vietnam veterans associations, any sort of commemoration of the war or any activities related to it.</u>
@@ -490,8 +582,14 @@
       <u who="FARKAS">So aside from this Society of Friends, have you been back to Dartmouth much?</u>
       <u who="EDEN">I have, uh-huh. Yeah, I was up there a couple of years ago for a day or two because the Society of Mutual Friends met at Dartmouth.</u>
       <u who="FARKAS">And what have you thought about the evolution of Dartmouth since you left?</u>
-      <u who="EDEN">Well, that’s—that’s a great question. I think in—in many ways it’s different, and in many ways it’s the same. I think part of it is just the location. I’m delighted that it’s co-ed. I’m glad that the issue of drinking and drugs is on the table, although I’m not sure a whole lot can be done. And if somebody says, “You—you can’t do this,” you know, when you’re 18 or 19, that just provides with additional incentive to do it. </u>
-      <u who="FARKAS">Perfect. I think that’s a great place to end the interview, unless you have anything more—final things to say.</u>
+      <u who="EDEN">Well, that’s—that’s a great question. I think in—in many ways it’s different, and in many ways it’s the same. I think part of it is just the location. I’m delighted that it’s co-ed. I’m glad that the issue of drinking and drugs is on the table, although I’m not sure a whole lot can be done. And if somebody says, “You—you can’t do this,” you know, when you’re 18 or 19, that just provides with additional incentive to do it. 
+
+But I still love Dartmouth. It’s been a big part of my life in terms of thoughts and actions, and some of the best people I’ve ever met have been graduates of that place.</u>
+      <u who="FARKAS">Perfect. I think that’s a great place to end the interview, unless you have anything more—final things to say.
+
+[End of interview.]
+
+</u>
     </body>
   </text>
 </TEI>

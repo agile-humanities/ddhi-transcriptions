@@ -45,8 +45,8 @@
         <language ident="en-us">English</language>
       </langUsage>
       <particDesc>
-        <person xml:id="CUMMINGS"/>
         <person xml:id="JEVNE"/>
+        <person xml:id="CUMMINGS"/>
       </particDesc>
       <settingDesc>
         <setting>
@@ -58,14 +58,18 @@
   </teiHeader>
   <text>
     <body>
-      <u who="CUMMINGS">So this is Emily [B.] Cummings. I’m speaking today with [William R.] “Bill” Jevne. I’m in the Rauner Special Collections Library at Dartmouth College, and Mr. Jevne is in Telluride, Colorado. It is Friday, October 23rd, 2015.</u>
+      <u who="CUMMINGS">So this is Emily [B.] Cummings. I’m speaking today with [William R.] “Bill” Jevne. I’m in the Rauner Special Collections Library at Dartmouth College, and Mr. Jevne is in Telluride, Colorado. It is Friday, October 23rd, 2015.
+
+So first I just want to thank you for talking with me today. So let’s just start with some biographical information. Where were you born, and what were your parents’ names?</u>
       <u who="JEVNE">I was born in Minneapolis, Minnesota, and my father was—he’s dead now—was Franz [P.] Jevne [Jr.], and my mother was Helen Patricia Atcheson, but “Pat” Jevne was the name that she went by.</u>
       <u who="CUMMINGS">Okay. And what did your parents do?</u>
       <u who="JEVNE">My father was a lawyer, and my mother was a homemaker.</u>
       <u who="CUMMINGS">Okay. So what kind of area did you live in in Minnesota? Was it suburbs? Were you in the city?</u>
       <u who="JEVNE">Suburb, upper middle-class suburb called Edina [pronounced ee-DINE-uh], a suburb of Minneapolis.</u>
       <u who="CUMMINGS">All right. And did you like growing up there? Did you have a nice house and a good neighborhood?</u>
-      <u who="JEVNE">Yeah. Yeah, my parents were, like, not—not wealthy but well-to-do and a very comfortable childhood just in terms of, you know, economically and everything. And, like every family, I guess we had our issues, but for the most part it was a pretty happy childhood. </u>
+      <u who="JEVNE">Yeah. Yeah, my parents were, like, not—not wealthy but well-to-do and a very comfortable childhood just in terms of, you know, economically and everything. And, like every family, I guess we had our issues, but for the most part it was a pretty happy childhood. 
+
+The high school that I went to, Edina High School, over 90 percent of the students there went on to college at some place or another. I got a very good public school education.</u>
       <u who="CUMMINGS">Okay. Did you have brothers or sisters?</u>
       <u who="JEVNE">Yeah, two brothers: one, two years older than me and one, four years younger.</u>
       <u who="CUMMINGS">Okay. So how did you like growing up with three boys in the house?</u>
@@ -73,21 +77,39 @@
       <u who="CUMMINGS">Yeah, wow. I’m sure that that was exciting. [Chuckles.]</u>
       <u who="JEVNE">Yeah, yeah.</u>
       <u who="CUMMINGS">So you said that you went to a good high school. How was your experience? Were you focused on academics or sports or what was your main focus going to high school?</u>
-      <u who="JEVNE">Sports was really, you know, the focus of my life. I played—I played hockey, and I was on the tennis team. I tried to play football, but I was very small and they wouldn’t let me play. You know, I enjoyed skiing and golf and games, sports. It was pretty much my main interest. </u>
+      <u who="JEVNE">Sports was really, you know, the focus of my life. I played—I played hockey, and I was on the tennis team. I tried to play football, but I was very small and they wouldn’t let me play. You know, I enjoyed skiing and golf and games, sports. It was pretty much my main interest. 
+
+I—I was a good student in the sense that, you know, learning subjects came pretty easy to me, but I—I didn’t have, you know a real—real strong academic motivation. The grades weren’t that great, in the B area. And I know nowadays you could never get into Dartmouth with the grades that I had, but in those days you could.</u>
       <u who="CUMMINGS">So did your parents push you to get good grades, or did they push you to go to a good college?</u>
-      <u who="JEVNE">No, they—my parents were very loving but pretty relaxed about our choices, and it was—I was, for some reason—I don’t even—I can’t even tell you now—for some reason, I was very strongly motivated to go to an Ivy League college. I think I also applied to Stanford [University]. I don’t really know why, but it was—it was all my own idea.</u>
+      <u who="JEVNE">No, they—my parents were very loving but pretty relaxed about our choices, and it was—I was, for some reason—I don’t even—I can’t even tell you now—for some reason, I was very strongly motivated to go to an Ivy League college. I think I also applied to Stanford [University]. I don’t really know why, but it was—it was all my own idea.
+
+My brother, two years older than I did—than I am—he went to Harvard [University], and I had visited him out there in my junior year and got a taste of what that was like. But I—but I think I probably would have had the same inclinations even if that hadn’t been the case, and I really can’t explain to you why except that there was just kind of a, you know, an ethic at my school, my high school, that you went to the best—best college you could get into. And especially my parents were in the position where they could pay for it, so I didn’t have to worry about that part of it, too.</u>
       <u who="CUMMINGS">So you mentioned that at your high school people went to pretty good colleges. I think you said 90 percent went on to college?</u>
       <u who="JEVNE">Yeah.</u>
       <u who="CUMMINGS">Did you find that it was competitive, or was it more of a loving community at your high school?</u>
       <u who="JEVNE">Oh, well, you know, I imagine that varied from person to person, but I—it was—I—I never had a very—I mean, I have a strong competitive streak, you know, in the sports sense of competitive, but I never put on myself—comparing myself to other people much for grades or anything like that. It wasn’t—you know, not that kind of thing, at least in my experience. I mean, maybe others were feeling that, but if they were, I wasn’t aware of it.</u>
       <u who="CUMMINGS">So did you live in Edina for your whole life, throughout high school?</u>
       <u who="JEVNE">Yeah, all through high school and through college. My parents—you know, we—we moved I think once when I was growing up, but only about a block away, and so all through college—I think I was in the [U.S.] Marine Corps when my parents moved into a house in—actually within the city limits of Minneapolis. You know, that was my residence, my official residence. But, you know, I spent summers in Minnesota, and, you know, fair stretches of time there—oh, into the ’70s—but I—you know, but I liked Minnesota; I considered it my home, but I knew I was going to be living in the mountains someplace eventually. I was pretty much—yeah, I never really planned to—to live in Minnesota once I got through with college and the military.</u>
-      <u who="CUMMINGS">Right. Okay. </u>
+      <u who="CUMMINGS">Right. Okay. 
+
+So going back to your high school, you said that sports were a big part of your time there.</u>
       <u who="JEVNE">Mm-hm.</u>
       <u who="CUMMINGS">Would you say that when you were looking into colleges you were focused on playing sports in college?</u>
-      <u who="JEVNE">Well, I didn’t really have much—yeah, it was kind of a real outside shot for me. Hockey was the sport I loved most, but I was small and slow to mature, and I actually never made the high school hockey team. I kept playing, but I was on what they called the B Squad. </u>
-      <u who="CUMMINGS">All right.</u>
-      <u who="JEVNE">You know, that’s a good question. One thing I remember is it seemed like all my college decision letters came on the same day, and Dartmouth was the envelope that I opened first, and I got in, but it was also the only one that I got in, the only school that I got into. So I think I would have chosen it anyway, but, you know, it was the only one I got into, so I didn’t choose it over other schools.</u>
+      <u who="JEVNE">Well, I didn’t really have much—yeah, it was kind of a real outside shot for me. Hockey was the sport I loved most, but I was small and slow to mature, and I actually never made the high school hockey team. I kept playing, but I was on what they called the B Squad. 
+
+Actually, it’s a nice Dartmouth story. There was a great coach at Dartmouth at the time called [Edward J.] “Eddie” Jeremiah [Class of 1930]. He’s a really sort of a legend in hockey circles. And he ran a hockey school in Minnesota in the summertimes, and I went to that hockey school one summer. I think I was probably about in ninth—maybe between eighth and ninth grade. And he remembered me, and one time wrote me a letter when he— for some reason, he knew that I hadn’t made my high school hockey team. And he wrote me a letter encouraging me. He said, “Don’t”—you know, “Don't give up” or “If you like hockey, keep on playing.” Which is unusual because, you know, coaches are generally focused on the really talented players and wanting to recruit them.
+
+And when I got to Dartmouth, I had matured a bit. In those days, you couldn’t play varsity hockey—varsity sports until your sophomore year, but I played freshman hockey and in sophomore year actually made—made the varsity, lettered. and Eddie Jeremiah was—was my coach for a few years, and so it was, you know, a pretty—a pretty happy story for me.
+
+But I, you know, actually going into college, I never expected that. Just because of my past record, I never expected that I would be able to play hockey. You know, I was somewhat interested in tennis, which had been another favorite sport of mine, but I didn’t—didn’t really have plans to—to play tennis in college. Hockey was what I wanted to do.</u>
+      <u who="CUMMINGS">All right.
+
+
+
+So going back to your decision to—or your decision to go to Dartmouth, what drew you to Dartmouth?</u>
+      <u who="JEVNE">You know, that’s a good question. One thing I remember is it seemed like all my college decision letters came on the same day, and Dartmouth was the envelope that I opened first, and I got in, but it was also the only one that I got in, the only school that I got into. So I think I would have chosen it anyway, but, you know, it was the only one I got into, so I didn’t choose it over other schools.
+
+You know, I was—I think the location of Dartmouth was a big thing for me and the fact that it was in—in the mountains and, you know, kind of connected with wilderness and everything. You know, I knew a few men of the older generation who had gone there, and they seemed like nice people, and they sure loved the college. But, you know, it was more of a gut feeling than a—than a—like, a logically, carefully thought out thing. Just for some reason it was the place that attracted me the most.</u>
       <u who="CUMMINGS">Yeah, I think that’s natural. A lot of people say that about their choice to go to college.</u>
       <u who="JEVNE">Yeah.</u>
       <u who="CUMMINGS">So had you visited Dartmouth before you applied?</u>
@@ -99,7 +121,9 @@
       <u who="CUMMINGS">Mm-hm. All right, so you got to Dartmouth your freshman year. And what year was that?</u>
       <u who="JEVNE">That was the fall of ’62.</u>
       <u who="CUMMINGS">Okay. And what was your first impression of the school?</u>
-      <u who="JEVNE">Well, you know, it was very beautiful and a very pleasant campus. In those days, freshmen wore beanies, and when you arrived on campus, upperclassmen could, like, commandeer you to do chores for them at the beginning of the school year. It was mainly like moving furniture into dorm rooms or fraternities or whatever. And I was kind of lucky. There were five other guys from my high school that—that went to Dartmouth, were in the same class as me, and they were all—most of them were hockey players, and they were all—all good friends of mine. So, you know, I wasn’t—wasn’t completely alone.</u>
+      <u who="JEVNE">Well, you know, it was very beautiful and a very pleasant campus. In those days, freshmen wore beanies, and when you arrived on campus, upperclassmen could, like, commandeer you to do chores for them at the beginning of the school year. It was mainly like moving furniture into dorm rooms or fraternities or whatever. And I was kind of lucky. There were five other guys from my high school that—that went to Dartmouth, were in the same class as me, and they were all—most of them were hockey players, and they were all—all good friends of mine. So, you know, I wasn’t—wasn’t completely alone.
+
+And also I got assigned—I got assigned a roommate just by the computer, but he and I just sort of instantly hit it off. We’re still really close friends to this day, although he lives in England, but—so, you know, it was—it was kind of—we felt very much more lowly than I imagine freshmen feel today because we had those beanies and we were like slaves. And, you know, kind of got pulled all over campus by upperclassmen to do work for them. So that was kind of—kind of funny. But, you know, it was basically a pretty easy transition. And, of course, I was really excited about getting away from home and, you know, being in college.</u>
       <u who="CUMMINGS">So were you excited to get away from home because it was a new experience and you were excited about college, or because you were tired of Minnesota or living with your parents? What made you happy to leave?</u>
       <u who="JEVNE">It was more enthusiasm about, you know, the adventures of college, I would say. I wasn’t—no, I wasn’t really tired of Minnesota, and I got along great with my parents. So that wasn’t—that wasn’t part of it. It was just, you know, moving on to the next step in life.</u>
       <u who="CUMMINGS">Right.</u>
@@ -115,9 +139,19 @@
       <u who="CUMMINGS">So how did that change your experience, going from freshman to sophomore year and being a part of a team?	</u>
       <u who="JEVNE">Well, it was—you know, I would say that was the highlight of my—of my—of my time at Dartmouth. I just—I loved hockey so much. And I was just—I just felt blessed that I had the chance to—chance to play, which is not to say, you know, when you’re on a sports team there’s plenty of ups and downs with team spirit and everything like that, and so it wasn’t—I’m not saying that it was just all a bed of roses. But it was, like, the thing I would say I enjoyed the most at Dartmouth, remember the most about at Dartmouth, probably got the most out of at Dartmouth. You know, a lot of the guys that I’m still in touch with from Dartmouth are hockey players, were hockey players. It was a big thing for me.</u>
       <u who="CUMMINGS">Okay. And in terms of the campus climate, because that period of time is sort of when [the] Vietnam [War] is ramping up, I guess you could say, did you feel the presence of antiwar—or what was the campus climate like?</u>
-      <u who="JEVNE">Yeah, okay. That’s interesting, because I was thinking of that this morning before you called. It was a—it was a real cusp time there, you know? You know, people kind of lump the ’60s all together, but the beginning of the ’60s, at least in a place as isolated as Dartmouth was at that time—which, you know, the roads were a lot worse, and Dartmouth—Dartmouth in a way was kind of farther away from things than it is now. At the beginning of the ‘60s, the Vietnam War, you know, was more—wasn’t really  considered a war. It was just kind of an involvement and didn’t—there weren’t enough military over there so that it affected people’s lives. And it was in—it was in—</u>
+      <u who="JEVNE">Yeah, okay. That’s interesting, because I was thinking of that this morning before you called. It was a—it was a real cusp time there, you know? You know, people kind of lump the ’60s all together, but the beginning of the ’60s, at least in a place as isolated as Dartmouth was at that time—which, you know, the roads were a lot worse, and Dartmouth—Dartmouth in a way was kind of farther away from things than it is now. At the beginning of the ‘60s, the Vietnam War, you know, was more—wasn’t really  considered a war. It was just kind of an involvement and didn’t—there weren’t enough military over there so that it affected people’s lives. And it was in—it was in—
+
+Are we still talking? [He responded to a musical tone.]</u>
       <u who="CUMMINGS">Sorry.</u>
-      <u who="JEVNE">Okay. It was in ’64 that the Gulf of Tonkin Resolution was passed by Congress, and then in ’65 was when really a lot of, you know, the big troop buildup began, and so, you know, war protests, even in—in urban areas, I don’t think really—really got going until ’65. And up in Hanover, I don’t remember there being any kind of—any kind of war protests going on. </u>
+      <u who="JEVNE">Okay. It was in ’64 that the Gulf of Tonkin Resolution was passed by Congress, and then in ’65 was when really a lot of, you know, the big troop buildup began, and so, you know, war protests, even in—in urban areas, I don’t think really—really got going until ’65. And up in Hanover, I don’t remember there being any kind of—any kind of war protests going on. 
+
+I also—it might be the people that I was hanging out with, but I didn’t really see—you know, there was the flower child movement out in—out in San Francisco and everything, and I think that was taking root in cities and probably on urban campuses, and I’m sure there were elements of it in Hanover, but in my social circle, it didn’t really encounter that.
+
+So I—I wouldn’t say—you know, ROTC [Reserve Officers’ Training Corps] was still in place on campus. I didn’t do that. I didn’t have any particular interest in the military, but I was kind of an ordinarily patriotic young man, and there was a lot of controversy afoot. I remember George [C.] Wallace [Jr.], the bigoted governor of Alabama, came to talk on campus, and there was a lot of protests outside Webster Hall when that happened. There were things fermenting, but it wasn’t really—I’d say the civil rights movement was more of a—you know, a stronger element than any kind of antiwar stuff. I don’t really remember anything happening in terms of antiwar demonstrations.
+
+
+
+And I was there through June of ’67, because I went to—</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">I went to Tuck School [of Business] as well. They had a program back then where you could go to the Tuck School after your junior year. They called it the three-two program. So I was actually at Dartmouth for five years. And the last two were at Tuck, and I ended up with an M.B.A. [masters of business administration] there. So through ’67 for me, I didn’t really notice a lot of antiwar activity.</u>
       <u who="CUMMINGS">So you would say that there wasn’t as—really a shift or a noticeable shift over your time?</u>
@@ -132,14 +166,36 @@
       <u who="JEVNE">Yeah, the culture was—the culture was different, although there was plenty of fun, too. I mean, you know, there was the Tuck School bike race. I don’t know if they still do that. That was a crazy event. You know, we partied a lot.</u>
       <u who="CUMMINGS">[Chuckles.] So your social scene throughout college was—would you say was important to you?</u>
       <u who="JEVNE">Oh, yeah. Yeah, yeah, yeah. I did lots of partying. I wasn’t very much of a—dating was a strange thing in those days because, you know, you—well, we did lots of road trips to women’s college, and—you know. But I—I was pretty—in terms of relations with—with females, I was a very shy and—you know, I never—I really didn’t have—I probably had less than ten dates in my whole four years at—at Dartmouth. That was kind of a hard part of it for me. You know, I wasn’t very good at going to a girls’ school and going to a dorm and starting talking to girls and persuading one to go out on a date, which is what you had to do in those days. [Chuckles.]</u>
-      <u who="CUMMINGS">Right, [Chuckles.] </u>
+      <u who="CUMMINGS">Right, [Chuckles.] 
+
+So did you—so you like that Dartmouth was all boys?</u>
       <u who="JEVNE">Well, it was more of a—you know, more of a men’s experience.</u>
-      <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">No, I think I had—well, yes and no. I think I had pretty much—you know, one thing that—one good thing about Tuck was it kind of convinced me that business—you know, a career in business was not going to be very compatible for me, so I—you know, most—most Tuck graduates were, you know, getting jobs and going to work in business right out of—right out of it. But I never even—never had an interview, never really considered that.</u>
+      <u who="CUMMINGS">Right.
+
+
+
+So let’s go back to Tuck. So in your last year of Tuck, did you have any idea what you wanted to do after school?</u>
+      <u who="JEVNE">No, I think I had—well, yes and no. I think I had pretty much—you know, one thing that—one good thing about Tuck was it kind of convinced me that business—you know, a career in business was not going to be very compatible for me, so I—you know, most—most Tuck graduates were, you know, getting jobs and going to work in business right out of—right out of it. But I never even—never had an interview, never really considered that.
+
+I—you know, I—I planned to have adventures. And before the Vietnam War came along, you know, I think I was thinking strictly of traveling, but not just traveling so much in, you know, a tourist type of sense but, you know, sort of adventure—adventure travels with—just taking off and not really knowing exactly—you know, not having any particular plan.
+
+
+
+I think, you know, as the—as the Vietnam War heated up—you know, I had friends in my fraternity who were doing Marine Corps officer training in the summertime. They had—they had a program where you could—over two summers, you could complete your Officer Candidate School training, and then you’d become a Marine lieutenant when you graduated from college.
+
+And I had some really close friends that were—that were doing that. But that training was very challenging and difficult, and—you know, especially physically, and there would be a lot of funny stories about the drill instructors and everything, and, you know, those—those guys would talk about that. And I listened.
+
+It was a time when the draft—there was still a draft, and my whole life, I pretty much assumed that at some point I would be doing military service. You know, resisting the draft was not really something that had been thought about, in the time I was growing up, anyway.
+
+And, of course, it was shortly after World War II, and, you know, my father’s generation. My dad had been in the [U.S.] Army, though not in combat. And, you know, the generation that were our parents were the ones that had fought the war and were admired for it. So, you know—and then there was—patriotism was pretty high because it was, you know, so shortly after World War II there had been the Korean War, the communist threats—and very real. And, you know, if you didn’t research it very much, there was kind of a default mentality to have. At least for me, it was “serve your country.”
+
+And then, you know, hearing about—of course, there are different ways to serve your country, but hearing about what Marine Corps training was like and also knowing the history of the Marines during World War II, you know, I was drawn to—I was drawn to that challenge.</u>
       <u who="CUMMINGS">So did you grow up with a sense that serving your country was sort of a civic duty, something that you had to do?</u>
       <u who="JEVNE">[Knocking sound in background.] Yeah, yeah, in one [unintelligible] strictly practical sense in that, you know, [voice becomes muffled]—there’s quite a noise. You getting that noise?</u>
       <u who="CUMMINGS">Yes, I’m sorry. That’s, I think, something coming from my side. I’m not sure what it is. [The noise becomes less loud.]</u>
-      <u who="JEVNE">Just from a practical sense, the draft was ubiquitous. You know, you could—you could avoid the draft by—by going for four years, by going to college and getting a deferment. But normally, you know, once that was over, you got drafted. So I just—you know, I just—I kind of—in a way, without even thinking about, without any patriotic motivation, I just figured, Well, I’m probably to go have—I’m gonna be in the military for two years. But then, you know, I also felt it was honorable and patriotic to serve in the military. </u>
+      <u who="JEVNE">Just from a practical sense, the draft was ubiquitous. You know, you could—you could avoid the draft by—by going for four years, by going to college and getting a deferment. But normally, you know, once that was over, you got drafted. So I just—you know, I just—I kind of—in a way, without even thinking about, without any patriotic motivation, I just figured, Well, I’m probably to go have—I’m gonna be in the military for two years. But then, you know, I also felt it was honorable and patriotic to serve in the military. 
+
+And then, you know, the other thing that—that came in as I was talking about with the Marine Corps training that I was hearing about was the challenge of it and the adventure of it and the opportunity to—well, I guess, you know, for lack of a better way of saying it, to prove that I could handle what was involved in being a Marine Corps officer and, you know, could lead men, could be in combat, could function.</u>
       <u who="CUMMINGS">So throughout college, though, you didn’t do ROTC. You weren’t really military focused. You just thought that if the draft—if you were drafted, you would serve? Is that correct?</u>
       <u who="JEVNE">Yeah. Well, so that’s how I was at the beginning of—of college, and then, you know, towards the end, when it came time to figure out what I was going to do next, you know, it was something more. It was, like, you know, becoming a Marine Corps officer was an opportunity, something that I wanted to do, chose to do.</u>
       <u who="CUMMINGS">So you graduated from Tuck in ’67? Is that correct?</u>
@@ -153,7 +209,9 @@
       <u who="CUMMINGS">Yes, I have.</u>
       <u who="JEVNE">Yeah, he’s kind of—probably of all the—of all the Dartmouth Marines that—that were killed in the war, he’s probably the most well known one.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And, you know, there’s a Smoyer [unintelligible] at the hockey rink and everything. Well, he was a really close friend of mine. And when—so he—he was going through signing up for Marine OCS at the same time I was. He must have been—maybe he was ahead—a little bit ahead of me because he got scheduled to begin OCS around October first, so I was November first; he was October first. </u>
+      <u who="JEVNE">And, you know, there’s a Smoyer [unintelligible] at the hockey rink and everything. Well, he was a really close friend of mine. And when—so he—he was going through signing up for Marine OCS at the same time I was. He must have been—maybe he was ahead—a little bit ahead of me because he got scheduled to begin OCS around October first, so I was November first; he was October first. 
+
+So we both had this, you know, few months to—to do something, and we decided to—I had a—I had a car, a Ford Falcon station wagon, and after graduation, we took off in that car, headed out to Minneapolis, where I lived, and then—and then on west. And we traveled through the West together all that summer—you know, Yellowstone [National Park] out on the West Coast down to—down through California, and I think we probably traveled about—about three months together.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And had a really—you know, pretty fun—pretty fun—you know, we were—we couldn’t have been in a much more carefree situation. </u>
       <u who="CUMMINGS">Right.</u>
@@ -165,7 +223,15 @@
       <u who="CUMMINGS">Yeah.</u>
       <u who="JEVNE">Well, Marine Corps officer training is pretty amazing. It takes place at Quantico—in Quantico, Virginia, which is a base just—it’s on the Potomac [River] just south of [Washington] D.C. And when you arrive there—well, when I arrived there, you know, I was immediately taken charge of by the drill instructors. And, you know, the first thing that happens is you’re just pretty much humiliated and reduced to, you know, probably the lowest form of humanity that you’ve ever experienced or that I had ever experienced because treated in a way that I had never been treated, you know, in my life before in terms of being dominated and commanded and humiliated by, you know, the people in power over me. Which was a very interesting experience, but, of course, it was what I was expecting. I knew that’s what the training was like, you know, so—</u>
       <u who="CUMMINGS">So how did they do that? What sort of actions did they take against you, or—</u>
-      <u who="JEVNE">Well, the very first thing is that you get herded into the barbershop and your head shaved, but not—not completely bald but really short. You never—to begin with, you—we didn’t go anywhere except in formation, and so, like, we were organized in platoons, which are about—I guess about 40—40 candidates. We were called candidates. And the guys immediately superior to us were—were staff NCOs, non-commissioned officers. We also had I think a first lieutenant platoon commander, an officer. But the ones who were really dealing with us all day long were our—our—our drill instructors, who were—were staff NCOs.</u>
+      <u who="JEVNE">Well, the very first thing is that you get herded into the barbershop and your head shaved, but not—not completely bald but really short. You never—to begin with, you—we didn’t go anywhere except in formation, and so, like, we were organized in platoons, which are about—I guess about 40—40 candidates. We were called candidates. And the guys immediately superior to us were—were staff NCOs, non-commissioned officers. We also had I think a first lieutenant platoon commander, an officer. But the ones who were really dealing with us all day long were our—our—our drill instructors, who were—were staff NCOs.
+
+And, you know, they—we had to be very, very, very exact in almost everything we did: the way we made our bunks, the way we shined our shoes, the way we, you know, arranged our gear. Inspections all the time. We were often put in situations where it would be easy to look for us to screw up, and whenever we did screw up, we would be [unintelligible] humiliated by the—by the drill instructors [DIs].
+
+You know, a good example would be we had to sort of take turns being in charge of the platoon and marching them—you know, giving the marching commands as we’re going through—from one place to another or something. And that’s not easy to do. So, you know, you made [unintelligible]—you made the slightest little mistake, we just could get come down upon enormously.
+
+Another thing was we would go on these—this was the beginning of winter, and it was wet and often icy, and we’d go on these horrendous hikes up and down the hills, and during the hike you—you had to stay within, like, arm’s length of the—of the guy in front of you. And the DIs were watching to make sure you did that, but there’s—when you’re going up and down hills, there’s all these accordion effects that—that occur, and it’s really hard to stay in—stay close to the guy in front of you. You might slip or something like that.
+
+Anyway, you could make them—you could fall behind a little bit, and that’s absolutely no fault of your own, and yet you would get kind of disciplined for it, you know?</u>
       <u who="CUMMINGS">Okay. </u>
       <u who="JEVNE">It was designed to—you know, to make us give up a bit of ourselves, and yet, at the same time, there were—you know, there was a lot to—to give us confidence. We were running obstacle courses and doing difficult things, and if you were—if you were good at doing them, which I was, then you got a lot of—you know, that. Nobody—nobody congratulated you for it, ever. Nobody ever got—you know, there was never a word of praise of any kind. But you could feel good about it. You know, I could feel good about myself, and I was—I ended up—I was platoon honor man, which means on the scores that we had on all the different stuff that we did, I had the highest score in the platoon, so I was—</u>
       <u who="CUMMINGS">Wow.</u>
@@ -191,7 +257,11 @@
       <u who="CUMMINGS">Okay. And was that different—or how was that different from OCS?</u>
       <u who="JEVNE">That was way different. It was way different in the sense that we were officers. We got paid more. I think I was—as a second lieutenant, was getting $321 a month instead of $45 a month—</u>
       <u who="CUMMINGS">Wow.</u>
-      <u who="JEVNE">—as a PFC [private first class] in—in OCS. We—we lived in kind of like—we lived in—it was sort of like a college dorm almost, and there was an officers’ club for—for us right there, so with a bar and everything. You know, we had—it was—it was more of a—I wouldn’t call it a nine to five job, because a lot of time we did night—night work and stuff, but we were—whenever we weren’t actually doing Marine Corps training, we were completely free. We could go wandering off base all we wanted, you could have cars and—you know, so it was a whole different level of just independence.</u>
+      <u who="JEVNE">—as a PFC [private first class] in—in OCS. We—we lived in kind of like—we lived in—it was sort of like a college dorm almost, and there was an officers’ club for—for us right there, so with a bar and everything. You know, we had—it was—it was more of a—I wouldn’t call it a nine to five job, because a lot of time we did night—night work and stuff, but we were—whenever we weren’t actually doing Marine Corps training, we were completely free. We could go wandering off base all we wanted, you could have cars and—you know, so it was a whole different level of just independence.
+
+And—and—you know, at this point, instead of being broken down, we’re—we’re—we’re being built up, and—and, you know, a lot is being instilled in us about our—our work as—as Marine officers and pride in being a Marine officer and everything like that.
+
+And then, you know, another thing that I should mention at that time, because it’s pretty important later, is that a big part of our training—you know, constantly you heard the—the mantra that in order to win the war in Vietnam, we need to win the hearts and minds of the people of South Vietnam.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">That was—that was quite a watchword. At the same time, you know, we were also—we would, you know—like, if we were doing double-time marching, like running as a platoon, we might be singing, “I’m gonna go to Vietnam. I’m gonna kill some Viet Cong.” You know? So it’s kind of—</u>
       <u who="CUMMINGS">Mm-hm.</u>
@@ -199,24 +269,52 @@
       <u who="CUMMINGS">Okay. So you knew that you were going to Vietnam, and how did that make you feel? Were you excited about going to Vietnam?</u>
       <u who="JEVNE">Yup, I was—once again, you know, I—I achieved quite highly. I think I finished third in my class of 200 at The Basic School—</u>
       <u who="CUMMINGS">Wow.</u>
-      <u who="JEVNE">—which meant that I could have chosen any—any military occupational specialty [MOS] that I wanted. But I—my—I never had any—I never thought about anything else except being an infantry platoon commander, so I—I chose infantry as my MOS. And, you know, that was—was my total intention in joining the Marine Corps, was to be a platoon commander in—in Vietnam. And so it was just—</u>
+      <u who="JEVNE">—which meant that I could have chosen any—any military occupational specialty [MOS] that I wanted. But I—my—I never had any—I never thought about anything else except being an infantry platoon commander, so I—I chose infantry as my MOS. And, you know, that was—was my total intention in joining the Marine Corps, was to be a platoon commander in—in Vietnam. And so it was just—
+
+And, I—you know, excited about going to Vietnam? I’m not sure that’s the right word, because it was—you know, it was something that I had wanted to do, I think for reasons that I—that I pointed out to you earlier when I was talking about my decision to join the Marine Corps, and it was like just gone through—what?—eight weeks of train- —eight months of training to prepare me for it. So, no, I was ready to go.
+
+There was one interesting thing, though. We all took a language aptitude test, which I scored highly on, and I was very idealistic and really believed the hearts and minds thing. I believe that even before I joined the Marine Corps. You know, I was pretty idealistic about helping the people of Vietnam be a free—South Vietnam be a free, democratic country.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And I really wanted to be able to interact with and relate to the people of Vietnam, and there were interesting possibilities in the Marine Corps, their—most especially something called combined action platoons, where there were Marines and Vietnamese kind of village soldiers in the same unit, and so anyway, I scored high on the language test, and as a result I was—my orders when I—when I finished Basic School were to go to an eight-week Vietnamese language school before going to Vietnam.</u>
+      <u who="JEVNE">And I really wanted to be able to interact with and relate to the people of Vietnam, and there were interesting possibilities in the Marine Corps, their—most especially something called combined action platoons, where there were Marines and Vietnamese kind of village soldiers in the same unit, and so anyway, I scored high on the language test, and as a result I was—my orders when I—when I finished Basic School were to go to an eight-week Vietnamese language school before going to Vietnam.
+
+But while I was home on leave, there must have been a very crying need for second lieutenant platoon commanders in Vietnam at the time because those orders got cancelled, and I—I was home on 30-days’ leave, and while I was home I got new orders sending me directly to Vietnam.
+
+And I was really disappointed by that, but I think I, you know, knew why, and I thought, Well, that’s—that’s where the need is, so I—I accepted it.</u>
       <u who="CUMMINGS">Disappointed because you wanted to go through the language training?</u>
       <u who="JEVNE">Yeah, I really wanted—I was very—if I was excited about something, it was the language training, you know?</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And [unintelligible] that that—that was really—to be able to speak the language and be able to, you know, deal with—with the Vietnamese people directly—that was something that I—I was very—very enthusiastic about and really regretted losing that—that opportunity.</u>
       <u who="CUMMINGS">So you mentioned this—and I’m sure we’ll get to it a little later, but at this period of time, after your training, did you feel that going to Vietnam was the right thing to do for the country, that the United States were doing a good thing in Vietnam?</u>
-      <u who="JEVNE">Yeah. Yeah. Yes. And—you know, I—as I mentioned earlier, I—growing up in the ’50s, there was a real struggle and also—and also the ’60s—there was a real struggle going on between the Soviet Union and the—you know, the sort of the communist world, including Communist China, and what was called then the Free World, which was, you know, the U.S. and NATO [North Atlantic Treaty Organization]. And, you know, the third world countries were sort of the battleground for that—some actual battlegrounds, like Vietnam, but there was also a lot of—a lot of more political stuff going on in third world countries all over. </u>
+      <u who="JEVNE">Yeah. Yeah. Yes. And—you know, I—as I mentioned earlier, I—growing up in the ’50s, there was a real struggle and also—and also the ’60s—there was a real struggle going on between the Soviet Union and the—you know, the sort of the communist world, including Communist China, and what was called then the Free World, which was, you know, the U.S. and NATO [North Atlantic Treaty Organization]. And, you know, the third world countries were sort of the battleground for that—some actual battlegrounds, like Vietnam, but there was also a lot of—a lot of more political stuff going on in third world countries all over. 
+
+And it was—it was a struggle for, you know, control of those or at least powerful influence of those, well, those third world countries. And we—you know, there was a lot of belief at the time that the reason World War II had happened was because the—the European countries did not stand up to Nazi Germany and also that other countries of the world didn’t stand up to Japan as they were pursuing their expansionist activities in the—in the ’30s, especially the late ’30s. And, you know, there was a lot of “We’re not gonna make that same mistake again.”
+
+So for someone looking at the situation superficially or without a lot of careful research, it made sense to be defending democracy against communism in South Vietnam.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">Now, I’m just going to get into something here that’s pretty important for me. You know, I was a Dartmouth grad and a Tuck School grad, and if there’s one thing that I have learned, it was how to do research, you know? And I was a history major, so even historical research was something that I knew quite a bit about—how to do.</u>
+      <u who="JEVNE">Now, I’m just going to get into something here that’s pretty important for me. You know, I was a Dartmouth grad and a Tuck School grad, and if there’s one thing that I have learned, it was how to do research, you know? And I was a history major, so even historical research was something that I knew quite a bit about—how to do.
+
+And there was—well, I now know that even at that time, in the middle ’60s, there was plenty of information available about the politics—you know, what had happened in Vietnam that had led to the American involvement in there, which was—if you know anything about it, it was a pretty ugly picture, what happened in the ‘50s.
+
+And there was also a lot of information about how futile it was to be fighting in Vietnam. You know, the French experience there alone, after World War II, you know, was [chuckles]—it was not—we were not in a very promising war. There wasn’t very much chance that we were going to win it if you really looked at—at the history and what the history was saying.
+
+
+
+And that is not something that I did. You know, I—I joined and decided, you know, with a desire to go to Vietnam with really a very—very superficial amount of information about what was truly going on there. I didn’t—I didn’t dig deeply and—and make, you know, I would say a morally defensible decision to do what I did.</u>
       <u who="CUMMINGS">Okay. </u>
       <u who="JEVNE">Something that I regret. I feel that if I—if I had done that, I would have made other choices.</u>
-      <u who="CUMMINGS">Okay. </u>
-      <u who="JEVNE">Well [chuckles], maybe as prepared—I think I was—I thought I was as prepared as I could be from training. Something that would have been really good—a good step to have in between would have been to have some stateside leadership experience—in other words, be a platoon commander at Camp Lejeune [Marine Corps Base Camp Lejeune, North Carolina] or Camp Pendleton [Marine Corps Base Camp Pendleton, California] or, you know, one of the—one of the bases in—in stateside bases, because then, in non-dangerous situations, I could have learned how to be—you know, there’s learning like you do in college or in—in, you know, military training, and then there’s the real nuts-and-bolts learning, which is what you get when you’re actually on the job or in an internship or something. </u>
+      <u who="CUMMINGS">Okay. 
+
+So after your training, did you feel like you were prepared?</u>
+      <u who="JEVNE">Well [chuckles], maybe as prepared—I think I was—I thought I was as prepared as I could be from training. Something that would have been really good—a good step to have in between would have been to have some stateside leadership experience—in other words, be a platoon commander at Camp Lejeune [Marine Corps Base Camp Lejeune, North Carolina] or Camp Pendleton [Marine Corps Base Camp Pendleton, California] or, you know, one of the—one of the bases in—in stateside bases, because then, in non-dangerous situations, I could have learned how to be—you know, there’s learning like you do in college or in—in, you know, military training, and then there’s the real nuts-and-bolts learning, which is what you get when you’re actually on the job or in an internship or something. 
+
+And it’s—you know, you’re going to make a lot of mistakes. I learned something that I heard recently in a movie that I just love: It was about—it was about a really long horseback trip and this old experienced horsebacker says to these young guys that are making this trip—he says, “Good judgment comes from experience, and experience comes from bad judgment.” [Chuckles.]
+
+So, you know, you judge yourself—you get training, you get in a situation where you’re putting that training to use, but the situations are ones you’ve never encountered before, so what you do can only be your best guess of what’s the right thing to do, and much of the time—much of the time, your decisions are going to turn out to be less than optimal. And, you know, you have to learn from experience, but when you’re in war, your less-than-optimal decisions can amount—can result in guys getting killed.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">So it’s—you know, I didn’t know—I had no experience in actually leading men. Didn’t know enlisted Marines very well. You know, I had—I had a lot to learn, and I knew I had a lot to learn, and I knew that I was going to have to learn it under pretty—pretty tough circumstances.</u>
-      <u who="CUMMINGS">Okay. </u>
+      <u who="CUMMINGS">Okay. 
+
+So it seems like now is a good time to shift towards Vietnam. Is there anything you want to go back to from before you went to Vietnam?</u>
       <u who="JEVNE">Yeah, one thing that I—that I forgot to—to touch on. So when Bill Smoyer and I were traveling through the West before we—we star- —we went on active duty—</u>
       <u who="CUMMINGS">In ’67?</u>
       <u who="JEVNE">Well, in San Francisco. And I have—had an uncle who lived in San Francisco, Uncle Bill. I’m named after him.</u>
@@ -233,7 +331,9 @@
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">So he was, like, this hero.</u>
       <u who="CUMMINGS">Yeah.</u>
-      <u who="JEVNE">He at one point won a pretty high award called a Silver Star. It’s not—it’s the third-highest decoration that you can have. </u>
+      <u who="JEVNE">He at one point won a pretty high award called a Silver Star. It’s not—it’s the third-highest decoration that you can have. 
+
+Anyway, I didn’t know Uncle Bill too well, but we had—we had good rapport. And one night, Uncle Bill and Bill Smoyer and I, three Bills, were sitting talking to each other, and he knows we’re going into the Marine Corps. And he—“I want to tell you guys something. You’re—you’re making a mistake by getting involved in this war. You know, I was in World War II. I was in World War II, and World War II was a war we had—had to fight. But this war—this war is a mistake, and you guys are making a mistake by”—I’m not saying exactly what he said, but he told us—</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">—basically that. As you can tell by listening to me, I—I heard him, but I—you know, I took no—neither Bill Smoyer nor I took any further action on what he said. It’s just an interesting thing that I had meant to touch on but didn’t.</u>
       <u who="CUMMINGS">Mm-hm. So it didn’t really change your mind about going to training?</u>
@@ -242,16 +342,24 @@
       <u who="JEVNE">Yeah. I think he was. He was the only one I remember, anyway. I know—well, another interesting fact was I never—the only thing—the only communication I ever had with my parents about this was to tell them—I had good relations with my parents, but in those days, you know, I don’t think young people consulted their parents very much about any decisions they made, and I made my decision to join the Marine Corps I think without ever letting my parents knew [sic] that I was thinking about it, or I don’t think even ever telling them about it until it was a done deal.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">So it was—and—I don’t think they were too happy. Well, I’m sure they weren’t too happy about it. My father I think was—was kind of conflicted because he—he had been in the Army in World War II, and he had a lot of the same feelings that, you know, I did about doing your duty and there’s some kind of adventure in—in—in being in a war and stuff. But at the same time, you know, I don’t think he really wanted me to be—well, I know he didn’t really want me to be in a war, being afraid for me getting killed.</u>
-      <u who="CUMMINGS">Right. </u>
+      <u who="CUMMINGS">Right. 
+
+So let’s move on towards Vietnam. What day—what was the date of your arrival in Vietnam?</u>
       <u who="JEVNE">I don’t remember the exact date, but it was right around August 1st, 1968.</u>
       <u who="CUMMINGS">Okay. And where did you land in Vietnam?</u>
       <u who="JEVNE">I landed in Da Nang.</u>
       <u who="CUMMINGS">What were your first impressions of Da Nang?</u>
-      <u who="JEVNE">Well, I had spent a couple of days in—in Okinawa [Islands, Japan] on the way over, which was kind of—you know, there’s a, just the, the heat and kind of humidity of the Far East is pretty amazing, and experienced that in Okinawa. And also got a lot of briefings about what was going on in Vietnam in the areas where we were likely to be assigned. And those were pretty scary, in the sense that there was a lot of—a lot of combat happening at the time.</u>
+      <u who="JEVNE">Well, I had spent a couple of days in—in Okinawa [Islands, Japan] on the way over, which was kind of—you know, there’s a, just the, the heat and kind of humidity of the Far East is pretty amazing, and experienced that in Okinawa. And also got a lot of briefings about what was going on in Vietnam in the areas where we were likely to be assigned. And those were pretty scary, in the sense that there was a lot of—a lot of combat happening at the time.
+
+
+
+Flying from Okinawa to—to Vietnam was on a commercial airliner, a chartered commercial airliner with stewardesses—what were—flight attendants were called stewardesses at that time.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">The guys on the flight were enlisted men, and the stewardesses were very playful with them and kind of made the flight a lot of fun.</u>
       <u who="CUMMINGS">Mm-hm. </u>
-      <u who="JEVNE">But then we got off the plane at the Da Nang airfield, and the heat was, you know, a lot more intense than even it had been in Okinawa. And they piled us into some six-bys, which are big trucks with—canvas-covered trucks, and drove us through sort of the ramshackle bamboo hut residential areas that were surrounding Da Nang, up to the 1st Marine Division headquarters, where I was assigned to the 1st Marine Division, and that’s where we were going to get more briefings and get assigned to our regiment, from which we would get assigned to our battalion and then our company and then our platoon.</u>
+      <u who="JEVNE">But then we got off the plane at the Da Nang airfield, and the heat was, you know, a lot more intense than even it had been in Okinawa. And they piled us into some six-bys, which are big trucks with—canvas-covered trucks, and drove us through sort of the ramshackle bamboo hut residential areas that were surrounding Da Nang, up to the 1st Marine Division headquarters, where I was assigned to the 1st Marine Division, and that’s where we were going to get more briefings and get assigned to our regiment, from which we would get assigned to our battalion and then our company and then our platoon.
+
+So when I got up there, you know, there were just a bunch of us boot—new second lieutenants, and we—we—we go through a whole lot of briefings. And, again, it’s very scary because there’s so much going on.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And so that—we’re done for the day, with all that, and I go over to the officers’ club. This is still the first day in Vietnam. I go over to the officers’ club, which is just, you know, a bar hangout where officers can go in their free time, and I go in there, and I—I don’t know—I can’t remember if it was right away, but anyway, very soon after getting in there I run into [Robert C.] “Bob” Coury, Dartmouth Class of 1965 and then a classmate of mine at Tuck School. And, you know, overjoyed to see each other. We weren’t, like, super-close friends, but we were actually quite good friends. And I didn’t even know Bob was there.</u>
       <u who="CUMMINGS">Mm-hm.</u>
@@ -259,7 +367,11 @@
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">That was a—like—I’m not sure it’s the right word, but an epiphany moment for me when, you know, a moment of really deep, profound, undeniable realization comes along. You know, in an instant I felt the superficiality with which I had made all my decisions to join the Marine Corps and get involved in the war. And, you know, really what it felt like to me was I—up until that point, I had been approaching it maybe like with the same sort of mentality that I had been so enthusiastic about hockey about. And, you know, I suddenly knew what it was all about. It was about—about people that I knew getting killed, and then it was about other people getting killed who I didn’t know, but they were—their lives were just as valuable as the people that I—that I did know. And I also realized, There’s a fucking good chance I’m gonna get killed, myself.</u>
       <u who="CUMMINGS">Mm-hm. </u>
-      <u who="JEVNE">And I also realized that—that I had huge responsibilities in front of me, because I was going to be, you know, a big part of whether or not the guys under my command got killed or hurt. I also—like, in a way I threw aside my idealism at that point. And I don’t know exactly why, but for some reason, my—my heart just told me that what my—what my job was going to be was to keep as many Marine troopers under my command alive as I possibly could.</u>
+      <u who="JEVNE">And I also realized that—that I had huge responsibilities in front of me, because I was going to be, you know, a big part of whether or not the guys under my command got killed or hurt. I also—like, in a way I threw aside my idealism at that point. And I don’t know exactly why, but for some reason, my—my heart just told me that what my—what my job was going to be was to keep as many Marine troopers under my command alive as I possibly could.
+
+
+
+And that seems like an awful lot to have come in in, like, a millisecond, but, you know, earlier that’s the way it was. And, at the same time, there was just, you know, a huge amount of grief about Bill dying.</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">And confusion. You know, I didn’t know what it was like to lose a friend, you know? Yeah. So that was hard, very hard. And I—there I was in the officers’ club, and there was a bar, and I responded, as I think many young men my age would respond, which was to get blind drunk.</u>
       <u who="CUMMINGS">[Chuckles.]</u>
@@ -271,13 +383,31 @@
       <u who="CUMMINGS">And so going forward from that moment, obviously it’s something that stuck with you. How did it affect the way you adjusted to being at the camp and being in Vietnam?</u>
       <u who="JEVNE">Well, if there’s one thing that stands out in my mind about an amazing way that we were there, it’s the word “resilience.”</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">It was, like,—you know, we were so young and so full of—so full of energy that, you know, these—these really bad things would happen, and—and we were taken in, at least as fully as we could and still carry on with what our—what our jobs were, but, you know, sooner than you would ever think possible, we would find ourselves just fully absorbed in what it was we were doing: laughing with our friends, you know, whatever. Just back at it. </u>
+      <u who="JEVNE">It was, like,—you know, we were so young and so full of—so full of energy that, you know, these—these really bad things would happen, and—and we were taken in, at least as fully as we could and still carry on with what our—what our jobs were, but, you know, sooner than you would ever think possible, we would find ourselves just fully absorbed in what it was we were doing: laughing with our friends, you know, whatever. Just back at it. 
+
+So, you know, the situation was that I got assigned to the 5th Marine Regiment, which was the—its base was a fire base about 25 miles south of—southwest of Da Nang, called An Hoa [Combat Base], and it was a place that I’d been hearing about in all the briefings, where—it seemed like it was where the most intense combat was—was occurring at the time.
+
+So I got sent down there. I flew down there. There was an airstrip at that—at that base, and I was flown down there in a literal tin can of an airplane called a C-123 [Fairchild C-123 Provider]. And it was [chuckles]—it was such a strange flight, because we flew straight down there, and then we—we—there were no windows in—in the— but it was just a little kind of porthole, like windows in a plane.
+
+And so we were flying straight, and then all of a sudden the plane starts descending in a spiral, kind of like water going down a toilet when you flush it, you know?</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And when we’re—so we’re kind of on our side and we’re at such a steep level that through the porthole windows on the other side, I can see the ground, and we’re just spiraling down. And the reason, I found out later, is there was so much artillery fire going out of the—out of this combat base down there that the only way the plane could get into the landing strip was to kind of spiral down directly above it and—and come in that way. And also to avoid enemy fire, because [unintelligible].</u>
+      <u who="JEVNE">And when we’re—so we’re kind of on our side and we’re at such a steep level that through the porthole windows on the other side, I can see the ground, and we’re just spiraling down. And the reason, I found out later, is there was so much artillery fire going out of the—out of this combat base down there that the only way the plane could get into the landing strip was to kind of spiral down directly above it and—and come in that way. And also to avoid enemy fire, because [unintelligible].
+
+Anyway, so that was just so weird. And then I get out of the plane, and there are artillery batteries all around this—this airstrip, and it seems like everyone is just firing full tilt—you know, big Howitzers and—and guns firing off all the time. And I am very jumpy and kind of doing a little—little—little—you know, a little jolt every time I hear one of—one of these cannons going off.
+
+So, I don’t know, I was with a couple other second lieutenants. I don’t even remember who they were. But I think—anyway, we got sent to—the next thing I kind of remember was in the office of the regimental commander, a full colonel, and he’s kind of giving us a pep talk, and, you know, a very stern guy. But—and I’m still jumpy, and I’m still—I’m still flinching every time I hear one of these cannons going off.
+
+But the thing that I remember him telling us—he said, “Lieutenants, there’s one thing I want you to always remember when you’re out there with your platoons.” He said, “I don’t want you to ever cry. There’s going to be things that happen.” [His voice cracks with emotion.] See, I’m close to crying right now, just thinking of that.</u>
       <u who="CUMMINGS">Yeah.</u>
-      <u who="JEVNE">“There—there are gonna be things that happen out there that’s going to seem impossible to not cry, but don’t ever cry.” And I’ll tell you later about the time or two when I did cry, but it kind of—I don’t know, it exemplifies a lot about how you have to be to be in war and what you have to—what you have to put down just to get through it.</u>
+      <u who="JEVNE">“There—there are gonna be things that happen out there that’s going to seem impossible to not cry, but don’t ever cry.” And I’ll tell you later about the time or two when I did cry, but it kind of—I don’t know, it exemplifies a lot about how you have to be to be in war and what you have to—what you have to put down just to get through it.
+
+So, yeah, from there I got assigned to my battalion, 2nd Battalion, 5th Marines; 2/5, that would be called. And I got assigned to E Company, Echo Company, and I was assigned to be commander of the 1st Platoon, Echo Company.</u>
       <u who="CUMMINGS">So everyone who was already there was pretty realistic with you about what you were going to have to deal with?</u>
-      <u who="JEVNE">Yeah, yeah. Yeah, I mean, I wasn’t getting a lot of—you know, I wasn’t—wasn’t getting a lot of information. I was just—they had some kind of a regulation that you had to be—when you got to 5th Marine Regiment, you had to stay in the rear area for a certain number of days—two, three, four days—I don’t remember how many?—so I was just kind of in limbo.</u>
+      <u who="JEVNE">Yeah, yeah. Yeah, I mean, I wasn’t getting a lot of—you know, I wasn’t—wasn’t getting a lot of information. I was just—they had some kind of a regulation that you had to be—when you got to 5th Marine Regiment, you had to stay in the rear area for a certain number of days—two, three, four days—I don’t remember how many?—so I was just kind of in limbo.
+
+My—my—my company, my platoon was out in—was out in the bush, where it spent most of its time, but I just had to hang around in limbo there for a few days. And I think it was—it was pretty boring.
+
+I actually remember one encounter. The executive officer of the—it’s a Dartmouth-related encounter. The executive officer of the com- —of the battalion that I was assigned to—his name was Major Steele. And he already knew where his next duty station was going to be. It was going to be as the Marine—the Marine officer for—liaison officer at Dartmouth, for the college program at Dartmouth. So he was going to Dartmouth when he left Vietnam. And he and I—he and I had a talk or two, you know, just about that.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">So he went to Dartmouth and—</u>
       <u who="CUMMINGS">Yeah. So you had some time, then, to settle before you started going into, like, full missions?</u>
@@ -285,33 +415,85 @@
       <u who="CUMMINGS">Okay.</u>
       <u who="JEVNE">Yup.</u>
       <u who="CUMMINGS">And what was sort of the culture or the tone like at the camp?</u>
-      <u who="JEVNE">Ah, what an interesting question. Well, you know, the people who were there were what we called in the Marine Corps pogs [rhymes with rogue; a person other than a grunt] And there’s a big distinction between “grunts” and “pogs.” So the grunts were guys that were in the—in the infantry—in the infantry units, most of the time out in the field. Pogs are guys that have the jobs in the rear, and they’re relatively safe. And every grunt’s dream is to become a pog, so they get out of—get out of danger.</u>
+      <u who="JEVNE">Ah, what an interesting question. Well, you know, the people who were there were what we called in the Marine Corps pogs [rhymes with rogue; a person other than a grunt] And there’s a big distinction between “grunts” and “pogs.” So the grunts were guys that were in the—in the infantry—in the infantry units, most of the time out in the field. Pogs are guys that have the jobs in the rear, and they’re relatively safe. And every grunt’s dream is to become a pog, so they get out of—get out of danger.
+
+
+
+At the same time, there’s a—you know, there’s somewhat of I—I don't know, I’ll use the word “contempt,” but it’s maybe more a nuanced kind of term. There might be some jealousy in there, you know.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">There’s just kind of a weird—weird regard for pogs by grunts. So, you know, the people who were there—you know, I’m saying this somewhat as a hindsight—the people there who were pogs—they were doing pretty boring—boring jobs, but they’re pretty glad to have the jobs. So I would say it was relaxed. And, you know, there were things going on. We were—that base was frequently getting rocketed and mortared. There could be night attacks. A lot of those pogs had to—had to serve on duty in foxholes around the—the outside perimeter of the base at night and everything. So it’s not like it was, you know—it wasn’t a totally safe environment, but it was so much safer than the bush that it was really pretty relaxed.</u>
-      <u who="CUMMINGS">Mm-hm. Okay. </u>
-      <u who="JEVNE">Okay, so that’s—one day, when it was my time to go out to the bush, the—my—my—my company was out on some kind of sweeper patrol, and there was not—hadn’t yet been arranged a way for me to meet them, so I got—there was a—there was a road that came down to An Hoa from Da Nang, and it crossed a river about ten miles north of An Hoa, on a bridge called Liberty Bridge. And every day before the trucks used that road, there had to be what was called a road sweep, where, like, a platoon of Marines would walk up the road from Da Nang and another platoon would walk down the road from Liberty Bridge, and with mine detectors and security out to either side of the road to make sure the road hadn’t been mined and there weren’t any ambushes and it was going to be safe to travel.</u>
+      <u who="JEVNE">There’s just kind of a weird—weird regard for pogs by grunts. So, you know, the people who were there—you know, I’m saying this somewhat as a hindsight—the people there who were pogs—they were doing pretty boring—boring jobs, but they’re pretty glad to have the jobs. So I would say it was relaxed. And, you know, there were things going on. We were—that base was frequently getting rocketed and mortared. There could be night attacks. A lot of those pogs had to—had to serve on duty in foxholes around the—the outside perimeter of the base at night and everything. So it’s not like it was, you know—it wasn’t a totally safe environment, but it was so much safer than the bush that it was really pretty relaxed.
+
+There was nothing—no amenities and no officers’ club, no—no beer. There was a mess hall where we got food, but there wasn’t any—no—no—no USO [United Service Organizations] shows coming in. [Entertainer] Bob Hope wasn’t coming down there. It was a very—you know, it was a—it was a dangerous place. But there wasn’t any of that stuff.</u>
+      <u who="CUMMINGS">Mm-hm. Okay. 
+
+So when did you meet your platoon that you were in command of?</u>
+      <u who="JEVNE">Okay, so that’s—one day, when it was my time to go out to the bush, the—my—my—my company was out on some kind of sweeper patrol, and there was not—hadn’t yet been arranged a way for me to meet them, so I got—there was a—there was a road that came down to An Hoa from Da Nang, and it crossed a river about ten miles north of An Hoa, on a bridge called Liberty Bridge. And every day before the trucks used that road, there had to be what was called a road sweep, where, like, a platoon of Marines would walk up the road from Da Nang and another platoon would walk down the road from Liberty Bridge, and with mine detectors and security out to either side of the road to make sure the road hadn’t been mined and there weren’t any ambushes and it was going to be safe to travel.
+
+And halfway in between An Hoa and Liberty Bridge, there was a place called—they called it Alamo. Maybe at some time there had been a little base there, but now it was just a very low hill. This was all rice paddy—rice paddy country, where there’s low rice paddies, and then all the villages, of which there were many, were built on kind of pieces of high ground in between the paddies. And usually there were always lots of trees and brush surrounding those—those villages. Anyway, the Alamo was one of those pieces of high ground, but there was no village there.
+
+So I—I went up the road with the sweep from An Hoa, and then I went back up to Liberty Bridge with the sweep that had come down from there, and I spent the night in this really grungy defense perimeter that they had up there at Liberty Bridge.
+
+And then the next morning, it was set up for me to rendezvous with my company and my platoon down there at the Alamo, so I went back down—I went back down, and they were there at the Alamo and I went back down with the sweep, and I had—there was—I had—I actually had a platoon sergeant, a second in command, who had the rank that he was supposed to have. He was a staff sergeant. Every platoon is supposed to have a staff sergeant, a platoon sergeant, second in command, and that almost never happened in Vietnam.
+
+
+
+But at that time I did have one, so he was the first guy I met, Sergeant Elliot. And he was sort of a stocky, almost plump and kind of a mild-mannered guy. You get your picture of a Marine sergeant now. He’d been there for a while. And one of the things that we’d been told in training was, “When you first join a platoon, you know, just get to know your staff sergeant and let him run things for a while, you know, until you figure out what’s going on. You’re going to have to make the main decisions, but, you know, let him run things. See how things go. You know, easy into it.”
+
+And also, you know, “Rely on your squad leaders.” And squad leaders are normally supposed to be—also be sergeants, [unintelligible] sergeants, but I don’t think that ever happened, you know, while I was in Vietnam.
+
+So I met Sgt. Elliot, and there was another sergeant in the platoon who was—it’s what’s called a “right guide,” so he’s kind of like third in charge. And then the platoon commander—I mean the squad leaders were all corporals. And I met them. So these were the main leaders.
+
+And the squad leaders are in charge of 12 guys divided up into three four-man fire teams. That’s the Marine organization.
+
+So I met these guys, and I said, “Okay.” I’m nervous as hell. You can imagine. You know, you’ve never seen a picture of me, but I’m not an imposing looking guy, and in those days I had horn-rimmed glasses and my appearance—you know, somewhat of a baby face. I’m not, I was slick but not at all muscular. You know, I don’t have a commanding voice or anything like that. So, you know, I think—I think I was well aware that, you know, in their eyes I was a boot lieutenant. And they had many boot lieutenants come in, and, you know, quite rightfully so, they’re not going to trust me until they know I’m trustworthy.
+
+And another thing that I knew was that they had recently had another boot lieutenant come to the platoon, and he had been there less than a week, and this had only happened maybe a week before I got there, but he sat down one day underneath a tree and sat down on a booby trap artillery shell and got blown to smithereens.</u>
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">So, you know, it was kind of a fact of life in Vietnam that you didn’t get attached to anybody or really trust anybody until you’d gone through some shit with them and knew who they were.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">So I was coming in as a boot lieutenant, and I knew it. So, you know, the first thing we did, I think—we were on some kind of a—of an operation. I don’t even exactly remember what it was, but everything had been happening down in the rice paddies, but that day—well, the valley there—the river valley was surrounded on three sides by—by pretty high mountains, and for some reason, that day everything started to shift into the foothills of these mountains on one side of the valley, so we kind of moved out of the—of the—of the paddy area and up—up into these foothills, which were covered by really thick brush. It was very—no trees in the foothills. Big trees up in the mountains, but the foothills was this kind of impenetrable brush. And so we had a very—I just let Sgt. Elliot pretty much run the platoon, and we had a very hard day plowing through all this—all this crap.</u>
+      <u who="JEVNE">So I was coming in as a boot lieutenant, and I knew it. So, you know, the first thing we did, I think—we were on some kind of a—of an operation. I don’t even exactly remember what it was, but everything had been happening down in the rice paddies, but that day—well, the valley there—the river valley was surrounded on three sides by—by pretty high mountains, and for some reason, that day everything started to shift into the foothills of these mountains on one side of the valley, so we kind of moved out of the—of the—of the paddy area and up—up into these foothills, which were covered by really thick brush. It was very—no trees in the foothills. Big trees up in the mountains, but the foothills was this kind of impenetrable brush. And so we had a very—I just let Sgt. Elliot pretty much run the platoon, and we had a very hard day plowing through all this—all this crap.
+
+
+
+And then at night we got to wherever we were told to spend the night, and typically what you do at night is set up a circular defense perimeter, you know, with Marines every few—you know, a couple of Marines—really they would be dug in in foxholes every ten yards or so around the—around this perimeter. And—and the commanders—the squad leaders and the platoon commander and everybody would be on—on the inside of this—of this perimeter.
+
+Well, we set up for the night, and one of the things that I have learned in my training was sometime in the night, to go around and check the positions, and so that—so that night I did that. And all three squads that I went to—the squad leaders, who were very experienced Marines—had been there for a long time—I found them asleep at all three positions.</u>
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">And [chuckles]—well, actually, in the way another epiphany moment. [Chuckles.] But a real thing that I was not going to be letting—Sgt. Elliot was not going to be running the platoon.</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">And I—you know, I—I took charge of the platoon at that time, you know, kind of raised a little hell—</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">—at that moment and made sure everybody was staying awake for the rest of the night. And then the next morning I had a meeting with the squad leaders and laid things on the line. And, you know, not easy for me to do because I’d never—never had done anything like that, really, before, and I—I don’t know how good a job I did, but, you know, at least got their attention.</u>
+      <u who="JEVNE">—at that moment and made sure everybody was staying awake for the rest of the night. And then the next morning I had a meeting with the squad leaders and laid things on the line. And, you know, not easy for me to do because I’d never—never had done anything like that, really, before, and I—I don’t know how good a job I did, but, you know, at least got their attention.
+
+And then—then I started being a very—a very hands-on leaders of that platoon. And in a way—in a way, not really trusting—in my own way, not trusting the guys in my platoon—you know, the guys that I joined there. You know, it was different from what I was talking about with the distrust of the boot lieutenant. But, you know—yeah. Yeah.</u>
       <u who="CUMMINGS">So what were the usual types of missions that you had? What was your usual call to duty?</u>
       <u who="JEVNE">Well—well, probably the most—I could probably divide it—three—three big things would be what—maybe what we called sweeps,—</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">—patrols and—and ambushes. Okay, so a sweep would probably be a unit at least as big as—as a company, which would be—if it was full strength, would be around 250 men. Very seldom—I would say never was a company at full strength. Could be a battalion sweep, which would be over a thousand men. I one time—one time participated in—in I think something larger than a regimental sweep, where, you know, several thousand men were kind of moving forward along the same—along the same axis at the same time. Not that you could see—you know, you could see each other, but it was all happening at the same time.</u>
+      <u who="JEVNE">—patrols and—and ambushes. Okay, so a sweep would probably be a unit at least as big as—as a company, which would be—if it was full strength, would be around 250 men. Very seldom—I would say never was a company at full strength. Could be a battalion sweep, which would be over a thousand men. I one time—one time participated in—in I think something larger than a regimental sweep, where, you know, several thousand men were kind of moving forward along the same—along the same axis at the same time. Not that you could see—you know, you could see each other, but it was all happening at the same time.
+
+So a sweep normally is to—you know, there’s been some kind of intelligence that there are enemy in a certain location, and you’re just sweeping that area basically to find and fight the enemy.</u>
       <u who="CUMMINGS">Okay. </u>
       <u who="JEVNE">Patrols are—patrols are more—usually were more like a—a search type of mission. So they’re sent out to—to find information, maybe find weapons caches or food caches, maybe to find enemy fighters and involve a lot of the same things as sweeps—as a sweep, so if you’re down in the paddy country, where you’re patrolling into are these villages I was telling you about.</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">And to get to a village, you have to go across a rice paddy, and it’s usually exposed when you do that, with no cover in the rice paddy. The village is bordered by a tree line, so it’s really easy for the enemy to dig what we called spider holes, little—little foxholes and be completely invisible there, wait until—wait until the Marines get into, like, a kill zone, very close to the edge of the village, and then open up and just cut them down. That’s how Bill Smoyer got killed.</u>
+      <u who="JEVNE">And to get to a village, you have to go across a rice paddy, and it’s usually exposed when you do that, with no cover in the rice paddy. The village is bordered by a tree line, so it’s really easy for the enemy to dig what we called spider holes, little—little foxholes and be completely invisible there, wait until—wait until the Marines get into, like, a kill zone, very close to the edge of the village, and then open up and just cut them down. That’s how Bill Smoyer got killed.
+
+So that’s—that’s what—the scariest thing of all to do: assault the tree line. Assaulting tree lines, we called it. But you had to—when you were on patrol in the rice paddies, you probably did that, you know, several times a day. Scared the shit out of you every time. I was very lucky I never—I never got caught out in a rice paddy. I never got hit out in rice paddy. My platoon never did the whole time I was there.</u>
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">Anyway, so if you get into the village—then as I say, if you’re doing some searching—and one really horrible part of—of what we did—where I was down in the An Hoa area was what’s called a free fire zone, which means—you probably know what that means, but I’ll explain it a little bit.</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">The entire area was considered to be potentially enemy territory, so in order to call in air strikes, artillery, to shoot, whatever, you never had to get any kind of clearance. If we—you know, if we felt some kind of artillery or air strike was called for, we could call it in and get it, and there was no questions asked.</u>
+      <u who="JEVNE">The entire area was considered to be potentially enemy territory, so in order to call in air strikes, artillery, to shoot, whatever, you never had to get any kind of clearance. If we—you know, if we felt some kind of artillery or air strike was called for, we could call it in and get it, and there was no questions asked.
+
+So one of the things that I—this was never told to me exclusively, but it was very clear—one of the—one of the efforts down there was to get the—the farmers—the rice farmers out in the villages to stop farming, to leave their villages and go into the refugee village, which was right adjacent to the combat base at An Hoa, and live there and not give the VC [Viet Cong] and the NVA [North Vietnamese Army] a base—you know, a population base to—to exist out in the countryside.
+
+
+
+But the farmers and the—the people out there really resisted that. They did not want to go to the refugee village. They wanted to farm. They wanted to live in their villages. Their villages had long ago been reduced to—they used to have, you know, actual sort of cement-walled, stucco-covered, tile-roofed houses in them, but the only thing that was left in this area where we were—what we called hooches, which were huts made out of bamboo supports and covered with thatch palms.
+
+Anyway, many—many was the time—well, okay, so next to every—every hooch, every family dwelling was what was called a family bunker, and this was a very well-constructed shelter that each family would build, dug deep, lined with bamboo, well reinforced on the roof. And we needed these because there was a lot of artillery and air strikes floating around out there day and night, and they had to have a place, you know, that they could dive into and be safe. I mean, [unintelligible]. So they were—they were basically shelters, but they were also fortifications. They weren’t really constructed in a way where, you know, fighters could fight out of them, but they could be construed as fortifications.
+
+Okay, so we would go—we were going to these villages with—we’d have an engineer with us who—with explosives, C-4 explosives, and we would go to a village and secure it, and we would be ordered to destroy all the family bunkers, which meant putting a primary and a fuse into a stick of C-4, lighting it, throwing it down in the family bunker, and that would just blow it up and also would blow up the little hooch that would—that would be standing right next to it. So quite destructive.
+
+And then—then we would tell—well, before we did all that, we would tell the people in the village, “Go to the refugee village.”</u>
       <u who="CUMMINGS">So what were the kinds of, like, contact that you had with the Vietnamese?</u>
       <u who="JEVNE">Well, okay, so I was in a very—very peaceful platoon. We just wanted to stay alive. And we had no—I can really say this with a great deal of confidence—we didn’t have feelings of enmity towards the Vietnamese people. We loved the kids, and we realized that what we were doing when we were cleaning these villages like this was horrible for the people.</u>
       <u who="CUMMINGS">Yeah.</u>
@@ -329,29 +511,57 @@
       <u who="CUMMINGS">Okay. </u>
       <u who="JEVNE">Every night—every night we would set up in some kind of a perimeter, usually a platoon-size perimeter. It might be a company-size perimeter. And part of the security of a perimeter like that is to have one or two small ambushes, probably fire team-size ambush out in front of the lines at night. So, you know, it was something where if—if there was an enemy attack at night, these guys out on the ambush would detect it before it—it got close to the lines. Again, this was not something that ever actually happened to me, but if it had happened, those guys probably wouldn’t have been in too good a position. But, on the other hand,—</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">—you know, might have been able to start—start shooting and kind of—and then get back to our perimeter and, you know, get back safely and have—kind of saved us from a—from a bad situation. That would be the idea. You know—yeah. So that would be an ambush.</u>
+      <u who="JEVNE">—you know, might have been able to start—start shooting and kind of—and then get back to our perimeter and, you know, get back safely and have—kind of saved us from a—from a bad situation. That would be the idea. You know—yeah. So that would be an ambush.
+
+Sometimes an ambush would be based on some intelligence, so it wouldn’t be a defensive thing; it would be—there would be suspected that there was going to be some enemy movement in a particular area, and an appropriate size unit would be sent there—out to—send an ambush and hopefully spring it on that unit coming through there.</u>
       <u who="CUMMINGS">Okay. </u>
       <u who="JEVNE">That could be up to a platoon size. I got—we got sent out on several platoon-size ambushes. Never had any enemy actually walk through it, so never actually sprang an ambush but, you know, that’s [unintelligible] then some. You know, they’re scary. You’ve got your—you’re out there, a little island, kind of exposed and—and,  you know, could potentially be surrounded. And the whole idea is that, you know—the whole purpose is to have enemy walk into your trap and to actually start a fight. So [chuckles], anything we wanted to avoid was fights, so we didn’t particularly like going out on ambushes.</u>
-      <u who="CUMMINGS">Right.</u>
+      <u who="CUMMINGS">Right.
+
+So can you tell me a little bit about some of your experiences either on sweeps or patrols, anything that sticks out?</u>
       <u who="JEVNE">Yeah. Can you just hang on one second? I have to go to the bathroom.</u>
       <u who="CUMMINGS">Yeah, of course. No problem.</u>
       <u who="JEVNE">Just a sec.</u>
-      <u who="CUMMINGS">All right.</u>
+      <u who="CUMMINGS">All right.
+
+[Recording interruption.]</u>
       <u who="JEVNE">All right. Well, I guess it’s a good time to tell you about the very worst thing that—that happened to me. I’ll tell you about it—you know, some—some really bad things that happened. I was—I actually—in many ways, I had a really lucky tour. From the first month I was there, my platoon had no combat at all: no booby trap—I mean, there were booby traps happening around us, but, you know, nothing happened at all. And that was very lucky because I—I got to learn to be a platoon commander, and I got to build my relationship with my squad leaders and—and, you know, I got—I got—I got things going. And I—you know, I had a really good personal relationship with my squad leaders and the guys in the platoon, and there was a lot of mutual respect, so it was—that was a good thing.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">The first thing—the first bad thing that happened was a guy named Corporal Bear—we were on a patrol one day, and he was stopped at a rest stop. Corporal Bear, he was—his job was he carried an antitank weapon, which we didn’t use for antitanks; it would be used more against a bunker or something. But anyway, that was his job.</u>
+      <u who="JEVNE">The first thing—the first bad thing that happened was a guy named Corporal Bear—we were on a patrol one day, and he was stopped at a rest stop. Corporal Bear, he was—his job was he carried an antitank weapon, which we didn’t use for antitanks; it would be used more against a bunker or something. But anyway, that was his job.
+
+And he was poking around. He should have just been resting, but he was a curious type of guy. He was just poking around, walking where he shouldn’t have, and he tripped a booby trap and got very horribly blown up, not instantly killed, and we—what I can really remember about that was so many big holes in his body, and a medic had an artificial respiration device a kind of a tube that he put in Cpl. Bear’s mouth, and he was—he was unconscious and breathing in a very wheezing way, and we were taking turns giving him artificial respiration, breathing for him, basically, through this tube while waiting for the medevac [medical evacuation helicopter] to come.
+
+
+
+And it came, and then—it came, and the corpsman went out with Cpl. Bear on the helicopter to try and keep him alive till he could get to the hospital in Da Nang. And I don’t know. I think he was alive when he got to Da Nang, but he died.
+
+And then, like, within minutes of Cpl. Bear getting medevac’d, another guy, who I—who I still know and see to this day, Bob Marsh—</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">—tripped another booby trap. This one was a smaller one, a grenade, and he got fairly lightly wounded, but he had to get medevac’d, too.</u>
+      <u who="JEVNE">—tripped another booby trap. This one was a smaller one, a grenade, and he got fairly lightly wounded, but he had to get medevac’d, too.
+
+Okay, so that was the first man who—who died in my platoon.</u>
       <u who="CUMMINGS">And when was that—was that pretty early on for you?</u>
       <u who="JEVNE">Well, as I say, I don’t remember exactly. I think—I arrived in early August. I would say this was early September.</u>
       <u who="CUMMINGS">Okay.</u>
       <u who="JEVNE">So about a month in.</u>
       <u who="CUMMINGS">All right.</u>
-      <u who="JEVNE">Okay.</u>
+      <u who="JEVNE">Okay.
+
+And the next—the next bad thing that happened: We were on an operation called Maui Peak, and this was a very big operation. There was a Special Forces camp at a place called Thường Ðức, which was up river called the Vu Gia, the Song Vu Gia, the Vu Gia River. And it was under prolonged—almost a siege-like attack from—from the NVA, the North Vietnamese Army. And so a big Marine operation was mounted to kind of leapfrog up this Vu Gia River Valley and relieve—come to the relief of this Special Forces camp at Thường Ðức.
+
+And my—my outfit was involved in this. And the advance up the valley—you know, it was pretty methodical. It involved several days. Well, okay, so one day there was—there was a helicopter base established partway up the valley, called the—called Hill 52. And one day I’m sitting near Hill 52, and we were on road—road surveillance duty or something. I’m looking at Hill 52, and I see one helicopter taking off and another helicopter coming in, and I’m looking at this, you know, just kind of casually, but I can see that they’re on a collision course. And sure enough, the two helicopters plowed into each other and just dropped in flames.</u>
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">And it turns out two guys from my platoon were on one of those helicopters, I think maybe coming back from R&amp;amp;R [rest and recuperation] or maybe they’d been wounded and were coming back to the field. I can’t exactly remember. So that’s two more guys. And this is killed by—you know, in a friendly situation.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">A few days later, the operation comes to a hill called Hill 100, in the foothills along one side of this valley. And a different M&amp;amp;E company, a different company in our battalion—I don’t remember which one—assaults this hill. Okay, so that would be kind of like a sweep. They—they start from the bottom of the hill. Everybody’s on line. They go up the hill. But there were a lot of enemy on top of this hill, and they got shot off the hill. There was a certain number of—of casualties. </u>
+      <u who="JEVNE">A few days later, the operation comes to a hill called Hill 100, in the foothills along one side of this valley. And a different M&amp;amp;E company, a different company in our battalion—I don’t remember which one—assaults this hill. Okay, so that would be kind of like a sweep. They—they start from the bottom of the hill. Everybody’s on line. They go up the hill. But there were a lot of enemy on top of this hill, and they got shot off the hill. There was a certain number of—of casualties. 
+
+Well, our battalion commander, bless his soul, at that point—at that point called in air strikes and artillery on top of that hill until it was totally denuded of vegetation and, to his best observation, no one left alive up there. And then it fell to our company to assault that hill. And sure enough, it was really scary to do, and we did get mortared from the—from the mountains by the back end, on the way up. My platoon didn’t have any casualties, but I think one of the other platoons did.
+
+But anyway, we got up on the top of that hill fairly safely. You know, a few interesting things happened, but—and we dug in one of those perimeters on top of the hill. So this is a company-size perimeter. And it’s a pretty scary place because there is—it’s completely—completely exposed, and—oh, there’s a—it’s right at the foot of a big mountain range, where we know there’s lots of enemy. But, you know, we can’t see them.
+
+And just about every night, they—they shoot at us and, you know, launch mortars at us and stuff. And I actually had an interesting experience at that time. You know, I had a lot of really experienced guys in my platoon, and when we would start taking fire from the mountains, some of these guys would kind of go into a really high adrenaline, aggressive mode. And they’d start yelling, yelling back obscenities and stuff at the—at the—at the—you know, I’m rather ashamed to say it now, but we had no other name for Vietnamese people other than “gook.” And that was whether they were enemy or friendly. That’s just what we called them was gooks.
+
+But—so—yeah—so, you know, what I got out of that was I saw, you know, when there’s opportunity to fight, the mood that you’ve got to put yourself into, which is one of, you know, do or die, you are—</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">It’s balls to the wall entirely. Have you ever seen the movie, Platoon?</u>
       <u who="CUMMINGS">Yeah. Mm-hm. </u>
@@ -365,21 +575,41 @@
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">We were very good at sleeping in terrible conditions. We had ponchos with a little synthetic blanket called a poncho liner in them, and you could roll up in those ponchos and—and sleep just as well as you would sleep in your dorm room.</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">I was sleeping like the dead in the bottom of my foxhole, and all of a sudden I’m woken up by a hellacious racket. And I was sleeping sound enough so that, you know, I didn’t make the mental connections instantly, but, of course, those were quickly identified as a lot of explosions, grenades and stuff, going on. And I’m lying in the bottom of my foxhole, and I had a moment of utter fear, followed by a moment of almost irresistible inclination to stay lying there in the bottom of my foxhole.</u>
+      <u who="JEVNE">I was sleeping like the dead in the bottom of my foxhole, and all of a sudden I’m woken up by a hellacious racket. And I was sleeping sound enough so that, you know, I didn’t make the mental connections instantly, but, of course, those were quickly identified as a lot of explosions, grenades and stuff, going on. And I’m lying in the bottom of my foxhole, and I had a moment of utter fear, followed by a moment of almost irresistible inclination to stay lying there in the bottom of my foxhole.
+
+And then the next thing that clicked in was I’m the platoon commander. And the next thing that clicked in was the worst thing you can do in an attack is to—is to be in a hole. You need to fight back. And then the next thing that clicked in was, It’s your job to go around and find out what’s happening and what needs to be done.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">So I got—it got me out of my hole, and I ran around to all the different squad positions, and they’re not really—there must have been a lot of lead and a lot of shrapnel flying around, but I’m not too aware of that, really. I’m just, you know, concerned about—with—with what I’m doing.</u>
+      <u who="JEVNE">So I got—it got me out of my hole, and I ran around to all the different squad positions, and they’re not really—there must have been a lot of lead and a lot of shrapnel flying around, but I’m not too aware of that, really. I’m just, you know, concerned about—with—with what I’m doing.
+
+So what happened was that the NVA—the NVA unit did something which I don’t think a Marine or Army unit would be capable of. They had surreptitiously snuck up all night long to, like, within grenade-throwing distance of our holes and were not detected, and then at a given moment, I guess after a given signal, they launched a coordinated attack around maybe about half of our perimeter—well, maybe even a little more of our perimeter.
+
+So the entire area that was taken up by my platoon and then the area that was also taken up by 2nd Platoon—a real hard-hitting attack. And, you know, what they did first was throw grenades into the holes, try to throw them into the holes and then follow up by coming in with their AK-47s blazing.
+
+I think most of that had happened by the time I got to my squads, so I went down to the squad that was to my left, and these guys had—instead of hiding in the holes, had shot back, and when, you know, I got back down there and the squad leader told me that—Michael Floy was his name, a great kid from Connecticut.
+
+Gee—[coughs to hide his tears]. I’m sorry, I just thought of Mike a bit.</u>
       <u who="CUMMINGS">It’s okay.</u>
-      <u who="JEVNE">[Recovering his composure.] So he—he said, “Whatcha doin’ down here?” And went up to the next squad, Paul Ferrante, who was still alive. And he said, “We’re okay here.” And then I went over to Jimmy Leeks’ squad, and they were in a bit more trouble, and he said—they were kind of a—his last position was kind of at the end of a little finger positions, and he said, “Oh, I’m not really too sure what’s goin’ on out there. I heard some guys were hurt, and the corpsman went out to see if he could help them. But we’re pretty low on ammunition.”</u>
+      <u who="JEVNE">[Recovering his composure.] So he—he said, “Whatcha doin’ down here?” And went up to the next squad, Paul Ferrante, who was still alive. And he said, “We’re okay here.” And then I went over to Jimmy Leeks’ squad, and they were in a bit more trouble, and he said—they were kind of a—his last position was kind of at the end of a little finger positions, and he said, “Oh, I’m not really too sure what’s goin’ on out there. I heard some guys were hurt, and the corpsman went out to see if he could help them. But we’re pretty low on ammunition.”
+
+So I ran over to the company—the company headquarters’ position and got some more ammo and—and brought it back to them, and by that time—by that time there wasn’t any more firing going on. And, I didn’t know, I have no idea of the amounts of time that are elapsing here. I think it was over pretty quickly.
+
+And so then we’re at a point where we’re sort of counting—counting our losses here, and I think, like, ten enemy bodies were found, and in my platoon nobody was killed, but an amazing guy named Alberto Beso [“Taco”]—he was a Mexican-American from the Imperial Valley area in—in California. Just an incredible Marine and the sweetest guy you could ever known. He had gotten a bad wound in his right hand. You know, it really looked—his hand was really mangled.
+
+And then the—the corpsman who had gone out there to help Taco had gotten blown up we think by what’s called a compression grenade, which doesn’t have a lot of shrapnel but that compression can be kind of damaging. And he seemed to have something really bad going on in his back.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">So those—those two guys were casualties, and—and Taco —usually a wound we considered a lucky thing because if you—if it wasn’t bad—because if you got two wounds that required 48 hours or less of—or 48 hours or more of hospitalization, you got to leave Vietnam. </u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And if you got three wounds—if you got three wounds of any kind, you got to leave Vietnam. But Taco’s wound was bad enough so that—you know, that was a bad thing for us. And we didn’t know what was going on with [unintelligible]. That was pretty worrisome. But in a lot of ways, we got out of that one very lucky.</u>
+      <u who="JEVNE">And if you got three wounds—if you got three wounds of any kind, you got to leave Vietnam. But Taco’s wound was bad enough so that—you know, that was a bad thing for us. And we didn’t know what was going on with [unintelligible]. That was pretty worrisome. But in a lot of ways, we got out of that one very lucky.
+
+In 2nd Platoon, the guys in some of the foxholes had not returned fire. The enemy had gotten right into the foxholes and—and eight guys were dead in that platoon. They weren’t guys that I knew. But anyway, eight Marines died that night.</u>
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">So that was—that was a nasty one.</u>
       <u who="CUMMINGS">So how did—</u>
       <u who="JEVNE">Go ahead.</u>
       <u who="CUMMINGS">Sorry. How did these encounters with the enemies, where you lost men that you either knew or were working towards the same goal with, how did that affect the way that you went into your next missions?</u>
-      <u who="JEVNE">Heh! Well, the effects are—the effects were cumulative, and I’ll get to that. At the end of this battle, in a way—I mean, obviously it was terrible that eight—eight guys in the other platoon got killed, and it was very regrettable that Taco got hurt as bad as he did. But there was also, like, a—for me and I think for everybody there was a kind of a sense of exhilaration because we hadn’t—we had survived, you know, and in a way we had won the battle. It wasn’t like a victory type of thing, I wouldn’t say, but we were still alive, and, you know, we’d come through something tough, and we had made it.</u>
+      <u who="JEVNE">Heh! Well, the effects are—the effects were cumulative, and I’ll get to that. At the end of this battle, in a way—I mean, obviously it was terrible that eight—eight guys in the other platoon got killed, and it was very regrettable that Taco got hurt as bad as he did. But there was also, like, a—for me and I think for everybody there was a kind of a sense of exhilaration because we hadn’t—we had survived, you know, and in a way we had won the battle. It wasn’t like a victory type of thing, I wouldn’t say, but we were still alive, and, you know, we’d come through something tough, and we had made it.
+
+And I was speaking to you earlier about the resilience?</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">You know?</u>
       <u who="CUMMINGS">Yeah.</u>
@@ -389,9 +619,13 @@
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And one day, a few days later, we get an order from the battalion, and, as usual, it was my platoon that got ordered to do it, which [chuckles]—every platoon commander would probably tell you the same thing, but it seemed like—</u>
       <u who="CUMMINGS">[Chuckles.]</u>
-      <u who="JEVNE">—it was always my platoon got these dirty jobs, and that’s what the guys in my platoon said, too. So we get an order—we get an order to a patrol off of this really exposed hill, farther into the foothills into the mountains, you know? And this was terrifying to us. A daytime patrol.</u>
+      <u who="JEVNE">—it was always my platoon got these dirty jobs, and that’s what the guys in my platoon said, too. So we get an order—we get an order to a patrol off of this really exposed hill, farther into the foothills into the mountains, you know? And this was terrifying to us. A daytime patrol.
+
+So here we are in this hill with nothing to hide behind. Anybody watching through field glasses in the mountains is going to see that this patrol is moving out when we leave, and “Why the fuck are we going out on this patrol?” You know, what is it, “From our perspective, there is no reason for us to be going out on this patrol. This is just something that somebody at some headquarters someplace thinks, ‘Oh, you know, well, we’re here. Here we are. We haven’t had a patrol go out for a few days. We got to, time for a patrol.’” You know?</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And there’s no—and I believe this is true. There was no reason for that patrol, but there was a hell of a lot of danger. And, you know, I had had a really informal relationship with the guys in my platoon and my squad leaders and stuff, and they’re complaining like hell to me, and I’m complaining to the—to the company commander. And I don’t know, he might have said something to the battalion commander on the radio, but, you know, the orders come through: “You’re going out on that patrol.”</u>
+      <u who="JEVNE">And there’s no—and I believe this is true. There was no reason for that patrol, but there was a hell of a lot of danger. And, you know, I had had a really informal relationship with the guys in my platoon and my squad leaders and stuff, and they’re complaining like hell to me, and I’m complaining to the—to the company commander. And I don’t know, he might have said something to the battalion commander on the radio, but, you know, the orders come through: “You’re going out on that patrol.”
+
+And, you know, we would have gone, but very reluctantly. But for some reason, just at the right moment, the entire operation got called off. I guess—I guess what happened was that siege of Thường Ðức—the Special Forces—the NVA lifted the siege or something. Anyway, a patrol got cancelled, and the operation was—nothing more happened with that operation. It kind of—I think we got helicoptered out of there soon afterwards.</u>
       <u who="CUMMINGS">Okay. </u>
       <u who="JEVNE">Yeah. But in a more general way, you know, as—well, you know when I was telling you about—about the—the—the patrols and having to blow up the—the family bunkers and the hooches and everything like that?</u>
       <u who="CUMMINGS">Right, yeah.</u>
@@ -417,7 +651,9 @@
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">And I knew that wasn’t going to work. Yeah. Yup.</u>
       <u who="CUMMINGS">So were you at all aware of, like, politics—like, back-home politics about Vietnam, or as it more just your experience there?</u>
-      <u who="JEVNE">Was I aware of back-home in politics? Yeah, I was, in a way. Yeah, I knew that—I knew that there was a lot of protesting going on. It was ’68 was the presidential election year. Before I went to Vietnam, [President] Lyndon [B.] Johnson had bowed out of the presidential race, so there was a lot—there was a lot going on politically, a lot of protesting before I left. </u>
+      <u who="JEVNE">Was I aware of back-home in politics? Yeah, I was, in a way. Yeah, I knew that—I knew that there was a lot of protesting going on. It was ’68 was the presidential election year. Before I went to Vietnam, [President] Lyndon [B.] Johnson had bowed out of the presidential race, so there was a lot—there was a lot going on politically, a lot of protesting before I left. 
+
+My mom was pretty strongly anti-war, both because I was in it and because she didn’t believe in it, and she actually—she actually participated in demonstrations, and I knew that. And I did not—I did not begrudge her that.</u>
       <u who="CUMMINGS">Okay.</u>
       <u who="JEVNE">And I can remember my grandfather writing me and saying—he was a pretty strong Republican, but he said—he said to me in his letter, “Tell me which—which candidate you think will be best at ending the war, and that’s the one I’m going to vote for.”</u>
       <u who="CUMMINGS">Right.</u>
@@ -427,11 +663,17 @@
       <u who="CUMMINGS">Okay. So was this shifted opinion pretty universal, or was it only a few specific men who saw that the war was taking a bad turn?</u>
       <u who="JEVNE">I—okay. I’m going to personalize the question a little bit. One of the rare nights when we were back at An Hoa, our relatively safe combat base—we were back there for a few days to kind of regroup before we went out on another operation. And one night, a bunch of enlisted men from my platoon and I got together someplace, and people just brought whatever—brought whatever they might have in the way of—of booze, you know?</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">If they had some beer or if their parents had sent them a bottle of whiskey in a CARE package or whatever, we just kind of pooled it all together and we had a little booze party there. And talked, you know? And we didn’t have to worry about being quiet or anything like that, so it was kind of like—it was a memorable time, and I think the guys who were there probably remember it to this day.</u>
+      <u who="JEVNE">If they had some beer or if their parents had sent them a bottle of whiskey in a CARE package or whatever, we just kind of pooled it all together and we had a little booze party there. And talked, you know? And we didn’t have to worry about being quiet or anything like that, so it was kind of like—it was a memorable time, and I think the guys who were there probably remember it to this day.
+
+But—so—at that time—I don’t remember—I don’t remember specifics of what people said, but I remember that there was a really general awareness that, you know—that we were doing something that wasn’t working and that it was hell for us and that—that what we were doing was—was senseless. And I think I was actually the one who—who said this, but just about everybody—to my memory, just about everybody agreed with it.
+
+And what was said was, “You know, you guys, when we go home—one of the reasons that people don’t know about this is because we’re not—you know, the guys who are going through it aren’t telling them.”</u>
       <u who="CUMMINGS">Yeah.</u>
       <u who="JEVNE">“When we get home, we’ve got to tell people about this.” And, you know, I know I didn’t do a very good job of telling people about it when I got back. You know, we mostly got focused on picking up the pieces of our lives again.</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">But we knew—I think a lot of us were aware—were aware that—that things weren’t going well and that it would be important to tell people.</u>
+      <u who="JEVNE">But we knew—I think a lot of us were aware—were aware that—that things weren’t going well and that it would be important to tell people.
+
+As to how that showed up in our day-to-day life, you know, our platoon—and I can only speak for ours because I know there were many different experiences—but we were kind of a buoyant, happy-go-lucky bunch.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And we were not, you know—how did this boy call us? Yeah, “Lt. Jevne’s bitchin’ little heroes,” “bitchin’” meaning that we were always com- —we didn’t want to—we didn't want action. We didn’t want to fight.</u>
       <u who="CUMMINGS">Right.</u>
@@ -439,7 +681,9 @@
       <u who="CUMMINGS">Right, just get through.</u>
       <u who="JEVNE">Like, disillusionment—you know, this, you know, real grim, cynical, disillusionment with the war—I would say that we enjoyed every moment of our lives that we possibly could, playing back alley bridge or, you know, just bullshitting or whatever. </u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">And we hated what were doing. We wanted to get out. We wanted to survive. But we weren’t, like—you know, we weren’t desperate or, you know, just really negative.</u>
+      <u who="JEVNE">And we hated what were doing. We wanted to get out. We wanted to survive. But we weren’t, like—you know, we weren’t desperate or, you know, just really negative.
+
+</u>
       <u who="CUMMINGS">Okay. So how did the change in opinion, the way that you felt so negatively—did that affect your missions at all—like, your feelings when you were actually out in the field fighting?</u>
       <u who="JEVNE">Yeah. Ok so I’m going to recount two more really bad incidents which will bring that out.</u>
       <u who="CUMMINGS">Okay.</u>
@@ -447,9 +691,23 @@
       <u who="CUMMINGS">November—sorry, is this ’68?</u>
       <u who="JEVNE">November 3rd, 1968.</u>
       <u who="CUMMINGS">All right, great.</u>
-      <u who="JEVNE">Yeah. So a new platoon commander had been assigned to our—to our company, and I remembered well the experience of being a new platoon commander. So on this day in the morning of November 3rd, there’s—our company had spent that night at the perimeter, one particular spot, and there was a very large village nearby that needed to be cordoned and searched, which means surrounded by security perimeter and then thoroughly searched by the Marines that were out on security duty on the perimeter.</u>
+      <u who="JEVNE">Yeah. So a new platoon commander had been assigned to our—to our company, and I remembered well the experience of being a new platoon commander. So on this day in the morning of November 3rd, there’s—our company had spent that night at the perimeter, one particular spot, and there was a very large village nearby that needed to be cordoned and searched, which means surrounded by security perimeter and then thoroughly searched by the Marines that were out on security duty on the perimeter.
+
+And it was so big that it took—it took two platoons to do it. So my platoon and the platoon of this new platoon commander were assigned, and his platoon moved out first. Well, there was a short distance over to this village. When they got over in the village and it’s time for my platoon to go over and take over our sector—but before we move out, I see that his platoon—guys in his platoon have, for no good reasons, because there never was a good reason, have set fire to some of the hooches in the village, and so there’s smoke coming out of this village.
+
+Well, when I first had gotten—gone down to An Hoa and was getting ready to join my platoon, I had heard stories about Marines setting fire to these hooches and Marine aircraft that were conducting bombing mission—bombing runs—being confused by the smoke from those fires and dropping the bombs on the Marines in those—in those villages and killing Marines.
+
+And, you know, I was always—I had a little file cabinet. Every time I heard something like that, I—I filed it away as an experience to be learned from, and so I knew it was a no-no to ever do that, and it never occurred the whole time I’d been there, so I’d been there—what?—three months by this time. And certainly my platoon—nobody had ever thought of it.
+
+So I was really shocked and—and—by this and worried that—about what might happen. It was a very small chance that—that this would happen, and there did not seem to be any aircraft flying around. There weren’t any bombing missions happening in the area. So I guess I thought about it, and, you know, I guess I had two choices. One would have been to complain and say, “Captain, we’re not going into that—into that village until that fire is out.”</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And the other one—you know, I was overly thoughtful of the new platoon commander. I knew how hard it was to—you know, to step into a leadership position. I thought, Well, if I make noise about it, you know, it’s going to be pretty humiliating for him. And since I didn’t—you know, there wasn’t anything happening around there in the way of aircraft. I thought, Well, this is not good, but we’re just—you know, we’re just going to go into the village.</u>
+      <u who="JEVNE">And the other one—you know, I was overly thoughtful of the new platoon commander. I knew how hard it was to—you know, to step into a leadership position. I thought, Well, if I make noise about it, you know, it’s going to be pretty humiliating for him. And since I didn’t—you know, there wasn’t anything happening around there in the way of aircraft. I thought, Well, this is not good, but we’re just—you know, we’re just going to go into the village.
+
+So we go into the village. I assign two—I picked one squad and my radio man, Matt Ruden, and another radio man—Matt Ruden only has one month left to go in Vietnam, and so I’ve chosen another guy for him to train, who was also a guy I loved very much, another farm kid from Owatonna, Minnesota, named John [F.] Schrom.
+
+And then we had a corpsman, too, a new guy named [John B.] “Doc” Thornton I didn’t know very well. So I took Mike Floy’s squad and Matt and John Schrom and Doc Thornton, and I put them in a hooch in the middle of the village, and I sent the other two squads out to the perimeter of the village to set in the security. And each squad had a radio with them.
+
+So once they had time to set in, I went out on my own to make sure they were—they were where I wanted them to be, and I visited each of the two squads on the perimeter, and then I’m walking back to where I left the other squad and my radio operators, and out of nowhere comes a U.S. jet and—jets travel so fast, you can really see them before you hear them, and it comes in—you know, in an instant. I see it coming in really low. I see it—I see it let go of a bomb. I watched the bomb go to the ground, see it explode behind the tree line between me and where it exploded. And I said, “Fuckin’ A! That’s right where I left my guys.”</u>
       <u who="CUMMINGS">Mm-hm. </u>
       <u who="JEVNE">These were the guys that were going to search the village. So I ran back to the closest squad, got on the radio and to the company headquarters said, “They bombed their village. Get the air strikes stopped.” No more planes came in. I ran over to—to where the bomb dropped. Sure enough, it had landed smack dab on the hooch where I had left—left these guys. I—I saw—I saw some blown-up bodies. I just started—you know, I didn’t see anything to start with, and then I started seeing pieces of bodies,—</u>
       <u who="CUMMINGS">Mm-hm.</u>
@@ -457,7 +715,9 @@
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">I found a beautiful guy from Philadelphia named [Joseph E.] “Joe” Davis [Jr.]. And about a month to go before his tour was up. He was a grenadier, a grenade launcher. He was still alive, unconscious, breathing, an arm, his forearm bone sticking out at the elbow. I mean, I’m just—I just can’t believe it. And didn’t really know what to do, you know, for—for quite a while. It’s just me there, and nobody’s—nobody’s alive. There’s—there’s also a whole bunch of Vietnamese women and children all blown to hell.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And, you know, bit of a blur. What I  really remember is the gunnery sergeant from the company coming over there and kind of taking charge, calling in a helicopter. You know, Joe Davis might have been alive when he got choppered out, but he wasn’t going to make it. That was, you know, totally clear. Everybody else was dead, and most of them in pieces.</u>
+      <u who="JEVNE">And, you know, bit of a blur. What I  really remember is the gunnery sergeant from the company coming over there and kind of taking charge, calling in a helicopter. You know, Joe Davis might have been alive when he got choppered out, but he wasn’t going to make it. That was, you know, totally clear. Everybody else was dead, and most of them in pieces.
+
+And—yeah. [He chokes back tears.] You know, that’s—that’s when I cried.</u>
       <u who="CUMMINGS">Yeah.</u>
       <u who="JEVNE">And that’s the one time, you know, I can remember where there was an interval when I really—you know, it was probably maybe—I don’t know—probably not longer than 15 minutes or a half hour, but I really wasn’t in a position to run my platoon.</u>
       <u who="CUMMINGS">Mm-hm.</u>
@@ -469,7 +729,11 @@
       <u who="CUMMINGS">Mm-hm. So the fact that it was friendly fire—did that—first of all, did that happen often, and second of all, what kind of difference did that make mentally in terms of the platoon?</u>
       <u who="JEVNE">It happened pretty often, so—you know, I couldn’t give you any statistics or anything, but friendly fire injuries and deaths were fairly common. I also told you about the two guys in the helicopters, you know?</u>
       <u who="CUMMINGS">Mm-hm. </u>
-      <u who="JEVNE">The Marines and the soldiers—they’re just ordinary—ordinary human beings, but they’re operating potentially lethal equipment, all the way from their—you know, their rifles through machine guns and grenades up to, you know, Howitzers and fighter jets. And, you know, things can happen.</u>
+      <u who="JEVNE">The Marines and the soldiers—they’re just ordinary—ordinary human beings, but they’re operating potentially lethal equipment, all the way from their—you know, their rifles through machine guns and grenades up to, you know, Howitzers and fighter jets. And, you know, things can happen.
+
+
+
+After I left my platoon, there was a guy I knew—knew well, Bill Finn, who—he had a grenade in his flak vest, and somehow the pin got pulled on the grenade, and the grenade went off, and it’s like he killed himself.</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">Another time—another time, that lieutenant who took over my platoon—I eventually got a slightly easier job that still kept me in the field; I became the company executive officer. But this boot lieutenant who took over my platoon was cleaning his .45 [caliber] pistol. He cleaned it. He put the magazine back in, and he let the slide go home, which he should have done after he put the magazine in, and so he let the slide go home, and fired a round into the leg of his platoon sergeant.</u>
       <u who="CUMMINGS">Wow.</u>
@@ -485,7 +749,9 @@
       <u who="CUMMINGS">So that’s a pretty tough sort of beginning.</u>
       <u who="JEVNE">Right. And so you were asking about how that affects the mission afterwards.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">Okay, as I told you, I was a little dysfunctional for a brief period of time there, but, you know, once—once everything was taken care of there at that site, you know, it became time for the company to move out to the next—next position. And I—you know, as a leader I knew that if this—if I let this affect me too much—well, I don’t know. I guess—this is maybe a thought process, but I knew that I—that me and the whole platoon just had to get back in the saddle right away or we might get not back in the saddle at all.</u>
+      <u who="JEVNE">Okay, as I told you, I was a little dysfunctional for a brief period of time there, but, you know, once—once everything was taken care of there at that site, you know, it became time for the company to move out to the next—next position. And I—you know, as a leader I knew that if this—if I let this affect me too much—well, I don’t know. I guess—this is maybe a thought process, but I knew that I—that me and the whole platoon just had to get back in the saddle right away or we might get not back in the saddle at all.
+
+So, you know, I think before we moved out, the company commander said to me, “How do you want to do this?” And I said, “I think we better be on point, Skipper.”</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">So we—we moved out on point. We went to a place—where we set up that night was—you know, it was—there—we were security—we were surrounding—we made a perimeter around a weapon that you almost never saw in Vietnam. It was called a four-deuce mortar [an M2 4.2-inch mortar]. It was a big, huge mortar with a four- —a little over four-inch diameter to the tube. Very powerful, noisy weapon. And there was a whole battery of these four-deuce mortars, and they were—you know, I had all my things to think about all night long, and these mortars were firing all night long. It was one of the hardest nights I ever spent.</u>
       <u who="CUMMINGS">Right.</u>
@@ -493,7 +759,11 @@
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">But that—R&amp;amp;R—that helped me out some.</u>
       <u who="CUMMINGS">So how long were you on R&amp;amp;R for, then?</u>
-      <u who="JEVNE">Well, R&amp;amp;R maybe took up five days, six days, you know? Another Dartmouth part about that I, you know went to where we get on the plane for the R&amp;amp;R, and here again is [Robert] “Bob” Corey, Dartmouth ’65. He’s on R&amp;amp;R on the same plane. And we’re going to Hawaii—me, to meet my parents and Bob, to meet his wife. We played cribbage all the way from—from Da Nang to Honolulu and spent a little time together on R&amp;amp;R there, and again on the way back, we saw each other. And Bob met—met my parents.</u>
+      <u who="JEVNE">Well, R&amp;amp;R maybe took up five days, six days, you know? Another Dartmouth part about that I, you know went to where we get on the plane for the R&amp;amp;R, and here again is [Robert] “Bob” Corey, Dartmouth ’65. He’s on R&amp;amp;R on the same plane. And we’re going to Hawaii—me, to meet my parents and Bob, to meet his wife. We played cribbage all the way from—from Da Nang to Honolulu and spent a little time together on R&amp;amp;R there, and again on the way back, we saw each other. And Bob met—met my parents.
+
+It was quite a thing, being with my parents. The R&amp;amp;R was—was really nice but hard in ways. I was in love with a woman who was not in love with me but liked me a lot, and she was a flight attendant for Pan Am [Pan American World Airways], and she happened to come through one night while I was there, and we—we had a good time together. But unfortunately, I went back to Vietnam kind of in love, and I got a “I’ve met somebody else” letter not too long a time after that. Kind of a classic thing, huh?
+
+You know, it was hard on my parents. They were having a—well me leaving was a hard thing for my parents because, you know, I told them a lot about stuff that had gone on, and it was scary for them.</u>
       <u who="CUMMINGS">So, yeah, I was actually going to ask: How much did your parents—or how much did you keep in contact with your parents, and how much did you tell them about your experience?</u>
       <u who="JEVNE">Well, my parents and my family wrote me a lot and sent me all kinds of stuff, and, you know, I wrote them as often as I could. You know, I wrote nosy, good—newsy, I’m sorry—good letters and told them—you know, tried to tell them about what life was like. I tempered the scary stuff, took them out and put in a lot of reassurance about, you know, that—you know, “All this stuff is going on. I’m good at what I’m doing, and I’ll be back.”</u>
       <u who="CUMMINGS">Okay. </u>
@@ -514,12 +784,16 @@
       <u who="JEVNE">—told him off. You know, it was a strange thing to have happen.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">I was doing my best to have a good time, but I was [chuckles]—I was not in very good shape.</u>
-      <u who="CUMMINGS">It still really affected you, yeah.</u>
+      <u who="CUMMINGS">It still really affected you, yeah.
+
+So after your R&amp;amp;R, you returned to the same base area?</u>
       <u who="JEVNE">Yeah.</u>
       <u who="CUMMINGS">All right. And how was that, after having some time off? How did it affect you?</u>
       <u who="JEVNE">Well, you know—okay, so by this time I’m one of the most experienced guys in the platoon because there’s so much attrition—</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">—you know, guys getting wounded, guys getting killed, guys getting sick—you know, guys leaving for one reason or another. And I’m—you know, I’m pretty convinced that I’m the only one that really knows how to—how to run this platoon. And I still have this really strong commitment to just keeping guys alive. So there’s—there’s a part of me that, you know, wants to get back to my—to my job, and, you know, there’s another part of me that—that just wants to get home to the States. So, you know, I don’t know, I just got sent back to my platoon and started—started doing the same thing again.</u>
+      <u who="JEVNE">—you know, guys getting wounded, guys getting killed, guys getting sick—you know, guys leaving for one reason or another. And I’m—you know, I’m pretty convinced that I’m the only one that really knows how to—how to run this platoon. And I still have this really strong commitment to just keeping guys alive. So there’s—there’s a part of me that, you know, wants to get back to my—to my job, and, you know, there’s another part of me that—that just wants to get home to the States. So, you know, I don’t know, I just got sent back to my platoon and started—started doing the same thing again.
+
+No—oh, I’ll tell you, by this time, though, it was something that was already there but this time became super—super strong. Guys would be coming toward the end of their tour, you know?</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">They would have, you know, 45 days, a month left to go.</u>
       <u who="CUMMINGS">Right.</u>
@@ -527,21 +801,49 @@
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">For me, that took the form of doing everything I possibly could to somehow get those guys left behind in An Hoa when we would go out on operations—</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">—you know, to get them totally out of—out of the field. Or if they had to go out in the field, to have them at least be doing the safest job I could possibly have for them to do out there. Well, this actually was in huge tension with sort of the bureaucratic functioning of the Marine Corps in that context, you know, so there’s a first sergeant back in An Hoa, who’s in charge of getting people into the field and keeping as many people as possible out in the field, and he’s resisting all this at every step that he can.</u>
+      <u who="JEVNE">—you know, to get them totally out of—out of the field. Or if they had to go out in the field, to have them at least be doing the safest job I could possibly have for them to do out there. Well, this actually was in huge tension with sort of the bureaucratic functioning of the Marine Corps in that context, you know, so there’s a first sergeant back in An Hoa, who’s in charge of getting people into the field and keeping as many people as possible out in the field, and he’s resisting all this at every step that he can.
+
+Well, the same thing where I [unintelligible], even with the company commander. Most of the people above me were all career Marines.</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">And they’re seeing something—I’m doing something totally from the perspective of myself and the Marines in my platoon, and the people above me are seeing it from a—you know, a bigger Marine Corps perspective.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And the tension—the tension is huge and a big—big part of my life. You know, I saw a lot of my emotional energy went into protecting these short-timers, we called them.</u>
       <u who="CUMMINGS">Okay.  So as you got towards the end of your time there, how did you—did you also try to avoid doing certain things?</u>
-      <u who="JEVNE">Eh, I don’t—[Laughs.] Okay, so I’m going to fast forward about a month, to another incident. In the three times that we were out on our amazing operation called Meade River, where we had gone—I’m just going to skip that. Meade River was a very big operation, and there were some interesting things that happened.</u>
+      <u who="JEVNE">Eh, I don’t—[Laughs.] Okay, so I’m going to fast forward about a month, to another incident. In the three times that we were out on our amazing operation called Meade River, where we had gone—I’m just going to skip that. Meade River was a very big operation, and there were some interesting things that happened.
+
+But after that, we were on an operation called Taylor Common, and this was a different kind of operation. It was—I told you that there were mountains surrounding the An Hoa Combat Base, and the mountains to the west went all the way to Laos and Cambodia, I guess it was Lao. And so, you know, miles and miles of mountains. And it was completely enemy territory, and we had trails and, you know, transportation and that stuff. They had training camps, hospitals, you know, little—little installations and living areas and everything, and they were relatively secure back there.
+
+So this operation was an engaging on our part of kind of the fringe of those—of those mountains closest to An Hoa and being involved—well, initially involved—like, platoons being rappelled out of helicopters on the mountaintops to clear landing zones with dynamite so helicopters could come in and bring more Marines and, you know, set up little bases and bring in artillery and everything, and then the Marine units, you know, went out on the hilltops, from there through the jungle to other hilltops and set up patrol bases.
+
+And the idea is: We’re going to patrol, patrol, patrol on all the trails through these mountains, find—find the enemy, destroy—destroy the base camps, engage the enemy when you can. It’s like this kind of denying the enemy his refuge.
+
+And, of course, you know, we’re—we’re all cynical about this. We know, it’s like a stupid hide-and-seek game. But, you know, resilience, remember that because it’s so important,—</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">—and I actually—I actually loved being up there in those mountains. It was a triple canopy and some of the most beautiful forest you could possibly imagine. It just enchanted me, and I wanted—it was such a strange thing to have happen, you know, under those conditions, but—but it was the monsoon time, and we had a lot of rain, and that was hard to deal with, but we were good at that. And there was also a lot of periods when it would clear. And I don’t know how much time you’ve spent in the mountains, but when it gets sunny after—after rains, it’s so beautiful.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">You know? So—and there wasn’t anything really happening. We were running patrols, and there were ambushes at night and stuff like that, and nothing was happening, so it was—there were a lot of parts of it that were enjoyable.</u>
+      <u who="JEVNE">You know? So—and there wasn’t anything really happening. We were running patrols, and there were ambushes at night and stuff like that, and nothing was happening, so it was—there were a lot of parts of it that were enjoyable.
+
+But another fact [unintelligible], so by this time I’d been in country close to five months, and there was only one other man in the platoon who had been there as long as I had. I was, like, practically the senior guy in the platoon. So when I got in a really experienced platoon—at this point I had been in an extremely inexperienced platoon—and no—no—no noncommissioned officers—you know, I have corporals and lance corporals for squad leaders. It was a real bare-bones outfit.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And so there were really only two guys in this platoon with the amount of experience that I trusted completely. So we were running a patrol one day, which is—our job is to follow the trail that—that had been discovered through the mountains and search for base camps and stuff. And at one point in the patrol, we’re going along a creek valley, and then the trail leaves the creek valley, and there’s a little switchback right at the bottom there, and it starts to go climb the mountainside.</u>
+      <u who="JEVNE">And so there were really only two guys in this platoon with the amount of experience that I trusted completely. So we were running a patrol one day, which is—our job is to follow the trail that—that had been discovered through the mountains and search for base camps and stuff. And at one point in the patrol, we’re going along a creek valley, and then the trail leaves the creek valley, and there’s a little switchback right at the bottom there, and it starts to go climb the mountainside.
+
+
+
+And at the—normally, the platoon commander should be behind the first squad, so maybe about eight, ten guys back on the march on this single-file procession up this trail. But, like I say, I didn’t—I don’t know, for some reason I had these two experienced guys: one of them on point; the other, right behind, and then I was right behind that third guy. I just thought things would go best if we had it organized that way.
+
+So the guy on point stops us, calls me up, and right at this little intersection there was a fresh, bare footprint, and we could smell tobacco smoke.</u>
       <u who="CUMMINGS">Okay. </u>
-      <u who="JEVNE">So we get on radio to the company commander and tell him this, and he says, “Okay, well, move on up the trail.” So we move on up the trail. Okay. So I’ll just tell you who these guys are. On point is a guy named Ray [W.] Hesterlee. Very sweet, baby-faced kid from—from Georgia. Just—you know, again, the opposite of what you would—how you would picture a Marine. Just the nicest, most thoughtful, most generous person you could—you could ever encounter. </u>
+      <u who="JEVNE">So we get on radio to the company commander and tell him this, and he says, “Okay, well, move on up the trail.” So we move on up the trail. Okay. So I’ll just tell you who these guys are. On point is a guy named Ray [W.] Hesterlee. Very sweet, baby-faced kid from—from Georgia. Just—you know, again, the opposite of what you would—how you would picture a Marine. Just the nicest, most thoughtful, most generous person you could—you could ever encounter. 
+
+
+
+And behind him is his bosom friend, Dave DuBlue, also just—you know, different. More of a modern Marine, but also just a hell of a guy.
+
+So we’re going up the trail, and Ray walks over a little bit of a rise that he couldn’t see ahead over this rise, and as soon as he gets in view, a machine gun a little farther up the trail opens up, cuts him down, and then at that point, there’s our enemy in ambush, off to the right of the trail, maybe six or eight of them. And they open up on the rest of us. And Dave hits the dirt, I hit the dirt, everybody hits the dirt. You can hear the bullets were whistling past me. Machine gunners were a little bit behind me. A machine gunner and his ammo man come running up, and they—running up to me, and they flop down right next to me, between me and where the—the firing is coming from.
+
+And one of them gets hit by a bullet that I assume if it hadn’t gotten stopped by him would have hit me. And you always say, “Oh, what’ll we do?” I didn't know. But anyway, before they really had a chance to open fire, everybody else had been shooting back at them, not me, because I was, you know, trying to give orders and stuff.
+
+But you know, [unintelligible] we saw those enemy stand up, run up the trail. So that machine gunner got hit, and Ray got hit and killed instantly. We walked up the trail, and there he was, dead. Again, you know, I loved—loved this guy very much. And here’s another death. And, you know, I was ordered to go up the trail, but, you know, I’m saying, What could I have done? How could I have done this differently? I still—you know, I can still think of things that I—that I wish I had done.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">So that gets into, you know, kind of your questions about the mission. So when the triple canopy helicopter can’t land, we’ve got a wounded guy and a dead guy to get out. And the way that happens is the helicopter comes, hovers over where we are and drops a wire harness, like a loop at the end of a wire rope, and first of all—you know, you hauled up the wounded guy that way, and then put the loop around Ray and pulled him out—up. I’m not—I’m not a religious person, but as Ray was being hauled up, you know, his—his arms were extended out to his side, and it was just—</u>
       <u who="CUMMINGS">Mm-hm.</u>
@@ -551,13 +853,23 @@
       <u who="CUMMINGS">Mm-hm. </u>
       <u who="JEVNE">At this point, the orders from the company commander are to continue the patrol, continue up the trail. And, you know, I’m not going to do it.</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">There’s no point—there’s no point in going up this fucking trail. You know, the only other thing—the only thing that could possible happen is we would walk into another ambush. We’re not going to be killing anybody. It’s only us that’s going to be killed. I’m not doing it. </u>
+      <u who="JEVNE">There’s no point—there’s no point in going up this fucking trail. You know, the only other thing—the only thing that could possible happen is we would walk into another ambush. We’re not going to be killing anybody. It’s only us that’s going to be killed. I’m not doing it. 
+
+And I did not say that to the company commander. What I did was, instead of following the patrol route, I just—I knew exactly where I was, I knew exactly how to navigate through the jungle to eventually get back to the—the company LZ [landing zone], which we’re supposed to—you know, we were scheduled to come back the next day. We were supposed to spend the night out there. And so I just told them, you know, get the platoon out through the—through the boonies, through the jungle.
+
+
+
+And lo and behold, we go a little ways, and we’re crossing another little creek gully, and I hear some—some shooting, and some guys capture a prisoner, who’s slightly wounded. And so it must have hit one of the guys in the ambush. And this was a very young kid. You know, to look at him, you wouldn’t have thought he was more than 12 or 14 years old, but I am sure he was older.
+
+And he’s wounded and scared. And so I get on the radio to the company and said, “We got this prisoner.” And they say, “Well, it’s too late to get him evacuated tonight, so just set up your position right there, and we’ll come in and get him with a helicopter in the morning.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">Again, this is a strong—strong image that I have of this—you know, here’s—here our enemy. Our enemy has just killed a guy I love. You know, I’ll tell you Emily, there was—there was no—I don’t—you know, I don’t think me or anybody else that saw this guy, that there was any—any hatred. He was in the same position that we were.</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">You know, if he had—if you could at all open your heart looking at him, all you could feel was—was sympathy.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">Yeah. Well, you know. So the next morning, get—get him evacuated out there, and, you know, it came—it came to the company LZ, and the company commander was never any of the wiser that I hadn’t followed the—the platoon—you know, the patrol route.</u>
+      <u who="JEVNE">Yeah. Well, you know. So the next morning, get—get him evacuated out there, and, you know, it came—it came to the company LZ, and the company commander was never any of the wiser that I hadn’t followed the—the platoon—you know, the patrol route.
+
+And this was right around Christmas time.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And so I had—you know, a bunch of us had received a bunch of Christmas stuff from—from home. But I was in really sad mental—mental shape at this time, and really, you know, it’s like, Aw, I can’t do this anymore. You know, it was, like, I cannot go out on another patrol. I can’t be there when another guy gets killed for no reason.</u>
       <u who="CUMMINGS">Mmm.</u>
@@ -569,11 +881,15 @@
       <u who="CUMMINGS">Wow.</u>
       <u who="JEVNE">Anyway, so one day—one day just right at this time, a helicopter comes in with resupply, and two new lieutenants get off the helicopter. And one of them takes over my platoon, and the other one takes over another platoon. And I don’t have—all of a sudden—I still have to stay in the field, but my new job is executive officer, second in command, and also weapons platoon commander. And I don’t have to go on patrols anymore. And I’m not really—I’m not really responsible for a platoon of men. And, you know, I don’t want to go to prison, and this takes the pressure off enough for me to let go of—of what I’d been struggling with.</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">Yeah. And so, you know, what happened after that I think is sort of two more months in that job, and then it was pretty typical for Marine lieutenants to only serve about seven—six, seven months in the field and get some kind of a job in the rear. And I got a job—at that point, I got a job in the rear. My first one was the assistant operations officer for the battalion.</u>
+      <u who="JEVNE">Yeah. And so, you know, what happened after that I think is sort of two more months in that job, and then it was pretty typical for Marine lieutenants to only serve about seven—six, seven months in the field and get some kind of a job in the rear. And I got a job—at that point, I got a job in the rear. My first one was the assistant operations officer for the battalion.
+
+Interestingly enough, the guy that I replaced was a guy named [Peter] “Pete” Pace, who ended up—during the Iraq War he was the chairman of the Joint Chiefs of Staff.</u>
       <u who="CUMMINGS">Oh.</u>
       <u who="JEVNE">He was a career Marine. He was the highest—that’s the highest job a military man can have.</u>
       <u who="CUMMINGS">Right. Wow.</u>
-      <u who="JEVNE">I replaced Pete. [Chuckles.] But anyway, I didn’t have the job for very long. I didn’t fit it in very well. I was not a pog—I was not a pog Marine; I was a field Marine all the way, and I—I—I only felt good doing—doing a field job. I got sent to even a more pog-y job, which was assistant operations for the regiment.</u>
+      <u who="JEVNE">I replaced Pete. [Chuckles.] But anyway, I didn’t have the job for very long. I didn’t fit it in very well. I was not a pog—I was not a pog Marine; I was a field Marine all the way, and I—I—I only felt good doing—doing a field job. I got sent to even a more pog-y job, which was assistant operations for the regiment.
+
+And that took me back to An Hoa, the combat base, and my job was to sit in a bunker, a big command bunker where all the communications came in and the regimental commander made all his decisions and everything. I was on job 12 hours on, 12 hours off every day.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">I was, like, the guy who received the reports from the field and passed them on to the operations officer, stuff like that. it was kind of—kind of a flunky job, but I was—on the other hand, I—I read every report that came in from the field, so I knew exactly what was going on, and I was also, like, a witness to the decision-making processes of the higher-ups.</u>
       <u who="CUMMINGS">Right.</u>
@@ -587,7 +903,13 @@
       <u who="CUMMINGS">Okay. Great.</u>
       <u who="JEVNE">But we can move on, yeah.</u>
       <u who="CUMMINGS">Okay. So you got back to Vietnam after a year, and how—how was that experience, coming home? How were you treated differently?</u>
-      <u who="JEVNE">Well, I actually had, you know, an easy homecoming. I was, I spent a month in Okinawa on the way home because, you know, I was out of Vietnam, but I was still in what was called the Western Pacific Command, so I—I—I finished my tour in Okinawa, and so that was kind of a defusing time. It was a real limbo time, and, you know, I had nothing—no positive memories of it, but it was just killing time. I had some—some unimportant job I was supposed to be doing, but—</u>
+      <u who="JEVNE">Well, I actually had, you know, an easy homecoming. I was, I spent a month in Okinawa on the way home because, you know, I was out of Vietnam, but I was still in what was called the Western Pacific Command, so I—I—I finished my tour in Okinawa, and so that was kind of a defusing time. It was a real limbo time, and, you know, I had nothing—no positive memories of it, but it was just killing time. I had some—some unimportant job I was supposed to be doing, but—
+
+I was really glad to get back to the States. I think I flew into Travis Air Force Base [Fairfield, California] on a military plane. Or it might have been a commercial charter—charter commercial. I don’t know. And then got sent out to San Francisco [International] Airport. No—no—didn’t encounter any protesters. I was in—in uniform but didn’t feel uncomfortable. Super glad to be back on U.S. soil.
+
+I was met at the airport by my parents and treated like a hero—you know, very warmly welcomed. And just kind of—it was summertime, and I just very gratefully slipped back into doing the thing that I’d always done in the summertime in Minneapolis: playing golf and, you know, partying with friends. Friends didn’t seem to ask me too much about what had gone on. I don’t remember that being particularly uncomfortable.
+
+You know, I think everybody—I’m not sure I realized it at the time, but I think everybody was maybe, you know, figuring I wouldn’t want to talk about things much, and so not asking me questions, and I—I don't think I was—you know, I just wanted to enjoy myself, and I wasn't—</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">—I wasn’t thinking about debriefing Vietnam. PTSD [Post-traumatic stress disorder] had not been heard of [chuckles] at the time, or not in that form. So, you know, “back to the world” is what we called it.</u>
       <u who="CUMMINGS">Mm-hm.</u>
@@ -595,9 +917,15 @@
       <u who="CUMMINGS">So how long would you say it took for you to sort of settle back at home and start, you know, moving on from your Vietnam experience?</u>
       <u who="JEVNE">Well, like I say, you know, I didn’t delve into my—I just—I just carried the Vietnam experience under my skin and just tried to live—you know, especially in that leave period, just trying to—trying to live.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">And I got a disappointment with—with my next orders. You know, I had interesting places where I wanted to be stationed, but instead I got sent down to [unintelligible] Marine Base, Camp Lejeune, and assigned to another infantry—infantry battalion that was getting ready for the job of being on board ship in the Mediterranean [Sea] for a month—for six months. And I had to do that for a while. And, oh, that was like, you know, all the—all the Stateside activities that Marines and military people usually do was pretty small stuff for Vietnam veterans. </u>
-      <u who="CUMMINGS">Oh—on the ship? Sorry, on the ship that you were on?</u>
-      <u who="JEVNE">In the Marine Corps in general, on the ship. I was involved in a way. There was a—a black Marine sergeant who decided that, you know, the situation for his people in the country was such that he wasn’t going to serve anymore, and, you know, he got thrown in the brig [military prison]. And I—I used to spend time with him and other black Marines, kind of talking about things. I had a lot of black Marines under my command and did my best to, you know, relate to them. </u>
+      <u who="JEVNE">And I got a disappointment with—with my next orders. You know, I had interesting places where I wanted to be stationed, but instead I got sent down to [unintelligible] Marine Base, Camp Lejeune, and assigned to another infantry—infantry battalion that was getting ready for the job of being on board ship in the Mediterranean [Sea] for a month—for six months. And I had to do that for a while. And, oh, that was like, you know, all the—all the Stateside activities that Marines and military people usually do was pretty small stuff for Vietnam veterans. 
+
+There was a lot of racial tension—a lot of racial tension and stuff going on at that time.</u>
+      <u who="CUMMINGS">Oh—on the ship? Sorry, on the ship that you were on?
+
+Yeah.</u>
+      <u who="JEVNE">In the Marine Corps in general, on the ship. I was involved in a way. There was a—a black Marine sergeant who decided that, you know, the situation for his people in the country was such that he wasn’t going to serve anymore, and, you know, he got thrown in the brig [military prison]. And I—I used to spend time with him and other black Marines, kind of talking about things. I had a lot of black Marines under my command and did my best to, you know, relate to them. 
+
+I had issues with not necessarily blacks but—but Vietnam vets in the platoon that could get kind of crazy in the liberty ports that we were at, and, you know, I found myself kind of protecting from—I’d have to do a lot of shore patrol, like military police duty and trying to protect guys. But they weren’t so easy to protect because they would keep—they’d be in situations where they would keep making it worse, even though you’re trying to protect them.</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">—and eventually get themselves in trouble, you know? A lot of things were—a lot of hard situations.</u>
       <u who="CUMMINGS">Mm-hm.</u>
@@ -614,7 +942,9 @@
       <u who="JEVNE">You know? So in a lot of ways, I think in the way I related to people I was—I didn’t really grow the way that you grow and mature through the normal course of a lifetime.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">So, you know, I think that probably affected things like relationships with my—you know, with my love affairs and things, and made it hard for me to, like—you know, I certainly wasn’t going to undertake anything, you know—I lost a lot of faith in political systems, the way the world runs, and I wasn’t going to step out of my—you know, I was basically going to live life for myself and my friends. You know, I wasn’t going to take on anything that would take me beyond that.</u>
-      <u who="CUMMINGS">Okay. </u>
+      <u who="CUMMINGS">Okay. 
+
+So would you say that your struggle with what you now know was PTSD came on immediately, or took some time for you to recognize?</u>
       <u who="JEVNE">Well, I think it was there from the get-go. I think it was like a slow drip, and it took a long time—what took a long time before it affected my life to the point where I recognized that I had it—it didn’t take that long before it started to affect my life. I didn’t really know what was—what was going on, and it was in I think the late ’80s before I really said, Oh ok, it’s PTSD,—</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">—and do something about it.</u>
@@ -639,7 +969,19 @@
       <u who="CUMMINGS">Okay. </u>
       <u who="JEVNE">And, you know, the idea behind it was, Well, if anything ever is gonna change, it’s gotta change with the way people think. You know, I went into the war without knowing what the war was about, and if education was being done right, people would think—would learn what the war was about, and then we’d have better decisions about it all.</u>
       <u who="CUMMINGS">Mm-hm.</u>
-      <u who="JEVNE">So, you know—and that was a huge step for me. Like I say, I wasn’t going to have anything to do with anything that committed or anything that involved in, like, public life. You know, I did exactly what I planned to do: went back to school at the U., became a teacher. </u>
+      <u who="JEVNE">So, you know—and that was a huge step for me. Like I say, I wasn’t going to have anything to do with anything that committed or anything that involved in, like, public life. You know, I did exactly what I planned to do: went back to school at the U., became a teacher. 
+
+The first job in 1886 [sic] was—there weren’t any public school jobs available, so I took a job as an assistant teacher, for five dollars an hour, at Head Start, the low-income preschool. Did that for two years, and then met my present wife, and we got—we got married during that second year there. And then I substituted for a year, and then I got a job in the local public school, in the local school system.
+
+
+
+And it was right around that time—this is, like, 1988, ’89—there was a guy—there was a guy in our town, an ex-Marine, who was still really fucked up with PTSD at the time, but he also had gotten some psychology education—I guess probably a B.A. or an M.A. in social work or—or, I don’t know, psychology or something. And he started working, holding vets groups—with—through the—through the VA [U.S. Department of Veterans Affairs].
+
+And he got in touch with—he got in touch with me. He was starting a vets group. And he got in touch with me, and I trusted him because I’d known him from before, and he was a Marine, he was a grunt [infantry], and so I trusted him enough to get started with this vets group. And it was kind of a rocky road, in a way, that vets group. You know, he was still quite dysfunctional—alcoholic, using drugs, himself. But he was a pretty good—he was a fairly good—he was a pretty good leader in terms of, you know, the skills involved, and he was a—a good guy and somebody I through everything I could continue to relate to and trust.
+
+And there was a real turnover of guys going through the group. You know, one guy ended up getting killed in a knife fight. You know, we had guys who were alcoholics and just, you know, all of a sudden would be gone. And yet there were other great stories that—you know, a drug addict coming in from prison, finding something he could hold onto in the group and, you know, graduating successfully and actually becoming a counselor, himself.
+
+You know, you learned—we learned how to go into our experiences deeply, feel deeply, you know, what was going on, tell each other what was going on, probe each other. You know, we learned a sense when somebody was getting at something that was real and deep and—</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">—what kind of questions—what kind of questions to ask him to help him keep going.</u>
       <u who="CUMMINGS">Mm-hm.</u>
@@ -658,14 +1000,18 @@
       <u who="JEVNE">Yeah. And, you know, especially since you’re gonna be talking with Juanita [F. Ramsey-Jevne], you know, it has—it has a huge effect on—on the people who are closest to me. You know, intimacy is tough. And, you know, intimacy with my parents and my family and especially intimacy with—with Juanita. It’s been—been a long—you know, an ongoing, still-in-process thing as to how to—you know, how to keep that. And I think—you know, that’s, intimacy is—is a lifelong thing, it’s always growing. But with PTSD—you know, I can be scared shitless of—of intimacy. It can be the scariest thing in the world. So just to live with that fear and keep it from going deeper, but it’s hard.</u>
       <u who="CUMMINGS">Right.</u>
       <u who="JEVNE">It’s especially hard for—for my partner.</u>
-      <u who="CUMMINGS">Mm-hm. </u>
+      <u who="CUMMINGS">Mm-hm. 
+
+So I know that you took a trip to Vietnam in 2001?</u>
       <u who="JEVNE">Yeah.</u>
       <u who="CUMMINGS">What was that like, going back, especially after struggling with PTSD?</u>
       <u who="JEVNE">That was maybe one of the healthiest things that I could have done. The trip was offered to my brother and me by my mom. She paid for it, and she kind of paid for it in style. So we were able to do it—you know, do it in a way where we didn’t have to pay attention to how much it cost, which meant that we—we could have drivers and interpreters and stuff like that.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And we spent a certain amount of time sort of visiting historical sites and battle sites in the northern part of the old South Vietnam, which was called I Corps. That was kind of the first part of the trip. And then we—then we actually traveled around, mostly by motorbike, with our—with our guide/interpreter in the actual area where I was in combat.</u>
       <u who="CUMMINGS">Right.</u>
-      <u who="JEVNE">Then visiting a lot of the places where I’d been in battles. And so it was all hugely therapeutic. You know, I knew the Vietnamese people were lovely people, and I wanted to connect with them before I ever went to Vietnam the first time, and, you know, I was aware that that was a big part of what I was going back there for. </u>
+      <u who="JEVNE">Then visiting a lot of the places where I’d been in battles. And so it was all hugely therapeutic. You know, I knew the Vietnamese people were lovely people, and I wanted to connect with them before I ever went to Vietnam the first time, and, you know, I was aware that that was a big part of what I was going back there for. 
+
+And because we had this interpreter with us, we were able to do that in a very exceptional way every place we went. You know, I mean, we had—we had meals with big families. We had—we had really—really close contact with a lot of very interesting people and a lot of different situations. And I brought a lot of—a lot of things along—you know, stuff for kids and little games and stuff that we could play with people that we met, people—we didn't have to—they were sort of language-free games where you could play them—one of them is called Pass the Pigs. It’s a real silly—silly game. And I brought, like, 15 sets along and maybe played a game with people that we—that we met. And everybody was just splitting a gut, was laughing. And when we left, we could just leave the game with them, you know?</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And we had one of the early digital cameras, so could take photos and show them to the people right away.</u>
       <u who="CUMMINGS">Right.</u>
@@ -676,8 +1022,12 @@
       <u who="JEVNE">There are war memorials everywhere. They honor their people that participated, and, you know, it’s a big part of their national identity,—</u>
       <u who="CUMMINGS">Mm-hm. </u>
       <u who="JEVNE">—you know, American vets can—can move around over there and feel really welcomed and comfortable, and that felt good.</u>
-      <u who="CUMMINGS">Yeah, that’s great.</u>
-      <u who="JEVNE">Yeah, okay. Well, I mean, the lasting effect is prostate cancer, which I have known that I have since 1999, so that’s 16 years now. Actually, my first scare came with it in 1994, but I—I but also really I’ve been dealing with it for over 20 years.</u>
+      <u who="CUMMINGS">Yeah, that’s great.
+
+You also mentioned in your volunteer form that Agent Orange had a lasting effect on you. Can you talk a little about that?</u>
+      <u who="JEVNE">Yeah, okay. Well, I mean, the lasting effect is prostate cancer, which I have known that I have since 1999, so that’s 16 years now. Actually, my first scare came with it in 1994, but I—I but also really I’ve been dealing with it for over 20 years.
+
+And so it was Agent Orange. If you—if you come down with prostate cancer and you served in Vietnam, I think anywhere, it’s presumed disability. It’s presumed that the cause of your Agent Orange is—the cause of your cancer is Agent Orange. And you are awarded 100 percent disability.</u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">I didn’t really know that when I was first diagnosed, and my mentality is such—was such at the time that I didn't want to have anything to do with the VA or really the government in any way.</u>
       <u who="CUMMINGS">Right.</u>
@@ -692,7 +1042,9 @@
       <u who="JEVNE">And we have to—it’s a strange situation because we have to be aware of it, accept it, and yet at the same time not let it run our lives. </u>
       <u who="CUMMINGS">Mm-hm.</u>
       <u who="JEVNE">And that’s day-to-day—I have—no, I have a really smart understanding—you know, committed, willing to go wherever life takes us, beautiful wife, and if there’s any reward to having the condition I have it’s, you know, what comes from sharing it with her.</u>
-      <u who="CUMMINGS">Right. That’s great.</u>
+      <u who="CUMMINGS">Right. That’s great.
+
+So we have been talking for three and a half hours. I’m just wondering if—you know, we’ve covered a lot of stuff—if there’s anything you want to go back to or anything you want to bring up that hasn’t been touched on yet?</u>
       <u who="JEVNE">Yeah. I—I—I think we should probably wrap it up, Emily.</u>
       <u who="CUMMINGS">Okay. </u>
       <u who="JEVNE">Something nice that happened that I just kind of want to get on the tape: You know, [James E.] “Jim” Wright, who was president of Dartmouth before the present—the current president, was at reunion, and a great historian, of course, and he’s also—he’s writing a book about, you know, Vietnam combat experiences and how it’s affected people. And I’m grateful for that. [His voice cracks with emotion.]</u>
@@ -705,7 +1057,11 @@
       <u who="CUMMINGS">Yeah, I just wanted to—</u>
       <u who="JEVNE">—to all who are involved.</u>
       <u who="CUMMINGS">Yeah, thank you so much for speaking with us. You know, it’s reasons like that that we’re doing it, so it was really great to speak with you. I’m going to stop the recording right now.</u>
-      <u who="JEVNE">Okay. </u>
+      <u who="JEVNE">Okay. 
+
+[End of interview.]
+
+</u>
     </body>
   </text>
 </TEI>

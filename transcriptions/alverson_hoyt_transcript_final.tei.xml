@@ -45,8 +45,8 @@
         <language ident="en-us">English</language>
       </langUsage>
       <particDesc>
-        <person xml:id="ALVERSON"/>
         <person xml:id="SOLOMON"/>
+        <person xml:id="ALVERSON"/>
       </particDesc>
       <settingDesc>
         <setting>
@@ -58,11 +58,15 @@
   </teiHeader>
   <text>
     <body>
-      <u who="SOLOMON">Hi. This is Hannah Solomon in Rauner [Special Collections] Library on Dartmouth College’s campus. Today is August 20th, 2015, and I am here with Professor Hoyt Alverson. </u>
+      <u who="SOLOMON">Hi. This is Hannah Solomon in Rauner [Special Collections] Library on Dartmouth College’s campus. Today is August 20th, 2015, and I am here with Professor Hoyt Alverson. 
+
+Thank you so much for being here.</u>
       <u who="ALVERSON">I’m pleased to be here and hope I can be helpful.</u>
       <u who="SOLOMON">So I’d just like to confirm, for the record, that you have signed the agreement.</u>
       <u who="ALVERSON">Mm-hm. I have signed it and dated it, yup, today’s date.</u>
-      <u who="SOLOMON">Wonderful. Okay. And if you at any point want to take a break or anything, just let me know. We can pause the recording.</u>
+      <u who="SOLOMON">Wonderful. Okay. And if you at any point want to take a break or anything, just let me know. We can pause the recording.
+
+So I’d like to start with some biographical information. Where are you from?</u>
       <u who="ALVERSON">Washington, D.C. I was born and raised in a kind of scruffy, working-class—what then would have been maybe called a suburb but was in fact a part of the city of Washington, D.C., called Anacostia, which has been in the news recently as having a lot of mean streets. It didn’t have such mean streets then, but it was certainly a working-class part of the city of the District of Columbia, across the Anacostia River from the [Washington] Navy Yard.</u>
       <u who="SOLOMON">Got you. And can you tell me what your parents’ names were?</u>
       <u who="ALVERSON">My father’s name was, is Elwyn, E-l-w-y-n Alverson, and my mother’s maiden name was Myrtle Hall, Myrtle like in the creepy ground cover and flower.</u>
@@ -80,10 +84,14 @@
       <u who="ALVERSON">—so that becomes—it’s the Piedmont.</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">They do share that in common.</u>
-      <u who="SOLOMON">Got you, got you.</u>
+      <u who="SOLOMON">Got you, got you.
+
+Can you tell me a little bit what it was like growing up in the suburb outside of D.C.?</u>
       <u who="ALVERSON">Yeah. But this suburb was actually in D.C.</u>
       <u who="SOLOMON">In D.C.</u>
-      <u who="ALVERSON">One of the things which comes to mind in light of your questions and project is that when I was in the seventh grade—that would be 1954—the public schools in Washington, D.C. were integrated immediately, and at that time the District of Columbia was pretty much a African-American city in regard to population; that is, about half African-American, half Euro-Americans. And the schools were integrated, so beginning in the seventh grade, in middle school, I went to integrated public schools. And that was certainly something which I was aware of in light of the fact that many of the people who lived in this working-class, inner- city suburb left because of the lack of understanding of and/or tolerance of African-Americans in classrooms, so there was tremendous white flight, which our family didn’t participate in. And so that was one feature that was certainly notable.</u>
+      <u who="ALVERSON">One of the things which comes to mind in light of your questions and project is that when I was in the seventh grade—that would be 1954—the public schools in Washington, D.C. were integrated immediately, and at that time the District of Columbia was pretty much a African-American city in regard to population; that is, about half African-American, half Euro-Americans. And the schools were integrated, so beginning in the seventh grade, in middle school, I went to integrated public schools. And that was certainly something which I was aware of in light of the fact that many of the people who lived in this working-class, inner- city suburb left because of the lack of understanding of and/or tolerance of African-Americans in classrooms, so there was tremendous white flight, which our family didn’t participate in. And so that was one feature that was certainly notable.
+
+And often, visiting the farm in the South, my Southern relatives would say—“Hoyat. I’m gonna tawk lahk”—I actually used to talk this way, because of my mama, mama and them. Anyway, they’d say, “Hoyat. What is the situation up they-ah?” And that was always a code word for living cheek by jowl, and a little later in the neighborhood, which became African-American and white, mixed, for a good spell, but also in the schools, so they were very—Virginia and Maryland maintained segregation for some years after that. And that’s where a lot of the neighbors went, was Maryland and—Prince George’s County in Maryland and Arlington County in Virginia.</u>
       <u who="SOLOMON">Got you. Do you have sort of a memory of when you personally became of the civil rights movement or of the actual social shift that was going on?</u>
       <u who="ALVERSON">[Sighs.] I certainly became aware of it pretty much immediately because it was a very hot topic in the news. My parents talked about it, my father more than my mother. So it was definitely a topic around the table. And also—I can’t remember the exact year—we moved our residence, still within the southeast Anacostia area, from one house to another, because the school that I would have gone to, where I was born—from the house I was born in—became somewhat of a—it was a real rough patch educationally. And I went to Anacostia High School, which was still—that wasn’t [Phillips] Exeter [Academy]—</u>
       <u who="SOLOMON">[Chuckles.]</u>
@@ -109,7 +117,11 @@
       <u who="SOLOMON">What kind of things were you involved in in school?</u>
       <u who="ALVERSON">I did play the flute and picked it up since I retired, quite seriously, so my father was a flutist in the [U.S.] Marine Band.</u>
       <u who="SOLOMON">Oh, wow.</u>
-      <u who="ALVERSON">He was a [U.S.] Marine in World War I, so he was older than many of my peers’ parents. And he played the flute pretty good. He was in the regimental band, was stationed in Cuba to guard the sugar cane from the Germans. And, of course, back then Cuba had recently been taken from Spain. </u>
+      <u who="ALVERSON">He was a [U.S.] Marine in World War I, so he was older than many of my peers’ parents. And he played the flute pretty good. He was in the regimental band, was stationed in Cuba to guard the sugar cane from the Germans. And, of course, back then Cuba had recently been taken from Spain. 
+
+
+
+My mother—my family was very religious in the sense of a kind of fundamentalist—</u>
       <u who="SOLOMON">Okay. </u>
       <u who="ALVERSON">—background, and I went along with that until probably my high school years, when I began to connect dots and not come up with the same narrative that my parents did about the importance—I was a Boy Scout. I was an Eagle Scout. So you can see there was this kind of orthodoxy there.</u>
       <u who="SOLOMON">Yes.</u>
@@ -118,7 +130,9 @@
       <u who="ALVERSON">But certainly high school was a period in which I do remember becoming skeptical—</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="ALVERSON">—organized religious dogma. I don’t know whether that addresses your question, but it’s certainly something that stands out as part of the shaping, or lack of shaping, of my family background, upon me.</u>
-      <u who="SOLOMON">Gotcha. Yes. Understood.</u>
+      <u who="SOLOMON">Gotcha. Yes. Understood.
+
+What was your favorite subject in school? What did you like to study? Were you thinking that way at the time? [Chuckles.]</u>
       <u who="ALVERSON">I did not have that mature a sense of—some courses were good and some weren’t, but it was, as I recall, mostly a function of whether I liked the teacher.</u>
       <u who="SOLOMON">Yes. [Laughs.]</u>
       <u who="ALVERSON">The teaching quality varied a lot, and I remember liking courses in math or literature or civics or geography, or not liking them, depending mostly on the teacher. And I didn’t really develop—the school subjects were taught rather—history was, you know, dates, kings, queens, wars, a lot of rote memorization of big events that were in newspapers. English was a subject that I did okay in. Reading, I liked or didn’t like, depending on the books.</u>
@@ -140,7 +154,9 @@
       <u who="ALVERSON">—which was very important. We can go into that later—</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">—if you want.</u>
-      <u who="SOLOMON">Absolutely, in one minute.</u>
+      <u who="SOLOMON">Absolutely, in one minute.
+
+I would like to go back and talk about your father a bit.</u>
       <u who="ALVERSON">Mm-hm.</u>
       <u who="SOLOMON">You said he was a Marine in World War I.</u>
       <u who="ALVERSON">Mm-hm. </u>
@@ -154,8 +170,12 @@
       <u who="ALVERSON">And my father’s sister, quite a bit younger than he, did become quite a forceful and eager participate in the women’s suffrage movement, to get the vote. This would have been back before World War I. But the idea of obedience, family structure, authority, right or wrong were kind of hard and fast principles, and children were to be molded to succeed in the roles that were pretty well set out. So it was more of a 19th-century kind of family,—</u>
       <u who="SOLOMON">Got you.</u>
       <u who="ALVERSON">—know from fiction. So I would say the Marines was not inconsistent, but whether it changed my father, I don’t know. But that’s certainly in keeping with what he would have done.</u>
-      <u who="SOLOMON">Got you. Got you. </u>
-      <u who="ALVERSON">I went to college at George Washington University, which is a private university but with a strong presence in Washington, D.C., as a place where a number of public school students sought to go. And I did. On a scholarship.</u>
+      <u who="SOLOMON">Got you. Got you. 
+
+Okay, so—college. Where did you go to college?</u>
+      <u who="ALVERSON">I went to college at George Washington University, which is a private university but with a strong presence in Washington, D.C., as a place where a number of public school students sought to go. And I did. On a scholarship.
+
+And it was in college where the kind of teaching and the kind of approach to the subject matter was so different from high school—anything! It was such a rupture intellectually. I’m sure that looking back on it, the teaching was okay, but I just loved—I mean, from the first lectures, I would sit and listen to people who would speak sort of like the preachers in the church, but they had many different kinds of things to say—</u>
       <u who="SOLOMON">Yes. [Chuckles.]</u>
       <u who="ALVERSON">—from, you know, hellfire and damnation. And so I just began to develop this voracious appetite based on early courses that I took in all fields but particularly in the social sciences: psychology, anthropology, sociology. I just loved that stuff because it seemed to offer a rational account of human beings, individually and socially, and I just dove in and loved it.</u>
       <u who="SOLOMON">You liked asking questions? [Chuckles.]</u>
@@ -163,13 +183,21 @@
       <u who="SOLOMON">You liked asking questions?</u>
       <u who="ALVERSON">Absolutely.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">Absolutely, and hearing people who had so much to say in answering them. They brought such a different experience from the high school teachers, for instance, who were pretty much part of the fairly scruffy working-class background that I was from. And these people had been places, done things and had personal backgrounds that just made me think, My gosh! So I became—as a first-year student, I remember just staying, Oh, I wanna do this. I wanna do that. In the social sciences, mostly. </u>
+      <u who="ALVERSON">Absolutely, and hearing people who had so much to say in answering them. They brought such a different experience from the high school teachers, for instance, who were pretty much part of the fairly scruffy working-class background that I was from. And these people had been places, done things and had personal backgrounds that just made me think, My gosh! So I became—as a first-year student, I remember just staying, Oh, I wanna do this. I wanna do that. In the social sciences, mostly. 
+
+I don’t want to get into anecdotes, but—</u>
       <u who="SOLOMON">Oh, please.</u>
       <u who="ALVERSON">—sometimes an anecdote can be illustrative.</u>
       <u who="SOLOMON">We are here for anecdotes.</u>
-      <u who="ALVERSON">I remember in a course that I took—I’m pretty sure it was in my first year, in I believe sociology, there was this fellow who worked for the National Training School for Boys, which was an institution dealing with juvenile delinquency. And I thought, What an interesting way to think about crime, deviance and so forth. Instead of just sort of saying, “Well, lock up the criminals,” there was this attempt to explain what I had grown up seeing. I didn’t participate in any gang activities, but crime was all over the place, and here were people offering accounts of why people became criminals. And I thought, Well, that’s a neat kind of topic. </u>
+      <u who="ALVERSON">I remember in a course that I took—I’m pretty sure it was in my first year, in I believe sociology, there was this fellow who worked for the National Training School for Boys, which was an institution dealing with juvenile delinquency. And I thought, What an interesting way to think about crime, deviance and so forth. Instead of just sort of saying, “Well, lock up the criminals,” there was this attempt to explain what I had grown up seeing. I didn’t participate in any gang activities, but crime was all over the place, and here were people offering accounts of why people became criminals. And I thought, Well, that’s a neat kind of topic. 
+
+And so this one guy, who was sort of a dapper fellow. He, I remember, wore suits and diamond cuff- —I thought he looked like a mobster,—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">—lots of jewelry. And he took me under his wing and took me to this old Bastille structure in Baltimore, the Maryland state lockup. And here I am, an 18- or 19-year-old, being shown—and he’d say—he’d introduce me to the warden and say, “Alverson here is thinking about penology and criminology.” Of course, I went on to many other subjects. [Both laugh.] But there were professors who actually took you places, and—holy smokes!</u>
+      <u who="ALVERSON">—lots of jewelry. And he took me under his wing and took me to this old Bastille structure in Baltimore, the Maryland state lockup. And here I am, an 18- or 19-year-old, being shown—and he’d say—he’d introduce me to the warden and say, “Alverson here is thinking about penology and criminology.” Of course, I went on to many other subjects. [Both laugh.] But there were professors who actually took you places, and—holy smokes!
+
+
+
+I also had a job. I worked 20 hours a week throughout college. So it was very—my life was pretty heavily programmed. I wouldn’t say I had fun in college—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="ALVERSON">—in any sense that Dartmouth would be, say, a provisioner or provider of fun. Twenty hours a week and taking five courses a term—</u>
       <u who="SOLOMON">Wow.</u>
@@ -212,7 +240,9 @@
       <u who="ALVERSON">And I didn’t—although I suppose I could easily have done okay as—in a profession, it seemed like the life of the mind back then. The post-Sputnik money was flowing like crazy. What was it, ’57, that the Russians sent up the first rat or dog?</u>
       <u who="SOLOMON">[Unintelligible.] [Chuckles.]</u>
       <u who="ALVERSON">The money flowed into colleges and graduate schools: national defense loans and grants. And so it worked out that I got a—I had actually a scholarship to Yale, and then got an NSF [National Science Foundation] or an NIH [National Institutes of Health] grant to continue studying at Yale for four years, and I finished in four.</u>
-      <u who="SOLOMON">Got you.</u>
+      <u who="SOLOMON">Got you.
+
+You said your wife’s name was Marianne.</u>
       <u who="ALVERSON">Marianne, spelled in the French or German way, M-a-r-i-a-n-n-e.</u>
       <u who="SOLOMON">And what was her last name?</u>
       <u who="ALVERSON">Her maiden name—</u>
@@ -233,7 +263,9 @@
       <u who="SOLOMON">[Laughs.]</u>
       <u who="ALVERSON">Well, she certainly turned my thinking that way, yes.</u>
       <u who="SOLOMON">Got you. Why Yale?</u>
-      <u who="ALVERSON">Back then, a big variable was how much financial aid. I didn’t have any money. My parents were not poor, but they certainly didn’t have any money. My father worked as a repo [repurchase] man for a furniture store in Washington, D.C., and—this is skipping ahead—he was quite old, and he worked for this small furniture store, which was burned down when the city burned in 1967. Well,—this is skipping ahead, but they didn’t have money, so I had to pretty much pay for my way, and so it was important to get—and Yale offered a very good financial package.</u>
+      <u who="ALVERSON">Back then, a big variable was how much financial aid. I didn’t have any money. My parents were not poor, but they certainly didn’t have any money. My father worked as a repo [repurchase] man for a furniture store in Washington, D.C., and—this is skipping ahead—he was quite old, and he worked for this small furniture store, which was burned down when the city burned in 1967. Well,—this is skipping ahead, but they didn’t have money, so I had to pretty much pay for my way, and so it was important to get—and Yale offered a very good financial package.
+
+And I also taught at a small state school in New Haven. You weren’t supposed to, but I did,—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="ALVERSON">—because we had a kid that came along unexpected in my second year.</u>
       <u who="SOLOMON">Right.</u>
@@ -253,13 +285,19 @@
       <u who="SOLOMON">Got you. And that helps. [Chuckles.]</u>
       <u who="ALVERSON">That helps. Yes, I’m sure.</u>
       <u who="SOLOMON">Can you talk about Yale’s campus a little bit, the general social situation?</u>
-      <u who="ALVERSON">Well, as in undergraduate school, I was very busy in my own little world, so I wasn’t paying too much attention. New Haven was pretty much what it has—it was in one of the down phases of a pretty rough decline because of the moving out of manufacturing jobs, so New Haven was a very poor, we would call it a crime-ridden city. And Yale was this island of opulence. And the interactions between the campus, the university and the town were quite factious—or fractious. </u>
+      <u who="ALVERSON">Well, as in undergraduate school, I was very busy in my own little world, so I wasn’t paying too much attention. New Haven was pretty much what it has—it was in one of the down phases of a pretty rough decline because of the moving out of manufacturing jobs, so New Haven was a very poor, we would call it a crime-ridden city. And Yale was this island of opulence. And the interactions between the campus, the university and the town were quite factious—or fractious. 
+
+So it didn’t affect me so much because I really did throw myself into my studies. In my third year there, I was preparing to go away to do field work in Africa. So I wasn’t as cognizant of the campus life. Oh, I loved it. I went to all the colloquia and seminars and, you know, the presentation of—and you know this kind of sort of neo-Gothic architecture: stones and lots of mahogany. I think Yale was also in a bit of a financial hard patch, but it still looked pretty spiffy—</u>
       <u who="SOLOMON">Yes. [Chuckles.]</u>
       <u who="ALVERSON">—and glitzy to me. And I enjoyed my courses—oh, immensely! And arguing and picking fights with—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">—you know, over issues of the day, in the field. And that kept me going for two years, taking comprehensive exams. Back then you had to do well in several different tracks in anthropology: biological, archaeology, linguistics as well as cultural. And then in my third year I went to Africa for a year, for field work, so that sort of took me away. </u>
+      <u who="ALVERSON">—you know, over issues of the day, in the field. And that kept me going for two years, taking comprehensive exams. Back then you had to do well in several different tracks in anthropology: biological, archaeology, linguistics as well as cultural. And then in my third year I went to Africa for a year, for field work, so that sort of took me away. 
+
+But it was in that year—that year, ’67, that so many of the American cities—’65 in Watts’ [a neighborhood in Los Angeles, California] case, but in ’67 several inner cities, including Washington, D.C., were burned by the riots—</u>
       <u who="SOLOMON">Yes.</u>
-      <u who="ALVERSON">—that—like the sort of thing we’ve been hearing about in Baltimore and St. Louis, except much bigger, and the cities went through a—they plummeted—the core of areas of cities were hollowed out, and D.C. became a waste- —you know, it became a wasteland in many ways except for the most genteel suburbs and so forth. </u>
+      <u who="ALVERSON">—that—like the sort of thing we’ve been hearing about in Baltimore and St. Louis, except much bigger, and the cities went through a—they plummeted—the core of areas of cities were hollowed out, and D.C. became a waste- —you know, it became a wasteland in many ways except for the most genteel suburbs and so forth. 
+
+But I was in Africa at that time. I was in South Africa, actually, working in the mines on a problem or issue that even bothers here, but in any case, people would say, “Well, why do you want to go back to the States? It’s burning.” Of course, South Africa was a tinderbox—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="ALVERSON">—but not acknowledged to be such—</u>
       <u who="SOLOMON">Right.</u>
@@ -267,12 +305,16 @@
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">So things were very much—the caldron was boiling, but it seemed very orderly—</u>
       <u who="SOLOMON">Yes.</u>
-      <u who="ALVERSON">—because of the oppressive state. </u>
+      <u who="ALVERSON">—because of the oppressive state. 
+
+So I did come back in late ’67 and then spent ’68 writing my thesis. And then—that was the time that I really began to reengage with the civil rights movement, with the labor movement at Yale, with the antiwar movement, which had been building. I had been involved in the Vietnam antiwar movement in college.</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="ALVERSON">But that sort of got put on the back burner—</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—when I was in grad school. But then it revived in ’68, and that’s when I came to Dartmouth. And so I was bringing a lot of baggage.</u>
-      <u who="SOLOMON">Yes. [Chuckles.]</u>
+      <u who="SOLOMON">Yes. [Chuckles.]
+
+So just to go over some context, you got to Yale in 1964?</u>
       <u who="ALVERSON">Mm-hm. </u>
       <u who="SOLOMON">Okay. And I do want to backtrack a minute and ask: Do you remember where you were when [President John F.] Kennedy was assassinated?</u>
       <u who="ALVERSON">I do. That was 1963.</u>
@@ -336,7 +378,9 @@
       <u who="ALVERSON">“You’ve got a family to support.” So I didn’t. But there I was Anyway, when I came, you can see it was a pretty full head of steam—</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">—coming to Dartmouth.</u>
-      <u who="SOLOMON">Yes. Absolutely.</u>
+      <u who="SOLOMON">Yes. Absolutely.
+
+I was going to ask something, and it’s totally left my head. [Chuckles.] Talking about—oh, I was wondering: What was your thesis about?</u>
       <u who="ALVERSON">At Yale.</u>
       <u who="SOLOMON">At Yale.</u>
       <u who="ALVERSON">Doctoral thesis.</u>
@@ -368,7 +412,17 @@
       <u who="ALVERSON">The work I did was pretty happily and well recognized as kind of path breaking for that time. It’s since become quite ordinary, but—anyway.</u>
       <u who="SOLOMON">Ordinary, well– [Laughs.]</u>
       <u who="ALVERSON">Yeah, or at least more common for—</u>
-      <u who="SOLOMON">Still fascinating!</u>
+      <u who="SOLOMON">Still fascinating!
+
+ALVERSON:	—in the anthro department today. The cultural anthropologists worked in medicine, in hospitals, in conservation movements. Obviously the isolated rural tribe, which never was a reality, certainly has ceased to even the appearance of that. People don’t live in little isolated villages much, at least as a full part of their life. There’s constant movement in and out.
+
+
+
+SOLOMON:	Got you, got you.
+
+
+
+So you get to campus in 1968. What was Hanover like then?</u>
       <u who="ALVERSON">It was amazing. </u>
       <u who="SOLOMON">[Laughs.]</u>
       <u who="ALVERSON">I mean, after Washington, D.C., New Haven—which were both pretty scruffy—I had lived in sort of an experiment in New Haven, which was an integrated housing project,—</u>
@@ -383,7 +437,9 @@
       <u who="SOLOMON">Mm-hm.</u>
       <u who="ALVERSON">And so after that, coming here—</u>
       <u who="SOLOMON">[Laughs.]</u>
-      <u who="ALVERSON">Holy smokes! This is a silk cocoon! Even though back then, it was nothing like it is now. There was only one stoplight in Hanover, and the roads were not trafficked, and Hanover was this little island of—and Lebanon was a declining, working-class community. Lyme was a farming community. Hanover was a fraction of its size.</u>
+      <u who="ALVERSON">Holy smokes! This is a silk cocoon! Even though back then, it was nothing like it is now. There was only one stoplight in Hanover, and the roads were not trafficked, and Hanover was this little island of—and Lebanon was a declining, working-class community. Lyme was a farming community. Hanover was a fraction of its size.
+
+But from the point of view of just not locking your doors and the kids run out—</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—and go anywhere and so forth, it was wonderful. So from that point of view, it was a great—I can give you an anecdote if you want.</u>
       <u who="SOLOMON">Yes, please.</u>
@@ -500,7 +556,9 @@
       <u who="ALVERSON">And then there was this antiwar, anti-ROTC [pronouncing it ROT-cee]—</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—movement here. And I suspect the lottery was fed into that in some way, but I don’t have evidence as to how exactly.</u>
-      <u who="SOLOMON">Right. Okay.</u>
+      <u who="SOLOMON">Right. Okay.
+
+So at this point, were you still in touch with your parents?</u>
       <u who="ALVERSON">Yes, in a distant way, around mainly the issues of they wanted to see the grandchildren.</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">So we would visit for short visits. And I remember having lots of almost funny encounters when we’d go down there. This was in the early ’70s—</u>
@@ -508,7 +566,9 @@
       <u who="ALVERSON">—late ’60s. My father would rant and rail about the city being driven to a stop by the antiwar demonstrations. “They haven’t got the brains, gotta send them for [unintelligible.]” And one or two of them—I had been in those demonstrations and just came over to the house, and he was talking about me, obviously, but I didn’t tell him.</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">So a part of the just modus vivendi was that we didn’t talk. I didn’t say anything about what I was involved in in Dartmouth. They thought, “Well, he’s got a job in an Ivy League school. I guess that’s—that’s good. And they have the grandchildren,” blah, blah, blah. So it became parallel lives.</u>
-      <u who="SOLOMON">Got you. Got you. Okay. </u>
+      <u who="SOLOMON">Got you. Got you. Okay. 
+
+Let’s see. So the Kent State [University] shooting also. That was—</u>
       <u who="ALVERSON">That was huge.</u>
       <u who="SOLOMON">That was huge?</u>
       <u who="ALVERSON">Yeah, really huge. What—remind me, was it ’70?</u>
@@ -537,7 +597,9 @@
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="ALVERSON">There was a long history, and I think a bad history, of how coeducation came to Dartmouth. It’s portrayed officially as a top down set of decisions that were made by people—that’s bullshit, total bullshit.</u>
       <u who="SOLOMON">Oh, please talk about it a little more. I would love to—</u>
-      <u who="ALVERSON">If that’s rain, I’m going to have to—yeah. I’m on a bicycle, but I’ll call my wife.</u>
+      <u who="ALVERSON">If that’s rain, I’m going to have to—yeah. I’m on a bicycle, but I’ll call my wife.
+
+The—[Chuckles.] Well, that’s a shift of subject, the coeducation.</u>
       <u who="SOLOMON">That’s fine.</u>
       <u who="ALVERSON">Are we finished with the war?</u>
       <u who="SOLOMON">I mean, if you would like to talk a little more about sort of campus climate or student protests—</u>
@@ -612,18 +674,26 @@
       <u who="ALVERSON">—but certainly the spirit of the times seemed I think conducive to tapping in to those energies, and sort of the irreverence, the belief that the administration were, you know, old farts and were not about to be leaders in this.</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">They were dragging their feet. I think the stereotypes from the antiwar movement transferred over into the women’s movement, which was very much tied up with coeducation.</u>
-      <u who="SOLOMON">Right.</u>
+      <u who="SOLOMON">Right.
+
+So you said, then, in ’73 you left campus and went back to Africa?</u>
       <u who="ALVERSON">I did. Actually, late ’72, to do two years of field work on the topic that my dissertation was on,—</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—but to put it in a bigger context.</u>
       <u who="SOLOMON">Do you want to talk a little bit about that more?</u>
       <u who="ALVERSON">Uh,—</u>
       <u who="SOLOMON">If you are interested? [Chuckles.]</u>
-      <u who="ALVERSON">Can do. The issue that I realized from my favorite stint of work in the South African mines and industries was that the rural area was really the biggest piece of the picture as to why—of the phenomenon, labor migration, and culture and psychological change among African populations that were caught up in this vortex of industrialization. </u>
+      <u who="ALVERSON">Can do. The issue that I realized from my favorite stint of work in the South African mines and industries was that the rural area was really the biggest piece of the picture as to why—of the phenomenon, labor migration, and culture and psychological change among African populations that were caught up in this vortex of industrialization. 
+
+South Africa, as you might know from your classes, recruited mine labor and migrant labor from not just South Africa but many of the surrounding countries, and very few areas of southern Africa (almost as big as the United States) were not left alone in that, so young men in particular but, increasingly, women in terms of domestic service and other reasons—part of their rural life, an intimate part was leaving and working for wages, often to supplement food production or to buy what we’d call capital equipment for farming or to pay school fees or to whatever.
+
+So the world of industrial factory, formal employment and the world of semi-subsistent (because it wasn’t fully adequate, ever) agriculture and rural life were intimately being connected.</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="ALVERSON">And what my research showed and I hypothesized pretty early was that what used to be thought of as contraries: traditional-modern—and there were a lot of—the word back then was “modernization studies,”—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">—what makes people mi- —I thought, Boy, that’s a real simplification because in a sense, neither the nature of formal wage labor nor the nature of rural areas was staying constant while they got knitted together by this movement of people. Everything was changing. And it was a systemic change that required a whole different way of looking at human society,—</u>
+      <u who="ALVERSON">—what makes people mi- —I thought, Boy, that’s a real simplification because in a sense, neither the nature of formal wage labor nor the nature of rural areas was staying constant while they got knitted together by this movement of people. Everything was changing. And it was a systemic change that required a whole different way of looking at human society,—
+
+Mm-hm.</u>
       <u who="ALVERSON">—where you have these entrepôt [French, as defined by Merriam-Webster: “an intermediary center of trade and transshipment” source: http://www.merriam-webster.com/dictionary/entrep%C3%B4t ] of formal employment, wage labor institutions of control that are part of western society and their insertion into rural areas, which were being changed by that process, often by the migrants, themselves, who suddenly are bringing money, who have ideas about individuality and their persons, personhood because of being both involved intimately in wage labor and being involved as often kinfolk in a smaller scale, rural community,—</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—which is nothing like what it was 150 years earlier. So that was the topic. And I wrote a book called Mind in the Heart of Darkness[: Value and Self-Identity among the Tswana of Southern Africa], which played a bit on the title of [Joseph] Conrad’s book [Heart of Darkness]. Played quite a lot on it.</u>
@@ -775,7 +845,9 @@
       <u who="ALVERSON">There were communes here, like the Wooden Shoe, et cetera, which I had no central involvement with at all except I knew people who moved out there.</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">And I think for them, the shadow, to use your metaphor, was much bigger than it was for me. I felt that I was doing what I could do better and it was more important to do it in the context of teaching than, you know, throwing in the towel and growing crops in Canaan, New Hampshire.</u>
-      <u who="SOLOMON">Right. </u>
+      <u who="SOLOMON">Right. 
+
+So just for context for the recording, the book that we are referencing is How Many Roads? Photographs of the Sixties and Early Seventies, put together by Jonathan [E.] Sa-adah [pronouncing it sah-DAH]. [Transcriber’s note: In the book is an essay by Hoyt S. Alverson.]</u>
       <u who="ALVERSON">SAH-dah.</u>
       <u who="SOLOMON">SAH-dah. So you recommended that I flip through this. [Laughs.]</u>
       <u who="ALVERSON">Just to see if there was any—you know, it might engender some thoughts that you could find useful.</u>
@@ -802,7 +874,9 @@
       <u who="SOLOMON">Oh, okay. Gotcha.</u>
       <u who="ALVERSON">As did Steve Tozer.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="ALVERSON">And I don’t know whether you know—what’s his first name?—Teju [pronounced TAY-jew] Cole. He’s got quite a reputation as a writer. He wrote the introduction. It’s just a short essay. He’s a photographer, an essayist. He’s a Nigerian-American. And he’s written two very, very widely reviewed and praised books: Every Day Is for the Thief and there’s another one about the city. One is about Lagos, and one is about New York. </u>
+      <u who="ALVERSON">And I don’t know whether you know—what’s his first name?—Teju [pronounced TAY-jew] Cole. He’s got quite a reputation as a writer. He wrote the introduction. It’s just a short essay. He’s a photographer, an essayist. He’s a Nigerian-American. And he’s written two very, very widely reviewed and praised books: Every Day Is for the Thief and there’s another one about the city. One is about Lagos, and one is about New York. 
+
+Anyway, he makes the point, which I think is a good one, that the pictures to him—although he’s much too young to remember; he didn’t know anything about this, but he says they seem very contemporary in terms of his engagement with the Iraq War. And I think there is a sort of contemporary quality to them if you just translate in your mind how much the Iraq invasion—</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">—has resonances.</u>
       <u who="SOLOMON">Mm-hm.</u>
@@ -822,7 +896,9 @@
       <u who="SOLOMON">Mm-hm. So can you explain a little bit, just for context, about the back-to-the-land movement?</u>
       <u who="ALVERSON">Wow. Yes. Asking me to explain it is over- —overrating what I can do.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">There was a couple named Nearing, N-e-a-r-i-n-g, who were very active as—they weren’t communists, but they were certainly part of the questioning of the industrialization of North America in the ’30s and ’40s, and decided that too much of the real fundamentals of life were being lost by the hurly-burly and hubbub of the city and the work, and that they felt that you needed—it was a kind of [John] Dewey-esque idea: We’ve got to live that way to restore these values that are being lost by the anonymization, the atomization of people.</u>
+      <u who="ALVERSON">There was a couple named Nearing, N-e-a-r-i-n-g, who were very active as—they weren’t communists, but they were certainly part of the questioning of the industrialization of North America in the ’30s and ’40s, and decided that too much of the real fundamentals of life were being lost by the hurly-burly and hubbub of the city and the work, and that they felt that you needed—it was a kind of [John] Dewey-esque idea: We’ve got to live that way to restore these values that are being lost by the anonymization, the atomization of people.
+
+And so they did try to build two settlements, one in Vermont and then later in Maine, I believe, which served to some extent as a kind of sleeper, the way Simone de Beauvoir’s [The] Second Sex I think served as a kind of sleeping document for women, who rediscovered it, you know, through Betty Friedan and—was it Crowley? I’m blocking on her name. The other big feminist writer of the ’70s. Gloria Steinem.</u>
       <u who="SOLOMON">Yes.</u>
       <u who="ALVERSON">So it wasn’t that that was taught, but that kind of thinking was around.</u>
       <u who="SOLOMON">Mm-hm.</u>
@@ -870,13 +946,17 @@
       <u who="SOLOMON">I don’t think so.</u>
       <u who="ALVERSON">It seemed to me like—from what I gather you were saying—that we’ve covered the ground better than I thought. Well, nothing like structured questions to help one sound coherent. Otherwise,—</u>
       <u who="SOLOMON">It’s true. [Laughs.]</u>
-      <u who="ALVERSON">Yeah, so the story isn’t just free flow.</u>
+      <u who="ALVERSON">Yeah, so the story isn’t just free flow.
+
+The only thing I would say is that I’m sure if I reflected on your questions, I would revise them, smooth them, which is true of all memory.</u>
       <u who="SOLOMON">Oh.</u>
       <u who="ALVERSON">I’ve actually done a fair amount of work with cultural memory, and it’s amazing how we assimilate. The past is always in the present, in the sense that the stories we tell are so immersed in the urgent existence of now that it can’t be just a look back.</u>
       <u who="SOLOMON">Right, right.</u>
       <u who="ALVERSON">And as long as you know that and know I’m still—I’m a victim of the same—or beneficiary—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="ALVERSON">—of the same processes—</u>
+      <u who="ALVERSON">—of the same processes—
+
+Are you going to do this with other people?</u>
       <u who="SOLOMON">In the future, yes. But I—</u>
       <u who="ALVERSON">In the—putting together a collection of—</u>
       <u who="SOLOMON">Yes. So the project, itself, is a collection of oral histories, people’s memories from this time period.</u>
@@ -900,7 +980,9 @@
       <u who="SOLOMON">Well, thank you so much for talking to me.</u>
       <u who="ALVERSON">Been a pleasure. Good luck to you.</u>
       <u who="SOLOMON">Thank you so much.</u>
-      <u who="ALVERSON">Yup.</u>
+      <u who="ALVERSON">Yup.
+
+[End of interview.]</u>
     </body>
   </text>
 </TEI>

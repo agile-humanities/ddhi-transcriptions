@@ -45,8 +45,8 @@
         <language ident="en-us">English</language>
       </langUsage>
       <particDesc>
-        <person xml:id="SONNENFELD"/>
         <person xml:id="DAWLEY"/>
+        <person xml:id="SONNENFELD"/>
       </particDesc>
       <settingDesc>
         <setting>
@@ -58,12 +58,20 @@
   </teiHeader>
   <text>
     <body>
-      <u who="SONNENFELD">All right, this is Alexa Sonnenfeld with David Dawley. We’re at the Rauner [Special Collections] Library. It is April 28th, a few minutes past 1 p.m., and we are beginning our interview for the Dartmouth Vietnam Project.</u>
+      <u who="SONNENFELD">All right, this is Alexa Sonnenfeld with David Dawley. We’re at the Rauner [Special Collections] Library. It is April 28th, a few minutes past 1 p.m., and we are beginning our interview for the Dartmouth Vietnam Project.
+
+So, David, can you tell me where you’re from and a little bit about growing up there?</u>
       <u who="DAWLEY">Sure. And as I thought about this, talking about Vietnam and my background, it’s sort of the fog of war meets the fog of aging. [Chuckles.] But I was born in Westminster, Massachusetts, a small town in central Massachusetts, about 1,200 people when I was growing up, so—</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">My mother was born in Scotland. She was the baby of 11 kids. Her name is Dolly Ferguson [Dawley]. My father, Porter [W.] Dawley, was born in the house that he and we grew up  in in Westminster. And the background of both families really sets the foundation for the flip-flopping I did with regard to Vietnam. First I was for the war, then I was against the war. So I thought it might be useful, because it seemed relevant to me as I went through the process of deciding to be a conscientious objector, that the foundation has a long kind of military thread.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">My mother’s brother, Frank [Ferguson], Uncle Frank, was killed in World War I. Another brother, Percy Ferguson, was in the 10th Mountain Division in World War II and came home with a Purple Heart. </u>
+      <u who="DAWLEY">My mother’s brother, Frank [Ferguson], Uncle Frank, was killed in World War I. Another brother, Percy Ferguson, was in the 10th Mountain Division in World War II and came home with a Purple Heart. 
+
+On my father’s side, I’m a tenth-generation Hutchins, who—John Hutchins was an original settler and founder of Newbury, Mass., and came over with the woman that he married, Frances Alcock Hutchins, in about 1635. Four generations later, the family had moved to Haverhill [pronounced HAY-ver-uhl], Mass., and my four times great-grandfather, Jeremiah Hutchins, was in the Second Foot company in Haverhill, under Richard Saltonstall, who was thought to be a Minute Man and was definitely at [the Battle of] Bunker Hill for the American Revolution. And his daughter, my aunt, was there as well, Abigail [Hutchins], and she was pouring molten lead into bullets the night before the battle.
+
+After the war, Jeremiah Hutchins received land in New Hampshire and moved the family to Bath, New Hampshire, where essentially he was a founder. In the first town meeting, he was elected a selectman, so he roots run deep there. And he set up residence for the next several generations of Hutchins.
+
+And so there’s that strain of military history that certainly was relevant to my sense of patriotism,—</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">—pride of country, sense of service, sense of duty. It was reinforced through my Uncle Mike, who was our very close next-door neighbor, who was a submarine commander in World War II—</u>
       <u who="SONNENFELD">Mm-hm.</u>
@@ -92,14 +100,24 @@
       <u who="DAWLEY">I was both. You know, class polls were “cutest,” “nicest eyes,” “smartest,” “most likely…” [Chuckles.] Those things.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">That was a—a thread. I mean, I was—I was the runt of the litter for my mother. She’d had—which I found out much later—two miscarriages and a stillborn daughter, so, you know, I came along when she was older, and my father was older, and obviously, you know, that was a special relationship.</u>
-      <u who="SONNENFELD">Sure. </u>
+      <u who="SONNENFELD">Sure. 
+
+So kind of moving on from—from elementary school, unless there are some—some more specific moments you want to revisit—are—are there? No?</u>
       <u who="DAWLEY">No.</u>
       <u who="SONNENFELD">How about adolescence? What—what was that like? Can you kind of position us in your personal history, what was going on in the world and maybe how you started to feel and think about things?</u>
-      <u who="DAWLEY">Well, again, we were always outdoors. In the winter, it was snowballs and skiing and—I studied very hard, and we had only nine grades of school in Westminster, so for sophomore year we went into the high school in Gardner, Massachusetts. I’d been in the Cub Scouts. I was in the Boy Scouts. I was a young Eagle Scout. So from a very young age, you know, going along with the movies and, you know, I had a war uniform and learned how to salute and take orders and give orders. That was all part of a—of—of growing up.</u>
+      <u who="DAWLEY">Well, again, we were always outdoors. In the winter, it was snowballs and skiing and—I studied very hard, and we had only nine grades of school in Westminster, so for sophomore year we went into the high school in Gardner, Massachusetts. I’d been in the Cub Scouts. I was in the Boy Scouts. I was a young Eagle Scout. So from a very young age, you know, going along with the movies and, you know, I had a war uniform and learned how to salute and take orders and give orders. That was all part of a—of—of growing up.
+
+And my family had a business that was making crackers right across the driveway, and so, you know, we were one of the more successful families in town, probably.</u>
       <u who="SONNENFELD">Mm-hm. And so—so you mentioned you were in Scouts, as a Boy Scout and—and then as an Eagle Scout. Can you expand a little bit on what that was like and how you think that may have affected your interests and—and hobbies at the time?</u>
-      <u who="DAWLEY">Well, again, I grew up skiing, so we used to take day trips—you know, this was when there were rope tows, and then when rope tows became j-bars and other kinds of lifts, and so we were always mooning for those—on weekends, and not everybody could do that.</u>
+      <u who="DAWLEY">Well, again, I grew up skiing, so we used to take day trips—you know, this was when there were rope tows, and then when rope tows became j-bars and other kinds of lifts, and so we were always mooning for those—on weekends, and not everybody could do that.
+
+
+
+Refresh me on your question again.</u>
       <u who="SONNENFELD">Sure. Just can you walk me through a little bit what it was like being a scout at that time?</u>
-      <u who="DAWLEY">Oh. Right. Okay. Well, I always wanted the next rank, so I was in—I was always in search of merit badges and doing that stuff and wanting to be the youngest Eagle Scout ever and that kind of—youngest and the first in the town. But in summers I—I went to camp for two months on Lake Winnipesauke in Winter Harbor, near Wolfeboro [New Hampshire], and, you know, we slept on platform tents, military tents, washed in the lake, carried water from the lake to drink and do all that—loved it. Went hiking in the mountains of New Hampshire—you know, Osceola, Tecumseh, Mount Washington, Mount Lafayette—you know, Chocorua. And so that—those were the summers.</u>
+      <u who="DAWLEY">Oh. Right. Okay. Well, I always wanted the next rank, so I was in—I was always in search of merit badges and doing that stuff and wanting to be the youngest Eagle Scout ever and that kind of—youngest and the first in the town. But in summers I—I went to camp for two months on Lake Winnipesauke in Winter Harbor, near Wolfeboro [New Hampshire], and, you know, we slept on platform tents, military tents, washed in the lake, carried water from the lake to drink and do all that—loved it. Went hiking in the mountains of New Hampshire—you know, Osceola, Tecumseh, Mount Washington, Mount Lafayette—you know, Chocorua. And so that—those were the summers.
+
+And, you know, the rest of the year was—was a combination of studying and whatever sports kind of rolled with the—with the season.</u>
       <u who="SONNENFELD">How about your relationship with—with the other Scouts or even with the Scout leaders? What was that like? Were they close friends, mentors? Were you at times ambivalent about the program or—</u>
       <u who="DAWLEY">No, I was never—</u>
       <u who="SONNENFELD">—enjoyed it?</u>
@@ -111,7 +129,9 @@
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">And, you know, occasionally you go camping and to do things. It wasn’t any particular mentor out of that.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">You know, I had good teachers in school. And the big break was when we went to Gardner High School as sophomores because we were—we were a heavily Finnish town, mostly Protestant. The Catholic church was built when I was 12 or 13, probably. And when we went to high school in Gardner [Massachusetts], we went into, you know, a small, successful industrial city that was a furniture manufacturing city. On the other side was Fitchburg [Massachusetts], which was a paper manufacturing town. Both those cities were very successful up until I was finished with college, before the chair industry went to North Carolina and the paper industry took off, and then both of those towns became ghost towns. But at the time, they were—they were very successful.</u>
+      <u who="DAWLEY">You know, I had good teachers in school. And the big break was when we went to Gardner High School as sophomores because we were—we were a heavily Finnish town, mostly Protestant. The Catholic church was built when I was 12 or 13, probably. And when we went to high school in Gardner [Massachusetts], we went into, you know, a small, successful industrial city that was a furniture manufacturing city. On the other side was Fitchburg [Massachusetts], which was a paper manufacturing town. Both those cities were very successful up until I was finished with college, before the chair industry went to North Carolina and the paper industry took off, and then both of those towns became ghost towns. But at the time, they were—they were very successful.
+
+But that was where, as sophomores, we met people that we hadn’t grown up with.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">And they were Italians, Irish, Polish-Americans, you know, more Catholics than Protestant, a couple Jews. Gardner had a good reputation academically and a good reputation athletically, and we all got along. We didn’t have any problem. My best friends were, you know, [Richard J.] “Richie” Wolanski and Marcel [H.] Klavian, French-Canadian. And, you know, just all stripes, and nobody—nobody—nobody had a problem. There was a Polish-American country club, where, even before we were old enough to drink, we’d all go on Friday nights, and some would dance, and the rest of us would just kind of stand around and look around,—</u>
       <u who="SONNENFELD">Would you dance at all, or were you—</u>
@@ -119,7 +139,9 @@
       <u who="SONNENFELD">—more of a—</u>
       <u who="DAWLEY">Well, I’m short and small. I was then. So I didn’t jump up and dance, you know, as much, you know?</u>
       <u who="SONNENFELD">Mm-hm. Tell—tell me a little bit more about—about your high school experience. Again, how—how were classes and—and friendships, and what moments stand out from high school?</u>
-      <u who="DAWLEY">Friendships were—you know, considering everything that was going on in—in the United States not too many years ago, with ethnic conflicts and the issue of dropouts and terrible schools, Gardner was a good school. Smart students got along with students who weren’t as smart. Athletes got along with good students. Nobody really made fun of each other. We all supported each other. We competed in the classroom, just as we competed in sports, and so it was—it was—you know, had a time to cherish compared to times that came later, for most people. We were very fortunate.</u>
+      <u who="DAWLEY">Friendships were—you know, considering everything that was going on in—in the United States not too many years ago, with ethnic conflicts and the issue of dropouts and terrible schools, Gardner was a good school. Smart students got along with students who weren’t as smart. Athletes got along with good students. Nobody really made fun of each other. We all supported each other. We competed in the classroom, just as we competed in sports, and so it was—it was—you know, had a time to cherish compared to times that came later, for most people. We were very fortunate.
+
+There wasn’t a history of many people going to Ivy League schools. One person a couple of classes before me went to Harvard [University], and I was the only one that went to an Ivy League school when we graduated.</u>
       <u who="SONNENFELD">Were you applying to other Ivies, or—or why Dartmouth [College]?</u>
       <u who="DAWLEY">No.</u>
       <u who="SONNENFELD">How—how did you end up on Dartmouth?</u>
@@ -155,7 +177,9 @@
       <u who="SONNENFELD">Yeah.</u>
       <u who="DAWLEY">You know, the Korean War was over.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">And we were into the [President Dwight D.] Eisenhower years, so everybody liked “Ike” as a president and, of course, as a general. Grew up with the [Douglas] MacArthur hearings and [President Harry S.] Truman firing General MacArthur. And that was a big deal because, you know, one of the early things on television was to watch the ticker tape parades in New York, when MacArthur came back or, later, when astronauts came back. And those were dramatic, and that was all live television.</u>
+      <u who="DAWLEY">And we were into the [President Dwight D.] Eisenhower years, so everybody liked “Ike” as a president and, of course, as a general. Grew up with the [Douglas] MacArthur hearings and [President Harry S.] Truman firing General MacArthur. And that was a big deal because, you know, one of the early things on television was to watch the ticker tape parades in New York, when MacArthur came back or, later, when astronauts came back. And those were dramatic, and that was all live television.
+
+I remember my mother kept me out of school when Queen Elizabeth [II] was coronated [in 1952] because my mother—“I’m a Ferguson.”</u>
       <u who="SONNENFELD">Right.</u>
       <u who="DAWLEY">That was a big deal. You know, so that’s—that’s the backdrop. There was—there was no war. One or two may have—from high school—went into the service, but I don’t remember them going directly into the service.</u>
       <u who="SONNENFELD">Mm-hm. So tell me a little bit about arriving at Dartmouth as a college freshman. It’s the fall of ’59, right?</u>
@@ -171,7 +195,9 @@
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">And as freshman, we were required to wear our beanies. You know, we had beanies that had our year.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">And upperclassmen were entitled to ask us to do things if we had our beanies on, so did tasks. That was—from the college perspective—you know, community building exercise, which worked to a certain extent—anyway, I walked past Beta, and there were these two very huge men who called me over, you know, to do something for them. You know, in retrospect, I knew they were recruiting.</u>
+      <u who="DAWLEY">And upperclassmen were entitled to ask us to do things if we had our beanies on, so did tasks. That was—from the college perspective—you know, community building exercise, which worked to a certain extent—anyway, I walked past Beta, and there were these two very huge men who called me over, you know, to do something for them. You know, in retrospect, I knew they were recruiting.
+
+So they said, “Why don’t you come down to the river?” You know, because I—one thing I—I wanted to get—I wanted to earn a letter, and I wasn’t going to do that playing football or something else, so they introduced me to crew as a coxswain, obviously. So I went down to the river. And, you know, later those two were my fraternity brothers. So right from the beginning, you know, we got to know each other as freshmen, but we had the interaction with upperclassmen, and that often led to affinity relationships of one kind or another, so—</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">—for me, that started out as crew.</u>
       <u who="SONNENFELD">And then how was your experience with the crew team? Did you stick with it all four years, earn that letter, or—</u>
@@ -181,7 +207,9 @@
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">—and then you had varsity teams. And in crew, we had a big barge that people—for people to learn how to row? So for three weeks or something, they’d go down, and there’d be an aisle down the middle, and oars on both sides, and the coaches would do that. And then we got into the shells. That was easy, and that was natural for me, and—and I had an instinct for steering shells, which other coxswains did not have, because they were going all over the river. And I think from growing up in—with the Scout background and—you know, I—I just—as a small person, I had no problem getting in the face of larger people,—</u>
       <u who="SONNENFELD">[Chuckles.]</u>
-      <u who="DAWLEY">—for whatever reason. But I also had a—I picked up very quickly a technical sense of what the coach wanted, and I was able to sit in the boat and act like a coach technically, in terms of, you know, what I saw happening and how that could reinforce what the coach was doing. </u>
+      <u who="DAWLEY">—for whatever reason. But I also had a—I picked up very quickly a technical sense of what the coach wanted, and I was able to sit in the boat and act like a coach technically, in terms of, you know, what I saw happening and how that could reinforce what the coach was doing. 
+
+So a couple of weeks after we were in those boats, the varsity coach asked me if I would cox the varsity boat because they needed a coxswain, so I ended up coxing the varsity during that fall, and freshman for races in the spring, and then varsity lightweight coxswain in—in my sophomore year, after which [W.] Hart Perry, a varsity coach, asked if I would coach the freshmen.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">So I ended up coaching varsity—freshmen ’65s.</u>
       <u who="SONNENFELD">Okay. </u>
@@ -217,7 +245,9 @@
       <u who="SONNENFELD">Mm-hm. And—and how about academics? What—what was your major, and—and how did you like it?</u>
       <u who="DAWLEY">Well, the standard for academics in general was a gentleman’s C.</u>
       <u who="SONNENFELD">[Chuckles.]</u>
-      <u who="DAWLEY">You know? [Chuckles.] Of course, today that would be an A minus, you know, with all the inflation, right? [Both chuckle.] But it was—I think the—the idea was to have—well, first of all, you know, we were greeted by John Sloan Dickey [Class of 1929] as president, when he shook hands with us as we were coming in as freshmen. The message was, “Gentlemen, your business here is learning,” you know. Well, okay, so we learned, but it was really more broadly an experience of growing up and mixing and all the extracurricular activities and exploring and doing things and sort of ingesting the liberal arts environment and education and mindset. Some of the professors took that the same way. You know, some of them, who knew they had “gut” courses, were entertaining, and they were educating us in ways that weren’t strictly academic.</u>
+      <u who="DAWLEY">You know? [Chuckles.] Of course, today that would be an A minus, you know, with all the inflation, right? [Both chuckle.] But it was—I think the—the idea was to have—well, first of all, you know, we were greeted by John Sloan Dickey [Class of 1929] as president, when he shook hands with us as we were coming in as freshmen. The message was, “Gentlemen, your business here is learning,” you know. Well, okay, so we learned, but it was really more broadly an experience of growing up and mixing and all the extracurricular activities and exploring and doing things and sort of ingesting the liberal arts environment and education and mindset. Some of the professors took that the same way. You know, some of them, who knew they had “gut” courses, were entertaining, and they were educating us in ways that weren’t strictly academic.
+
+“Herb” [Herbert F.] West in comp lit [comparative literature], for example, you know, I mean, he would get excited, and he would yell at the top of his booming voice, “Excelsior! Excelsior!”—you know. Or he’d tell a story about being on a bus with freshmen that went to a mixer at Smith [College] and stopping at a corn field, and everybody got off to piss on the side of the road, and the steam coming up. [Both chuckle.] You know, he’d create these images which just kind of reinforced what—what everybody was growing up with.</u>
       <u who="SONNENFELD">Mm-hm. And—and what did you study?</u>
       <u who="DAWLEY">In today’s words, experiential education, because as—as a crew coach, that was full time.</u>
       <u who="SONNENFELD">Yeah.</u>
@@ -289,7 +319,9 @@
       <u who="SONNENFELD">What are kind of your—your thoughts, your anxieties? How are you feeling upon graduating at Dartmouth?</u>
       <u who="DAWLEY">Oh, I was living in C&amp;amp;G [Casque and Gauntlet] at the time. We were a pretty diverse group of people. And I didn’t know what the hell I was going to do. The Peace Corps had started, you know, a year earlier, basically. But I had no idea. You know, there was nobody to provide any help for how to evaluate career choices. I didn’t want to be a lawyer because I grew up watching Perry Mason on TV, trial  lawyer. I said, I can’t talk like Perry Mason, so I can’t be a lawyer because that’s what lawyers do, right?</u>
       <u who="SONNENFELD">[Chuckles.]</u>
-      <u who="DAWLEY">Nobody told me, “Well, they do some other things too.” And then I thought about business, so I went to a couple interviews of companies coming through town, and one was with Proctor &amp;amp; Gamble, and they gave me this long form to fill out that had the strangest questions that you can ever imagine. And I said, I have no interest in this.</u>
+      <u who="DAWLEY">Nobody told me, “Well, they do some other things too.” And then I thought about business, so I went to a couple interviews of companies coming through town, and one was with Proctor &amp;amp; Gamble, and they gave me this long form to fill out that had the strangest questions that you can ever imagine. And I said, I have no interest in this.
+
+And so that was late in my senior year, when I ended up listening to a dean from Yale who came up and talked about Peace Corps. And I decided I’d do that for adventure and to learn Spanish,—</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">—not out of any ro- —a noble purpose of helping people. You know, that sort of comes once you’re immersed, you know?</u>
       <u who="SONNENFELD">Mm-hm. </u>
@@ -317,19 +349,37 @@
       <u who="SONNENFELD">NOLS [National Outdoor Leadership School] or something like that?</u>
       <u who="DAWLEY">Yeah, similar to NOLS, whatever, from Maine. Anyway, so we—we did that. We had, you know, running every morning before breakfast and playing soccer and eventually hiking, rappelling down the wall of the football stadium and then doing that from the cliffs outside Albuquerque.</u>
       <u who="SONNENFELD">What was the composition of the students like?</u>
-      <u who="DAWLEY">Those things, I loved.</u>
+      <u who="DAWLEY">Those things, I loved.
+
+It was a range. There was a friend from Cornell [University], one from Harvard. There were four or five people that ended up going with our group of 35 to Honduras, who were over 50. You know, several women. Some with farm backgrounds, you know?</u>
       <u who="SONNENFELD">Mm-hm. </u>
       <u who="DAWLEY">Four or five of us who were—were pretty healthy and outdoors, so we—you know, we liked all the outdoor stuff and climbing and hiking and all that stuff.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">But after eight weeks, in Albuquerque and you’re also going through all kinds of psychological profiles and put you into T-groups [training group], sensitivity training groups that, you know, put you under the microscope to see how you’re going to be, and various people would get selected out. Okay, you know, we go home.</u>
+      <u who="DAWLEY">But after eight weeks, in Albuquerque and you’re also going through all kinds of psychological profiles and put you into T-groups [training group], sensitivity training groups that, you know, put you under the microscope to see how you’re going to be, and various people would get selected out. Okay, you know, we go home.
+
+Our next step was to go to Taos, New Mexico, for four weeks or so for specific community development training, and a couple of things happened as we got to Taos. One was that there was a gulpe de Estado, a coup d’etat, in Honduras, in which the military took over the government in anticipation of a result from the election that was not going to be what they wanted, so—</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">—they—and the U.S. put diplomatic relationships on hold and actually broke diplomatic relationships with Honduras while we were coming through training.</u>
+      <u who="DAWLEY">—they—and the U.S. put diplomatic relationships on hold and actually broke diplomatic relationships with Honduras while we were coming through training.
+
+And then John Kennedy was killed when we were in Taos, and so that was—that was interesting.
+
+We were extended an extra couple of weeks before a decision was made to go to Honduras, and the Peace Corps—the Peace Corps always emphasized—the story of Peace Corps was a People to People [International] program and not a government program. You know, it was, in a larger sense, the era of The Ugly American, a book that was famous at the time—you know, the American was a bull in a china shop, going through different cultures and different places, and we were going to be the answer to that.
+
+And so when we went to Honduras, we kind of underscored that idea of People to People, because there was no embassy in Honduras at the time.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">We were, you know, the first people to come after the assassination of the president, so I think that’s when some of us began to see things different, through the eyes of the people that we were meeting, because, I mean, I certainly hadn’t embraced John Kennedy and all the romance sur- —surrounding—I was from Massachusetts, so, you know. The Catholic Kennedys was not the most popular family in non-Catholic Massachusetts, and Old Man [Joseph P.] “Joe” Kennedy, you know, got the reputation—</u>
+      <u who="DAWLEY">We were, you know, the first people to come after the assassination of the president, so I think that’s when some of us began to see things different, through the eyes of the people that we were meeting, because, I mean, I certainly hadn’t embraced John Kennedy and all the romance sur- —surrounding—I was from Massachusetts, so, you know. The Catholic Kennedys was not the most popular family in non-Catholic Massachusetts, and Old Man [Joseph P.] “Joe” Kennedy, you know, got the reputation—
+
+But suddenly we were greeted like we were personal representatives of the Kennedys, and you’d go out into the village where you were going to live, and you’d see pictures of Jesus and then Virgin Mary and John Kennedy, and, you know, go to—if you go into a whore house, you’d see pictures of John Kennedy along with, you know, the Virgin Mary if you were—
+
+So, I mean, that was the—that was instructional for—for most of us to see, begin to see our own country through their eyes.</u>
       <u who="SONNENFELD">Mm-hm. And—and—and tell me more about your experience in the Peace Corps. What—what—what did your day-to-day in Honduras end up looking like, and what are the relationships and—and moments that—that stand out?</u>
       <u who="DAWLEY">Well, the first one to stand out is going to my town, El Triunfo de Choluteca in Honduras, in southern Honduras, tropical Honduras, and pulling up in a Jeep and meeting the mayor of the town and was—a woman in her 70s with a long braid down—down her back, and Miña María Huete [archivist note: spelling uncertain] and basically getting rolled out of the Jeep. “See ya later.” Didn’t have a place to stay, didn’t have a place to eat. [Chuckles.] Somebody had gone there and said, “Do you want a Peace Corps volunteer?” And, “Sure,” you know. “What’s a Peace Corps volunteer?” “An American.” “Okay, we’ll take one.”</u>
       <u who="SONNENFELD">[Chuckles.]</u>
-      <u who="DAWLEY">Suddenly, I—there I am, you know, so me and María set up a cot and put me in the Catholic church. The priest came once a month, so the church was empty. And that’s where I slept for the first week or two weeks. I can’t remember exactly what, you know. That was a pretty brutal kind of [chuckles] moment.</u>
+      <u who="DAWLEY">Suddenly, I—there I am, you know, so me and María set up a cot and put me in the Catholic church. The priest came once a month, so the church was empty. And that’s where I slept for the first week or two weeks. I can’t remember exactly what, you know. That was a pretty brutal kind of [chuckles] moment.
+
+
+
+And when the priest came, he made sure he found me a place where I could live [chuckles], not in the church. On the other hand, we were going to have a working relationship together because one of the things I was doing was supporting Catholic radio skills, which—they broadcast literacy programs and public health programs out into the—into the hills.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">So I ended up in a—in a house with some people that became sort of my Honduran parents, I guess. They cleaned out tack rooms, about eight by twelve brick room, Spanish tile, no—no ceiling, just this—the tiles and an opening to the courtyard, about seven feet up. Put in a bed with a string—and a straw mat, and I put down my Boy Scout mattress, and that was—that was my room for two years.</u>
       <u who="SONNENFELD">Mm-hm.</u>
@@ -339,7 +389,17 @@
       <u who="SONNENFELD">And what were—what—what was the nature of your work there?</u>
       <u who="DAWLEY">The work was community development, and the whole idea was to get a sense for what’s needed in the town, what the people wanted, and then to go about the process of organizing and mobilizing people in ways in which they could try to come together over something that they agreed was—was needed for the town. So, you know, there was a—there was a lot of what the early Green Berets [U.S. Army Special Forces] did. So you move in, and you establish relationships. You listen, and you talk, and you get a relationship, and then you work on things. You try to empower people. There was no tradition of that in Honduras. It was a paternalistic society, you know, so they’re used to being told what to do—</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">—and not taking responsibility for themselves, and leadership in a town was something that was dangerous because as political parties changed, leaders in small towns got killed or, you know, disappeared. So there’s that process.</u>
+      <u who="DAWLEY">—and not taking responsibility for themselves, and leadership in a town was something that was dangerous because as political parties changed, leaders in small towns got killed or, you know, disappeared. So there’s that process.
+
+So I’m—I’m—had guidance from the people that I was living with, and most of my time was spent in the town during the week, and then on Saturdays I’d go out into the aldeas [villages] on a mule to connect with—through the Catholic radio schools, meet another group of people, where the idea would be to try to make something happen.
+
+So in town, eventually it was clear they didn’t have medical services, and I spent a lot of time in rocking chairs, on porches, drinking warm Pepsis and, you know, just talking to people and making sure that I knew people, sort of all political factions involving restarting a soccer team that the town had.
+
+
+
+But we—when it was clear that getting medical services was important, we actually started a—a survey/petition and went door to door, and a couple people from town that was kind of leading it. And that kind of grew into the idea that, “Well, let’s ask the government to send a nurse” and then “send a doctor,” so we got the nurse there, and then over time, the idea was to—to build a clinic, so we ended up doing that.
+
+I had one of my Peace Corps colleagues, who’s an architect—he came down and made a simple design, and we went through the process of a lot of self-help. Got the town to give a plot of land. We got—had dances for—every once in a while, or something else, as a raffle to raise some money so that people were engaged. And then we went to the national government and asked them for support in terms of roofing tile. We started the construction, and you know, eventually I ended up serving the very—the poorest of the poor, you know?</u>
       <u who="SONNENFELD">Mm-hm. So—so you enjoyed the work, or—</u>
       <u who="DAWLEY">Yeah, it was—</u>
       <u who="SONNENFELD">—did you ever—</u>
@@ -353,7 +413,9 @@
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">So we did—we got—we got a doctor there eventually, and—and in the hills it was a matter of building up what today would be called microfinance, but they started as credit unions and then, you know, find a way in which people can collectively save 25 cents, 50 cents a month and make some loans to each other to buy some fertilizer or to get some medicine. And we built that up and connected to the national movement for cooperativas and started--started three cooperatives: two outside the town and one inside the town.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">But basically the health clinic and all the credibility that was coming from that was the process of developing leadership which could then go on and solve other problems, so following the clinic and after I left, they developed a public market and did some other things, so I’m kind of—continued to work out.</u>
+      <u who="DAWLEY">But basically the health clinic and all the credibility that was coming from that was the process of developing leadership which could then go on and solve other problems, so following the clinic and after I left, they developed a public market and did some other things, so I’m kind of—continued to work out.
+
+I was also taken away for a couple of periods to go to the north Caribbean coast—I mean, the Peace Corps office asked me to create an Olympic-style track and field event for primary schools.</u>
       <u who="SONNENFELD">Mmm.</u>
       <u who="DAWLEY">So I sent home for books [chuckles]—how to do track and field. [Chuckles.] That’s how I used Michigan. The Michigan track coach had a book that my father sent me. And that was a much different experience. That was something that had to be done over a short period of time, and so I was in kind of a position as a general. I worked in coordination with a national social agency, but I was the boss,—</u>
       <u who="SONNENFELD">Mm-hm.</u>
@@ -365,11 +427,21 @@
       <u who="SONNENFELD">And during your time with the Peace Corps, over those two years, how aware were you of, again, global events—</u>
       <u who="DAWLEY">Right.</u>
       <u who="SONNENFELD">—that were going on, and what—what was your take on that?</u>
-      <u who="DAWLEY">This is what gets interesting because, you know, in my town, if we wanted to get a message out, it was by the telegraph operator. You know, you think of the old Western movies, and it was Morse code, and he’d send it out and whatever. So the only other thing you heard was through shortwave radio, and Peace Corps. The second source of information was the free subscription they gave us to TIME magazine. So the buildup to Vietnam for me was through TIME magazine and through shortwave radio, the Voice of America, both with extreme points of view.</u>
+      <u who="DAWLEY">This is what gets interesting because, you know, in my town, if we wanted to get a message out, it was by the telegraph operator. You know, you think of the old Western movies, and it was Morse code, and he’d send it out and whatever. So the only other thing you heard was through shortwave radio, and Peace Corps. The second source of information was the free subscription they gave us to TIME magazine. So the buildup to Vietnam for me was through TIME magazine and through shortwave radio, the Voice of America, both with extreme points of view.
+
+TIME magazine was under Henry [R.] Luce, and he was—he was known for rewriting reporters’ stories that they sent him from Vietnam: David Halberstam, [Theodore H.] “Teddy” White. I mean, it all came out later. I mean, they were—just were very frustrated that Luce would impose his own pro-war view of what we were getting in our magazines.
+
+And the same thing with the Voice of America. So I was in that room, really counting the—the dead Viet Cong every night. You know, how many did we kill today? And—you know.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">And that was—that was how I experienced the war. And, of course, having grown up with that tradition I had, I was—my patriotism and my loyalty was to—was not to challenge my country. I was just beginning to appreciate, in general, what I—what became very strong as—as I traveled after Peace Corps, was the differentiation that Hondurans and people in other countries made between Americans and our government. </u>
       <u who="SONNENFELD">Mmm.</u>
-      <u who="DAWLEY">They liked Americans; they didn’t like the government. And paradoxically, they didn’t hold us responsible for the government. So that was an observation that for me was reinforced when I spent time in Cuba, when I went to Thailand, when I went to Malaysia. It was sort of the same thing, and it took a while for me to appreciate that a lot of people felt this way.</u>
+      <u who="DAWLEY">They liked Americans; they didn’t like the government. And paradoxically, they didn’t hold us responsible for the government. So that was an observation that for me was reinforced when I spent time in Cuba, when I went to Thailand, when I went to Malaysia. It was sort of the same thing, and it took a while for me to appreciate that a lot of people felt this way.
+
+So Vietnam was—that was another layer to the Vietnam experience, I think. By—by the time my service finished—in general, I wanted to study more about what I had been doing. I’d been reading a lot of anthropology—Oscar Lewis, about families in Mexico that he’d studied, and I was also very interested in guerilla warfare, fascinated by [Ernesto] “Ché” Guevara  and what he wrote, by “Lawrence of Arabia” [T. E. Lawrence], and the movie came out while I was in the Peace Corps. But I also read Seven Pillars of Wisdom, his book, which had a lot of theory on guerilla warfare. And I was reading about the British in Malaysia.
+
+And so these layers of thoughts were in my mind. I still kind of had a militaristic instinct at a personal level, and I thought, with everything I was hearing about the war from the Voice of America, that, you know, I should volunteer. You know, My classmates are over there. I’m not gonna run from the war, and I should volunteer. It was a great sense of, you know, who were the best fighters? The Green Berets. And the early Green Berets—they’re not like today’s. You know, they—they would go into the villages and stay and develop relationships and organize and all that, do stuff.
+
+You know, so that’s who I would want to be. I always thought I was probably too small for that. But at the end of Peace Corps, I definitely planned to travel for two or three months through South America. But our director was an Annapolis [U.S. Naval Academy] graduate and former number two on a nuclear submarine,—</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">—you know, which had more nuclear power than the atomic bombs that had gone off from World War II. They could blow the world apart. And so I was—I was applying to social work schools to study applied sociology, basically, or thinking about enlisting.</u>
       <u who="SONNENFELD">Mm-hm.</u>
@@ -379,10 +451,20 @@
       <u who="SONNENFELD">And—and—and how about your brother? Let’s take a moment to pause. What—what was he doing at this time, and—and was he considering joining the—the military as well, or—</u>
       <u who="DAWLEY">No, he and I didn’t have a close relationship, so—</u>
       <u who="SONNENFELD">No.</u>
-      <u who="DAWLEY">—he was completely irrelevant to anything that I was going to decide to do. [Chuckles.] </u>
+      <u who="DAWLEY">—he was completely irrelevant to anything that I was going to decide to do. [Chuckles.] 
+
+‘SONNENFELD:	Uh-huh, sure.</u>
       <u who="DAWLEY">Totally irrelevant.</u>
       <u who="SONNENFELD">Sure.</u>
-      <u who="DAWLEY">And it was all—you know, I was sending some letters back and forth with classmates who were in different parts of the world and sort of had some views from—from their side, but I was deciding. But I took that advice from—from [Joseph A.] “Joe” Farrell [III] and decided to go to Michigan. And they had a program starting in January. I was out in October, I guess, so I ran down to Portillo [Chile] to go skiing and did some other stuff.</u>
+      <u who="DAWLEY">And it was all—you know, I was sending some letters back and forth with classmates who were in different parts of the world and sort of had some views from—from their side, but I was deciding. But I took that advice from—from [Joseph A.] “Joe” Farrell [III] and decided to go to Michigan. And they had a program starting in January. I was out in October, I guess, so I ran down to Portillo [Chile] to go skiing and did some other stuff.
+
+
+
+But Michigan was not only where Kennedy first talked about Peace Corps, but it was the home of SDS, Students for a Democratic Society, and it’s where [Thomas E.] “Tom” Hayden (Jane Fonda’s husband for a period of time) and [R.] Alan Haber developed the Port Huron Document [sic; Port Huron Statement] and started SDS. And Haber—when I went there, he was then in the Ph.D. program and not an activist at all.
+
+
+
+There were several of us in the Kennedy organization component of the School of Social Work, and we were clearly activists. Michigan grad school was known, like [University of California,,] Berkeley, as an activist place, as opposed to Colombia [University], where at—the undergraduate school was activist, but the graduate schools were considered more conservative. So we had a core of Jewish leftist activists at Michigan as my friends.</u>
       <u who="SONNENFELD">And how’d you come—</u>
       <u who="DAWLEY">So I was still very pro-war when I went to Michigan.</u>
       <u who="SONNENFELD">Yeah.</u>
@@ -396,7 +478,9 @@
       <u who="SONNENFELD">Yeah.</u>
       <u who="DAWLEY">No.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">No, there weren’t family conversations. </u>
+      <u who="DAWLEY">No, there weren’t family conversations. 
+
+Well, at Michigan I—I organized classmates to protest a racial eviction of one of our classmates, and that led to a successful conclusion. We took busloads of people to the guy’s home on Sundays, and eventually he confessed that it was racial.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">And we did some undercover work for discrimination in bars and discrimination in housing. And then—there’s a connection here, but it’s not immediately obvious, but James [H.] Meredith was the first black to be enrolled at the University of Mississippi, and he was enrolled with federal troops.</u>
       <u who="SONNENFELD">Mm-hm.</u>
@@ -412,9 +496,15 @@
       <u who="SONNENFELD">Right.</u>
       <u who="DAWLEY">—a black man without us coming together, even though we thought that he shouldn’t do it. So we—we had some people give us training to go down there. My name was in the newspaper, and I got a 2 a.m. telephone call threatening bad things if I took people down there. We went anyway and joined the march in Belzoni, Mississippi, or just before Belzoni, and we marched into Belzoni down Mississippi Highway, and it was all black and white together, “We Shall Overcome,” you know, people singing. And SNCC, the Student Nonviolent Coordinating Committee under Stokely Carmichael was registering voters along the way.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">And [the Rev. Dr. Martin Luther] King [Jr.] was there, Carmichael was there, and we got to Greenwood, Mississippi, and, again at night, you’d sleep in tents, and there was a militant black group called Deacons for [Defense and] Justice that would have rifles, and they’d go around the perimeter, defense. But at night there were traditional civil rights kind of church rallies, and everybody singing and doing all that stuff. Everything was friendly. People were coming out, and they were holding hands.</u>
+      <u who="DAWLEY">And [the Rev. Dr. Martin Luther] King [Jr.] was there, Carmichael was there, and we got to Greenwood, Mississippi, and, again at night, you’d sleep in tents, and there was a militant black group called Deacons for [Defense and] Justice that would have rifles, and they’d go around the perimeter, defense. But at night there were traditional civil rights kind of church rallies, and everybody singing and doing all that stuff. Everything was friendly. People were coming out, and they were holding hands.
+
+Then on an afternoon in Greenwood, Mississippi, a small town, from a porch, a guy named Willie Ricks got up and asked the crowd what they wanted, and they said, “Freedom Now! Freedom Now!”—you know, which was what everybody was saying. And he said, “No, you don’t. You want—you want Black Power.” And he started telling them why they should have Black Power—you know, politics, economics and those kind of things.
+
+And he’d stop, and he’d ask them again, “What do you want?” And, you know, eventually it went from “Freedom Now!” and a mix of “Black Power” to just kind of this crescendo of everyone answering, “Black Power! Black Power!” And just sort of you felt the hair on your arms just kind of go up if you were white.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">And then that night, Stokely Carmichael, who had been in jail in the afternoon, came back, and he picked up the theme. And that changed the march, but it was also literally the turning point of—from the Freedom Now! movement to the Black Power movement. And—and Black Power moved like a tornado to the urban North. Martin Luther King tried to organize in Chicago, and basically he was run out of town.</u>
+      <u who="DAWLEY">And then that night, Stokely Carmichael, who had been in jail in the afternoon, came back, and he picked up the theme. And that changed the march, but it was also literally the turning point of—from the Freedom Now! movement to the Black Power movement. And—and Black Power moved like a tornado to the urban North. Martin Luther King tried to organize in Chicago, and basically he was run out of town.
+
+And there’s—I’ll just jump out of sequence because—there was a definitive history of civil rights called Eyes on the Prize, which was a television series on PBS [Public Broadcasting System], which took the civil rights up to 1965—you know, it was just incredible. And then they decided to do a second series, and that was going to be from ’65 on up.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">I got in touch with them because I had been doing things in Chicago as an organizer with a street gang, and I thought that they should be aware of what we’d done to include that. And instead, some time later, I got a call, and they wanted to talk to me about having been there when Black Power came off that transition. And I was the only white witness they could find that had been there when Black Power first came out.</u>
       <u who="SONNENFELD">Mm-hm.</u>
@@ -476,7 +566,11 @@
       <u who="SONNENFELD">Mm-hm. </u>
       <u who="DAWLEY">—and the beginning of investing myself for a couple of years in some ideas for making change.</u>
       <u who="SONNENFELD">Making change in what sense?</u>
-      <u who="DAWLEY">I spent a summer with them, and I began to see that there had been so much violence in their lives, they’d seen so many people shot and killed, so many people in prison that they wanted to see something different for the young people who were wanting to be like them. They didn’t really know how to do that.</u>
+      <u who="DAWLEY">I spent a summer with them, and I began to see that there had been so much violence in their lives, they’d seen so many people shot and killed, so many people in prison that they wanted to see something different for the young people who were wanting to be like them. They didn’t really know how to do that.
+
+Nobody would believe that the Vice Lords wanted—could change. There—there were some business leaders that were having meetings and created the impression that they wanted to provide some support, but what I felt was that they were trying to buy a cool summer.
+
+At any rate, I had moved into that neighborhood because, like the Peace Corps, I wanted to live among the people that I wanted to work with.</u>
       <u who="SONNENFELD">Mm-hm. </u>
       <u who="DAWLEY">Again, I also had—the early Green Berets did the same thing, so I sort of had that—</u>
       <u who="SONNENFELD">And what was kind of the stereotypical profile of the Vice Lords, and what was the demographic makeup, if you could just fill out the picture a little more.</u>
@@ -516,7 +610,9 @@
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">And that became the launching pad for—for now getting paid to organize some programs and to try to—try to build—so over two years, we did some pretty interesting things, got a lot of headlines.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">You know, we opened a restaurant, we opened—we used the Black Power, which had come out of the South, as Black Pride, and Black Is Beautiful, and took all the positive elements of that to open a boutique for African-American jewelry and clothing. We eventually manufactured some clothing, some that was on The Johnny Carson Show [sic; The Tonight Show Starring Johnny Carson] and a black comedian host. </u>
+      <u who="DAWLEY">You know, we opened a restaurant, we opened—we used the Black Power, which had come out of the South, as Black Pride, and Black Is Beautiful, and took all the positive elements of that to open a boutique for African-American jewelry and clothing. We eventually manufactured some clothing, some that was on The Johnny Carson Show [sic; The Tonight Show Starring Johnny Carson] and a black comedian host. 
+
+We worked with the Institute [sic; Museum] of Contemporary Art to open a street program called Art and Soul, where kids could come in off the street and do stuff, but there was a black artist-in-residence, and it was a gallery space, and, you know, we did tenants rights, organizing. We opened a small restaurant. We did joint ventures with a couple of other folks. We opened Tasty-Freez franchises. So we did a mix of—of hopeful small businesses with kind of service programs and got a lot of—</u>
       <u who="SONNENFELD">Yeah.</u>
       <u who="DAWLEY">—positive press. We—we grew grass. Where there was glass, there will be grass, between the sidewalk and the street, which was usually covered with broken bottles and all that kind of stuff. We actually planted grass. The grass grew with just a little string protecting it.</u>
       <u who="SONNENFELD">Uh-huh. </u>
@@ -532,7 +628,9 @@
       <u who="SONNENFELD">Mm-hm. </u>
       <u who="DAWLEY">And the next day, you know, April 5th, 1968, Chicago had a huge riot, and basically Mayor [Richard J.] Daley didn’t call off school. We let out the school kids, and it was the 14-, 15-, 16-year-old school kids that started going to the streets, and eventually windows broken, and flames and Vice Lords went to the streets as well.</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">And then gave out food afterwards. So that was going on, the Democratic Convention, and I—I was in the background as far as—as much as I could be. Tried to be invisible to—to the Chicago media, but I had visibility through Peace Corps. I was on the cover of—the only publicity that I would take would be Peace Corps or something that the Vice Lords wouldn’t have—I was on the cover of a 25,000 volunteer home—at home. This is applying experience at home, so that gave—and the Esquire did a thing on “[One of the] 27 People Worth Saving [in the World],” so—</u>
+      <u who="DAWLEY">And then gave out food afterwards. So that was going on, the Democratic Convention, and I—I was in the background as far as—as much as I could be. Tried to be invisible to—to the Chicago media, but I had visibility through Peace Corps. I was on the cover of—the only publicity that I would take would be Peace Corps or something that the Vice Lords wouldn’t have—I was on the cover of a 25,000 volunteer home—at home. This is applying experience at home, so that gave—and the Esquire did a thing on “[One of the] 27 People Worth Saving [in the World],” so—
+
+And that led to, in 1970, an appointment by President [Richard M.] Nixon to the National Advisory Council of Peace Corps. Neil [A.] Armstrong was the chair. It was the first thing he did when he came back from the moon.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">Normally, it was the vice president, but the vice president was in disgrace at the time. That was Spiro [T.] Agnew.</u>
       <u who="SONNENFELD">Right.</u>
@@ -571,7 +669,9 @@
       <u who="DAWLEY">And—and that was Kissinger. When I lived in Hanover [New Hampshire] in the mid-’80s, a friend from my having worked in Massachusetts was then president of the Rockefeller Foundation, and he came up and stayed overnight. And, you know, he talked about Kissinger and how people—you know, nobody trusted him, and everybody thought he was just not a—not a—he was brilliant but flawed.</u>
       <u who="SONNENFELD">Certainly.</u>
       <u who="DAWLEY">So those were—all those conversations happened because I was able to do something in Chicago that got me to those positions where I could see and hear what’s going on.</u>
-      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="SONNENFELD">Mm-hm. 
+
+And so now it sounds like we’re sort of tracing chronology again, early ’70s. At this point, what are your career goals, and what direction are you thinking of taking your life?</u>
       <u who="DAWLEY">Hmm.</u>
       <u who="SONNENFELD">Any thoughts of settling down at this point?</u>
       <u who="DAWLEY">Well, yes, no. You know, I was in Chicago. I decided to move on from the Vice Lords. I was thinking about staying in Chicago. At that point, I was living with a woman I had met on a ski vacation in—in Aspen [Colorado]. And I knew people in Chicago, and they knew me, but my coming out of the Vice Lords was something that was too uncomfortable—</u>
@@ -580,11 +680,17 @@
       <u who="SONNENFELD">Mm-hm. And what attracted you to—to that line of work?</u>
       <u who="DAWLEY">A paycheck.</u>
       <u who="SONNENFELD">Uh-huh. </u>
-      <u who="DAWLEY">[Chuckles.] No, a paycheck. You know, initially I was hired as an advocate for the poor under an Office of Economic Opportunity grant to the state, and nothing could be more bureaucratic or boring than a very large, open, sterile room. But I did something that I learned in Chicago. In Chicago, I was very privileged to be invited a couple of times to a monthly dinner that a group of very wealthy Jewish businessmen had, to discuss a book that they would have read for that dinner. [Robert A.] “Bob” Pritzker—he [the Pritzker family] owned the Hyatt Hotels and Pan American [World] Airlines and things at the time. Just a number of, you know, others.</u>
+      <u who="DAWLEY">[Chuckles.] No, a paycheck. You know, initially I was hired as an advocate for the poor under an Office of Economic Opportunity grant to the state, and nothing could be more bureaucratic or boring than a very large, open, sterile room. But I did something that I learned in Chicago. In Chicago, I was very privileged to be invited a couple of times to a monthly dinner that a group of very wealthy Jewish businessmen had, to discuss a book that they would have read for that dinner. [Robert A.] “Bob” Pritzker—he [the Pritzker family] owned the Hyatt Hotels and Pan American [World] Airlines and things at the time. Just a number of, you know, others.
+
+And—I’ve forgotten what we were talking about.</u>
       <u who="SONNENFELD">Just kind of we’re in early ‘70s. You’re working for Mass. government.</u>
       <u who="DAWLEY">Yeah. Oh, well, I really liked that experience. It was very—very intimate and, you know, reading and being together. So I—I—from that, I took the idea of, Okay, there are a bunch of young people working in this big state office. Why don’t we have brown bag lunches and we’ll invite senior policy makers from state government?</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">So we did that, we invited several, and then we got the governor’s chief policy adviser, and he was talking about stuff, and at that point, one of the big problem cities was New Bedford, Massachusetts. You know, it was always kind of a—a little bit of a rough place, and a fishing place. Summers were nervous. I had—I had the idea of, “Why don’t you open a governor’s office in New Bedford? You know, like an outpost office, that kind of thing.” And I wrote that up in response to what he talked about at lunch. And he liked the idea.</u>
+      <u who="DAWLEY">So we did that, we invited several, and then we got the governor’s chief policy adviser, and he was talking about stuff, and at that point, one of the big problem cities was New Bedford, Massachusetts. You know, it was always kind of a—a little bit of a rough place, and a fishing place. Summers were nervous. I had—I had the idea of, “Why don’t you open a governor’s office in New Bedford? You know, like an outpost office, that kind of thing.” And I wrote that up in response to what he talked about at lunch. And he liked the idea.
+
+And then I had the idea to build on that, because I had a salary from the federal government. I said, “Okay, what if I can bring my salary to the governor’s office? Would you have a desk?” [Chuckles.] He said, “Yeah, I have a desk.” You know, free salary and all that stuff. So I ended up upstairs in the—in the statehouse, working for him.
+
+And from that, I did some things that were useful to him, so I went downstairs, right outside the governor’s door and became sort of a palace guard for the chief secretary and was able to do a few interesting things from—from that position. So it wasn’t a career path; it was just sort of a winding road with a couple of ideas that got me to an interesting place in state government.</u>
       <u who="SONNENFELD">Yeah. And so where are we in the chronology at this point? What—what’s the year?</u>
       <u who="DAWLEY">Well, that was—I would say it was 1970 to 1973, something like that.</u>
       <u who="SONNENFELD">Mm-hm. </u>
@@ -594,7 +700,11 @@
       <u who="SONNENFELD">—but at this point, are you concerned about the draft, or—</u>
       <u who="DAWLEY">Yeah, well,—no, the conscie- —going back to Michigan,—</u>
       <u who="SONNENFELD">Uh-huh.</u>
-      <u who="DAWLEY">—when I graduated. In ’67, I decided—it’s a good point—I was not going to run. I wasn’t going to hide. I was going to confront the draft. Muhammad Ali had already done that. so I applied as a conscientious objector, knowing that they could not accept my application. I was not a pacifist, and they could not approve anything that relied on a particular war theory. You couldn’t object to a particular war and be declared a conscientious objector, you know.</u>
+      <u who="DAWLEY">—when I graduated. In ’67, I decided—it’s a good point—I was not going to run. I wasn’t going to hide. I was going to confront the draft. Muhammad Ali had already done that. so I applied as a conscientious objector, knowing that they could not accept my application. I was not a pacifist, and they could not approve anything that relied on a particular war theory. You couldn’t object to a particular war and be declared a conscientious objector, you know.
+
+So in my application, I, you know, wrote in all the religious stuff that they wanted—you know, the values growing up, and I had the Boy Scout church medal and all this kind of stuff and exaggerated religious arguments that weren’t really important in my real life. But I did that anyway, knowing that it was going to be rejected. So that’s number one.
+
+Number two, draft boards were autonomous, so you were very much dependent on your—your own draft board, so somebody in middle America—you know, really pro war all the way—maybe you were anonymous to the draft board—you know, they could do whatever they wanted with you.</u>
       <u who="SONNENFELD">Right.</u>
       <u who="DAWLEY">There was a fellow Peace Corps volunteer in Honduras. During training, he fell off a horse. He stupidly tried to grab a concrete post, and he broke both his legs, and he went back to South Dakota, and he had a knock on the door and both legs in casts, and he said he loved that he opened the door and the draft board was wanting to grab him, you know.</u>
       <u who="SONNENFELD">[Chuckles.]</u>
@@ -610,15 +720,25 @@
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">And—I mean, my—I guess I came back to [sic] the war more in the ‘80s, when I moved to Washington and I ended up working in Cassidy &amp;amp; Associates, which is the largest lobbying company in D.C.</u>
       <u who="SONNENFELD">And what attracted you to that position?</u>
-      <u who="DAWLEY">Oh, well, I had been working at Dartmouth, and kind of against the grain, while working in the development office with a good boss, I developed an idea for how to fund a Thayer School [of Engineering] expansion, from a new source of funds, an idea that I got from a friend in D.C., former Peace Corps volunteer. And that was to have a direct federal appropriation.</u>
+      <u who="DAWLEY">Oh, well, I had been working at Dartmouth, and kind of against the grain, while working in the development office with a good boss, I developed an idea for how to fund a Thayer School [of Engineering] expansion, from a new source of funds, an idea that I got from a friend in D.C., former Peace Corps volunteer. And that was to have a direct federal appropriation.
+
+Some senior people thought I should shut up and stay out of that game, but I had been asked to think about how you fund basically a doubling in size of Thayer School and Thayer School didn’t have an idea of how to do that. They thought it was going to be $7.5 million of corporate money, and there were all kinds of reasons why that was not going to happen back then. And so I thought we should go after a federal appropriation, and I thought we should hire a lobbying firm.
+
+Well, it got to the point where—at least where, over the initial resistance of the provost, [David T.] McLaughlin and [Paul D.] Paganucci decided to—that we should ask or seek the counsel of Senator [Warren B.] Rudman. So I went to Washington with the assistant dean, [unintelligible] and somebody else—I can’t remember if it was—who it was at the time. And Rudman had already done something for UNH [University of New Hampshire], and he said, “I’ll do it. You don’t have to hire a lobbying firm. I’ll do it.”</u>
       <u who="SONNENFELD">Mm-hm.</u>
-      <u who="DAWLEY">So I became the point man for Dartmouth, and [Thomas] “Tom” Polgar became his point man, and we ended up in a year or so getting a $15 million grant. It was about $35 [million] in today’s dollars. It was the largest grant in the history of the college.</u>
+      <u who="DAWLEY">So I became the point man for Dartmouth, and [Thomas] “Tom” Polgar became his point man, and we ended up in a year or so getting a $15 million grant. It was about $35 [million] in today’s dollars. It was the largest grant in the history of the college.
+
+That experience led to [Gerald] “Gerry” Cassidy asking, when I moved to Washington, asking if I wanted to help develop some business and earn a commission, and that was very generous, and so I ended up doing that. Again, one experience led to another. And after a period of time, got an office there as a consultant.
+
+There were two people there—and by then, my book had come out on Chicago, and all that’s important in my own mind, but one day in the corridor, one of the senior members of the firm said, “David, come in and close the door.” And he was a Cornell [University Class of] ’63, as I was a Dartmouth ’63.</u>
       <u who="SONNENFELD">Mm-hm.</u>
       <u who="DAWLEY">And he started to tell me about his experience as a [U.S.] Army Ranger in Vietnam. And the reason he did was because he respected my experience in Chicago.</u>
       <u who="SONNENFELD">Hmm.</u>
       <u who="DAWLEY">And he had—he had been captured by the Viet Cong, and he escaped. But, you know, he was telling me about—as Rangers, they’d go up in trees and have to count the number of North Vietnamese coming down trails [chuckles] underneath them.</u>
       <u who="SONNENFELD">Wow.</u>
-      <u who="DAWLEY">And that there were monkeys up in the tree, throwing bananas at them. [Chuckles.] You know, after they stay there all night. Well, he was captured, and one of the things he knew was that after three days, the VC were going to turn him over to the North Vietnamese, and if they did that, he was gone, he was screwed. And they had him—they had him tied to a tree, and somehow he got his hands loose, and one night they were asleep except for one guard, and he was hoping that the guard’s rifle was not on safety. He managed to get loose, took the guard’s rifle, shot him, shot the others, sliced off a couple of ears because that’s what the—what the Vietnamese would be doing, and he wanted to leave a message: You know, “You got some crazy people you’re messin’ with, you know, so think about it.”</u>
+      <u who="DAWLEY">And that there were monkeys up in the tree, throwing bananas at them. [Chuckles.] You know, after they stay there all night. Well, he was captured, and one of the things he knew was that after three days, the VC were going to turn him over to the North Vietnamese, and if they did that, he was gone, he was screwed. And they had him—they had him tied to a tree, and somehow he got his hands loose, and one night they were asleep except for one guard, and he was hoping that the guard’s rifle was not on safety. He managed to get loose, took the guard’s rifle, shot him, shot the others, sliced off a couple of ears because that’s what the—what the Vietnamese would be doing, and he wanted to leave a message: You know, “You got some crazy people you’re messin’ with, you know, so think about it.”
+
+And he started working his way back to the American troops. He came up on a U.S. sentry and just put something to the guy’s head and made him say something about the [Boston] Red Sox—you know, to know who was who—</u>
       <u who="SONNENFELD">Yeah.</u>
       <u who="DAWLEY">—and escaped. So he was—he was kind of screwed up, but I always felt some guilt about not being in Vietnam, and I was—you know, somebody like Arthur had made clear that we had some things in common in terms of experience and he respected that. That was also with [Paul X.] “P. X.” Kelley, who was a four-star general and commandant of the [U.S.] Marine Corps, and he—he also was on the floor at Cassidy at that time. He read the book, and the next day he said, “You mean you really lived with those guys? You’re crazy.” [Both chuckle.] So he was P. X., and that sort of felt—it felt good to have those people as friends and not having any conflict with them because I didn’t go to Vietnam.</u>
       <u who="SONNENFELD">Sure. Sure.</u>
@@ -631,7 +751,9 @@
       <u who="DAWLEY">And, you know, with those kind of things, it sort of helps someone feel better when you didn’t go and your friends did.</u>
       <u who="SONNENFELD">Yeah.</u>
       <u who="DAWLEY">So.</u>
-      <u who="SONNENFELD">Well, great. I think that’s a great stopping point for us, David, so I’m going to turn off the recorder for now. Thank you very much. It has been a pleasure to listen.</u>
+      <u who="SONNENFELD">Well, great. I think that’s a great stopping point for us, David, so I’m going to turn off the recorder for now. Thank you very much. It has been a pleasure to listen.
+
+[End of interview.]</u>
     </body>
   </text>
 </TEI>

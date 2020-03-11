@@ -45,8 +45,8 @@
         <language ident="en-us">English</language>
       </langUsage>
       <particDesc>
-        <person xml:id="COHON"/>
         <person xml:id="SOLOMON"/>
+        <person xml:id="COHON"/>
       </particDesc>
       <settingDesc>
         <setting>
@@ -58,14 +58,22 @@
   </teiHeader>
   <text>
     <body>
-      <u who="SOLOMON">Hello. This is Hannah Solomon, a student interview[er] with the Dartmouth Vietnam Project, currently at Rauner [Special Collections] Library at Dartmouth College on—oh, gosh—the 26th of January, 2016. And I am currently speaking with Mr. [J.] Donald Cohon [Jr.], who is currently at his home in Muir Beach, California.</u>
+      <u who="SOLOMON">Hello. This is Hannah Solomon, a student interview[er] with the Dartmouth Vietnam Project, currently at Rauner [Special Collections] Library at Dartmouth College on—oh, gosh—the 26th of January, 2016. And I am currently speaking with Mr. [J.] Donald Cohon [Jr.], who is currently at his home in Muir Beach, California.
+
+Thank you so much for joining me.</u>
       <u who="COHON">Sure. My pleasure.</u>
       <u who="SOLOMON">So I’d like to start off at the beginning. Tell me about—tell me about where you were born. Your home.</u>
       <u who="COHON">In Hartford, Connecticut.</u>
       <u who="SOLOMON">Hartford, Connecticut. And what was your family life like?</u>
-      <u who="COHON">Let’s see. Well, I had an older sister, who was eight years older than I am, and parents, and we lived, for the first 13 years of my life, with my grandmother. It was an extended family. My father was a business person who was the wholesaler, selling television sets and phonographs to retail stores in New England. </u>
+      <u who="COHON">Let’s see. Well, I had an older sister, who was eight years older than I am, and parents, and we lived, for the first 13 years of my life, with my grandmother. It was an extended family. My father was a business person who was the wholesaler, selling television sets and phonographs to retail stores in New England. 
+
+My mother was a homemaker, and was a very traditional family. I would say that it was not, by what we consider today, sort of warm and fuzzy—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—you know, ways of relating. It was a pretty traditionally 1950s family, where people didn’t talk a lot about things to one another, about their internal lives, about what they were thinking, what they were feeling. It was more going on about your day and “What do you have to do?” type of stuff. Let’s see if I’d say anything more about it.</u>
+      <u who="COHON">—you know, ways of relating. It was a pretty traditionally 1950s family, where people didn’t talk a lot about things to one another, about their internal lives, about what they were thinking, what they were feeling. It was more going on about your day and “What do you have to do?” type of stuff. Let’s see if I’d say anything more about it.
+
+Well, I think an important element of part of my background was that my father had a pretty serious drinking problem, and he functioned well during the days, but in the evenings he was sometimes quite—quite drunk.
+
+And my sister escaped from that by getting married at the age of 19.</u>
       <u who="SOLOMON">Oh, wow.</u>
       <u who="COHON">And I was 11 at that time. And then I went away to school when I was 13, to a private school in Connecticut.</u>
       <u who="SOLOMON">What was—can you give me your parents’ names?</u>
@@ -79,17 +87,35 @@
       <u who="SOLOMON">[Chuckles] Yes.</u>
       <u who="COHON">We would call it at Dartmouth maybe shit-faced, something like that.</u>
       <u who="SOLOMON">[Laughs.]</u>
-      <u who="COHON">So when he was in his cups he would come up to my room and say to me, “You know, the most important thing you can do in this life is do things for other people, is to help other people when you’ve got, you know, privilege and education. Doing for others is really what will be satisfying for you.” And I would say that happened during my childhood maybe half a dozen times that he would go on about this, so I think that for him, one of the things that he deeply regretted was that he hadn’t gone to school. He was a very smart guy, but he hadn’t had a formal education, and so that made—made a big difference for him.</u>
+      <u who="COHON">So when he was in his cups he would come up to my room and say to me, “You know, the most important thing you can do in this life is do things for other people, is to help other people when you’ve got, you know, privilege and education. Doing for others is really what will be satisfying for you.” And I would say that happened during my childhood maybe half a dozen times that he would go on about this, so I think that for him, one of the things that he deeply regretted was that he hadn’t gone to school. He was a very smart guy, but he hadn’t had a formal education, and so that made—made a big difference for him.
+
+At the same time, you know, he was doing business, but he, I know personally, helped many of his employees with their lives, primarily financially. He would loan money to people, or give money to people that worked for him to help them over tough times.
+
+But he also hired people that most others in his position would have avoided. His warehouse manager was a fellow that had a very disfigured birth—birth defect with his face. It was hugely scarred and just not very attractive. But he was a wonderful guy, very bright, and my dad had—you know, had him work for him throughout his entire career. I mean, that was—my father passed away, and Mike Castero [Archivist Note: spelling uncertain] was still working—</u>
       <u who="SOLOMON">Oh, wow.</u>
-      <u who="COHON">—there. </u>
-      <u who="SOLOMON">Yes. [Laughs.]</u>
+      <u who="COHON">—there. 
+
+And the same thing was in terms of minorities. He had people working for him that other—other people might not have hired: blacks in positions in the warehouse. That wasn’t something that a lot of people were doing then, in the ’50s. So I don’t know if that answers your question. [Chuckles.]</u>
+      <u who="SOLOMON">Yes. [Laughs.]
+
+So what was your relationship with your mother like then?</u>
       <u who="COHON">I think she was—also she had never gone to college, and her father also had died when she was 11 years old, and her mother had come here as in immigrant from Europe, eastern Europe. And she had a very stern upbringing. She went to a, what they call a finishing school,—</u>
       <u who="SOLOMON">Mmm. Mm-hm. </u>
-      <u who="COHON">—which is sort of—I don’t know if it’s like a junior college, but it’s sort of—it sort of educates—or educated women to be what at the time was considered to be what she was: a housewife but one that could conduct herself well and knew how to set the table and knew how to do all kinds of things that were deemed important—important then.</u>
+      <u who="COHON">—which is sort of—I don’t know if it’s like a junior college, but it’s sort of—it sort of educates—or educated women to be what at the time was considered to be what she was: a housewife but one that could conduct herself well and knew how to set the table and knew how to do all kinds of things that were deemed important—important then.
+
+She was also a very critical person, critical of if you didn’t do things the right way. And I don’t mean just in terms of social things but academically, for example. If you didn’t speak properly, if you didn’t spell properly, if you didn’t write properly, if you didn’t behave properly, et cetera, et cetera, et cetera, you know, she would be very critical. And she had a very biting kind of way of delivering those criticisms, so it was hard.
+
+
+
+And as a kid, with my parents like that and then living with my grandmother, who was very stern and walked around the house all day long with a purse over her arm,—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">You know, she always wore dresses, and my mother always wore dresses. You know, not very informal. And I was a little—little guy that wanted to play sports, which is what I loved to do, and be outside, riding bikes or having dirtball fights with my friends—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—and getting—you know, just—I was a little wild guy, and I moved around the public school system because I was tough to handle. I think probably today—I don’t know, I was going to say they would have put me on Ritalin or something or said that I had ADHD [attention deficit/hyperactivity disorder]. They always said that I was an under- —under-achiever and that I had great potential but that I never really settled down in class. And I can remember just being absolutely bored to tears in school. </u>
+      <u who="COHON">—and getting—you know, just—I was a little wild guy, and I moved around the public school system because I was tough to handle. I think probably today—I don’t know, I was going to say they would have put me on Ritalin or something or said that I had ADHD [attention deficit/hyperactivity disorder]. They always said that I was an under- —under-achiever and that I had great potential but that I never really settled down in class. And I can remember just being absolutely bored to tears in school. 
+
+
+
+So I went away to a school. It was called [the] Taft [School], which is in Connecticut, but it was a boarding school. And it was Episcopalian and very conservative, and being Jewish was difficult. I guess that would be how I would characterize it. It was difficult.</u>
       <u who="SOLOMON">Would you elaborate on that?</u>
       <u who="COHON">There were lots of comments about being a “kike” from people, with professors—they were called masters—were—you know, they were of a certain class, of a certain attitude, so I was one of two Jews that were in the school at that time, I think, maybe three.</u>
       <u who="SOLOMON">Oh, wow.</u>
@@ -107,11 +133,17 @@
       <u who="SOLOMON">And did you like any of them more than the others? I mean, was it unsettling to move around that often, or was it not so much a concern for you?</u>
       <u who="COHON">I just sort of accepted that that was what we did. You know, we moved at one point from one part of town to another, so I had to transfer schools. And I didn’t really think about it in that way. I don’t think I was unsettled. It was not a huge town, so you sort of knew people in the schools, wherever you ended up.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">But there was a division in the town, too, that I would say, between the Jewish and the non-Jewish. It was just outside of Hartford, called West Hartford, and there was, like, a golf club called the Hartford Golf Club. I think that was the name of it. Anyway, no Jews could belong to that club. And there were certain areas in town where there was still housing restrictions, where Jews wouldn’t be allowed to buy. And this was in the ‘50s and even into the ’60s. That didn’t affect me personally, but I think that in terms of socializing in the town among peers, I hung out with a mostly Jewish group, and my father belonged to a Jewish country club. And so he would play golf there, and I would caddy for people as one way of working and making extra money.</u>
+      <u who="COHON">But there was a division in the town, too, that I would say, between the Jewish and the non-Jewish. It was just outside of Hartford, called West Hartford, and there was, like, a golf club called the Hartford Golf Club. I think that was the name of it. Anyway, no Jews could belong to that club. And there were certain areas in town where there was still housing restrictions, where Jews wouldn’t be allowed to buy. And this was in the ‘50s and even into the ’60s. That didn’t affect me personally, but I think that in terms of socializing in the town among peers, I hung out with a mostly Jewish group, and my father belonged to a Jewish country club. And so he would play golf there, and I would caddy for people as one way of working and making extra money.
+
+
+
+And I would say also that I started working in his warehouse as an employee, not a hired, paid employee, but I was an employee, when I was 14, and pretty much continued to work vacations from school, whatever school I happened to be going to.</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">You know, from Dartmouth or from Taft or wherever, since I was 14. One employment was working as a counselor at a summer day camp, and I think I started doing that when I was 13 or 14. It was a very—young kids, really young kids. But I could ride on the school bus and take charge of—of them and help the bus driver sort of keep order, things like that.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">And then at the camp I helped with the athletic programs.</u>
+      <u who="COHON">And then at the camp I helped with the athletic programs.
+
+You know, I guess about four or five schools before I went to Taft.</u>
       <u who="SOLOMON">You talked about the Jewish community is there. Was religion a big part of your home life?</u>
       <u who="COHON">No, not at all. My mother was a devout atheist.</u>
       <u who="SOLOMON">[Chuckles.]</u>
@@ -123,7 +155,9 @@
       <u who="SOLOMON">Right.</u>
       <u who="COHON">—discrimination, so he became Donald, and so I had Donnelly but also was Donald, Donald Jr. Yeah, I think that the religion element in my home was nonexistent. My father, I know, used to keep a rosary from his mom hanging in his closet, and he would occasionally say Hail Marys, which—my mother of course thought that was off the wall—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">But it was just how they worked that out. It was, how would I put it, unusual.</u>
+      <u who="COHON">But it was just how they worked that out. It was, how would I put it, unusual.
+
+My sister once told me that the reason I was seven years after her was that their marriage was not a marriage made in heaven and that I was sort of thought to be the thing that might keep them together, so they decided to have another child seven years later. I couldn’t confirm that when we were little, although my sister was pretty consistent in saying that that was the case.</u>
       <u who="SOLOMON">And just to clarify, your grandmother, who you lived with—was that your father’s mother or your mother’s mother?</u>
       <u who="COHON">No, no, no, it was the mother’s mother.</u>
       <u who="SOLOMON">Okay. </u>
@@ -163,7 +197,9 @@
       <u who="SOLOMON">Yes.</u>
       <u who="COHON">And my father liked it. He wanted me to go to Dartmouth because of the outdoor environment.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">And we used to go up to Maine for part of each summer. They actually—I started going away to a summer camp when I was seven years old, for two months during the summer, up in Maine. And it was mostly Jewish boys from really the East Coast, although some were as far west as St. Louis. And very athletic camp, very competitive, a sports camp kind of a place. </u>
+      <u who="COHON">And we used to go up to Maine for part of each summer. They actually—I started going away to a summer camp when I was seven years old, for two months during the summer, up in Maine. And it was mostly Jewish boys from really the East Coast, although some were as far west as St. Louis. And very athletic camp, very competitive, a sports camp kind of a place. 
+
+And so Maine and fishing. My father and mother would come up, and they would stay at a place, a resort up in what’s called the Rangeley Lakes region—</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">—of Maine. We would fish there, and it was very outdoorsy. In addition to going to camp, then I would join them at the end of the summer up there, and we would go fishing on the lakes up there and do some fly fishing in rivers. I think—Dad didn’t fly fish, but I got into it a little bit. And so that was part of the draw for Dartmouth, as opposed to—</u>
       <u who="SOLOMON">Of course.</u>
@@ -173,7 +209,9 @@
       <u who="SOLOMON">[Chuckles.] </u>
       <u who="COHON">—that they’d grow up and—my father wanted me to go into his business. He sort of built this business, and he had a son and I would go into his business. And so I went off to Dartmouth and pretty quickly decided that the way I would be most accepted would be to be like the traditional Dartmouth man. At the time, it was “the Dartmouth animal.”</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">I drank a lot, partied, road-tripped, didn’t take my studies very seriously. I got along by taking—I don’t know if the courses are still there. [Herbert F.] “Herb” West’s course was called “The History of America”—it was called “Cowboys and Indians.” And then there were—the math requirement was “Fun with Numbers.” And the science requirement, you could get geology, and that was “Rocks 1.” </u>
+      <u who="COHON">I drank a lot, partied, road-tripped, didn’t take my studies very seriously. I got along by taking—I don’t know if the courses are still there. [Herbert F.] “Herb” West’s course was called “The History of America”—it was called “Cowboys and Indians.” And then there were—the math requirement was “Fun with Numbers.” And the science requirement, you could get geology, and that was “Rocks 1.” 
+
+So I took what were considered “gut courses.” I don’t know if you know that term.</u>
       <u who="SOLOMON">Yes.</u>
       <u who="COHON">Those are easy—yeah, okay. Easy course at Dartmouth. And I didn’t really excel academically. I loved reading books, and so I became an English major and used to spend a lot of time in Sanborn [Hall], which is the English—</u>
       <u who="SOLOMON">Oh, I love Sanborn. [Chuckles.]</u>
@@ -183,26 +221,38 @@
       <u who="SOLOMON">Yes.</u>
       <u who="COHON">And next to AD [Alpha Delta]. Chris Miller [Class of 1963], actually, who wrote the movie and directed [National Lampoon’s] Animal House, was in AD, and I was at Chi Phi.</u>
       <u who="SOLOMON">Oh, right. Of course!</u>
-      <u who="COHON">Yeah. So that would sort of portray my college career. [Laughs.]</u>
+      <u who="COHON">Yeah. So that would sort of portray my college career. [Laughs.]
+
+SOLOMON	Animal House? [Chuckles.]</u>
       <u who="COHON">Yeah, exactly. Yeah. I played lacrosse while I was there, and were fortunate enough to have a coach whose name was [Aiden H.] “Whitey” Burnham, who—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">—knew enough to know that he didn’t know anything about lacrosse. He was the—</u>
       <u who="SOLOMON">[Laughs.]</u>
       <u who="COHON">—soccer coach, but there was a very well—very nice guy named [Michael J.] “Mike” Herriott [Class of 1964], who was the captain of the team—he was a year ahead of me—who knew lacrosse because he had grown up in Baltimore, and that was a big breeding ground for excellent lacrosse players. So essentially Whitey turned over the team to Mike, who saw that we won the Ivy League championship in my junior and senior years, which I think is a bit unusual for a Dartmouth lacrosse team.</u>
       <u who="SOLOMON">[Laughs.]</u>
-      <u who="COHON">But that was nice, and I have some really good friends from Dartmouth that I still am in touch with, that I played lacrosse with.</u>
+      <u who="COHON">But that was nice, and I have some really good friends from Dartmouth that I still am in touch with, that I played lacrosse with.
+
+Let’s see if there’s anything—no, my career at Dartmouth was really lots of road trips, drinking. I became the president of Chi Phi. You know, I was in Dragon [Society]. I don’t know if senior societies are still active up there,—</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">—which at that point—again, it was sort of—Dragon was drinking and athletics.</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">There was Sphinx [Society], which was sort of a mix between the two, and then Casque and Gauntlet, which was more of a—[Henry M.] “Hank” Paulson [Jr., Class of 1968], who became the [U.S.] Secretary of the Treasury, was a Casque and Gauntlet guy.</u>
       <u who="SOLOMON">Right.</u>
-      <u who="COHON">You know, there were those kinds of divisions in the fraternities and things of that sort. But, you know, it was a good experience, I feel, Dartmouth. And, of course, during the time I was there, there were several things. One was that I decided I would do some teaching and started taking education courses, and taught English in White River Junction as part of a practicum, doing English major/education, so I had some teaching courses, and I really enjoyed that. </u>
+      <u who="COHON">You know, there were those kinds of divisions in the fraternities and things of that sort. But, you know, it was a good experience, I feel, Dartmouth. And, of course, during the time I was there, there were several things. One was that I decided I would do some teaching and started taking education courses, and taught English in White River Junction as part of a practicum, doing English major/education, so I had some teaching courses, and I really enjoyed that. 
+
+The kids that I was assigned to teach were the auto mechanics, the kids, the boys that were going to do auto mechanics or the girls that were, many of them would be—I don’t know what the term is, beauticians? Or Hairdressers?</u>
       <u who="SOLOMON">Mm-hm. </u>
-      <u who="COHON">But they were not academic kids, and so my goal with them was really to just get them interested in reading, period. They didn’t like to read, and they didn’t see a need for it. So I had kind of a fun time trying to engage them with different books that I thought that would draw them in. And I had some success with that.</u>
+      <u who="COHON">But they were not academic kids, and so my goal with them was really to just get them interested in reading, period. They didn’t like to read, and they didn’t see a need for it. So I had kind of a fun time trying to engage them with different books that I thought that would draw them in. And I had some success with that.
+
+I remember Lord of the Flies was one book that they read, and I had them read several James Bond thrillers; A Separate Peace, because at the time, there was a book that we banned from the school—the school system in New Hampshire, and oh God. I remember the line, Holden Caulfield?</u>
       <u who="SOLOMON">[The] Catcher in the Rye.</u>
       <u who="COHON">Yeah, that’s right. And they weren’t allowed to teach that in New Hampshire schools.</u>
       <u who="SOLOMON">Oh, wow!</u>
-      <u who="COHON">Yeah. And so I gave them—got them A Separate Peace, which was a book very similar to [The] Catcher in the Rye. </u>
+      <u who="COHON">Yeah. And so I gave them—got them A Separate Peace, which was a book very similar to [The] Catcher in the Rye. 
+
+I took a number of poetry courses from a fellow named Richard [G.] Eberhart [Class of 1926]. He was a poet, and he was an English professor there. Kind of seminar-like poetry courses. And we really enjoyed them. We wrote a number of poems. Kind of typical of the adolescent meanderings of the mind, meanderings of the mind.
+
+I’m just trying to think if there’s anything else about that period at Dartmouth. Well, I had a bad experience. Actually, I took a road trip with a couple of buddies. We went up to Montreal, Canada,—</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">—in the midst of a blizzard.</u>
       <u who="SOLOMON">Oh, my! [Chuckles.]</u>
@@ -210,7 +260,9 @@
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">—one of those times when I wasn’t being the typical Dartmouth guy. And the other guys, the other two guys were drinking, and somehow one of them got into a thing with the waiter, and we got into a brawl in the bar, in this bar. I don’t remember what happened, but these two guys that I was with described to me what ensued, which was that four waiters had spread me over a table and were trading punches on my head, and then they broke a chair over my head.</u>
       <u who="SOLOMON">Oh, my gosh!</u>
-      <u who="COHON">Yeah. I was unconscious for nine hours. And I came to, and my father was standing over me, crying. And he had been—they had taken me eventually to the—they tried to get a cab, and when the cab [drivers] saw my face, they would drive away. But there was a young woman that we had been dancing with, who was a nurse, and she got us to the Montreal Neurological Hospital, which is fortunately one of the best brain hospitals in the world, I guess—Montreal Neurological Institute.</u>
+      <u who="COHON">Yeah. I was unconscious for nine hours. And I came to, and my father was standing over me, crying. And he had been—they had taken me eventually to the—they tried to get a cab, and when the cab [drivers] saw my face, they would drive away. But there was a young woman that we had been dancing with, who was a nurse, and she got us to the Montreal Neurological Hospital, which is fortunately one of the best brain hospitals in the world, I guess—Montreal Neurological Institute.
+
+They had contacted my parents at some ungodly hour in the midst of the night, asking for them to wire permission to them, if required, to do brain surgery. And so my father had gotten in a car with my then brother-in-law, who drove from Hartford up to Montreal and got there, and I was just coming—coming to when he arrived. So—</u>
       <u who="SOLOMON">Wow!</u>
       <u who="COHON">—I spent a few days up in Montreal and then came back—back to Hartford. I had to do a little recuperation because my jaw needed to be wired for a while because they had cracked my jaw. But at this point, things seem to have gone okay, and there was no residual effects that I’m aware of, anyway. [Laughs.]</u>
       <u who="SOLOMON">[Laughs.]</u>
@@ -226,11 +278,17 @@
       <u who="SOLOMON">The invasion happened in ’61. Were you following world politics at this point? Were you aware of the climate, what was going on?</u>
       <u who="COHON">I was aware peripherally. But, as I said, I was not really drawn into things. They were sort of occurring around me. But I was very affected by Kennedy. I was very—I mean, I can remember where I was sitting when I had the news about his assassination. And I would say that it was because of him, in a way, that I ended up doing what I did with respect to volunteering to go teach English in Vietnam with the International Voluntary Services, the whole “Ask not what [your country] can do for you, but ask what you can do for others or for your country” [sic], and I think that sort of—</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">—hit the message that my father had been—had been giving to me.</u>
+      <u who="COHON">—hit the message that my father had been—had been giving to me.
+
+
+
+And I was aware in ’64 of what was going on in Vietnam. I think we had about 50,000 advisers there.</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">There were no troops at the time. And I started writing—I applied to the Peace Corps because I thought that was a way to do service, and I’m not a conscientious objector, but I wanted to do something like that, for a variety of reasons. A personal reason is that I thought it would get me as far away from my hometown and to get experiences in that environment—</u>
       <u who="SOLOMON">Mm-hm. </u>
-      <u who="COHON">—and my father’s difficulties. Not his drinking, but just seeing what he had to deal with as a wholesaler/distributor, which was not at all who he was. As I say, he was a very bright guy and really knew things that were happening internationally, although he never spoke to me about them. I’ve overheard, you know, conversations that he had with other friends of his.</u>
+      <u who="COHON">—and my father’s difficulties. Not his drinking, but just seeing what he had to deal with as a wholesaler/distributor, which was not at all who he was. As I say, he was a very bright guy and really knew things that were happening internationally, although he never spoke to me about them. I’ve overheard, you know, conversations that he had with other friends of his.
+
+So I think that I went looking at what was going on in Vietnam, and I was accepted in the Peace Corps to go to Nigeria.</u>
       <u who="SOLOMON">Wow.</u>
       <u who="COHON">And a friend of mine—actually, he wasn’t a friend. He had gone to Taft also. He was a couple of classes ahead of me. Had gone with the International Voluntary Services, and I had written to them, IVS, along with a number of other groups, to inquire about, you know, becoming a—a volunteer. And we had had an exchange of letters. I was very concerned about the safety factor of Vietnam, because I knew there was, you know, fighting going on there, and if I was a volunteer, I didn’t really want to take that kind of risk. But at the same time, I was very curious about what in the world we were doing and why was the United States—</u>
       <u who="SOLOMON">Mm-hm. </u>
@@ -238,7 +296,11 @@
       <u who="SOLOMON">Yeah.</u>
       <u who="COHON">—and see. So Jay Parsons was this guy’s name. He happened to be up in the New Hampshire area, and he came and talked to me about IVS and what the pros and cons were about going with a small, private NGO [non-governmental organization] versus going with a large, public, government-sponsored organization like the Peace Corps.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">I had enough correspondence between the people at IVS in Washington and myself to make me feel confident that there was not a great risk, that volunteers were perceived differently there, that the risk was minimal. That in fact turned out not to be the case, but I didn’t know that when I left and went to—went to Vietnam.</u>
+      <u who="COHON">I had enough correspondence between the people at IVS in Washington and myself to make me feel confident that there was not a great risk, that volunteers were perceived differently there, that the risk was minimal. That in fact turned out not to be the case, but I didn’t know that when I left and went to—went to Vietnam.
+
+And so I made my decision in my senior year, although this correspondence goes back to ’94—excuse me, ’64. And my father and mother were just appalled and very upset that I was doing this. I think the personal motivation for doing it, again, was to get as far away as I could from being drawn into a life of selling television sets to retail stores, and could do something very different. Yeah, they were—they, my parents, were just really upset.
+
+But seven days after I graduated from Dartmouth and after having three days of cross-cultural training [both chuckle]—I laugh at that now, given my own career—</u>
       <u who="SOLOMON">[Laughs.] </u>
       <u who="COHON">—you know, desensitive—I still have all the little pamphlets and books that they gave us: how to be sensitive to people from other cultures and how to—three days of training at a place called Harpers Ferry, [West] Virginia,—</u>
       <u who="SOLOMON">Yeah.</u>
@@ -246,27 +308,41 @@
       <u who="SOLOMON">Wow.</u>
       <u who="COHON">And was enrolled in IVS. There were eight people who went with the group that I went with. There were not a lot of people volunteering to go teach in—go work in Vietnam, at that point. And so the eight of us—there were two women and six guys. And we went—after landing in Saigon, we were stationed in Saigon, we went to a town in the delta region of Vietnam called Binh Long, Bi-n-h L-o-n-g.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">And there was a normal university there. It was on summer break. And we had three teachers that IVS had hired to teach us Vietnamese. One was from the north, one was from the central region and one was from the south. And the reason IVS chose to do that is that each of the regions—they have a very different dialect in terms of their pronunciation, and they wanted us to be able to understand and be exposed to the three regional dialects.</u>
+      <u who="COHON">And there was a normal university there. It was on summer break. And we had three teachers that IVS had hired to teach us Vietnamese. One was from the north, one was from the central region and one was from the south. And the reason IVS chose to do that is that each of the regions—they have a very different dialect in terms of their pronunciation, and they wanted us to be able to understand and be exposed to the three regional dialects.
+
+And the book that we went through was called Speak Vietnamese, by a guy named Đình Hoà Nguyễn. And I really took to it. I didn’t realize that I had an affinity for language, but—because of my taking French at Taft, I’d placed out of my language requirement at Dartmouth, so I never took a foreign language there. I didn’t have to.</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">It turned out that I had—I don’t know if I’d call it a knack or whatever, the skill for acquiring language, so I got very good in Vietnamese, even after just six weeks of intensive training with these three teachers. So there were eight of us that were studying with three teachers, and from day one we couldn’t speak anything but Vietnamese to them. And so that’s how we—it was like a total immersion. It was what they called the aural-oral method. You just—you sit down and begin repeating things that they would tell you, and then you would only learn later on, because of the particular context of the lessons that you were doing, what it was you were discussing.</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">But you already [cross-talk; unintelligible] with the language.</u>
       <u who="SOLOMON">Right.</u>
-      <u who="COHON">I understood that there was a guy at Dartmouth that was supposed to be very well regarded. This is after I left, some years after I left. He was doing something like that with people at Dartmouth, so Dartmouth had a very good reputation for running some language programs in the summertime. But as I say, that was after I left.</u>
+      <u who="COHON">I understood that there was a guy at Dartmouth that was supposed to be very well regarded. This is after I left, some years after I left. He was doing something like that with people at Dartmouth, so Dartmouth had a very good reputation for running some language programs in the summertime. But as I say, that was after I left.
+
+So anyway, I got very good in Vietnamese at the school where we were studying, and then you could request where you wanted to go, and my only request was that I be sent to a town to teach somewhere, where there were no other IVS people because I wanted to challenge myself linguistically, and I had a concern that if I had someplace where there was an IVS’er who also spoke English, that you would end up not really being immersed in the culture.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">So I ended up in a small town called Vũng Tàu, which is V-ũ-n-g T-à-u, and that’s on the coast about 117 kilometers southeast of Saigon. And it’s on a peninsula that juts out into the South China Sea. It’s a beautiful, beautiful place. Or it was a beautiful place. I’ve been back several times, and it’s like everywhere: It’s kind of gotten busy and built up. But in 1965, when I was there, it was a sleepy little town. The French called it Cap Saint-Jacques because it was—there were beaches—they were called Front Beach and Back Beach, which were the two sides of the peninsula, with small, little, funky restaurants and—yeah, it was just a wonderful—physically wonderful. It was a beautiful place.</u>
+      <u who="COHON">So I ended up in a small town called Vũng Tàu, which is V-ũ-n-g T-à-u, and that’s on the coast about 117 kilometers southeast of Saigon. And it’s on a peninsula that juts out into the South China Sea. It’s a beautiful, beautiful place. Or it was a beautiful place. I’ve been back several times, and it’s like everywhere: It’s kind of gotten busy and built up. But in 1965, when I was there, it was a sleepy little town. The French called it Cap Saint-Jacques because it was—there were beaches—they were called Front Beach and Back Beach, which were the two sides of the peninsula, with small, little, funky restaurants and—yeah, it was just a wonderful—physically wonderful. It was a beautiful place.
+
+I went there prepared to teach, as much as one can be prepared for that kind of an experience. It was—it was interesting. I remember lying awake at night, and my first night, before I even had the language training in Saigon, hearing gunfire way in the distance and thinking, you know, what would I do if someone came through the window? I remember it kept me awake until I got so tired I fell asleep, and then I realized I wasn’t going to be able to last for two years with that kind of sleep pattern.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">But I got over it pretty quickly. But in the town where I was—I eventually ended up moving in a laundry, a Vietnamese laundry house, and the people that owned the laundry put a shed up next to the side of the house, and that’s where they lived, and so I occupied what had been their home. But they got paid by the International Voluntary Services for taking—taking, you know, the rent for having me there, so they were actually doing well for them. It supplemented their income. Their name was Tu, T-u. It was just a wonderful family, a couple of young kids and the father and mother, and we all got along really nicely, actually. It was quite lovely. </u>
+      <u who="COHON">But I got over it pretty quickly. But in the town where I was—I eventually ended up moving in a laundry, a Vietnamese laundry house, and the people that owned the laundry put a shed up next to the side of the house, and that’s where they lived, and so I occupied what had been their home. But they got paid by the International Voluntary Services for taking—taking, you know, the rent for having me there, so they were actually doing well for them. It supplemented their income. Their name was Tu, T-u. It was just a wonderful family, a couple of young kids and the father and mother, and we all got along really nicely, actually. It was quite lovely. 
+
+And I started teaching, which was an introduction to teaching English as a second language. And that went on—it got to be a little boring in my second year.</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">But it was just—I got involved in organizing and setting up youth projects and arranging for kids that had harelips to be surgically repaired by an Australian medical team that I met, having a lot of the kids in the village where I was have chest X-rays from another medical team of Americans that had a mobile X-ray machine. And I suppose in keeping with the Dartmouth tradition of whatever—I’m not even sure what that was—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—I met a number of American military guys who invited me to fly in planes with them, because I spoke Vietnamese, and I continued my Vietnamese studies with teachers from the high school where I was teaching. And I started reading pretty voraciously about Vietnam and about the whole history of Indochina and the relationship of Vietnam to China and et cetera, et cetera, and got into this, in a serious way, as serious as one can get sort of doing it on your own, without any formal teacher—I just would go from one book to the next book to the next book to the next book and kept building a library, which I have to this day, a wall of books about that period and still buy books of there as they come out. So I got into it in a serious way, but I still would go with—sometimes with different military people on different flights to different parts of the country. </u>
+      <u who="COHON">—I met a number of American military guys who invited me to fly in planes with them, because I spoke Vietnamese, and I continued my Vietnamese studies with teachers from the high school where I was teaching. And I started reading pretty voraciously about Vietnam and about the whole history of Indochina and the relationship of Vietnam to China and et cetera, et cetera, and got into this, in a serious way, as serious as one can get sort of doing it on your own, without any formal teacher—I just would go from one book to the next book to the next book to the next book and kept building a library, which I have to this day, a wall of books about that period and still buy books of there as they come out. So I got into it in a serious way, but I still would go with—sometimes with different military people on different flights to different parts of the country. 
+
+And IVS asked me to write and edit their annual report for 1966, which would be the summer of ’66. So that was what I did for IVS in that summer, as well as they decided that they wanted to do something like the American VISTA program, Volunteers in Service to America [now AmeriCorps VISTA]. Do they still have VISTA, do you know?</u>
       <u who="SOLOMON">I’m not sure.</u>
-      <u who="COHON">Yeah, I’m not sure, either. Anyway, what it was is you take college students and put them in teaching and working with people in inner cities. It may be called AmeriCorps. But in any case, IVS decided that they wanted to do that with Saigon University students, and so I set up and organized a number of Saigon University students to go to cities in the north—Huế, Quảng Trj, et cetera—near the 17th parallel, and then took these students up there—it was all sort of an interesting thing because at the age of 21—I was 21, I think. I was a year behind—age wise, I was a year back from my class, so I was young for my class. So I think I was 21 when I was there. </u>
+      <u who="COHON">Yeah, I’m not sure, either. Anyway, what it was is you take college students and put them in teaching and working with people in inner cities. It may be called AmeriCorps. But in any case, IVS decided that they wanted to do that with Saigon University students, and so I set up and organized a number of Saigon University students to go to cities in the north—Huế, Quảng Trj, et cetera—near the 17th parallel, and then took these students up there—it was all sort of an interesting thing because at the age of 21—I was 21, I think. I was a year behind—age wise, I was a year back from my class, so I was young for my class. So I think I was 21 when I was there. 
+
+I was put in charge of an airline, of a military plane to take these students up to the north of South Vietnam, not, obviously, North Vietnam because that was—</u>
       <u who="SOLOMON">Yeah. [Chuckles.]</u>
       <u who="COHON">And just made sure that they met their counterparts, et cetera, and then flew the plane back. The last time we flew into—there was a group of families who were from what they call Montagnard. They’re mountain people. They’re not Vietnamese. The Vietnamese don’t like the Montagnard very much.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">They’re people from tribal groups, the Rhade, the Jarai. Anyway, these folks would—in this small town, which purportedly was going to be a camp, and they really wanted to get out. There were women and children and men, and they went to the pilots of the plane and asked the pilots if they could get on the plane and get to Saigon. And the pilot said, “Can’t do it. You have to ask him. He’s in charge of the plane.” So they came to me, and I said, “Sure, get on the plane. Let’s get you out of here.”</u>
+      <u who="COHON">They’re people from tribal groups, the Rhade, the Jarai. Anyway, these folks would—in this small town, which purportedly was going to be a camp, and they really wanted to get out. There were women and children and men, and they went to the pilots of the plane and asked the pilots if they could get on the plane and get to Saigon. And the pilot said, “Can’t do it. You have to ask him. He’s in charge of the plane.” So they came to me, and I said, “Sure, get on the plane. Let’s get you out of here.”
+
+So they flew the group back down to Vietnam, and one of the young fathers gave me a knife, which I still have, with the words hóa binh, peace, that were engraved in the metal. It’s a beautiful knife, in a wooden sheath. I have it hanging on my wall. You just collect these things as you go through— [Chuckles.]</u>
       <u who="SOLOMON">Yeah. [Chuckles.]</u>
       <u who="COHON">in your life and you hang onto it, that seem to be significant. My significant other—she tells me that I’m a hoarder, because I have all of this stuff at home [chuckles], but—</u>
       <u who="SOLOMON">[Chuckles.]</u>
@@ -274,60 +350,152 @@
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">So, again, I sort of have gotten derailed. I mean, I can go down so many—in starting to talk about this stuff, it’s like going down a rabbit hole, and then you can go in a lot of different directions. Once you get underground, you just don’t know even where it’s gonna lead.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">Oh, great.</u>
+      <u who="COHON">Oh, great.
+
+I want to jump back really—</u>
       <u who="COHON">I—</u>
       <u who="SOLOMON">Oh, go ahead.</u>
       <u who="COHON">I’m sorry? It’s going okay?</u>
-      <u who="SOLOMON">I was going to say—yeah! Yes, yes, yes.</u>
+      <u who="SOLOMON">I was going to say—yeah! Yes, yes, yes.
+
+I wanted to jump back to something you had said earlier—</u>
       <u who="COHON">Sure.</u>
       <u who="SOLOMON">—talking about the Kennedy assassination, actually, and you said you remembered exactly where you were.</u>
       <u who="COHON">Yep. I was in—</u>
       <u who="SOLOMON">Can you tell me?</u>
-      <u who="COHON">—the fourth floor of New Hampshire Hall at Dartmouth, sitting in a leather chair that I had. And I remember just being stunned and feeling a little lost and frightened, and going out into the hallway, and other people that happened to be there—this was mid-afternoon. Other people were coming out into the hall, too. It’s like nobody could really believe that that had happened.</u>
+      <u who="COHON">—the fourth floor of New Hampshire Hall at Dartmouth, sitting in a leather chair that I had. And I remember just being stunned and feeling a little lost and frightened, and going out into the hallway, and other people that happened to be there—this was mid-afternoon. Other people were coming out into the hall, too. It’s like nobody could really believe that that had happened.
+
+So, you know, it was stunning. And I think, again—and we’re going back to that, you know, “Ask not what you can do, but ask what you can for others” [sic], however that quote played out—even though Taft was not a good experience for me personally, they had a saying, “Non ut sibi unintelligible [sic: “Non ut sibi ministretur sed ut ministret, Not to be served but to serve”]. It basically was, “Don’t ask to be served but serve others,” essentially it was. And that sort of was the same thing with Kennedy. You know and these ideas resonated.</u>
       <u who="SOLOMON">Right. </u>
       <u who="COHON">And I think probably they resonated to me because of what my father had said. And it was, like, you know, a life of service was a worthwhile life. It’s a good life. It’s a life that can have meaning and can bring you different—I don’t know what to call it—compensation, rewards of some sort. And so Kennedy I think in that sense really was a factor in my decision to do this volunteering in Vietnam.</u>
       <u who="SOLOMON">And was this, then, something that you thought about a lot while you were there?</u>
       <u who="COHON">I don’t think so. I think I was caught up in the moment there. I mean, it’s hard to describe what it’s like to be in a war zone, because there are so many day-to-day, different activities and things which you need to do, not because of the fighting or anything like that; I mean, I was very safe where I was. The town was not attacked very often while, during my time there. There were some occasional mortar shells that came in, but it was on a peninsula, so it wasn’t like there—</u>
       <u who="SOLOMON">Right.</u>
-      <u who="COHON">—there was a lot of fighting going on. I was exposed to fighting, but not because of being in Vũng Tàu. It was, again, this adventuresome sort of spirit from Dartmouth, I think. I had been reading a lot of [novelist] Joseph Conrad and was wondering about one’s manhood and how one would perform under fire. And a Special Forces guy that I met, a black guy and captain—met him in Saigon—said, “Well, why don’t you come out and visit our A Team? It’s out near the Cambodian border. And you can see what the Special Forces is doing.”</u>
+      <u who="COHON">—there was a lot of fighting going on. I was exposed to fighting, but not because of being in Vũng Tàu. It was, again, this adventuresome sort of spirit from Dartmouth, I think. I had been reading a lot of [novelist] Joseph Conrad and was wondering about one’s manhood and how one would perform under fire. And a Special Forces guy that I met, a black guy and captain—met him in Saigon—said, “Well, why don’t you come out and visit our A Team? It’s out near the Cambodian border. And you can see what the Special Forces is doing.”
+
+So, again—I mean, you had a lot of flexibility and freedom there. But I didn’t—I wasn’t thinking about Kennedy or about the mission of, you know, serving others in that sense. I was sort of caught up in the day to day.
+
+And, not, you know, my parents and I were corresponding. I wrote letters to them and wrote letters—IVS would publish letters if you wrote them and sent them to a list of your friends, and I did a few of those things. And then there were transcripts. We used to have these little—they’re not even cassettes; they were bigger tapes that I could record, like, a letter or—</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">—to my parents and send it back to them. And they would send these things to me. Yeah, it—there were times when I felt lonely, because it was hard to—to be there, in a very different culture, even though I made friends and had friends. And my second year there—</u>
+      <u who="COHON">—to my parents and send it back to them. And they would send these things to me. Yeah, it—there were times when I felt lonely, because it was hard to—to be there, in a very different culture, even though I made friends and had friends. And my second year there—
+
+
+
+No, I’ll go back to my first year there. I had a team leader. I mean, IVS just didn’t throw you into a town without having somebody that was responsible for you. His name was [Peter M.] “Pete” Hunting. He was a graduate of Wesleyan [University]. And he was assassinated during my time there. I didn’t really have—he was a really nice guy, but he was apparently—it’s never been proved—his sister Jill [Hunting] has dedicated her life to trying to figure out what happened to Pete and has written a book, which I think was published in, I don’t know, 2011, 2013. I can’t remember the date. But it’s about her brother Pete and his loss. It really has affected her life completely. She’s devoted herself to this.
+
+
+
+So Pete was assassinated, and I never really had a team leader, and during my second year there—during my first year—again, going back to Pete’s assassination—there was a guy that lived down the street from me, who was French, named Jacques Lareau [Archivist Note: spelling uncertain]. And his wife, Madeaux [Archivist Note: spelling uncertain] or Nikki [Archivist Note: spelling uncertain], we called her Nikki—was a great woman. She was Vietnamese, and Jacques was really a wonderful guy. Is a wonderful guy. I still am in touch with him. He lives in Toronto. Nikki passed away in 2008.
+
+But he sort of became like a surrogate father, in a way, for me. He’s not that much older than I am, but he knew his way around the block really well. And would all entertain people all the time. He was with de Havilland Aircraft [of Canada Ltd.]. I don’t know if you know that company. It’s a Canadian company that produced things that are called the Otter [the de Havilland Canada DHC-3], the Beaver [the de Havilland Canada DHC-2], the Caribou [the de Havilland Canada DHC-4]—these are planes that are used in Canada, or used wherever, but can take off and land on short dirt landing strips. So obviously, in a place like Vietnam, there were a lot of Caribous. The Australians had a whole wing of Caribous at their station out at the airport at Vũng Tàu.
+
+
+
+So that’s where I met the Australian guys, who could do the surgery correcting the harelips on kids.
+
+Anyway, Jacques became a very close friend, and I used to see him and Madeaux and their friends there all the time, and met people in Saigon that were friends of his, French people who had been in the north of Vietnam and then when [the Battle of] Điện Biên Phủ happened in 1954 and the French had to flee, they moved south. And they were restauranteurs and people who had banana—excuse me, rubber plantations out in Vũng Tàu, not far from Saigon, which were being bombed by the Americans, but they still had—they were French—what they called pháp việt, the word for “French” in Vietnamese.
+
+And they were half Vietnamese, half French. And they had taken over the management of their rubber plantations, which were sort of being bombed to smithereens by us but I would see them whenever I went into Saigon and hung out with this fairly international crowd, in addition to the Vietnamese people that I knew that were there.
+
+So it was very exciting in some ways for a young guy like me to—you know, being exposed to all that. We had the use of cars, old funky cars that they gave to IVS to drive, but they had government license plates on them, Vietnamese government license plates. And so I could travel around Saigon after the curfews at night, and the American military—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—would always let me pass. We would do crazy stuff sometimes. You know, we would go follow flares that they would, you know, we could get to the fighting at night. And it was nuts, but interesting and also very romantic at times to do stuff like that.</u>
+      <u who="COHON">—would always let me pass. We would do crazy stuff sometimes. You know, we would go follow flares that they would, you know, we could get to the fighting at night. And it was nuts, but interesting and also very romantic at times to do stuff like that.
+
+I went out to visit this Captain Johnson, was his name, the black fellow, in Tay Ninh province at a small A Camp, which had half a dozen Special Forces. Actually about a dozen Special Forces guys, a team, and it was attacked the night that I was there. It was by a company [unintelligible] in Vietnam.
+
+So it was both exhilarating and terrifying, not something I would ever choose to do again. I think, you know, I was just a young, naïve, idealistic, altruistic, crazy kid—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—doing a range of different things, trying to do as much good as I could and also take advantage of different opportunities that would never present themselves to me again. The whole notion of the war and the Americans being killed and dying for something is not something I paid a lot of attention to. What I did pay attention to was the hypocrisy of our government and the lies that were being told about the successes that we were having in our war effort.</u>
+      <u who="COHON">—doing a range of different things, trying to do as much good as I could and also take advantage of different opportunities that would never present themselves to me again. The whole notion of the war and the Americans being killed and dying for something is not something I paid a lot of attention to. What I did pay attention to was the hypocrisy of our government and the lies that were being told about the successes that we were having in our war effort.
+
+As I said, when I went and got there—I may not have said there were about 50,000 advisers, maybe a few more, in June of 1965. But when I left in June—May, actually, of 1967, two years later, there were 250,000 troops, and Vũng Tàu had kind of become a whorehouse, in a way. It was an R&amp;amp;R center for American soldiers. R&amp;amp;R is rest and relaxation.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">And so American troops that were fighting could take three days and go down to Vũng Tàu, and all of the little restaurants and hair salons and shops that had been there when I first got there in ’65 turned into bars with, girls that were working there. It was a corruption of the culture that comes with a war zone. You know, these people needed to earn a living. If they couldn’t earn otherwise, and so this was a way for them to make money.</u>
+      <u who="COHON">And so American troops that were fighting could take three days and go down to Vũng Tàu, and all of the little restaurants and hair salons and shops that had been there when I first got there in ’65 turned into bars with, girls that were working there. It was a corruption of the culture that comes with a war zone. You know, these people needed to earn a living. If they couldn’t earn otherwise, and so this was a way for them to make money.
+
+I started—</u>
       <u who="SOLOMON">So you watched—no, go ahead.</u>
-      <u who="COHON">No, go ahead. That’s just got me thinking about some of the people, the individuals. I started a volunteer night class at the high school, and I had students—I picture them in my mind—that ranged in age from 13 to 72, studying English with me. And it was because they needed, they wanted the skill to be able to make money. </u>
+      <u who="COHON">No, go ahead. That’s just got me thinking about some of the people, the individuals. I started a volunteer night class at the high school, and I had students—I picture them in my mind—that ranged in age from 13 to 72, studying English with me. And it was because they needed, they wanted the skill to be able to make money. 
+
+I remember the one guy who was just so sweet and so wonderful, and his pronunciation of English was horrendous.</u>
       <u who="SOLOMON">[Laughs.]</u>
-      <u who="COHON">He was there for every class. He was doing this through and through. And the other students—you know, you could see them sort of snickering to themselves because he just didn’t get it. But he tried so hard and wanted to master English so he could make money for his family.</u>
-      <u who="SOLOMON">Yes, I do have your—your timeline, sort of, the information that you sent us.</u>
+      <u who="COHON">He was there for every class. He was doing this through and through. And the other students—you know, you could see them sort of snickering to themselves because he just didn’t get it. But he tried so hard and wanted to master English so he could make money for his family.
+
+I knew people that were on both sides in the war: some, fighting for the north and some, fighting for the south. I think personally that we shouldn’t have been there.
+
+When I came back from Vietnam, I came back to a country in ‘67 that was more polarized and more divided than when I’d left. And I was considered to be an expert now, that would have the answers about, “Well, should we do this?” “Should we not do that?” “Who’s right: the north, the south?” You know. And it was not that kind of black-and-white situation for me or issue for me, because I’d gotten so close to many of the issues and meet people on both sides that it was very gray.
+
+It was just quite confusing to be thrown back into a polarized United States. Of course, many of my friends were anti war, had gone to great lengths to avoid the war, and at the same time, they were—in my fraternity at Dartmouth, there were quite a number of guys that were [in] ROTC [Reserve Officers’ Training Corps], that were in the war, with the [U.S.] Marines, with the [U.S.] Navy.
+
+
+
+One of my best friends of Chi Phi was killed prior to going to Vietnam on a motorcycle in Florida—in Pensacola, I think it was, the base where he was. But other people that I’m still in touch with from Chi Phi flew missions all the time there, they were jet pilots or soldiers or Marine officers, whatever. And I respect that a great deal. You know, there’s no—still, from my point of view, there’s no right, no wrong about this.
+
+Again, from my point of view, we shouldn’t have been there, so in that sense, I think policy wise we were wrong, and certainly how this was played out for the Vietnamese has been—it’s not a pure socialist country anymore. It’s clearly capitalism has taken over Vietnam. Although it’s socialist in practice and in policy, the country is clearly being run by the business people of the south.
+
+I’m pausing because I’m trying to think about this carefully. When I came back from Vietnam, it was very confusing, as I said. And I was asked to speak about it on a number of occasions, and I had a bunch of slides and I would give talks. And I had to—I got a job as a bouncer in a bar in New York and waiting tables and also just sort of keeping the order there. And I won’t—that lasted about three months, four months, and then I just couldn’t take New York. It was just too intense.
+
+And I went up to Plainfield, New Hampshire. And I had a fraternity brother, who had a farm there, called the High Hope Farm, in Plainfield. And I moved in. Within several months, I got a draft notice, and I’m not a conscientious objector, but I didn’t want to go back to Vietnam in uniform, and so there’s an option that one has that if you choose it, which is you can enlist, but it’s longer, so I enlisted for four years in something called the [U.S.] Army Security Agency, which is a kind of signal intelligence that uses cryptology and language training if you qualify for it. And I did very well on the language aptitude test that the Army gave.
+
+So I ended up enlisting for three and a half or four years and going to the Monterey Defense Language Institute [sic; [Presidio of Monterey, Defense Foreign Language Program, which today is the Defense Language Institute Foreign Language Center] and studying Mandarin Chinese for two years and then going over to Taiwan and serving in the Army there for a year and a half.
+
+And then I got into graduate school at USC [University of Southern California]. USC had a program teaching courses overseas to military personnel. I took a course or two in their School of Education and got accepted into the Ph.D. program in education. I went to USC from—what?—1971 was when I got out of the Army—to 1975.
+
+Then moved to San Francisco for a post-doc and clinical psych—I’m a clinical psychologist with a Ph.D. in clinical psych—
+
+You know all of this, right?</u>
+      <u who="SOLOMON">Yes, I do have your—your timeline, sort of, the information that you sent us.
+
+I’d love to talk some about your—your time in Taiwan.</u>
       <u who="COHON">Okay. I wanted to go back there. Let me just show you my second year in Vietnam—</u>
       <u who="SOLOMON">Oh, yes, of course.</u>
       <u who="COHON">No, no, just to finish it up. I got involved with a Vietnamese woman who had an American child, you know, so we moved in together. And, again, this was not the typical—how will I put it?—Peace Corps behavior.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">So Ian [Archivist Note: spelling uncertain] was her name. She and I lived together for a year there, with her son. I’ve seen her since then. The father of her child was an American, but he came back and took her out of Vietnam when it was getting very dicey for people there, towards 1975, in Saigon. And moved the family to Texas. I was in language school at the time, in Monterey, and went down to visit them. It was very nice to see her again, see that she was doing so well.</u>
+      <u who="COHON">So Ian [Archivist Note: spelling uncertain] was her name. She and I lived together for a year there, with her son. I’ve seen her since then. The father of her child was an American, but he came back and took her out of Vietnam when it was getting very dicey for people there, towards 1975, in Saigon. And moved the family to Texas. I was in language school at the time, in Monterey, and went down to visit them. It was very nice to see her again, see that she was doing so well.
+
+So you want to talk about Taiwan. I’m happy to do that. [Chuckles.]</u>
       <u who="SOLOMON">I mean, anything—anything you’d like to say about—about that experience with—with the Army? Because you were still there—what years?</u>
       <u who="COHON">In the Army?</u>
       <u who="SOLOMON">You said four years—</u>
       <u who="COHON">Sixty-eight to ’71. Yeah, the war in Vietnam was still going on.</u>
       <u who="SOLOMON">Right.</u>
-      <u who="COHON">Yeah. I was an interpreter/translator of Chinese Mandarin. You have something called the Army Security Agency, which is like a branch of intelligence. And so there were Taiwanese nationals that were fluent, much more fluent—I did very well in the language classes, I should say, in studying Mandarin. I still—I still have both Mandarin and Vietnamese pretty—not—not as fluent as I was, but I can still get along with both of those languages. And if I’m in the country—I’ve gone back to Vietnam, three or four visits, and seen my former students, and they threw big parties for me, and I’m in touch with many of them by e-mail. </u>
+      <u who="COHON">Yeah. I was an interpreter/translator of Chinese Mandarin. You have something called the Army Security Agency, which is like a branch of intelligence. And so there were Taiwanese nationals that were fluent, much more fluent—I did very well in the language classes, I should say, in studying Mandarin. I still—I still have both Mandarin and Vietnamese pretty—not—not as fluent as I was, but I can still get along with both of those languages. And if I’m in the country—I’ve gone back to Vietnam, three or four visits, and seen my former students, and they threw big parties for me, and I’m in touch with many of them by e-mail. 
+
+I just saw one of my colleagues, who was a teacher of French at the high school in Vũng Tàu, and he and I have gone back to Vietnam together, and we’re in touch by e-mail. You know, e-mail has just been an incredible thing for me. I mean [chuckles]—</u>
       <u who="SOLOMON">Yeah.</u>
-      <u who="COHON">—you’re reaching out to people.</u>
+      <u who="COHON">—you’re reaching out to people.
+
+So anyway, I was in Taiwan, working as an interpreter/translator, translating some of the most boring documents. They were conversations that Taiwanese nationals were listening to inside of China, and they at the time—this has all changed completely, dramatically, because of technology, but at the time, these people were scribbling, in triplicate, small pads of paper with carbon paper, what they were hearing of conversations, inside comment that would go on between Jeeps—people in Jeeps talking to one another, a commander talking to a company leader. And you tried to figure out what—you know, the material came to us in Taiwan, at a base in Taiwan. The originals came to us. The second copy went to the Joint Services Processing Center in Okinawa. And then the third copy went to Washington.
+
+But we were at the front end of it, so we were supposed to translate it within a very short period of time, in case anything was indicated about troop movements or a crisis or something within China that we needed to know about.
+
+But most of the conversations were very dull: people saying, “Oh, Christ, my wife is wife is” blah, blah, blah, blah, blah.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">“We gotta go down and help her people down in the Jiaxing</u>
+      <u who="COHON">“We gotta go down and help her people down in the Jiaxing
+
+province again because the dike broke to the dam, and they can’t maintain themselves without having us to come down and fill up the dike again, and we’re gonna get muddy, and we’re”—there would just be people talking about their daily activities.
+
+But what you were supposed to try and do and what they were doing back in Washington with this stuff was you get to identify different individuals. Like, you would know—there was, like, a Sgt. Wong, and Sgt. Wong was always complaining about his wife. But he—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—we were trying to reconstruct the order of battle for the Chinese army, starting with their highest-ranking guy, whoever the generalissimo was at the time, and then looking at where their different divisions and battalions and companies and platoons and squads were located in China so that if war were going to break out tomorrow, you would eventually have a map of—not a map, but an organizational chart of where all of the Chinese army was located.</u>
+      <u who="COHON">—we were trying to reconstruct the order of battle for the Chinese army, starting with their highest-ranking guy, whoever the generalissimo was at the time, and then looking at where their different divisions and battalions and companies and platoons and squads were located in China so that if war were going to break out tomorrow, you would eventually have a map of—not a map, but an organizational chart of where all of the Chinese army was located.
+
+That’s the goal, not that we ever achieved that. I wasn’t really at that end. I was being the sort of nuts-and-bolts translator of Chinese to English,—</u>
       <u who="SOLOMON">Mm-hm. </u>
       <u who="COHON">—identifying individual players and characters, and then we would send it on, and they would do this kind of stuff back in Washington. But it was—again, it was an exciting time for me. I was, you know, in my 20s. I had met a young woman she was flying for Pan American Airlines [sic; Pan American World Airways]. She was a stewardess. And we’re still in touch. I mean, we’ve gone separate ways, but she got permission from Pan Am to come and study Chinese. They had a language program for their stewardesses. I guess they’re not stewardesses. What are they now? Airline personnel? Anyway, you know what I mean.</u>
       <u who="SOLOMON">[Chuckles.] Of course.</u>
-      <u who="COHON">And they—so she came and lived in Taiwan with me for a year while she studied Chinese and I [unintelligible]. We traveled all over Taiwan and, you know, really had a—we had a good time, because my Mandarin is—was good, very good. Just, you know, gather around and you’d get it anywhere, and it just opened up a lot of doors. It was a good experience.</u>
+      <u who="COHON">And they—so she came and lived in Taiwan with me for a year while she studied Chinese and I [unintelligible]. We traveled all over Taiwan and, you know, really had a—we had a good time, because my Mandarin is—was good, very good. Just, you know, gather around and you’d get it anywhere, and it just opened up a lot of doors. It was a good experience.
+
+And then we both got into graduate school at USC, so she—we both came back and went to graduate school together, and then we parted ways, then, in Los Angeles. And she still is in California, and we e-mail regularly. We have mutual friends. I went to her 70th birthday, which was a while ago. We’re, like, old buddies—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—and have a lot of experience together. </u>
+      <u who="COHON">—and have a lot of experience together. 
+
+
+
+I’m trying to think. In terms of the military experience and what that was like. I was very opposed to [President Richard M.] Nixon’s doing away with the draft. I felt that was a huge mistake, and I wrote a number of letters to different people in Washington or company commanders that I had, et cetera, saying that I felt that this was a mistake, that I felt that we should have if not a military draft, certainly having a universal national service, that everyone in this country should contribute some time to universal national service. It didn’t have to be with a weapon. You could work in a hospital, you could—you know, whatever you wanted to do, but that there should be a requirement that every young person to do that.
+
+And I think we are seeing, with our all-volunteer Army and some of what we see about people’s values and roles—we’ve seen an erosion of any sort of feeling about the country as being a unique place. We’ve—I don’t want to say degenerated, but I think we’ve sort of driven off the rails, and I think that’s was a big part of it.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">I hear people say, “Oh, well, we wouldn’t have gotten into Iraq or Afghanistan if there had been a draft.” That wasn’t my reason for being opposed to it, although I agree with them. Probably it would have been much more difficult for us to get involved in the situations that we’re currently involved in if there was a draft because, as they say, I think a lot more people would—the phrase would be “skin in the game.” You know, if their kids were going to be sent over there, it would be a different matter to a lot of people it wouldn’t be so easy about saying, “Oh, yeah, we should go get involved in Iraq.” “We should,” you know, “go get involved in Afghanistan.” “We should go get involved in”—you know, et cetera, et cetera, et cetera.</u>
+      <u who="COHON">I hear people say, “Oh, well, we wouldn’t have gotten into Iraq or Afghanistan if there had been a draft.” That wasn’t my reason for being opposed to it, although I agree with them. Probably it would have been much more difficult for us to get involved in the situations that we’re currently involved in if there was a draft because, as they say, I think a lot more people would—the phrase would be “skin in the game.” You know, if their kids were going to be sent over there, it would be a different matter to a lot of people it wouldn’t be so easy about saying, “Oh, yeah, we should go get involved in Iraq.” “We should,” you know, “go get involved in Afghanistan.” “We should go get involved in”—you know, et cetera, et cetera, et cetera.
+
+That, I agree with, would have presented more problems for our getting involved, but at the same time, I think that that wasn’t the reason that I was opposed to it. I was opposed to it because I feel like everyone should be treated with a kind of uniformity, regardless—</u>
       <u who="SOLOMON">Mm-hm. </u>
       <u who="COHON">—of what their backgrounds were. If they went to an Ivy League school, that’s good, but the Ivy Leaguers should serve alongside the person who didn’t go to an Ivy League school in doing something to contribute to the country.</u>
       <u who="SOLOMON">Mm-hm.</u>
@@ -343,39 +511,81 @@
       <u who="SOLOMON">As well as [the Rev.] Martin Luther King [Jr.’s] assassination and [Robert F.] “Bobby” Kennedy’s assassination?</u>
       <u who="COHON">That was a big year, yep.</u>
       <u who="SOLOMON">Were you aware of, you know, this growing youth movement that was going on at the time---the, you know, protests? You said you were in California at that time, correct?</u>
-      <u who="COHON">Yeah, no, I marched against the Vietnam War even when I was in the Army. I used to take—there was a group called the Committee of Responsibility, which was a group of guilty, liberal, affluent Americans who were aware of the fact that there were Vietnamese children who were wounded during the war and whose wounds were of such a nature that they couldn't be treated in Vietnam. And this group, because of their influence and political connections, arranged to fly some of these children to the United States, where they were taken in by American families, and they would undergo medical treatment in this country.</u>
+      <u who="COHON">Yeah, no, I marched against the Vietnam War even when I was in the Army. I used to take—there was a group called the Committee of Responsibility, which was a group of guilty, liberal, affluent Americans who were aware of the fact that there were Vietnamese children who were wounded during the war and whose wounds were of such a nature that they couldn't be treated in Vietnam. And this group, because of their influence and political connections, arranged to fly some of these children to the United States, where they were taken in by American families, and they would undergo medical treatment in this country.
+
+And they didn’t think through the implications that young kids of the various ages—some you know, quite young, and some in their teens—to this country in exposing them to all of the affluence, and many of the parents, as I say, were liberal and guilty about what had happened to these kids, guilty about the war.
+
+So they showered these kids with toys and food, and some of these kids were miserable, and someone got hold of IVS and said, “Do you have any pupil in northern California?”—I mean, this is how I got involved—“that can speak Vietnamese and can go and talk to some of these families about some of the cultural issues in Vietnam?”
+
+So IVS contacted me. And I was stationed in Monterey, studying Mandarin. And gave me the names of several families in the Bay Area, the San Francisco Bay area. So I came up and met with these families and the kids and tried to help in whatever way that I could with some of the adjustments issues that the kids were experiencing and tried to sort of soften the understanding of the families about what these kids might be going through.
+
+And it was a very interesting experience for me. I had, I had an old ’61 Chevy pickup truck—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">—and I would come up to San Francisco, and then I would take some of the kids and bring them back down to where  I was living. I had an apartment in Carmel[-by-the-Sea], and they would stay with me there. And I guess the reason this came up was that I would march in antiwar protests in Monterey, because I was part of a group that—I don’t know if you know a guy named David [V.] Harris. Does that name ring a bell?</u>
       <u who="SOLOMON">It sounds familiar.</u>
-      <u who="COHON">He was married to [folksinger/songwriter] Joan [C.] Baez, and he was a conscientious objector and prisoner of conscience, or went to prison during the war. Anyway, David Harris, Joan Baez—it was a big antiwar movement effort in Monterey. So we would march—people that were protesting—and I would take the kids with me sometimes, Vietnamese kids. And the Army Security Agency had photos that they took, apparently, of me, and then I got called in and told that I couldn’t do that. And I said, “Look, the reason I’m in the Army is to protect my right as a citizen to be able to do that. I’m not wearing my uniform. I’m in civilian clothes.”</u>
+      <u who="COHON">He was married to [folksinger/songwriter] Joan [C.] Baez, and he was a conscientious objector and prisoner of conscience, or went to prison during the war. Anyway, David Harris, Joan Baez—it was a big antiwar movement effort in Monterey. So we would march—people that were protesting—and I would take the kids with me sometimes, Vietnamese kids. And the Army Security Agency had photos that they took, apparently, of me, and then I got called in and told that I couldn’t do that. And I said, “Look, the reason I’m in the Army is to protect my right as a citizen to be able to do that. I’m not wearing my uniform. I’m in civilian clothes.”
+
+That didn’t make them happy,—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">—but they weren’t that thrilled about it, so I entered—Committee of Responsibility. I took responsibility for a number of these kids. And one of them in fact told me, while we were walking on the beach in Carmel, that he had woken up in an American hospital, and he was actually fighting on the side of the north, and he’d been—whatever happened, he had been blown up and then had been brought back to the United States as a wounded child, and he was on the other side.</u>
       <u who="SOLOMON">Wow</u>
       <u who="COHON">They actually did a PBS [Public Broadcasting Service] documentary about him. His name is Hun [Archivist Note: spelling uncertain]. Because he didn’t want to be here. [Chuckles.]</u>
       <u who="SOLOMON">Right.</u>
-      <u who="COHON">He was opposed to what we were doing. Yeah, there were just—there were a number of situations that were just like that. </u>
+      <u who="COHON">He was opposed to what we were doing. Yeah, there were just—there were a number of situations that were just like that. 
+
+It turned out—I mean, this is just a coincidence. This,—again, it’s like down a rabbit hole or a path, but I got married, and my first child—we went to meet my wife’s OB/GYN, and the doctor and his wife, who was a nurse, turned out to be Alan [T.] and Mary [A.] Moss, who were a family that had adopted a kid, taken in a kid named Aah [Archivist Note: spelling uncertain], through the Community of Responsibility. And I had known them—I met my wife in 1980. We were married in—or “79, and we got married in ’81. And I had met the Mosses when I was doing this volunteer work with language stuff, translating for Aah, the boy in nineteen—it would have been 1971? Yeah, let me think about it, 1970, 1969.</u>
       <u who="SOLOMON">Oh, wow.</u>
       <u who="COHON">Because—yeah, I mean, this is just a strange set of circumstances. I never thought I would see them again.</u>
       <u who="SOLOMON">Yeah. [Chuckles.]</u>
       <u who="COHON">You know, because this was just—and it turns out that was my wife’s OB/GYN.</u>
       <u who="SOLOMON">[Laughs.]</u>
-      <u who="COHON">[cross-talk; unintelligible]. And I had worked with them for the better part of a year, with that little boy, Aah, who had a really serious, serious wound. And—anyway, you know, it’s weird to have these things sort of come around, come back around at you. </u>
+      <u who="COHON">[cross-talk; unintelligible]. And I had worked with them for the better part of a year, with that little boy, Aah, who had a really serious, serious wound. And—anyway, you know, it’s weird to have these things sort of come around, come back around at you. 
+
+You know—and the whole thing about—after I got out of graduate school, I came to San Francisco to do my post-doc at California Pacific Medical Center, in the Department of Psychiatry, a school with Vietnamese and now Chinese Mandarin. And Saigon fell on April 30th, 1975, and I arrived in San Francisco on May 1st, 1975, to begin post-doc.</u>
       <u who="SOLOMON">Wow.</u>
       <u who="COHON">All these refugees started coming into the United States. And I was probably one of the handful, if there were even a handful—I might have been the only one Vietnamese-speaking mental health professional, psychologist, in the country—</u>
       <u who="SOLOMON">Right.</u>
-      <u who="COHON">—or certainly anywhere around. I mean, it’s not like you could have had envisioned any of this happening. I mean, it’s not like you would plan a career around becoming a Vietnamese-speaking psychologist. And so I started volunteering to go down and work with kids in the high school, Vietnamese kids in the high school, to see what kind of adjustment problems they were having.</u>
+      <u who="COHON">—or certainly anywhere around. I mean, it’s not like you could have had envisioned any of this happening. I mean, it’s not like you would plan a career around becoming a Vietnamese-speaking psychologist. And so I started volunteering to go down and work with kids in the high school, Vietnamese kids in the high school, to see what kind of adjustment problems they were having.
+
+And the kids were doing fine, actually. This is at Galileo High School [now Galileo Academy of Science and Technology]. But it was quite clear that their parents were not doing fine. I mean the kids had questions like—you know, the issues for them were that the food is different, the music is very different. And for the girls it was, you know, the whole hypersexualization of the clothing that we wear here; it was, like, it’s too much, you know? They didn’t want to wear the kind of clothing that the girls wore, and the boys were just excited by it. It was just a strange thing for them to talk about.
+
+So we had groups where the kids would talk, but then they would talk about their parents, and it was clear that their parents were really having significant adaptation and assimilation problems, psychological ones.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">So I went to a nonprofit agency called the American Council for Nationalities Services, which is one of a number of organizations that resettles immigrants and refugees in America, like Lutheran Immigration and Resettlement [sic; Lutheran Immigrant and Refugee Service], Catholic Relief Services—there’s really just a handful of them.</u>
+      <u who="COHON">So I went to a nonprofit agency called the American Council for Nationalities Services, which is one of a number of organizations that resettles immigrants and refugees in America, like Lutheran Immigration and Resettlement [sic; Lutheran Immigrant and Refugee Service], Catholic Relief Services—there’s really just a handful of them.
+
+And we got a grant to set up a mental health project for Southeast Asian refugees. And it got funded. So I became a director of this project, to work with the mental health problems of Southeast Asian refugees in San Francisco, and built a big curriculum around cross-cultural education, because it’s very important to include healing practices from the various groups that were here. It wasn’t just Vietnamese. It was Vietnamese, Cambodian, Hmong. And the Hmong were a tribal group from the mountains of Laos, and then lowland Laos. They were, like, four, four different groups, and each of them had a different belief structure about what causes illness. None of them have terms for mental health. The closest thing you could ever come in Vietnamese was head/heart insurance.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">And it was very, very interesting, and I was able to get accreditation credit for my students that were in the project at San Francisco State University, who were studying—I had a whole battery of people that I had trained with, because I had just finished my post-doc, who were licensed psychologists, psychiatrists, who consulted to teach courses that I arranged to offer to the staff that I hired. And then the staff got credit from San Francisco State for the courses that they were studying, which was not an easy thing because the language factors entered into.</u>
+      <u who="COHON">And it was very, very interesting, and I was able to get accreditation credit for my students that were in the project at San Francisco State University, who were studying—I had a whole battery of people that I had trained with, because I had just finished my post-doc, who were licensed psychologists, psychiatrists, who consulted to teach courses that I arranged to offer to the staff that I hired. And then the staff got credit from San Francisco State for the courses that they were studying, which was not an easy thing because the language factors entered into.
+
+So it became a fairly well-known project nationally, and I got to go around and give talks all over the country about adaptation for refugees and the refugee settlement, things of that sort.
+
+It reminds me—a fellow that taught in the high school with me—taught French there—his name is Trí [Archivist Note: spelling uncertain], and I was going to testify at a congressional hearing about refugee settlement and I hadn’t seen Trí since 1967, and this was 1977, ’78?—’78, maybe ’79.
+
+
+
+Anyway, I see him walking into this hearing with a whole stack of papers. [Chuckles.] I said to him—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">—I said, “Hey, you used to be a lot fatter.” And he turned around—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—and dropped all these papers on the floor. It was, like, you know, old home week, a really wonderful reunion. And so we’ve been in touch, obviously, since then. I go to reunions regularly at the high school. High school is a very important marker in Vietnamese development for young people because after high school, most of the people, the boys went off to fight—you know, off to the military and a—</u>
+      <u who="COHON">—and dropped all these papers on the floor. It was, like, you know, old home week, a really wonderful reunion. And so we’ve been in touch, obviously, since then. I go to reunions regularly at the high school. High school is a very important marker in Vietnamese development for young people because after high school, most of the people, the boys went off to fight—you know, off to the military and a—
+
+—So high school is the last time they were all together, and so there are these reunions that happen yearly. This year, it’s going to be in Australia for the people from Vũng Tàu High School. And hundreds of people come to these things, in different classes. So I go back, and I see my students and other teachers and, you know, they treat you with a great deal of respect. They really value education.
+
+And I don’t know if you followed the course of adaptation of many Vietnamese, but they really have assimilated, acculturated, adapted, depending on your terminology, very well to life in the United States. A lot of them are very successful.
+
+I see them—they’re very sentimental, so they give you, like, little plaques. All the teachers get little plaques, teacher at Vũng Tàu High School from such-and-such a date to such-and-such a date, and things of that sort. Very sweet.
+
+We e-mail regularly. A number of them do. And I always get lots of e-mails—“lots of e-mails”—I get a number of e-mails and cards on Teachers Day, which is November 20th, from former students: some, living here; some, still in Vietnam that I’m seeing when I go back to Vietnam.
+
+And Trí, this fellow I was talking about, Trí went back to Vietnam once and visited Điện Biên Phủ. We both had a lot of interest in the history of Vietnam and shared books with one another about—if they get published—about Vietnam.
+
+But he and I talk. He was just here because he has a grandson who was being born, [unintelligible] and he’s not sure he’s going to go back, and I’m not sure I’m going to go back. It has just changed so much from what it was.</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">It’s not the same. But, you know, it’s nice working around [unintelligible]. [Chuckles.] We always have a cigar—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—and [unintelligible] or a Scotch or [unintelligible]. Mini reunion. [Chuckles.]</u>
+      <u who="COHON">—and [unintelligible] or a Scotch or [unintelligible]. Mini reunion. [Chuckles.]
+
+You’ve got to get going, don’t you?</u>
       <u who="SOLOMON">I still have time if you have more things you’d like to talk about.</u>
       <u who="COHON">Oh, no, no, no—I mean, I can just babble on about this. I don’t know.</u>
       <u who="SOLOMON">[Laughs.]</u>
@@ -383,19 +593,51 @@
       <u who="SOLOMON">Well, you had said in one of the e-mails that you sent or some of your information that you’d given us that when you came back, you had numerous other involvements with various national organizations regarding refugee settlement. So I know you touched on going to a congressional hearing, but what other types of organizations and such were you involved with when you came back?</u>
       <u who="COHON">Well, the Committee of Responsibility would have been one of them, taking care of the kids—</u>
       <u who="SOLOMON">Right. Okay. </u>
-      <u who="COHON">I would say Lutheran Immigration. I was asked to be the keynote speaker at a number of different conferences on refugee affairs, so there was not very much known about Southeast Asian refugees in 1975, so I think I was the first keynote speaker at Lutheran Immigration and Refugee Resettlements [sic; Lutheran Immigration and Resettlements] conference on unaccompanied minors, kids that come over without having parents. And I would have to go look at my—at my [curriculum] vitae to see what the various conferences were that I was the keynote speaker of.</u>
+      <u who="COHON">I would say Lutheran Immigration. I was asked to be the keynote speaker at a number of different conferences on refugee affairs, so there was not very much known about Southeast Asian refugees in 1975, so I think I was the first keynote speaker at Lutheran Immigration and Refugee Resettlements [sic; Lutheran Immigration and Resettlements] conference on unaccompanied minors, kids that come over without having parents. And I would have to go look at my—at my [curriculum] vitae to see what the various conferences were that I was the keynote speaker of.
+
+I did work for the California Youth Authority, which was a group that takes care of delinquent kids. I gave several talks for them, and then I worked with some of the kids because they’d gotten into trouble here.
+
+
+
+I’ve seen refugees on behalf of some lawyers that testified in murder trials, for refugees that had killed Americans, and how Americans that had kill other refugees that had been prosecuted for murder or other offenses.
+
+I’ve seen people in San Quentin [State Prison], which is a penitentiary here in the Bay Area, where there are Vietnamese that are in prison there.
+
+
+
+I’m just trying to think. You know, the various resettlement agencies: Catholic Social Services, the International Rescue Committee (IRC)—all of these sorts of groups.
+
+
+
+And then I was invited to become a faculty member in the Graduate School of Social Welfare at the University of California, Berkeley, and designed a course there called Immigrants and Refugees in America: Social Policies and Clinical Concerns, which I taught for eight, nine years at Cal, at Berkeley [University of California, Berkeley]. And it was a popular course, not just with social work students but with people from the School of Psychology and people from the School of Public Health. It incorporated—incorporated a lot of what I had done with the Southeast Asian Mental Health Project. [unintelligible] in Southeast Asia.
+
+So basically it was a history of American immigration in the context of ebbs and flows of immigrant groups to this country. The waves of immigrants that have come here, you know, at different periods of time, and then the people who are, like is happening now with Syrians and [Donald J.] Trump and people who are opposed to letting them in, people who want to send them back.
+
+
+
+It talks about—I mean, that’s our history. That’s—the history of the United States is a history of—</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">—that’s just one lens through which you can view U.S. history, is immigration to this country. And it allows you to see the different groups that came in, are you familiar with the Chinese Exclusion Act? [unintelligible].</u>
       <u who="SOLOMON">Yes.</u>
-      <u who="COHON">There was the Chinese Exclusion Act that was passed in 1876, I believe.—[sic: May 6, 1882]— that had been in effect until really almost nineteen—I guess it was reversed in 1947 [sic: 1943]. But in 1965, they passed new immigrations laws. It kind of opened up the feelings to allow many, many more Asians, particularly Chinese, to enter the United States, so we’ve had a huge influx of Asian and Chinese immigrants to America.</u>
+      <u who="COHON">There was the Chinese Exclusion Act that was passed in 1876, I believe.—[sic: May 6, 1882]— that had been in effect until really almost nineteen—I guess it was reversed in 1947 [sic: 1943]. But in 1965, they passed new immigrations laws. It kind of opened up the feelings to allow many, many more Asians, particularly Chinese, to enter the United States, so we’ve had a huge influx of Asian and Chinese immigrants to America.
+
+I actually—it was funny. I went to—a friend of mine invited me to go see [documentary filmmaker] Michael Moore’s new movie [Where to Invade Next] there was showing last night in San Francisco. What he didn’t know was that they had oversold the tickets, so we couldn’t get in. But going into the cinema—</u>
       <u who="SOLOMON">Oh, no!</u>
-      <u who="COHON">—from Marin Count—well, that’s cool. I mean, we had a nice dinner, and it worked out fine. What I was going to say is that going into the city from Marin County—Marin County is very, very white and very affluent. There just are several areas in Marin that are not. And this one city, which is old World War II housing—it’s predominantly African-American and some refugees, and then there’s the Canal District [sic; Canal Area] of San Rafael, which is Latino and refugees, Asian refugees.</u>
+      <u who="COHON">—from Marin Count—well, that’s cool. I mean, we had a nice dinner, and it worked out fine. What I was going to say is that going into the city from Marin County—Marin County is very, very white and very affluent. There just are several areas in Marin that are not. And this one city, which is old World War II housing—it’s predominantly African-American and some refugees, and then there’s the Canal District [sic; Canal Area] of San Rafael, which is Latino and refugees, Asian refugees.
+
+But going into San Francisco yesterday from Marin, I was just struck again by the number of Asians in San Francisco. My friend, who’s a psychologist there, said, “Oh, it’s really—it’s essentially become an Asian—Asian city.” Even the Mission—the outer Mission District, which is largely Latino. But there are still large numbers of Asians. You see them everywhere. It’s just incredible how the ebb and flow of different groups changed—changed the economy, changed their population demographics.
+
+And you know, I’m sure, because of your interests, how demographics are sort of sweeping the country, and you know it’s going to be Latino, and politics is probably going to change significantly.</u>
       <u who="SOLOMON">Oh of course.</u>
       <u who="COHON">Anyway, I taught at Berkeley. That’s another school, institution that I got in contact with, I guess, or they got in contact with me. It was interesting. They couldn’t—they had African-American, Latino and Asian faculty at Berkeley. I was not on the faculty there. They had to go outside to get a white guy to teach the course—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—on immigration because if they allowed one of the other groups to be the professor, the other two groups would have been upset, you know. If it would have been the Latino guy, the Asian and the African-American people would have been—you know. It was kind of weird, in a way. I showed up to teach my first class to a packed house, and there were as many faculty there as there were students. And I got peppered with questions by faculty. “Why don’t you”—“What’s this?” “Why aren’t you mentioning”—</u>
+      <u who="COHON">—on immigration because if they allowed one of the other groups to be the professor, the other two groups would have been upset, you know. If it would have been the Latino guy, the Asian and the African-American people would have been—you know. It was kind of weird, in a way. I showed up to teach my first class to a packed house, and there were as many faculty there as there were students. And I got peppered with questions by faculty. “Why don’t you”—“What’s this?” “Why aren’t you mentioning”—
+
+I said, “Look, this is the first class, I’m giving an overview.” [Chuckles.]</u>
       <u who="SOLOMON">[Laughs.]</u>
-      <u who="COHON">“I’m not, like, presenting the history of all of the different groups in terms of their coming here. You know, we’ll get to that during the course.” So after that first day of teaching, I felt like I was on a hot seat. I went to the dean. His name was Harry Specht. I said, “Harry, what the hell is this? I mean, I’m happy to teach, but I can’t, you know, go in there and keep responding to faculty that have had their feelings hurt because they weren’t selected to teach the course, when I’m trying to you know—” He said, “Don’t worry about it.” </u>
+      <u who="COHON">“I’m not, like, presenting the history of all of the different groups in terms of their coming here. You know, we’ll get to that during the course.” So after that first day of teaching, I felt like I was on a hot seat. I went to the dean. His name was Harry Specht. I said, “Harry, what the hell is this? I mean, I’m happy to teach, but I can’t, you know, go in there and keep responding to faculty that have had their feelings hurt because they weren’t selected to teach the course, when I’m trying to you know—” He said, “Don’t worry about it.” 
+
+So the next class—</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">—[cross-talk; unintelligible]. [Chuckles.]</u>
       <u who="SOLOMON">[Laughs.]</u>
@@ -407,7 +649,9 @@
       <u who="SOLOMON">I don’t think so, but that would be fantastic if you could.</u>
       <u who="COHON">Yeah. It’s not very organized. It’s sort of, it’s chronological. Yeah, I’ll send it to you when we’re done talking.</u>
       <u who="SOLOMON">Perfect. Thank you.</u>
-      <u who="COHON">Yeah, sure.</u>
+      <u who="COHON">Yeah, sure.
+
+I mean, I think I mentioned to—I’m trying to remember—is it Lucy? Lucy? Lucy? The girl that called me the first time?</u>
       <u who="SOLOMON">“Veri”? [Alexandra V. di Suvero, Class of 2016]</u>
       <u who="COHON">Mmm. no.</u>
       <u who="SOLOMON">Veri.</u>
@@ -415,15 +659,25 @@
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="COHON">I mentioned to her that I’ve got, you know, journal articles that I’ve written. They’re not very interesting, but they’re about, you know, like, the Vietnamese adaptation to this country and things. It may be of interest. I could send those too, if you want them, but—</u>
       <u who="SOLOMON">Of course! Yes, please!</u>
-      <u who="COHON">Okay, I’ll do that.</u>
+      <u who="COHON">Okay, I’ll do that.
+
+So, you know, this whole experience—my parents came around at the end, so to speak, after I got back. They used to—they got used to leaving a radio on at night, after I had gone to Vietnam. They’d listen to the news. They would lie in bed, listening to the news, and go to sleep. And when I came back, they couldn’t go to sleep without leaving the radio on. [Chuckles.] They just—they just left the radio on.
+
+And the postman in the town—if anything came in the mail from me to them during the time I was there, he would call them at like 6:30 in the morning and say, “You’ve got mail.” [Chuckles.] In order to let them know—</u>
       <u who="SOLOMON">[Laughs.]</u>
-      <u who="COHON">They would drive down to pick up—pick up letters or whatever, and tapes, stuff like that. [Chuckles.] Yeah. </u>
+      <u who="COHON">They would drive down to pick up—pick up letters or whatever, and tapes, stuff like that. [Chuckles.] Yeah. 
+
+I feel like I’m starting to run out of steam, and I don’t know where to go with the stories.</u>
       <u who="SOLOMON">Oh, no, that’s fine. I mean, if you have anything—</u>
-      <u who="COHON">And these different memories that come back about the— </u>
+      <u who="COHON">And these different memories that come back about the— 
+
+So the whole thing changed my life. This experience changed my life, is the bottom line, because becoming a leader, a reader, a teacher about refugees, the County of San Francisco hired me to work with their Child Protective Services. Do you know what that is?</u>
       <u who="SOLOMON">[No audible reply.]</u>
       <u who="COHON">CPS?</u>
       <u who="SOLOMON">Yes.</u>
-      <u who="COHON">So when people are reported abusing or neglecting their children, they have a CPS investigation. Someone goes out to investigate if they’ve in fact abused or neglected their kids. One of the healing practices for Vietnamese people, who believe that the wind possesses certain parts of the body, that wind causes illness—so what you do is you produce an ecchymosis. You bruise the skin of the body to allow the wind and the illness to escape. And that involves sometimes pinching the skin very hard, on the temples, or on the forehead, taking a comb or a dull knife and rubbing it so it produces a bruise, or along the ribs on the back, to produce, like, streaks of bruises on the back. </u>
+      <u who="COHON">So when people are reported abusing or neglecting their children, they have a CPS investigation. Someone goes out to investigate if they’ve in fact abused or neglected their kids. One of the healing practices for Vietnamese people, who believe that the wind possesses certain parts of the body, that wind causes illness—so what you do is you produce an ecchymosis. You bruise the skin of the body to allow the wind and the illness to escape. And that involves sometimes pinching the skin very hard, on the temples, or on the forehead, taking a comb or a dull knife and rubbing it so it produces a bruise, or along the ribs on the back, to produce, like, streaks of bruises on the back. 
+
+So kids were showing up in schools with bruises, and the teachers would say,—</u>
       <u who="SOLOMON">Ah!</u>
       <u who="COHON">—“What happened? Who did this?” And they would say, “It was my parents.” So the teachers are required by law in California to report suspected abuse. And the teachers didn’t know anything at the time the refugees first came.</u>
       <u who="SOLOMON">Right.</u>
@@ -431,38 +685,74 @@
       <u who="SOLOMON">Right.</u>
       <u who="COHON">—that these people were trying to cure this. So it was—the county hired me as a consultant, so I would go out with CPS kids, any refugee kid, to try and explain to both parties what the law was here and why the practice of healing in Vietnam wasn’t a practice that could be condoned or followed here because it looked like they were really—they were really harming the kids, you know. It didn’t always work well, but it happened. I mean, there were some real tragedies that occurred around this. There was a Lao Hmong man that was—his children were removed because of a particular healing practice that he tried with them. And he hung himself, the father did.</u>
       <u who="SOLOMON">Oh!</u>
-      <u who="COHON">It was—you know, really terrible, terrible things that--that happened. So I became a consultant to the county Child Protective Services, I’d have to go back and look and see when that happened.</u>
+      <u who="COHON">It was—you know, really terrible, terrible things that--that happened. So I became a consultant to the county Child Protective Services, I’d have to go back and look and see when that happened.
+
+But then they starting using me in different ways. Like, the woman who directed Children and Family Services for the county in the ‘80s, the mid to late ‘80s—there were more and more babies that were showing up drug-exposed, cocaine- exposed babies, and many of them turned out—the fear was that they were going to be HIV positive because their parents were also—they were infected with HIV.
+
+So the county—this woman—her name was Lillian Johnson, asked me to help her set up a program for taking care of drug-exposed babies, which I did. And it became a program that’s known as Baby Moms, and I think it’s still operating at the county level in San Francisco, to take care of not drug-exposed babies anymore, HIV positive babies, but to take care of medically fragile infants.
+
+So we set up a series of medically fragile foster homes in the city so that the babies didn’t have to be kept at the NICU—the neonatal intensive care unit, it was called.</u>
       <u who="SOLOMON">Mm-hm. </u>
-      <u who="COHON">—which costs thousands of dollars a day, but they could be taken care of by foster parents who received special training. We had a team of people that had a pediatrician and a bunch of nurses, but they received special training for taking care of each infant’s particular problems. And they got paid more for doing this. So it was specialized, medical foster care. And that program—as I say, I think it’s still—it’s still going at the county. I think—I don’t know how many years I was involved with that, a number of them, for sure. Quite a number of them.</u>
+      <u who="COHON">—which costs thousands of dollars a day, but they could be taken care of by foster parents who received special training. We had a team of people that had a pediatrician and a bunch of nurses, but they received special training for taking care of each infant’s particular problems. And they got paid more for doing this. So it was specialized, medical foster care. And that program—as I say, I think it’s still—it’s still going at the county. I think—I don’t know how many years I was involved with that, a number of them, for sure. Quite a number of them.
+
+And then Lillian went to work at a place called the Edgewood Center for Children and Families, and left the county. But I had helped her organize another program at the county, which is called Kinship Care. Kinship caregivers are grandparents, usually, [cough] excuse me, who were taking care of their grandkids because the parents are HIV positive, deceased, drug-related, alcoholic, incarcerated. The biological parents are not available, and there are no available relatives that can care for the kids. So we set up a whole program of grandparenting, caregivers. And again, it was called Kinship—Kinship Care.</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">And that program is still running at the county level, and also Lillian then went to the Edgewood Center for Children and Families and got me to be hired over there as a consultant to them, to Edgewood, and so I was working with Edgewood for a number of years. I actually worked at Edgewood as a consultant for nineteen years. That’s where I retired in 2011.</u>
       <u who="SOLOMON">Oh, wow.</u>
       <u who="COHON">Yeah. And I set up a number of programs for them related to Kinship Care, et cetera, and we got grants. All this time—I should go back and say, you know, the grant that I wrote in 1977 for setting up this Southeast Asian Mental Health Project? That was, like, the first grant that I wrote. I don’t know how many I did since then. That kind of became a specialty of mine, is writing grants—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—and setting up programs to support different social—social problems and try to ameliorate the social problems. So Edgewood was the last place that I worked.</u>
+      <u who="COHON">—and setting up programs to support different social—social problems and try to ameliorate the social problems. So Edgewood was the last place that I worked.
+
+And then just to round out my career track, I was asked to teach a course on grant writing at a graduate school that works with awarding a Ph.D. in infant and early childhood mental health and developmental disabilities. This was started by a guy named Stanley Greenspan, and it’s a particular model of working with autistic kids called the DIRFloortime® model. It’s a relationship-based model. It’s not like a behavioral intervention; it’s just more Skinnerian.
+
+I don’t know if you know [B. F.] Skinner’s work, but it’s got to do with reinforcement schedules, reinforcing—</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">—behaviors that you want to increase or aversive stimuli to behaviors that you want to decrease. Stanley’s model—Stanley Greenspan’s model is much more, I would say, humanistic, more relationship based but much less easy to research because you couldn’t really count intervention types of things that you’re doing, which was possible if you were doing a behavioral intervention.</u>
+      <u who="COHON">—behaviors that you want to increase or aversive stimuli to behaviors that you want to decrease. Stanley’s model—Stanley Greenspan’s model is much more, I would say, humanistic, more relationship based but much less easy to research because you couldn’t really count intervention types of things that you’re doing, which was possible if you were doing a behavioral intervention.
+
+Anyway, this woman that I knew—I have an autistic daughter. My oldest child is autistic, severely autistic, so she will never live independently. And she needs help with a number of different things: dressing and et cetera, et cetera, et cetera. This woman was the dean, the educational dean of the graduate school that Stanley started in California, to award a Ph.D. in infant and early childhood mental health and development and disabilities.
+
+And he got an incredible faculty. He was a very well-known person. Stanley died, but he had developed throat cancer, so he never really lived to see his dream school delivering. I started teaching a course there on grant writing—</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="COHON">—and the then president of the school—who was an M.D., psychiatrist, pediatrician from Chile—he liked me and asked me if I would help them get accredited. It was an online school. The students came from all over the world. There were about 90 students that they had that were paying for this Ph.D., but the Ph.D. was approved but not accredited. There’s a difference between the two. It was approved, and the school had been approved in California to offer this Ph.D., but it had not been accredited. And a lot of the students didn’t really need accreditation, but a number of them wanted it. And when they signed up to enroll in the school, it was all spelled out very clearly that the school was approved, not accredited, but that the school was seeking accreditation for students and that they hoped to have it within a period of years. Unspecified.</u>
+      <u who="COHON">—and the then president of the school—who was an M.D., psychiatrist, pediatrician from Chile—he liked me and asked me if I would help them get accredited. It was an online school. The students came from all over the world. There were about 90 students that they had that were paying for this Ph.D., but the Ph.D. was approved but not accredited. There’s a difference between the two. It was approved, and the school had been approved in California to offer this Ph.D., but it had not been accredited. And a lot of the students didn’t really need accreditation, but a number of them wanted it. And when they signed up to enroll in the school, it was all spelled out very clearly that the school was approved, not accredited, but that the school was seeking accreditation for students and that they hoped to have it within a period of years. Unspecified.
+
+So the president asked me if I would become a provost, like the executive vice president of the graduate school? And—</u>
       <u who="SOLOMON">Wow.</u>
       <u who="COHON">—to get them accredited. And she said to me, “It’s not gonna be a problem because we’re already approved, and there’s just a few more steps that you need to go through to get accreditation.” And I said, “Well, send me a job description for what a provost does. Because I had no idea, really.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">She sent me a job description, and it didn’t seem too difficult, and I knew that what they wanted me to do was to get them accredited, so I took that job as the executive vice president/provost or whatever. Executive vice president, I think they called it.</u>
+      <u who="COHON">She sent me a job description, and it didn’t seem too difficult, and I knew that what they wanted me to do was to get them accredited, so I took that job as the executive vice president/provost or whatever. Executive vice president, I think they called it.
+
+Anyway, I went to the first meeting of the Western Association of Schools and Colleges, which is the accrediting body in California, in the western United States. It accredits all schools that wanted to be accredited with offering degrees. It’s called WASC, W-A-S-C. So I went to my first WASC meeting, and I was there maybe ten minutes, and I realized that the school would never be accredited because we didn’t have—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">—any core faculty. We didn’t really have a very stable financial situation. I mean, there were just too many ifs, ands or buts that there was no way that the school would get accredited. I stayed—I mean, I stayed at the meeting and I talked to the WASC people about our situation and stuff, and they suggested that what you do is we sell the school to an accredited school.</u>
+      <u who="COHON">—any core faculty. We didn’t really have a very stable financial situation. I mean, there were just too many ifs, ands or buts that there was no way that the school would get accredited. I stayed—I mean, I stayed at the meeting and I talked to the WASC people about our situation and stuff, and they suggested that what you do is we sell the school to an accredited school.
+
+So I went back to the board of the ICDL graduate school. ICDL stands for the Interdisciplinary Council on Development and Learning, which is Stanley’s—Stanley’s school, Stanley’s nonprofit that he started in Maryland, but then he got this graduate school with the same name based in California.
+
+So they said get the school and the curriculum taken over by an accredited school. And I went back to the ICDL graduate school—ICDL board in Maryland, and I said, “You know, I think we have two choices: We close the school, which will leave a lot of very unhappy students that had been paying for their tuition”—students were paying full tuition—</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">[cross-talk; unintelligible] because they couldn’t get titles for any federal grants because the school is not accredited. So you close the school. You continue to try and butt your head against the wall and get accredited to WASC, which I don’t think is going to happen, which they basically told me wouldn’t happen, or we sell the school. So the board came back with the decision that we sell the school.</u>
+      <u who="COHON">[cross-talk; unintelligible] because they couldn’t get titles for any federal grants because the school is not accredited. So you close the school. You continue to try and butt your head against the wall and get accredited to WASC, which I don’t think is going to happen, which they basically told me wouldn’t happen, or we sell the school. So the board came back with the decision that we sell the school.
+
+The then-president, from Chile, resigned. So they turned to me and said, “Will you be the president of the graduate school?” I said, “Look, I don’t want to do this. I never, you know, really wanted to be the executive vice president. You know, this is a set of circumstances that”—and it went round and round.
+
+And students started calling. “Please, we need to be accredited. We gotta—“, you know. And I finally said okay. so I became the president of the ICDL graduate school.</u>
       <u who="SOLOMON">[Chuckles.]</u>
-      <u who="COHON">And it took me a year and a half or two years—I don’t know what the timeline was—but in any case, eventually, after I can’t tell you how many meetings with different chancellors and presidents and provosts and et cetera at other schools, trying to sell this graduate school, I finally found a graduate school in Santa Barbara called the Fielding Graduate University. It has an APA-approved [American Psychological Association] psychology program, and it is accredited, by WASC. </u>
+      <u who="COHON">And it took me a year and a half or two years—I don’t know what the timeline was—but in any case, eventually, after I can’t tell you how many meetings with different chancellors and presidents and provosts and et cetera at other schools, trying to sell this graduate school, I finally found a graduate school in Santa Barbara called the Fielding Graduate University. It has an APA-approved [American Psychological Association] psychology program, and it is accredited, by WASC. 
+
+So we sold the graduate school and the curriculum. And many of the faculty—and I think at that point, of the 90 students, we had about 65 that were still involved. They transferred, and they graduated this year, two Ph.D.s, but needed their dissertation.</u>
       <u who="SOLOMON">Wow.</u>
-      <u who="COHON">I’m in touch with the school, but I don’t do anything per se with them. ICDL, the nonprofit organization that’s in Maryland, hired me to do some consulting for them on research and grant writing, which I did for four months—no, excuse me, I did it for almost a year And then they were starting to get low on funds, and I said, “Well, you know, when you get more money, if you want to hire me back, do that.”</u>
+      <u who="COHON">I’m in touch with the school, but I don’t do anything per se with them. ICDL, the nonprofit organization that’s in Maryland, hired me to do some consulting for them on research and grant writing, which I did for four months—no, excuse me, I did it for almost a year And then they were starting to get low on funds, and I said, “Well, you know, when you get more money, if you want to hire me back, do that.”
+
+So I left there in October, November of last year, and then in January, just this month, in fact I had a phone call with him yesterday, or the day before yesterday. And I see that he just sent me a long e-mail. The guy that was the CEO of the ICDL graduate school wants me to come back and do some part-time consulting [unintelligible], which will mean just, you know, some hours a month. It’s not like a job-job.
+
+So I’m pretty much retired—</u>
       <u who="SOLOMON">Mm-hm.</u>
       <u who="COHON">—at this point. But that’s sort of the career.</u>
       <u who="SOLOMON">Retired in California. [Chuckles.]</u>
       <u who="COHON">[Chuckles.] Yeah, exactly, exactly. So I guess that sort of does it, I guess, huh? I mean, I don’t know if you have any questions about particular time periods and want me to elaborate on them, I’m happy to go back and fill in where you would like.</u>
       <u who="SOLOMON">No, I think—I mean, we are unfortunately out of time at this point, anyway.</u>
       <u who="COHON">Yeah. Sure, sure.</u>
-      <u who="SOLOMON">But thank you—thank you so much for sharing your story.</u>
+      <u who="SOLOMON">But thank you—thank you so much for sharing your story.
+
+[End of interview.]</u>
     </body>
   </text>
 </TEI>
