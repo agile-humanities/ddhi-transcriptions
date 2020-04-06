@@ -1,0 +1,573 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="FRIEDMAN"/>
+        <person xml:id="CUMMINGS"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="CUMMINGS">So this is Emily Cummings. I’m sitting with Dr. Matthew [J.] Friedman at the VA Hospital [White River Junction Veterans Affairs Medical Center] in White River Junction, Vermont. It’s November 10th, 2015.
+
+So first I just want to say thank you for being here with me today. So let’s just start with some biographical information. Where did you grow up, and what were your parents’ names?</u>
+      <u who="FRIEDMAN">I grew up in Newark, New Jersey. My father’s name was Harry Friedman. He was a general practitioner, neighborhood practice in Newark. My mother’s name was Gertrude Plain, and then she became Gertrude Plain Friedman. Both of them were from Newark. 
+
+What else do you want to know?</u>
+      <u who="CUMMINGS">So where you grew up. Were you in a suburb or—</u>
+      <u who="FRIEDMAN">No, we were in the city. It was a very urban experience, you know, and I—I enjoyed growing up in Newark. I think one of the interesting things for me growing up in Newark was we were only ten miles from New York City, so if I wanted to go to the art museum or the ballet or—you know, I’d just get on a bus, and I’d get to New York.
+
+And what happened in Newark, when I grew up, was growing up, which was in the ’40s—hang on.
+
+[Irrelevant conversation with another man not transcribed.]
+
+One of the things I do is I do a lot of interviews with the press. Last week I spoke to U.S. News and World Report, New York Times, things of that sort. So this is probably something like that.
+
+So one of the interesting things about growing up in Newark was at that time—because I was born in 1940—we had the largest percentage-wise African-American population of any city north of the Mason-Dixon line, so there was a very thriving black culture in Newark. And I played sax, and I played in jazz bands and things of that sort. And so one of the things that Newark was great for was—was gospel music. So I used to go to African-American churches. In fact I got my African-American friends to go with me. They didn’t want to be caught dead in a black church, but the music was so compelling, so—so that was a really important thing for me, growing up in Newark.
+
+And growing up, you know—I mean, big Eastern cities. We were a collection of different ethnic enclaves. The Italians were in the north; the Poles were in the South; the Jews were on the West Side. I mean—and so it was very, very interesting in that regard.</u>
+      <u who="CUMMINGS">Mm-hm. So, then, you enjoyed growing up there.</u>
+      <u who="FRIEDMAN">I did.</u>
+      <u who="CUMMINGS">Okay. And did you have any siblings?</u>
+      <u who="FRIEDMAN">I did. I had a brother two years younger than me. </u>
+      <u who="CUMMINGS">And so were you and your brother close growing up?</u>
+      <u who="FRIEDMAN">We were exactly two years apart. We were very close, yeah. He died in—very young. He was 23. He was in an automobile accident.</u>
+      <u who="CUMMINGS">Okay. So when you went to high school, did you go in Newark, or did you go—</u>
+      <u who="FRIEDMAN">Yes.</u>
+      <u who="CUMMINGS">Okay. And what was that experience like?</u>
+      <u who="FRIEDMAN">It was good. You know, I mean, I was—I went to a small private school, and I was able to—you know, I played football. I, you know, was on the newspaper. I was editor of the yearbook and, you know, did all kinds of stuff. I had a good—I had a good—a good time in high school.</u>
+      <u who="CUMMINGS">Okay. And you mentioned that your father was a general practitioner?</u>
+      <u who="FRIEDMAN">Correct.</u>
+      <u who="CUMMINGS">So did you know that you wanted to go into medicine, or—</u>
+      <u who="FRIEDMAN">No. In fact, I—he really wanted me to be a doctor. I mean, he—he was a—he was a great doctor, and he loved it, and he couldn’t imagine why anyone who could become a doctor, wouldn’t want to be it. But he pushed me too hard, and so I pushed back, and basically I didn’t want to become a doctor. And ironically I became one and have enjoyed it, you know. So it’s a long, tedious story, but—and he died before I became a doctor. He didn’t—he died believing I wasn’t going to be a doctor. But he just pushed too hard, and I was made of the same stuff he was made of, and I pushed back even harder.
+
+Keep asking me. I’m just going to get some water. [He moves away from the microphone.]</u>
+      <u who="CUMMINGS">So throughout school, were you—I mean, did you know that you wanted to go to college from—</u>
+      <u who="FRIEDMAN">[Back at microphone] Oh, yeah. Yeah, that was—in fact, I remember a funny story. When I was a kid in the first grade, and a couple of us were outside, and we were playing marbles, and we were talking about—so I was—what?—six years old, something like that—I was talking about what I was going to be when I grew up, and I—and I wanted to be a cowboy. And so what I told everyone—I says—I said, “I’m gonna go to college, and then after college, I’m gonna come back and be a cowboy.” You know, so for me, going to college—I mean, education was—was really very, very highly prized.
+
+My father—as I said, my father was a doctor. He wasn’t—and he loved being a doctor. He wasn’t really an intellectual at all. But my mother was. My mother read literature. She played piano. She loved art. She was the one who really imbued me—and she, herself, was an actress, an amateur but a very good one. And so—so I basically—you know, there’s—there’s both of them in me, and probably some uncomfortable integration, but they both influenced me quite greatly.
+
+You know, in the ’50s—as a history major, you probably read about this, but the whole communist fear, the [Senator Joseph R.] McCarthy hearings and the House on Un-American Activities [sic; House Un-American Activities Committee - HUAC]. And they came to Newark, and a number of my friends’ parents, who were teachers who’d had socialist leanings, lost their jobs. I mean, so it was—it was a scary, scary time if you—if you were an intellectual willing to challenge. And that’s the environment I came out of.
+
+But the place where political dissent was—was not really camouflaged but was kind of permissible was in science fiction literature, so many of these scenarios on different planets were, you know, thinly disguised issues about, you know, totalitarianism, conformity of thought. And those are [the] kinds of things I could share with my mother.
+
+So I had a pretty good upbringing. I went to Dartmouth. I’m a Dartmouth alumnus. I was actually the first math-psychology major that Dartmouth ever had. And [Robert Z.] “Bob” Norman, who’s still around—I think Bob is now in his 80s—I just saw him two weeks ago at the opening of the Planned Parenthood. Bob was my freshman math teacher.</u>
+      <u who="CUMMINGS">So when you were looking at schools, how did you choose—or how did you know where you wanted to go to school?</u>
+      <u who="FRIEDMAN">Well, you know, I mean, I was 17. I didn’t know anything, really. I had an older cousin, who was five years older than me, who went to Dartmouth. And actually he did Dartmouth in three years and then went to Dartmouth Medical School [now the Audrey and Theodor Geisel School of Medicine at Dartmouth] and then finished up at Harvard [Medical School]. And I—and that’s really why I applied. I mean, he was sort of the closest thing I ever had to an older sibling. 
+
+And there was a competitiveness both between his mother and my mother as well as between him and me, and all the rest of it. But, you know, growing up—you asked me earlier—growing up in a—in a—in a urban environment and loving it, you know—you know, I mean, when I came up and when I saw the Dartmouth campus for the first time, which was at his graduation, I mean, I was just—I was just knocked over. I just thought it was just beautiful. So that’s really why I came here.</u>
+      <u who="CUMMINGS">Okay. So you get to Dartmouth, and did you know what you wanted to study? You said that sort of in the beginning you were pushing against—</u>
+      <u who="FRIEDMAN">No, I—I—I didn’t know what I wanted to study. I knew—have you ever read Look Homeward, Angel by Thomas [C.] Wolfe?</u>
+      <u who="CUMMINGS">No, I haven’t.</u>
+      <u who="FRIEDMAN">Well, Thomas Wolfe, a great writer, who grew up in Ashville, North Carolina, described his—his first time when he got a scholarship of some sort. I think he was at University of North Carolina. Maybe he was at Duke [University], but I think it was North Carolina University. And he described his absolute joy of—of being, you know, in a place where he could really learn. I know it sounds a bit corny, but I really was very, very thrilled about—about learning, about knowledge, and so I—and I was pretty omnivorous. I mean, I—I love literature. I had some pretentions of being a writer of fiction, poetry. I think that—I had two professors, maybe three—I had two professors who really influenced me.
+
+One was [Albert H.] “Al” Hastorf, who was the chair of psychology, who—I took my Psychology 1 course and really hated it. It was a terrible course, and the lectures were awful. And even though I had thought I wanted to be a psychology major, I was really turned off by it. But then I took a social psychology course in my sophomore year, and it was Al’s course. And he was—he was—he was a nationally known—he would—he left Dartmouth shortly after my graduation and went out to Stanford and eventually became a dean out there.
+
+And I just was—it was so exciting, psychology, and so I became—so I decided I wanted to become a psychology major. You know, each class, at least when I was going to Dartmouth—I mean, each class was—there was a critical mass of people, and in my class—you know, a lot of the really most interesting and exciting and smartest people were—were—were in psychology and social sciences and maybe sociology. So that was an attraction as well.
+
+And then the second person who influenced—but I thought I was going to be an English major because I love literature and I wanted to write and all the rest of it. And I was writing. I was writing, you know, my own stuff.
+
+And then I took, in my—so I couldn’t decide between being a philosophy major or an English major, and then I took—in the spring of my sophomore year, John [G.] Kemeny, who was the chair of mathematics, later went on to become the president of Dartmouth, taught a course called The Philosophy of Science, using a textbook that he had written, actually. I don’t know if they still use it. It was a wonderful book. I mean, each chapter began with a quotation from Alice in Wonderland [sic; Alice’s Adventure in Wonderland]. In fact, it’s right on my bookshelf. I’m looking right at it.
+
+And John—and—and—and—and—and—and Kemeny’s course convinced me that I didn’t want to—I didn’t want to philosophize about science, I wanted to do it. And the science I wanted to do was psychology. And he had just created—I guess he and Hastorf had just created the psych-math major, and I—and a good friend of mine signed up, and then my good friend became a senior—do they still have senior fellows at Dartmouth?</u>
+      <u who="CUMMINGS">Yeah, I think so.</u>
+      <u who="FRIEDMAN">Yeah. So my friend became a senior fellow, and so I was the first psych-math major at Dartmouth. And that really—it really changed my life, I think, in many ways. I think that—I think had I followed the normal course, despite all my yelling and screaming and anger at my father, you know, I would have majored in psych-philosophy or I would have majored in English. I would have gone straight into medical school, and I would have become a doc. And even though I did become a doc, my road to that was a much longer road, I think a much more interesting one, and my whole career has been entirely different as a result of it.</u>
+      <u who="CUMMINGS">All right. So before we move past Dartmouth, I just want to—so this is in the late ’50s that you’re a Dartmouth, early 60s?</u>
+      <u who="FRIEDMAN">Yeah, I graduated in 1961, so I matriculated in ’57 and graduated in ’61.</u>
+      <u who="CUMMINGS">So that’s kind of before Vietnam was picking up. Did you have any sense of what was going on or what might, you know, turn in the later years?</u>
+      <u who="FRIEDMAN">Well, so for me—so when I graduated Dartmouth—and I am answering your question,—</u>
+      <u who="CUMMINGS">[Chuckles.]</u>
+      <u who="FRIEDMAN">—in my own, tortuous, circuitous way—I had absolutely no desire to be in the military. And the—the military event that occurred right after my graduation was the crisis in Berlin [in 1961], the—the Berlin Wall and the Berlin airlift—you know, airlifting supplies into—into Berlin. And I was almost—I was almost drafted. Actually, I was almost drafted four times. The last time, the physicians’ draft. At that point, it was Vietnam, but that—that was ten years later, in the ’70s, but Vietnam—I  mean, people—it was Indochina then—it was French Indochina—I mean, he wasn’t even Vietnam at that time, at least not to me.
+
+So—so I was anti war, I was anti military, and I was—I was politically active, too, but the politics at that time was more—was more not anti war so much as civil rights. I was involved in [the] civil rights movement, you know, early on. Even did some stuff down in the South. I did some things which we could talk about if you’re interested.
+
+But—so—so, yes, I wasn’t—I wasn’t thinking, but—but what I had decided—you know—I mean, I was—I wasn’t at the very top of the class, but I was—I was a very good student, and I was way up there, and I—I’m—I’m pretty sure, had I wanted to, I could have gotten one of those Marshall Scholarships or something to study abroad.
+
+But I didn’t know what I wanted to do, except that I wanted to write a book. And so I refused to go to graduate school, and I—I got an apartment in New York, the Lower East Side. I was working on my book, and I got a job, thanks to my old mentor, Al Hastorf, who had friends at the Association for the Aid of Crippled Children. So I got a job as a research assistant. So I was living in New York, I was working there. I was working on my book.
+
+
+
+And then I got this letter from my draft board, and I didn't want to go into the service. I mean, it’s really ironic. I mean, you’re talking to a man who has devoted 42 years serving our nation’s veterans, who is the spouse of an in-country Vietnam veteran, who was in a MASH [Mobile Army Surgical Hospital] unit, who was and remains—remains anti war—I hate war. In fact, probably my hatred of war is greater because of all the work I’ve done with veterans, seeing how it has destroyed their lives, destroyed their minds, destroyed their dreams, their futures. So when I say I hate war, I know what I’m talking about.
+
+But—I lost the train of—what was I saying?</u>
+      <u who="CUMMINGS">[No immediate reply.]</u>
+      <u who="FRIEDMAN">I’m trying to remember what I—because I was trying to make a point.</u>
+      <u who="CUMMINGS">You were in New York, working at—</u>
+      <u who="FRIEDMAN">Ah, ah, yes. And I got the letter from my draft board, and I went to—and I had my two mentors at the Association for the Aid of Crippled Children. One was an Englishman who worked in charitable—he was a psychol- —he was a sociologist. But the other guy was a man named “Herb” [Herbert G.] Birch, who was a very famous—he was a psychologist who had—a very famous psychologist, who had gone back to medical school to become a pediatrician. He was really interested in—in how kids develop their different sensory capacities, so he did research with kids who had been blind from birth, deaf from birth—so that’s why [unintelligible].
+
+And Herb had an appointment at—at Einstein Medical School [sic; Albert Einstein College of Medicine]. That’s where his office was. But also at Yeshiva University, which was the parent university in which the medical school was, sort of like how [the Audrey and Theodor] Geisel [School of Medicine] is part of Dartmouth, that sort of thing.
+
+And so Herb made a phone call, and I didn’t know—I didn't want to go to medical school. I was still, you know, too much having issues with my father. But I wanted—so I went into—I got into Yeshiva Medical School—I mean graduate school in psychology, so I had a—a—a—a semester of graduate work, which was very in- —which was sort of interesting. But I didn’t like it very much.
+
+And I went back to Herb—because the letter from the draft board came in I think September. He got me into graduate school, and then in December I said, “You know, I—this isn’t for me. Maybe I’d be better off in the Army.” He said, “You’re crazy.” He said, “Why don’t you go over to the medical school and talk to them about graduate studies?” And I did.
+
+Now, one of the other threads in this thing was that the first Sputnik went up in 1957, so I was an undergraduate at that point in time. And one of the results of that was that we had to catch the Russians, so there were all kinds of monies out there to support students that wanted to do graduate work in science.
+
+And I realized that—so I went over to Einstein, and I discovered that there were these—these grants, so that I could—I could be a fellow. I mean, I could support myself. And so one of the main reasons I went to graduate school—again, for the wrong reason—was so I could be economically independent of my parents. And I did that. I was also married at this point in time.
+
+And so—so I went into graduate school to [chuckles] stay—stay out of the military and to be economically independent, not be- —and I—I got—it was very exciting for me, you know? And I had some wonderful mentors, and I really learned about—about neuroplasticity, about how the brain structure and function can be altered. At that point—at that time, my interested was in physical dependence and tolerance. Some of the first programs for drug addicts in New York City were being set up at that time, and one of my mentors, who later went on to lead president [Richard M.] Nixon’s War on Drugs—he was my thesis—dissertation adviser. And so I was, you know, sort of very much involved in that, and—and I got very excited about that.
+
+Got my dissertation—well—and then in—and then I decided—so this is the ironic piece. So I was really very, very excited about what I was doing. The science was just wonderful. And what they had at Einstein was an M.D.-Ph.D. program. I think it was one of the first of its kind, and this is early ‘60s. And I decided that I—
+
+And so I was in pharmacology, so to do pharmacology, you had to do the first two years of medical school. The way it worked, you did the first two years of medical school, then you—then you did your dissertation research, and then after you got your Ph.D., you went back in and took the third and fourth year. So for me,—so I was doing my research, and I had—I had run my own lab for three years. So it was a big decision: Well, did I want to—really, did I want to go back and be a student, you know? And I decided I did. I wanted to get an M.D. so I would have a license to do clinical research. So, again, I went back into medical school, primarily as a scientist, so that I could do the research.
+
+And then, you know, as has often been the case in my life, a very funny, unexpected thing happened to me, which was I just—I just loved being a doc—you know, I mean. So I love seeing patients. I was totally unprepared for that, you know. And by this time, my father had died, so he didn’t realize that—one of my regrets is that I—you know, I never was able to have some of the conversations with my father that I would have been able to have if he’d lived a little longer.</u>
+      <u who="CUMMINGS">Mm-hm.</u>
+      <u who="FRIEDMAN">So, you know, I—I love—I loved the last part of—I mean, no one really loves medical school, I don’t think, but I loved taking care of patients. And so I determined that I wanted to do both.
+
+At this point, I had left New York because my health had—had failed. I had developed asthma due to urban air pollution. Again, people were just starting to clean up the cities, and New York was—was not a great place to live. So I went out to Kentucky, where the Addiction Research Center was, and I was able to continue my research. I was able to teach pharmacology while I was a third-year medical student—although one of the biggest mistakes I made was I—I wrote my dissertation while I was a third-year medical student, too. I decided—third-year medical student. I was teaching pharmacology, I was writing my dissertation, I had a wife and a young baby, so it was a pretty rugged, rough year at that time.
+
+Got my M.D. in—so I defended my dissertation—I got my Ph.D., and actually I was a third-year medical- —in December of ’67. I came east to defend my dissertation. And then I got my M.D. in ’69.
+
+And at that—you know, so when I was in medical school, I had to make a decision. I knew whatever I wanted to do would have to do with the brain, so it was either going to be neurology or psychiatry or maybe some pediatrics. And I felt that neurologists could make very, very precise diagnoses, but then they couldn’t do much except, you know, watch the patient deteriorate, except for epilepsy and Parkinsonism, where psychiatry—you know, the knowledge base was really not that great, but all kinds of—I mean, the problems were fascinating.
+
+So I decided to go into psychiatry. Again, I was interested at that point in physical dependence, tryin’—How does the brain—you know, if you’re taking morphine every day or you’re an alcoholic—I mean, how does that affect how your brain is operating, and then what happens in recovery? So it was really about neuroplasticity. It was about how brain function can—can change, given changing circumstances.
+
+And then I decided—and I was also doing community action work. I was down in Appalachia. I set up some clinics down there while I was a medical student. And almost stayed in Kentucky. So at this point, it’s 1969, ’70. It was a real exciting time to be down in Appala- —there were a lot of radical Catholics, defrocked nuns and priests who were doing, you know, social action, and I was, you know, right in—and they were all my friends.
+
+And there was a hospital on the Tennessee-Kentucky border that they had built out of funding, and they couldn’t get a doctor to take care of it, so I went to Washington [D.C.]. I paid for it on my own dime. I said, “Look, I will run this hospital for you, and I’ll make a five-year commitment, but you have to promise me to get the Selective Service [System] off my back.” I said, “I hate this war in Vietnam.”
+
+With my background in neuropharmacology, I was afraid they would put me in chemical warfare, because they were doing the LSD [Lysergic acid diethylamide] experiments. I mean, if I had been drafted, I would have gone to Canada. I mean, I felt that strongly opposed to the war. I—I—I—I demonstrated against it.
+
+And they said, “We can’t do it. You know, we’re HHS [U.S. Department of Health and Human Services]. They’re DoD [U.S. Department of Defense]. We can’t—we can’t protect you.” And I said, “Well, if you can’t protect me from the military service, I’m not gonna run your hospital.” And then I came east, and I decided I was going to do [mumbles].
+
+So at that time, still, psychiatry was primarily dominated by psychoanalysts. Most of the important department chairs were psychoanalysts. So I decided, in my usual catastrophic way, that the only—I would only become a psychiatrist if I could go to the Mass General [Massachusetts General Hospital, MGH], not because it was the MGH and Harvard but because the chair, Leon Eisenberg, was one of the most famous anti-analysts in the country.
+
+And I got accepted to the MGH. I couldn’t get the guarantees that I needed to stay in Kentucky and Tennessee, and so I became a psychiatrist. I mean, if they had been able to protect me—you know, if we’d had anything like the National Health Corps that we have now, you know, I would have joined that, and I would have been—and they would have been thrilled to have someone—and the hospital was empty. They needed a doctor. I mean, I would run it for them. I’d probably still be in Kentucky and Tennessee.</u>
+      <u who="CUMMINGS">So can you tell me a little bit more about how that developed your hatred of the war in Vietnam and your sort of understanding of where you would fall into it if you were drafted?</u>
+      <u who="FRIEDMAN">I don’t understand your question.</u>
+      <u who="CUMMINGS">So sort of when you were going through your medical school—</u>
+      <u who="FRIEDMAN">Right.</u>
+      <u who="CUMMINGS">—or going through research and things, you developed this opinion about the war in Vietnam, that it was bad, that you would go to Canada if you weren’t—if you were drafted. Can you tell me a little bit more about that process?</u>
+      <u who="FRIEDMAN">Well, I’m thinking back—you know, I’m thinking back at Dartmouth. I mean, at Dartmouth—and one of the things at Dartmouth when I was there—Dartmouth had a very highly regarded Navy ROTC [Naval Reserve Officer Training Corps]. In fact, people came to Dartmouth because they wanted to go into the Navy, and they wanted to go to an Ivy League school and be prepared for the Navy. They’d come to Dartmouth for—for that reason.
+
+And so I was protesting against war from—you know, from a very early age. I mean, I—I—I hated war, even though I was just a kid; I didn’t really understand it the way I, you know, have come to understand it. And to me, Vietnam seemed to be—and you have to remember, I mean, I was born in 1940, so—and my father served in World War II. And so—“the good war,” you know, right? World War II. I mean, getting rid of—getting rid of [Adolf] Hitler, you know, and certainly being—being—being Jewish and, you know, having, you know, six million Jews sent to the ovens, and actually having some—some—some family that were killed in the war.
+
+So war was something that, you know, was part of my consciousness, you know, from a very, very early age. I think that—and I—and also, knowing myself as a fairly anti-authoritarian individual, I didn’t think I would do very well saluting a master sergeant that wanted me to clean a latrine. I just didn’t think that that was—that I was built emotionally, constitutionally for that. I just thought I would make a terrible soldier or a sailor or a Marine or what have you.
+
+But Vietnam seemed to be—you know, unlike World War II and, arguably, Korea [the Korean War], which were the wars of my—my lifetime, you know, we seemed to be interfering in a civil war. There didn’t seem to be any—any moral purpose for us to interfere except for, you know, the geopolitics of the Cold War. I mean, it was just a proxy war between us and the Russians and the Chinese, too, of course. And people were getting killed. And people were getting maimed. And for nothing, in terms of—that’s how I felt then; that’s how I still—that’s how I still feel.
+
+And I didn’t want to be a part of it. And I felt so strongly that, as I said, I was—and then, knowing, with my skill set, now that I was, you know, I wasn’t some—some—you know, psych-math major out of—straight off the boat from Dartmouth—at this point in time, I was a—I was an expert in—in how drugs can effect the brain and behavior and emotions. And I knew about the research that was going on at Fort Detrick [Maryland, the center of the U.S. biological weapons program from 1943 to 1969.].
+
+And I was, and I think realistically, afraid that if—if the military ever got their hands on—that’s where I would be assigned. I mean, because that was something I could do. I wouldn’t have been a very good artillery officer, but I would have been a damn good, you know, research scientist on this sort of thing.
+
+And interesting thing happened—so then when I came east, I was at the Mass General. And—do you know Boston?</u>
+      <u who="CUMMINGS">A little—not very well, but—</u>
+      <u who="FRIEDMAN">Okay. So one of the things that we psychiatry residents were seeing were a lot of people that wanted a military deferment for mental reasons, you know, and—and the way Boston—I mean, the Unitarian church, the Arlington Street Church is right by the [Boston] Public Garden, so all they had to do was walk across the Public Garden and—and—and Boston Common and—and over Beacon Hill or down Charles [Street]—you know, they worked at MGH, so we saw a lot of these—these people that wanted psychiatric deferments.
+
+And so that was one interesting moral issue for me. You know, I said, Well,—because some of my friends, fellow psychiatric residents and even young psychiatrists on the staff there said, “Look, this war is awful. You know, anyone that comes in my office, I’m gonna give them a psychiatric deferment.” And I wrestled with that, and I said, “No, I’m not gonna do that.” I said, “I’m a—I’m a professional. I cannot violate—I can’t let my—my political beliefs interfere with my—with my professional imperatives. You know, if this person, you know, has a psychiatric problem—but I’m not gonna fabricate anything because I cannot contaminate that.”
+
+And then another development on that was a number of my—of my friends were applying for conscientious objector status, and I considered it very carefully. I had the paperwork I started fill out. Then I said, You know, I’m not a conscientious objector. If this was World War II, I would have been first in line to—to—to defeat Hitler.
+
+In fact, that’s what my father—my father—my father, when World War II came around—my father was a doctor, as I said, and he was—he was in his late 30s when we entered the war, and he was married, and he had—and I was born, and my—my—my brother was on the way. And he used his influence to get into the service. I mean, he was old enough that he could have got a deferment, and he—he felt so strongly that—you know, he was a first-generation immigrant. He was born about a year after my parents—his parents came to Ellis Island. So he was very patriotic. We used to put out the flag every holiday. I was a little embarrassed about that, but I would help him put it out.
+
+But I said, Look, I’m not—morally, I’m not a conscientious objector. I hate this war. I think it’s meaningless. I think it’s terrible. I don’t want to be a part of it. But if it was a different war, I would—I would behave very—so I never—I never  applied.</u>
+      <u who="CUMMINGS">So, then, you’re at Mass General.</u>
+      <u who="FRIEDMAN">Correct.</u>
+      <u who="CUMMINGS">And how did that lead you to your later focus? You were primarily focused on drugs and—</u>
+      <u who="FRIEDMAN">Right. So—so what happened was I got—so there were a lot of things going on at that time. It was a very exciting time. I mean—and politically, you know, it was the antiwar stuff, there was—the, you know, feminist, you know, stuff was really happening. And another thing was happening, was the counterculture, the hippie counterculture. And I was part of that. I used to come up here from Boston. I became very friendly with a number of people that were living in hippie communes, and I decided I wanted to be a part of that.
+
+So to everyone’s amazement—[Phone rings. Non-pertinent dialogue not transcribed]. So I left the Mass General and Harvard. I completed my second year resi- —to complete my third year residency up here at Dartmouth, and I was living down in Cornish, New Hampshire, and I was—I was an organic farmer, and I had a couple of pigs that I named Ehrlichman and Haldeman [after John D. Ehrlichman and Harry Robbins “Bob” or “H. R.” Haldeman, respectively], if those names mean anything to you. Do you know who they are?</u>
+      <u who="CUMMINGS">From—</u>
+      <u who="FRIEDMAN">Nixon.</u>
+      <u who="CUMMINGS">Yeah.</u>
+      <u who="FRIEDMAN">Those were Nixon’s, you know, henchmen. I raised chickens. I raised goats. I used to come to grand rounds in my bib overalls. I went to the forest and got my own wood with—three of us went in on a chainsaw. And I had—didn’t use electricity. I had Aladdin lamps, wood stove—you know, I did the whole thing. 
+
+And I figured—you had to be a lot smarter to be an organic—to live by being an organic farmer than to be a doc, so I decided I would—I would, you know, complete my psychiatric residency. And then—so that was ’73. I completed my res- —so the first two years at the MGH, and then the last year up here.
+
+And the only job I could get was at the VA [Hospital, run by the U.S. Department of Veterans Affairs, also known as the Veterans Administration]. I mean, I decided I wanted to stay. I had some other job offers. I could have been—I could have been a GP [general practitioner] at the Mt. Ascutney Hospital [and Health Center], or I could have got a job as a psychiatrist in Burlington. I wanted to stay here.
+
+And—and, as I said, the only job I could get was at the VA, so I said—this was 1970. I said, I’ll do this for a year, and then I’ll find something more interesting to do. So here I—I’m still here, you know. Every year’s been more interesting than the last.
+
+
+
+So what happened scientifically was—there weren’t too many theories of—of—of the biology of psychiatry at that time, but one of them was the so-called catecholamine theory of depression. Have you ever heard this?</u>
+      <u who="CUMMINGS">Mm-hm. </u>
+      <u who="FRIEDMAN">Okay. So the idea was that if you are not making enough epinephrine and norepinephrine, you’re going to be depressed, and if you’ve got too much of it, you’re going to be manic. In fact, the father of that theory, [Joseph J.] “Joe” Schildkraut, was the mentor of the current chair of psychiatry, Alan [I.] Green. I heard Schildkraut speak when I was a graduate student at Einstein. He first came out in ’65. So this was just—this was really very exciting stuff.
+
+So I figured, because of my interest in—you know, so we know that—that if you change the internal milieu of the brain—so let’s say you’re a heroin addict—that if—if your brain is full of heroin all the time, then the opioid receptors—that there’s going to be an adaptation in what we now would call a down regulation. If there’s an excess—I mean, endocrine—thyroid—I mean, endocrine systems work the same way. So if there’s too much morphine or heroin, you don’t need all these receptors, so that they’re going to—they’re going to down regulate. And on the other hand, if there’s a—
+
+So I figured—in this dynamic, and the same thing if you’re, say, thyroid—so if you’re—so if you’re hyperthyroid, you’re going to have fewer thyroid receptors; if you’re hypothyroid, the receptors are going to expand so that what little dribs and drabs of thyroid hormone there are, are going to—are going to fly on their target.
+
+So I said, Well,—to myself I said, Well, if there’s a inadequacy of—of norepinephrine (because the catecholamine theory—because of depression), then there should be excessive—there should be super-sensitivity. So the first research proposal I ever wrote was testing that. So I was basically carrying my graduate student ideas of neuroplasticity but taking them out of the drug addiction area and moving them into—into depression and—and—and affective disorders.
+
+So—and then what happened was—so I started here in ’73. The Vietnam War was winding down. The Vietnam vets were coming the hospital. They were absolutely—I mean, it was just moving them, and they were so distressed. But we didn’t have a way to describe it. They were depressed, but it wasn’t depression. They were suicidal; it wasn’t suicidal depression. They were paranoid and crazy, but it wasn’t schizophrenia. They were having these flashbacks or these—these hyper-vigilant delusions. They were very anxious, but it wasn’t a classic- —
+
+
+
+So we didn’t have a term for it. But I was very, very moved by it. You know, we called it post-Vietnam syndrome. And because I had the—and the VA was totally unprepared. Because I was the Ph.D., when we started educating—having these lecture tours, I got asked to give the talks about the science behind—behind war neurosis. I mean, this has been around, you know.
+
+So what we now called PTSD [post-traumatic stress disorder] had been around in terms of the medicalization since the late 19th century. In the Civil War, we had something called soldier’s heart, or Da Costa’s syndrome for the paper, The Lancet, 1868, 1870, something like that. [Sigmund] Freud and particularly Freud’s disciple, [Sándor] Ferenczi, were looking at veterans of the War of 1870, the Franco-Prussian War.
+
+And—and through the ages, this—and, of course, the real challenge was this was an invisible wound. People weren’t bleeding. There were no broken bones. There were no fever. How do you—how are you going to describe—so—so—so really interesting for about a hundred years, between late 19th century and the late 20th century, there were all these different theories. You gotta explain—
+
+So in the Civil War, there were the so-called somatic theories that something was wrong with the heart because that was—you know. Or there was nostalgia, so some—some Yankee from Vermont fighting with [Gen. Ulysses S.] Grant at [the Siege of] Vicksburg was—was—was homesick. So people were institutionalized for nostalgia, you know.
+
+
+
+World War I, it was shell shock, or World War II or combat fatigue. The psychoanalysts called it war neurosis or combat neurosis. The Russians called it combat exhaustion.
+
+So the—and—and—and even prior to the medicalization, you know, some of the great writers had noted—I mean, Homer—Homer’s Achilles. I don’t know if you’ve seen the book, Achilles in Vietnam[: Combat Trauma and the Undoing of Character], where basically Jonathan Shay, who was an old friend of mine, actually, from New York—basically juxtaposed passages from the Iliad with passages from his Vietnam veterans’ groups. Then he wrote a later book called Odysseus in America[:Combat Trauma and the Trials of Homecoming], where he juxtaposed lines from the Odyssey, which really he, Jonathan, argues is really about the homecoming for veterans. It’s very interesting.</u>
+      <u who="CUMMINGS">Mm-hm.</u>
+      <u who="FRIEDMAN">So—so Homer, [William] Shakespeare’s Henry IV has a combat dream. You know that?</u>
+      <u who="CUMMINGS">Right. Yeah.</u>
+      <u who="FRIEDMAN">You know.</u>
+      <u who="CUMMINGS">Mm-hm.</u>
+      <u who="FRIEDMAN">Charles Dickens, in A Tale of Two Cities, Dr. [alexander] Manette has a dissociative reaction after his—his daughter Lucie [Manette] wants to marry the nephew of the man that threw him in the Bastille prior to the [French] Revolution. Erich Marie [sic; Maria] Remarque, All’s Quiet on the Western Front—and on and on and on.
+
+So the great writers, you know, had—you know, had noticed, but, you know, the clinicians, the clinical world didn’t get involved, again, until the late 18th century, the Civil War and the War of 1870. And for civilians, Charles Dickens—something called spine, with Dickens, probably, and people who had these traumatic episodes—you know, train wrecks and things of that sort were, again, invisible—invisible injuries.
+
+So—but there was a science. There was—there was some writing, much of it psychoanalytic, much of it by Holocaust survivors, people like Henry Krystal, who just died, whose son is a good friend, who’s the chair at Yale [School of Medicine]. Man’s Search for Meaning by Victor [E.] Frankl. So there was a lot of great literature.
+
+So—so what hap- —so around—and what’s interesting was there was no diagnosis for this. There had been something in the DSM-I [Diagnostic and Statistical Manual of Mental Disorders, first edition] in 1952, called gross stress reaction, which was a transient reaction, but then in the DSM-II [Diagnostic and Statistical Manual of Mental Disorders] in 1964 they got rid of it, even though you had prisoners of war, you had Holocaust survivors, you had all the veterans. You had something called war sailor syndrome in Denma- —in Norway. You had something called rape crisis syndrome for women who had been sexually assaulted, by Ann [Wolbert] Burgess.
+
+You had battered child syn- —and on—you had all these different syndromes that were—there was no place to put them in the—in the—in the diagnostic category, and they were all named by their—what was the trauma? You know, was it rape? Was it war? You know, was it domestic—whatever.
+
+And then in the late ‘70s, when the DSM was going to be revised again for the DSM-III [Diagnostic and Statistical Manual of Mental Disorders], all these people got together. You know, many of them probably never had known each other. And so I said, You know, my Holocaust survivors—yeah, they’re having these traumatic nightmares. Yeah, they’re having these hyper- —and so the brilliance of the DSM-III, of the PTSD configuration was the recognition that it really doesn’t matter specifically, but if you’re exposed to a situation in which you’re overwhelmed, you’re helpless, and your coping capacities are overwhelmed—sort of the psychological equivalent of being hit by an 18-wheeler truck. You know, I mean, we play contact sports, but we’re not built to be—to survive that kind of a collision.
+
+Psychologically it’s the same thing. You know, we—you know, we’re all built to deal with loss, disappointment, stress, but, you know, we’re not built to survive in Auschwitz [concentration camp], you know, or—or a Dresden firebombing [which occurred in Dresden, Germany, during World War II], you know, or being sexually assaulted repeatedly by your—a parental figure who’s supposed to be protecting you. We’re not built for that.
+
+
+
+And the genius was the recognition that—that people put in these different situations—motor vehicle accident—have the same constellation of symptoms, and so PTSD was born. I mean, the interesting thing for people like me is we’ve been working in this area for seven years without a diagnosis. So we are still using terms like post-Vietnam syndrome and—and—and things of this sort.
+
+It was interesting. I had—in 1979, I had a conference up here at Dartmouth. And I invited some of the top people in the field to come up here. And this was so newsworthy that I was interviewed by Susan [Levitt] Stamberg on All Things Considered, and I remember—during the lunch break, I had to come and—I did the interview on the telephone. I mean, it was so newsworthy.
+
+And I wrote an article, which was entitled, “Post-Vietnam Syndrome,” because that’s the title they wanted—they gave me. But what I wrote in it—and it was published in 1981, but I had written it a year or two earlier—and I got the invitation because of this this conference. I said, “PTSD is preventable, for the most part. All you have to do is stop war, stop rape, stop interpersonal violence.” I said, “You have a few hurricanes and tornadoes, but, you know, 98 percent of this stuff is preventable.” And the editor of the book wanted—of the journal wanted me to remo- —I said, “No.” I said—I said, “That stays in there or you can’t have my article.” So basically, it is preventable.
+
+I got to see Susan for a second. I’ll be right back. I'll be right back.</u>
+      <u who="CUMMINGS">All right. No problem. I’m going to pause.
+
+[Recording interruption.]</u>
+      <u who="CUMMINGS">So we were at your article, in which you—</u>
+      <u who="FRIEDMAN">Right.</u>
+      <u who="CUMMINGS">—said it’s preventable.</u>
+      <u who="FRIEDMAN">So we were doing, up here in Vermont—I mean, I didn’t know—I didn’t know what was going on in the rest of the country. I just knew that I was very, very moved by the—the depth of despair of the Vietnam vets. And, of course, I fell in love with Gayle [M. Smith], and she helped—one of the things that Gayle did for me—one of the many things that Gayle did for me was veterans were very, very alienated from, you know, general society. And she gave me some credibility. You know, they said, “You know, if she can—if she can stand him, maybe we can, too.”
+
+So, you know,—and I started talking to—and I did—I did something which was, you know, one of the most amazing things I’ve done professionally. So in 1974, I started a group for Vietnam veterans. Now, prior to me, so far as I know, almost all of the Vietnam groups, the so-called rap sessions, were politicized. They were basically done by the VVAW, Vietnam Veterans Against the War—you know, people like [Dr.] Robert Lifton and [Dr. Chaim F.] “Hi” Shatan and people like that.
+
+But I did this within the VA system. In fact, we had two groups. We had one group here in hospital, that I co-led with my head nurse, Doris Brown. And then Gayle led a group in our home, because there was an expression at that time: Vets couldn’t get past the bricks. They were basically so alienated, so distrustful of anything having to do with the government that they wouldn’t—they’d be caught dead before they’d go into a VA hospital. So—so Gayle would have the—the vets would come to our apartment, you know.
+
+What was interesting about that group was—yes, there were some psychiatric patients, but there also there was a—there were people on the staff here. There was a surgeon, who had been in Vietnam. There was a physician assistant. There was a psychiatric resident. There was a medical student—in addition to the psychia- —and it didn’t matter—and so those—those usual divisions between, you know, who’s the M.D. and who’s the patient, you know. It didn’t matter. We were—they were all united. And it was one of the most moving experiences I’ve ever had—had professionally.
+
+So I started things here. So—so I was—I became really hooked by this thing that really didn’t have a name yet. You know, a former chairman of the department of psychiatry, Gary [J.] Tucker, used to say—he said, “I don’t know what you’ve got, but it’s the worse case of it I’ve ever seen.”</u>
+      <u who="CUMMINGS">[Chuckles.]</u>
+      <u who="FRIEDMAN">And that was—that was sort of the—the state of the art at that time. And I started—and I started seeing these guys, and some of it was so distressful—I mean, they would—they would have a—there’d be—I disarmed people. I’d take their guns away from them. I said, “I’m to gonna talk to you if you don’t”—you know. Sort of like these old westerns, right? You check your—check your guns at the—or you can’t get into the saloon type of thing.
+
+And something else I did as a psychiatrist, which has nothing to do with your talk, but it becomes relevant, is delivering care in a rural area is very different than delivering care in a city. Are you a city girl?</u>
+      <u who="CUMMINGS">Yes, from New York City.</u>
+      <u who="FRIEDMAN">Oh, you are from—you are from New York.</u>
+      <u who="CUMMINGS">Uh-huh. </u>
+      <u who="FRIEDMAN">Whereabouts?</u>
+      <u who="CUMMINGS">In Manhattan.</u>
+      <u who="FRIEDMAN">Whereabouts?</u>
+      <u who="CUMMINGS">84th [Street] and East End [Avenue].</u>
+      <u who="FRIEDMAN">Nice.</u>
+      <u who="CUMMINGS">Yeah.</u>
+      <u who="FRIEDMAN">That’s a nice area. I lived in—I lived around Tompkins Square for a while and then up around Columbia [University]. Those are the places where I lived when I was—when I was in the ci- —and in the Bronx, when I was doing my dissertation. And I got so sick from the air pollution. We would look at—I called it “the foo.” You could see the—the air pollution, and I’d look at how far it was above Riverside Church, to see what it was being—you know, if the wind was blowing toward New Jersey, it was going to be a good day, but if it was coming the other way, it wasn’t good at all.
+
+So I started programs for vets. And I was learning—and I began to learn about the science. In ’84, I was asked to chair a committee—by the—[the U.S.] Congress set up something called the Special Committee on PTSD, which was to ask VA professionals to look at how VA was doing. Now, if you think of it, it’s kind of crazy. I mean, it’s sort of like being in Stalinist Russia and being asked to inform on your family.</u>
+      <u who="CUMMINGS">Right.</u>
+      <u who="FRIEDMAN">And they asked me to chair it. Now, I was just this young—young psychiatrist up in—up in Vermont. Who knows where—actually, there’s a picture of me, the upper left-hand picture—that’s sort of what I was [chuckles] what I looked like in those days. So—and I’m convinced that they must have asked about 20 people before they got to me, because it was a dangerous thing if you had a career in it. I didn’t give a damn. You know, I didn’t give—of course, as you see, there’s a certain anti-authoritarian—</u>
+      <u who="CUMMINGS">Yeah.</u>
+      <u who="FRIEDMAN">—consistency starting at probably age—age five. But, you know, I was so excited about the opportunity to effect policy. So I took—I took—I accepted. And we raised hell. We raised hell. I mean, I think what they expected was we would, you know, make a lot of speeches. I said—I said, “We’re gonna”—and some of the top people in the country—and that’s how I began to un- —to—to—to have a national perspective. I mean, these were people I never would have met.
+
+So [Terence M.] “Terry” Keane, who was one of the top psychologists, was in Mississippi, and Fred [D.] Gusman, who had a big unit in Palo Alto, and Pat Bedwins, who was down in Georgia. I mean, you know, someone from Detroi- —so I began to have—instead of Vermont, New Hampshire, you know, I—I had national perspective. And I—and I said, “Look, we’re gonna—we’re gonna run this committee two ways. Number one is we’re not gonna make any recommendations that aren’t based on data.” (So that was my scientific training.) “And number two, we’re gonna say VA’s highest priority should be people that have been affected by war.” They couldn’t attack either one of those.
+
+
+
+And then I did a survey of every clinical visit for a whole month, and we showed that—you know, if you lived in Missouri, your chances of getting diagnosis for care for PTSD were radically different than if you lived in Ohio or California or what have you. And, you know,—so that—that data really—we helped to transform the VA. I mean, they started passing legislation in ’85 and developed some of the programs that they’ve developed today.
+
+And many of the people that I met on that committee—you know, we—we continued the relationship after the National Center for PTSD came along.
+
+But I want to tell you about [Jeffrey H.] “Jeff” Hinman [Class of 1968]. So basically in 1984, ’85, something like that, my chairman, Gary Tucker—Gary was the chairman then. He said—he said, “You need to talk to [Stanley D.] “Stan” Rosenberg. Now, I had known Stan briefly. Stan was a psychologist, and he—his major interest at that time was—was male midlife crisis. And because of that and because Dartmouth was still all male, Stan was a very popular speaker at Dartmouth reunions.
+
+He was speaking at the 1967, maybe ’68 joint—25th reunion, so this would have been about—well, you can do the math. It’s nineteen eighty something or other, whatever. And they got to talking about Vietnam. And they said what you said at the very beginning, that Vietnam changed their lives. Some of them had actually come to Dartmouth because of the Navy ROTC program. I remember one guy—he said, “Ever since I was floating little boats in my bathtub as a kid, I wanted—and because of my father—I wanted to be an officer in the Navy, and Dartmouth was”—
+
+And then there were other people who said, “You know, because of—because of Vietnam—you know, it changed my life. I didn’t—because I was determined not to go in the military.”
+
+Now, you can see Vietnam certainly changed my life.</u>
+      <u who="CUMMINGS">Mm-hm.</u>
+      <u who="FRIEDMAN">I mean, I’m sure if it hadn’t been for the Vietnam War, I wouldn’t have stayed in medical school. I didn’t like medical school. But I knew that I would like it—dislike it less than being in the service. So who knows where I’d be today? Something very different, probably. I’m not complaining. I mean, I think I—I think my life is a—is an homage to serendipity. I mean, my—my whole—all of the decisions and paths that I followed have not been paths that I had thought about in advance. It just was opportunistic, and sometimes I didn’t have much choice, I felt.
+
+So—so—so Stan—so they got very interested in Vietnam, and they said, “Gee, you know, maybe—maybe we should do a study. Now, there was a period of maybe 20 or 30 years when every incoming freshman, during Freshman Week, in addition to taking English and math proficiency exams, took an MMPI [Minnesota Multiphasic Personality Inventory]. Did you take an MMPI?</u>
+      <u who="CUMMINGS">I don’t think so.</u>
+      <u who="FRIEDMAN">Yeah, they discontinued it. This was started by some psychologist named Chauncey [N.] Allen [Class of 1924], probably in the late ‘40s or something, because when I matriculated in ’50 , I remember I took the MMPI. You know, we were all in the old gymnasium, and there was all this nervous laughter, you know, asking about, you know, bedwetting and masturbation and all that kind of stuff.
+
+
+
+Well,—so we had an archive. We had pre-freshman personality inventories on these Dartmouth people who—half of whom later went into Vietnam. So we—we had a quasi-prospectus—so we had baseline data. So then—so what the—what the—so what the Classes of ’67 and ’68 gave us permission to do was to retake the MMPI, and then we could—and then Stan and I and one other guy—we went around the country, and we interviewed about, I don’t know, 40, 50, 60 of these people.
+
+And I’d take my tape recorder, and I would sit down, like you’re doing, and I would say—a little spiel like you gave me, and then I would say, “When you think of Dartmouth and you think of the ‘60s, what comes to mind?” And then they would talk for an hour or so. And then we had some questionnaires. And we got two papers out of the Dartmouth study, and also Paula [P.] Schnurr, my right arm, who has succeeded me—so Stan and I hired Paula, who was a postdoc in the department of psychiatry, and Paula and I have been together now professionally since 1984 or so, so we’ve been together for 30 years.
+
+In fact, we’ve been together so long—I remember—my wife---so Gayle worked here for—I remember one day she was talking to someone, and she said—she was introducing herself, and she says, “Yeah,” she says, “and I’m Matt Friedman’s wife.” And he looked at her and said, “You can’t be. Paula Schnurr is Matt Friedman’s wife.”</u>
+      <u who="CUMMINGS">[Chuckles.]</u>
+      <u who="FRIEDMAN">[Laughs.] Paula and I have been together a long time.
+
+But—so—so Jeff is a Vietnam vet, so he was one of the people who filled out the MMPI, who was interviewed. I didn’t interview him, Stan did, but then I’ve seen Jeff on and off over the years. He’s—he’s—so that’s—so that’s how you—that’s how you got here this morning, through—through the Dartmouth study.</u>
+      <u who="CUMMINGS">Yes. </u>
+      <u who="FRIEDMAN">So then in 1988—as I said, there was a, first National Center for PTSD was established outside of Cleveland, and it was—it was a failure, and the government pulled the plug. And then in ’88 there was a national competition, and our group competed, and we won, so we’ve been the National Center for PT—ever since 1989. 
+
+If you’re interested, I have—if you are—there’s two things I can give you, if I can find them. One is a chapter, an autobiographical chapter about myself that I wrote around two thousand and—I don’t know, 2003 maybe, prior to the invasion of Iraq. And then there is a chapter I wrote about the Center, itself. If you’re inter- —if you want those things, I can give them to you.</u>
+      <u who="CUMMINGS">Yeah that would be great.</u>
+      <u who="FRIEDMAN">You want those?</u>
+      <u who="CUMMINGS">Mm-hm. </u>
+      <u who="FRIEDMAN">All right. I’ll—I’ll fi- —I’m pretty sure I know where they are.</u>
+      <u who="CUMMINGS">Okay.</u>
+      <u who="FRIEDMAN">So—so basi- —so what happened was there was this confer- —so really what happened was we decided that there was no single—so the National Center had to be at a—at a VA [facility] with a strong academic affiliation. And a couple of people got together—Terry at BU [Boston University School of Medicine] and Dennis [S.] Charney at Yale and Fred at Palo Alto. And they said, “Well, we”—they really didn’t trust each other, so they asked me to lead it. So I didn’t put it together. 
+
+They came to me, and then I said—I said, “I’ll do it under two conditions.” I said, “Number one is if we ever have a vote, I get two votes, and number two, I’m not leaving Vermont.” And they said okay.
+
+And then, when we competed and then there was a second wave—it was between us and a—and a—and a group from San Francisco and Seattle—and I said, “Well, how the hell are you gonna run a national center for PTSD from White River Junction?” And I said, “Look,” I said, “we’re already decentralized. You know, we’re in Vermont, Massachusetts, Connecticut and California. What difference does it make if I’m in Washington, D.C., or I’m in—in—in White River Junction?”
+
+
+
+Now, you have to understand the time. This is 1988, and so I said, “We have fax machines. We have”—and I didn’t even say “e-mail” because e-mail was just—just starting to come into being.
+
+So I had been running this thing—I ran this thing from ’89 to—through 2013.
+
+So why don’t I give you a chance to ask me another question? If you have any more.</u>
+      <u who="CUMMINGS">Yeah, great. Thanks for sharing that, the story.
+
+So when PTSD became more widely understood, how did you and other doctors and other people who were studying it—how did you come up with a basis for a diagnosis?</u>
+      <u who="FRIEDMAN">Well, we didn’t come up with—so basically, the—do you know about the DSM?</u>
+      <u who="CUMMINGS">No.</u>
+      <u who="FRIEDMAN">Oh, I’m sorry. I’ve used that term many, many times. So the official—the official diagnostic manual for psychiatric disorders is called the Diagnostic and Statistical Manual, and it originally was a statistical manual. They wanted to see how many schizophrenics or how many— So the DSM-I came out in 1952. [Apparently turns to retrieve the book.] So this is the DSM-1. No, no, this is the DSM-II, 1968. I don’t even have a DSM-I.
+
+
+
+Then DSM-III, where PTSD was born, was 1980. So—so this is—and then there was a DSM-III. That was 1980. A DSM-IIIR, which was 1994—no, no, DSM-R was 1987. And then DSM- —it was revised in 1987. Then the DSM-IV was in 1994, and then that was revised in 2000, and then the DSM-V, which was just finished, was—was 2013.
+
+
+
+So—so—with—with—with new science—you know, this is true for hypertension, it’s true for diabetes. As we learn more things, we need to change what the diagnostic categories are. So I—I was on the DSM-IV work group, and I was the chair of the DSM-V work group.
+
+So basically, you know, what do you do? You look at the—so the big fight was to get—was to get DSM—DSM-III was the big fight, because PTSD is really the bastard child of psychiatry. You know, most other disorders have really evolved in the usual hothouse environment of academic medicine, whether it’s schizophrenia or anxiety disorders or whatever. The—the American psychiatrics didn’t really want to have much to do with—with PTSD, and it was really lobbying by the American victimology group, by the POWs [prisoners of war], by the Vietnam vets to really force its way into the AP- —
+
+So PTSD had a—had a really—and so many—many very, very famous, prominent psychiatrists in the early ‘80s would say, “Well, I think this is a crock of shit. I don’t believe in PTSD. I don’t believe in it.” They could say that. And they could get away with it.
+
+So—so the diagnosis was born with a chip on its shoulder, so we had to prove our legitimacy, you know, which we’ve done in spades now—you know, I mean, whether it’s brain imaging or genetics or you know, psychobiology or other kinds of things. But we’ve always been on the—on the—there’s always been naysayers, and they’re still out there. It’s—it’s—so that’s—and I think that’s really made us tougher, smarter, more strategic.
+
+And I think the science has just been incredible. One of my favorite quotes is in his later years at Princeton [University], [Albert] Einstein—someone like you was talking to Einstein, and he said—he said, “When I was a young man, I used to read everything in physics.” He says, “Now I can’t keep up with everything that’s written in relativity theory.”
+
+Now, I’m not comparing myself with Einstein, but when I was a young man, I could read everything about trauma. Now I can’t keep up with everything that’s supposed to be in my area, which is biological psychiatry and—and—and—and psychopharmacology. You know, I—</u>
+      <u who="CUMMINGS">It’s just too much.</u>
+      <u who="FRIEDMAN">It’s just too much, you know, you know. And it’s not just psychiatry, you know? There’s a forensic literature,—there’s an obstetrical literature. I mean, it’s—much of our actual literature, and movies, are about PTSD now, you know.</u>
+      <u who="CUMMINGS">Mm-hm. So when you see a patient who you haven’t seen before,—</u>
+      <u who="FRIEDMAN">Right.</u>
+      <u who="CUMMINGS">—what’s the process that you use?</u>
+      <u who="FRIEDMAN">Well, the process I use is I ask them—I ask them how can I help them; why are they here. Some people have come to see me because they think they have PTSD or their significant other thinks they have PTSD, or they’re not sure, or something bad has happened to them. You know, now a major public misconception is, you know, if you’ve been in a traumatic situation, you got PT[SD]. Well, that’s not true. Most people don’t get PTSD. And so that’s—that’s another, you know, job of the clinician, to say, “Hey. You know, it’s terrible, what happened to you, but, you know, the good news is you’re dealing with it reasonably—pretty well, and you don’t have PTSD.”
+
+Other people are there because they really don’t want to have PTS[D]—I remember I had a—I had a patient. She had been the curator of the art museum in Sarajevo [Bosnia and Herzegovina] when the Balkan Wars grew—you know. In fact, she knew—she knew [Radovan] Karadžić. He was—you know, Karadžić is a psychiatrist, and he also was a great lover of the arts. So he used to come to the museum.
+
+And—and—and—she was—she was brought over here by some Dartmouth faculty, took her under their wing, and they insisted that she see me. She didn’t want to see me, so she was really belligerent. And I said, “Well, you know”—I said, “This is what PTSD is. You don’t want to talk about? That’s fine. If you ever do, give me a call.” So a couple of months later, she gives me a call. She says, “I got”—she says, “Can we talk?” I said, “Sure.”
+
+So what had happened: So she’s driving her car through Hanover. She gets stopped by the police because her rear headlight [sic] was—one of her rear headlights [sic] wasn’t working. She had a flashback to a Serb checkpoint in Sarajevo, and she says, Hey, you know, maybe—maybe Friedman’s onto something. Lemme go back and talk to him.
+
+So people come for different reasons. Often they come because—to prove that they don’t have a problem or to find out whether they do. So you—you know, you play the cards that are dealt. Everyone is different. Every patient is—every patient is different.
+
+What I do is—is I first give them a little education. I says, “You know, some people who are in the wrong place at the wrong time have trouble shaking it off. And there are different ways in which they have those troubles. One of them is—is PTSD. So if you’re feeling that you’re not the man or woman you were before this happened, let’s find out what’s changed and whether the way it’s changed is something that I might be able to help you with.”
+
+
+
+The other thing that I do—because one of the—you know, one of the things about PTSD is—have you ever been—been in a traumatic situation, yourself? Been assaulted or been in a car accident or anything like that?</u>
+      <u who="CUMMINGS">[No audible response.]</u>
+      <u who="FRIEDMAN">Well, you know, it may happen. You know, we know more than half of all adult American men and women have been exposed to at least one traumatic episode, so you got a 50 percent chance that that will happen to you, you know. It’s happened to me a few times. And I—and it’s very, very painful to talk about this stuff. I mean, one of the main reasons why rape victims don’t come forward is not because of the, you know, callous and stupid way that they are interrogated by the police or whatever or some of medical professionals, perhaps; it’s because just the retelling of the event is so awful and so painful, which is why so many people that have been trauma- —rape victims, vets, whatever—don’t want to talk to their families. They don’t want to have to relive it.
+
+
+
+So what I’ll say is—I say, “Look, you know, I recog- —you know, number one, thank you for coming. I know this must be very difficult for you. I—I—I appreciate how courageous this is because what I’m asking you to do is exactly what you’ve been working real hard not to do for the past umpty-ump years,” which is to think about what happened and to talk about what happened.
+
+And so I recognize that in the telling, it may become very, very hard for you to continue. And I say, “Just tell me to back off.” I said, “If it—if it’s getting too hot, let’s just stop.” And I always keep my word.
+
+Now, what that does is, number one, it makes them more comfortable. Number two, it makes them recognize—know immediately that I know what’s going on. And number three, it builds my credibility as an expert. And number four, it builds trust. You know, and then we—we talk about the trauma narrative, and then we—then I talk about the different  treatment options and—and—and what—what treatment is involved with and—and what the barriers might be, and on and on.
+
+So that’s sort of—that’s sort of a five-cent tour through what I do.</u>
+      <u who="CUMMINGS">All right. So your work with Vietnam veterans. How has that been different than your work with veterans from other wars?</u>
+      <u who="FRIEDMAN">Well, I think in one way, it hasn’t—
+
+
+
+I’m sorry, it’s 11:30. Let me—I’ll be right back.</u>
+      <u who="CUMMINGS">Don’t worry about it.</u>
+      <u who="FRIEDMAN">I’m sorry. I have to do this.</u>
+      <u who="CUMMINGS">No, that’s okay. [Short pause.]</u>
+      <u who="FRIEDMAN">There is a universality to the veteran experience. An organization that’s not very big in this country but is very big in Europe and Asia and I guess Africa and Australia is called the World—World—I think it’s called the World Veterans Federation. Let’s see. The—no I thought—yeah, the World Veterans Federation. And—and the premise is that there is something special about being a veteran that transcends nationality. It transcends what war you fought in.
+
+And one of the things that they do, that I saw is they’ll take two veterans who actually fought against each other and give each of them five minutes to talk to one anoth[er]. So what I saw was—so in 1948, the—Indonesia rebelled against the Dutch, you know, and there was that—and the results have been the independence of—of Indonesia.
+
+So I saw a Dutchman who had been in a convoy that was attacked by Indonesian guerrillas, and the Dutchman’s best friend was killed. So the Dutchman and the Indonesian are talking to each other in this—in this context, five minutes here, fi- —you know. And—and the theory is that the—you know, well, for older wars it was all male—that the brotherhood—that—that—that they have a lot more in common and—and—and in a—in a course of—and what really comes through usually is—is—is—is the brotherhood, you know. Now some of it it’s sisterhood. You’ve probably seen this, some of these reunions at Normandy [region of France] 50 years later. I mean, that—that type of stuff.
+
+So—so there’s a universality. So that’s why—what I mentioned earlier—that’s why a book about—about German veterans returning from the trenches can speak to someone just back from Afghanistan. There’s a—there’s a universality to the veteran experience.
+
+In fact, one of the books that I’ve written, that I’m proudest of, in some ways—[moves or turns away from the microphone]—is a non-scientific book. Here it is. [Apparently takes the book down from a shelf.] And this is a book that Laurie [B.] Slone and I wrote, working with veterans of the current wars. And it’s—it’s written—it’s written in the second person. It’s to the veterans and to their families. I mean, I don’t to get to PTSD until Chapter 11. I talk about—you know, I mean, just look at the Table of Contents.
+
+And—and—and we’re not talking about PTSD now; we’re talking about just war and the—and the—but I mean—so—I mean, look—from the deployment cycle, what it’s like being home, [separating] myth from reality, understanding how soldiers have to think, common reac[tions], guilt, moral dilemmas, handling grief—we don’t get to clinical stuff until, page 150. Because this is all—this is universal. This is universal, you know? You know, veterans of the American Revolution, you know, went—went through this stuff.
+
+So—where did that come from? Here [Returns book to the shelf.]
+
+
+
+So—so there’s a universality, you know, and I’m—I’m—1990. I was invited to go to the Soviet Union. It was interesting. It was the twilight of the Soviet Union. Because they had their Afghanskiy vets, the vets who had fought in another—their Vietnam, which was Afghanistan at that time, which they lost, like we lost—you know.
+
+And what—what—what was different, you know, and this is getting partly to your question, was, you know, whereas the Vietnam vets, you know, were hairy, right? They had beards, and they had hair down to here [demonstrates], and they were, you know, using, you know, a lot of marijuana and other stuff.
+
+
+
+The Russian vets—you know, they all had crew cuts, and they were primarily alcoholics. But except for that—and even with the language bar[rier], it was like being in a time machine. It was like—it was like talking to the Vietnam vets. They were Russian. They looked different. They spoke a different language. But I knew what they were talking about, and they knew that I knew what they were talking about, we’re talking to a World War II vet—
+
+I mean, so I— so in my career—I mean, I’ve talked to—early on, I talked to a few World War I vets, but, you know, mostly World War II, some Korean, a lot of Vietnam vets, certainly a lot of vets from the—from the recent wars, and a lot in between. You know, U.N. [United Nations] deployments and this and that and that and that, you know—Somalia, things of that sort.
+
+So at one level, it’s all—PTSD is PTSD. And that’s true, too, whether you’re talking to a, you know, a person who’s been raped or, you know, narrowly escaped gang violence or domestic vio[lence]. I mean, it’s—tornadoes. It’s PTSD.
+
+But there are what we—what—and I guess historians use the term, too, but certainly in sociology and psych- —you know, we talk about “cohort differences.” I mean, we’re all creatures of our—of our time, right?</u>
+      <u who="CUMMINGS">Mm-hm.</u>
+      <u who="FRIEDMAN">You know. I mean, my kids make fun of me because I still write everything out in longhand, you know. I mean, I can do some things. Because of e-mail, I’m—a little more facility with—with the keyboard. But I—if I’m writing something important, I do it longhand, you know. And I like the way a “J” feels, and I like crossing a “t,” you know. 
+
+So their cohort—so one of the differences was in World War II vets, even though the—the social disaffection that I think most veterans feel, that—because—World War II veterans were heroes. They were heroes, and everything worked out right for them, as much as it can be if you had to do what they had to do. They was the G.I. Bill [Servicemen's Readjustment Act of 1944]. They went back to school. There were—there were veteran communities. You know, most of our elected officials were veterans, understood their issues. They could—they could—they were—it was—it was mainstream, yeah?
+
+Vietnam—you had several things going on. Number one, you had a—a—a—a war that wasn’t to save the Free World. You had a society that was frankly opposed to the war. I mean, a typical story for a Vietnam veteran—typical story—and the other—other—other issue was that, you know, they could be in Saigon one day and on their front porch two days later, in Iowa or Colorado or whatever.
+
+As a vet would say, “Well,”—and often be met by demonstrators at the airports, right? Spitting at them, [calling them] “baby kill[ers,” all that crap. Is a Vietnam vet would say, “I would come home I would hide my uniform in my closet, and I would think up a lie to tell people where I’d been for the last year.” I mean, it was—it was—there were a lot of reasons why vets didn’t want to tell peo[ple]: number one, because the war was so unpopular. Number two, they didn’t feel they’d be understood anyway.
+
+Now,—and one of the big, huge mistakes that we made as a—as a society, and we’ve learned something from it, is with Vietnam vets we confused the war with the warrior. We blamed these brave men and women, who put their lives on the line, for decisions that were—were made by the government. They were kids. If they didn’t fight, they’d either go to Canada or go to jail, you know? I mean, so it was—it was very coercive.
+
+Now, in the—so the—the Vietnam vets, in addition to dealing with all the issues that any veterans deals [with] after any war, I think there was a rage, a rage against the society that sent them there in the first place. They didn’t want to go there. And then, you know, vilified them when they came back. Didn’t give them benefits. Made them feel that they should be ashamed of their service. So they were socially alienated, in a way that the World War II vets were not.
+
+Now, the Korean vets had another problem. The Korean vets—the war was kind of invisible. People were so—I mean, Korea, you know, broke out in 1948. I mean, so people were already so saturated with World War II, their—I mean, we call it “the forgotten war,” and I don’t know—
+
+Have you been to Washington? Have you seen the Korean [War Veterans] Memorial?</u>
+      <u who="CUMMINGS">Mm-hm.</u>
+      <u who="FRIEDMAN">It’s one of the most poignant memorials there are. I mean, I think that the Vietnam Veteran War [sic; Vietnam Veterans Memorial]—and I think the Nurses Memorial [sic; the Vietnam Women’s Memorial]—I mean, are—are—are moving and grand. But—but the Korean—I mean, these guys in these ponchos. You can just feel the sleet that they’re—and the mud that they’re walking in and how—how agonizing it is. 
+
+And—and—and—and these vets are different. They’re different in two ways, from my perspective. Maybe three. So one is that they’re much younger. The Vietnam vets, even though they were young—we—and I’m talking “we” as a VA, who should have been—you know, we didn’t start as a system to try to take care of them until the mid-’80s. Many of them had been home almost 20 years by then.
+
+I mean, I—some of my maverick friends that I—that I met—you know, I was—I was doing stuff up here in the ’70s. There were very few people like—like me that were doing this. You know, this guy in Wisconsin, that guy in California. I could name them on my fingers and toes, because we all knew each other because there were so few of us.
+
+So—so by the time—the—the—so we—we weren’t ready for—for the Vietnam—and we certainly weren’t ready for the mental problems, for the psychiatric problems.
+
+Now, what happened in—in the latest wars is we were ready, but we were not ready for the magnitude of the demand. I mean, we had—you know, thanks to, you know, all the people I’ve been privileged to work with over the past 40 years—you know, we—we had the expertise. We had treatments, we had systems, we had programs in place. But they were nowhere near enough to deal with the surge.
+
+And so other things that happened—so prior to the current wars, roughly 20 percent of eligible veterans came to VA. The other 80 percent were getting their treatment outside. In this—these wars, 50 percent of all veterans—50 percent!—of all veterans eligible for VA care have come for VA care. And half of them have come for mental health care. And half of them have come for PTSD care. Huge, huge!
+
+So the system has—you know, you know, knew what it had to do, but was under-resourced, you know. And—and—and, frankly, the [President George W.] Bush administration didn’t want to acknowledge PTSD. If you—I mean, that’s the administration that didn’t want to let photographs of coffins with flags on them be in the newspapers, because that would give a wrong impression of the war.
+
+And PTSD—if you believed in—if you believed in PTSD, you were opposed to the war. People tried to—tried to destroy the Center, tried to get rid of me, Bush appointees. I had my phone tapped. I was Dr. PTSD. I was—I was a public enemy to the Bush appointees.
+
+Other—so the Vietnam veterans quite understa- —much anger, much more disaffected, alienated, and on and on. Now, what’s happened with the current crop of veterans—and, you know, one of the real sadnesses of my life is I had hoped that Vietnam would be the last generation of—but it isn’t, you know. You know, and this one isn’t going to be last generation, ether. I mean, you know, if we don’t have World War III, I think we’ll be lucky. You know, what’s happening in the Middle East is just—just scares the crap out of me.
+
+
+
+But—so as a society, we learn that we really mistreated the Vietnam vets, so what do we do? We have all these yellow ribbons stuff. The veterans are welcomed back. The problem—and I never thought I’d be saying this—is that with our all-volunteer Army and military service—you know what population of people serve in the military, the all-volunteer Army?</u>
+      <u who="CUMMINGS">[No audible reply.]</u>
+      <u who="FRIEDMAN">Guess.</u>
+      <u who="CUMMINGS">Ten?</u>
+      <u who="FRIEDMAN">Try one percent. If you add the families, it’s three percent. So whereas everyone in the Vietnam era was affected by the war—whether they served or whether they were like me, they didn’t serve—everybody was affected. Because of the draft. I was almost drafted four times, you know. 
+
+In this war, most of American society is clueless. You know, they say, “Thank you for your service.” Well, they don’t know what the hell these men and women were—were exposed to. And—and the severity and intensity of war has—has increased, you know? I mean, World War II was probably the last time that, you know, we had battle lines. You’d have a battle, and then there’d be a down period. I mean, starting with Vietnam but certainly in Iraq and Afghanistan, it’s 24/7. It’s—it—it—it doesn’t stop, the dosage of war.
+
+And then, because Bush wanted to—Bush was afraid—I think rightfully so—I think it was—I think it was a wise political decision and an absolutely deplorable decision—was in order not to have a draft, they redeployed these people. Some of these people had nine or ten tours. The Reservists had five or six tours. So you recycled the same people so the amount of war exposure that the people ha[d] is—is just unspeakable.
+
+
+
+The big problem we have—so one thing that happened with the Vietnam vets, though, which is a real difference—as I said, these cohort effects are fascinating, particularly if you’re a historian. The Vietnam vets—of course, they were more mature. By the time the VA was ready to provide treatment and PTSD was—is a term invent[ed] and things of that sort—they were, you know, older. You know, they were in their 30s and 40s. And they were willing to acknowledge that they had mental problems. I mean, one of the famous books that came out of the Vietnam War was Losing Our Hearts and Minds. I mean, it was acknowledged.
+
+
+
+And so the Vietnam—Vietnam vets have been among the greatest supporters of our work. In fact, there have been many times when VA has tried to pull the rug out from under us. It was the vet groups and the people on the Hill in Congress that supported us. I mean, it’s been—it’s been an interesting path I’ve—I’ve—I’ve—I’ve walked all these years.
+
+The Iraq, Afghanistan vets—they’d rather have AIDS [acquired immune deficiency syndrome] than have PTSD. They—they don’t want to have a mental problem. They don’t want to have PTSD. The military is doing this—this revisionist historical thing. They don’t want to use the term “PTSD”; they want to call it “PTS,” post-traumatic stress, or post-traumatic stress injury. I—I—I publicly debated a four-star general over this.
+
+
+
+So the—the new cohort is—is—whereas the Vietnam veterans were welcoming and appreciative and supportive of all the—the PTSD work, the new generation hates it. I’m using generalities here, but you’re asking me a question that asked me for generalities. It’s a different ballgame.
+
+
+
+The other thing is that the younger—and the other thing is for us practitioners—we in the VA are—I mean, maybe in the—it was true in the ’40s, I’m sure, but those of us that, you know, are my age or even a little younger—not used to having men and women so young, in their 20s, coming to us for services. So in addition to the war stuff, you’ve got the post-adolescent stuff—you know. And some of the struggles that you’re having—you know, you know, that I had when I was—when I was that age—I have other struggles now, you know, but I—I—I—I recognize them, you know.
+
+So—so there’s—so there’s—so there’s cohort effects. There’s contextual issues. There’s—there’s differences in the zeitgeist. There’s differences in—in—in—in social receptivity. There’s differences in—in—in social recognition and sophistication that—that are part of the—of the process.
+
+The PTSD hasn’t changed, but how it gets contextualized and how it gets worked through has to change because it’s a different—you know, the world of 2015 is different than the world of 1975.</u>
+      <u who="CUMMINGS">Right.</u>
+      <u who="FRIEDMAN">And it should be.</u>
+      <u who="CUMMINGS">So where do you see—just as an ending point, because I know time is almost up, but where do you see the study continuing? Where do you see PTSD and treatment going—</u>
+      <u who="FRIEDMAN">Okay. </u>
+      <u who="CUMMINGS">—in the next few years?</u>
+      <u who="FRIEDMAN">So I see a few things. One thing is—one of the main things I do these days is I started the National PTSD Brain Bank [sic; National Posttraumatic Stress Disorder Brain Bank]. There’s never been a PTSD—there’s—there’s about a hundred brain banks globally, about 50 in the United States. They’re devoted to—to Alzheimer’s [disease] and Parkinsonism and schizophrenia and dif- —not a single PTS- —so something I’ve been trying to get done for 12 years. And thanks to Sen. [Patrick J.] Leahy, who was able to get bipartisan support in both houses of Congress, we now have money. So I’ve started this brain bank. So we’re—we’re—we’re off and running, and it’s—it’s—it’s an eight-part consortium, and it’s fabulous. 
+
+So I’ve answered your questions. I think that part of the answer is—is understand- —even though we’ve done wonderful genetic research and brain imaging, you need to get the brain tissue, itself, and see how the—you know, how is the DNA [deoxyribonucleic acid] expressed? What is the difference between someone with PTSD and someone with not—and—and—and—and—in order to be able to develop not just treatments but preventive strategies?
+
+So—so one thing is to understand the psychobiology. Another thing is to understand that PTSD is a public health issue; it’s not just a clinical issue. And I—I learned that big time after [the] 9/11 [2001, attacks], so I’m—so I try to do a—reinvent myself as a public health psychiatrist, in addition [to] as a clinical psychiatrist so that—yeah, there’s the kind of traditional stuff that I was trained to do in medical school to—you see a patient, you make a diagnosis, you give a treatment, you follow them, you know.
+
+
+
+But there’s also: How do we—how do we prepare a public for the next terrorist attack, for the next 9/11? How do we—how do—you know, we have sex education in schools; we should have stress education. We should—we should—we should build—we should build resilience. I think that’s one of the big—one of the big things that I’ve been writing about is—is we need to develop vaccines for PTSD.
+
+Now, a vaccine for PTSD may not be something that you can put in a syringe or on a sugar cube, like a polio vaccine. It may be something that is some kind of—of learning paradigm or—or—or something else. But—so—so—so—so there’s—on the one hand, there’s a psychobiology; another hand, there’s the public health preventive; another hand, there’s developing a better and—and—and more effective treatments.
+
+Having said all of that, I—I—I just got in the mail today a book [Long-term Outcomes in Psychopathology Research: Rethinking the Scientific Agenda]. I have a chapter in it. The title is—is—is “Deconstructing PTSD.” I believe that by the time we get to DSM VI [Diagnostic and Statistical Manual of Mental Disorders, sixth edition, not yet written], which will probably be 2025, would be my guess—PTSD as we know it may not survive that process, and maybe shouldn’t, that—I mean, one of the things that I did, my group did with DSM-V is we’ve opened up PTSD, so it’s not just a—a fear-based anxiety disorder; it’s also a depressive disorder. It’s also an externalizing, meaning acting out sexually, drinking, reckless behavior. It’s also—
+
+So that—and I think that—that—and—and as we learn more about this, that we may have—instead of what we now have as PTSD, we may have maybe three or four different post-traumatic syndromes, each of which has some differences in its—in its diagnostic criteria, maybe in its psychobiology and in terms of its treatment. So there might be post-traumatic fear anxiety disorder, post-traumatic—and on and on.
+
+So—so—I—I—I do think that as we—you know, depression—I talked earlier about the DSM-I. Well, when DSM-I came out in 1952, there were only two—two depressive diagnoses. There was psychotic depression and manic depression. Now there’s, you know, nine or ten different depressive disorders to begin to do justice to the richness of the different clinical presentations.
+
+We’ve been forced—I mean, we were—you know, in 1980 we were grateful that we actually had a diagnostic niche, PTSD. But we can’t and shouldn’t sweep that—all of that under the PTSD rug; we need three or four different rugs so that we can have a better, fine-tuning differentiation of the different post-traumatic presentations and have better treatments for them. That’s in the clinical sense, but also to take that into the—into the public health sphere as well.</u>
+      <u who="CUMMINGS">Well, thank you so much for talking with me today.</u>
+      <u who="FRIEDMAN">You’re welcome.</u>
+      <u who="CUMMINGS">That was very informative. So I’m just going to turn off the recording now.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,536 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="Li"/>
+        <person xml:id="LI"/>
+        <person xml:id="PICKEN"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="Li">This is Ellen Li in Rauner Special Collections Library. It is
+
+April 25—26th, 2016, and I’m speaking with Joseph [C.] Picken [III], who is calling from Dallas, Texas.
+
+Well, thank you very much for joining me today. Could you tell me where you were born and what your parents’ names were?</u>
+      <u who="PICKEN">I was born—I was born in Ames, Iowa. My parents were Dr. Joseph [C.] Picken [Jr.] and Dorothy Parrish Picken. At the time I was born, during World War II, my dad was a captain in the U.S. Army Medical Corps, stationed at Fort Hood, Texas. It was Camp Hood at that time. And they had grown up in Iowa, and so my mother went home to Iowa when I was born so her mother could help her, and we lived in Iowa for about three or four weeks. When I was about three, four weeks old, we showed up again in Texas and spent the first three and a half years of my life in a military—military base in Texas.</u>
+      <u who="LI">And what was it like growing up in a military base?</u>
+      <u who="PICKEN">[Chuckles.] I was only—I mean, I was—I was only three years old when we left, so I don’t remember very much. I remember it was hot. It was hot. It was—we lived off the base in an apartment building, never got out of the basement. It was Camp Hood at the time. Camp Hood was a very, very large installation in central Texas, and they had probably 60[,000] or 70,000 troops and 50,000 German prisoners of war there, so civilians didn’t get—get to go on the base much. My dad was the medical officer for the prisoner of war team.
+
+And so I don’t really remember very much of it, other than it was hot, and played with some kids. I got the—I was the junior kid on the block, I guess, so I got to pull the wagon while they rode around. And that’s about all I remember of Texas.
+
+We—we came back, and my dad finished his Ph.D. in Iowa. We lived in a Quonset hut. It used to be military barracks, which were graduate student housing. At the time, until I was about five years old—and six years old, I guess, they bought a house in Ames, and they’ve been there—they were there ever since. My dad was on the faculty for 27 years at the university, and my mother was on the faculty for a while. My dad left the faculty and became a banker. So Ames, Iowa, was home, and—a nice little college town, Iowa State University. Lived—lived the idyllic life with—small-town Midwest.</u>
+      <u who="LI">And so with your father in the Army, was going into service always on your mind as a young child, as a future possibility?</u>
+      <u who="PICKEN">Well, it—it certainly—it certainly was a possibility. He was in the Army, and—of course, when I was—the draft was still very much there, back in the ’60, so there was always a possibility. When I started looking at schools, I applied for a Navy ROTC [Reserve Officers’ Training Corps] scholarship because the scholarship, as a professor, my dad wasn’t too much money, and said, “Look, if you want to go to school other than Iowa State,” which is [unintelligible] home town, “you need to get yourself a scholarship.” So I applied for the Navy ROTC scholarship. And they ended up sending me to Dartmouth, which was—which was a good deal.
+
+So I went there on a Navy ROTC scholarship, and knew that I was going in the military. I had no strong feelings either way about it other than the fact that it was a heck of a good way to pay for a premier education at Dartmouth.</u>
+      <u who="LI">And growing up with a professor for a father, were academics always a part of your household? Did you talk about—were you aware of national politics and news, growing up?</u>
+      <u who="PICKEN">[Laughs.] Not really. I mean, we were—we were aware of politics, but you got to remember, I was pretty much isolated back then, a little town of 30,000 people out in the middle of nowhere—middle of the cornfields.
+
+My dad did take me in 1950- —’51—[Presidential candidate Dwight D.] Eisenhower came through on a campaign stop, and so 1951 I was eight years old. I heard Eisenhower speak down at the—on the high school football feel and waited—waited at the stairs coming off the stage, and my dad wanted to shake his hand, and I shook his hand, and that was my first introduction to politics, General Eisenhower.</u>
+      <u who="LI">Mmm. So in this isolated and very I guess safe space in your small town—</u>
+      <u who="PICKEN">It was a—it was a WASP [White Anglo-Saxon Protestant] environment. We had one—one African-American family and one—one Jewish family in town, and the rest were—were WASPs, with the exception of a few Catholics. There were a few Catholics, and there was a small Catholic school, but it was a very, very—isolated, I guess, in terms of the cultural backgrounds. So politics didn’t really make much difference to us.</u>
+      <u who="LI">What kind of school did you go to?</u>
+      <u who="PICKEN">What kind of school did—high school. Public high school. Public schools all the way through.</u>
+      <u who="LI">And what was the atmosphere like and the social dynamics? Anything out of the ordinary, or—</u>
+      <u who="PICKEN">It was—the university was on the west side of town. The main part of the city was on the east side. The high school was on the east side. There was a bit of a divide because there were two junior high schools between the college town folks and the rest of the town folks, and so we were rivals until we got into the—to the eighth grade. Played each other in football and stuff like that, and then go to high school and we all pooled together.
+
+But, you know, it was—the social dynamics were typical—typical ’50—typical ’50s high school stuff. Sock hops in the gym and things of that nature. All had summer jobs. I worked continuously since I was 11 with paper routes for the first couple of years and then detasseling corn and working stocking shelves in the supermarket. I was a vacation relief cook in a steak house the summer I turned 16 and worked at every station in the—in the restaurant, so I started washing dishes, and then baking biscuits and making salads and vegetables. Finally a steak cook and so on.
+
+So interesting experiences. I rode my bicycle three miles every day in the hot sun out to the restaurant, worked there and rode my bicycle home at night. Had lunch, which was about five miles away, and we used to ride our bicycles down to the swimming pool, so it was a—you know, a good time—good time and very prosperous time for the United States, and it was—it was good growing up.</u>
+      <u who="LI">Was it typical for kids your age to work so much?</u>
+      <u who="PICKEN">A lot of kids—a lot of kids that were my age certainly—certainly had summer jobs and stuff like that. I may have started a little earlier than some, but basically my dad was—figured hard work never hurt anybody and I needed to learn how to do that, so I did work during the period of time, for a couple of years—my junior and senior years, I had my own contracting business, building retaining walls, so I built concrete block retaining walls for friends and neighbors, basically. You know, they had a lot along a creek or something like that and need to build a retaining wall to keep it from flowing into the creek, and I had built one for my dad, and so all of a sudden other people said, “Gee, I need one, too” and hired me to do this. 
+
+So it was good training—good training for high school football, pushing concrete blocks over my head al day long. [Chuckles.]</u>
+      <u who="LI">And you’re the only one in this contracting business, or did you get help from friends and—</u>
+      <u who="PICKEN">Just me. But I learned how to bid the job and complete the job, and it worked out just fine.</u>
+      <u who="LI">And you mentioned football. What were your passions growing up, your activities in school, things of interest?</u>
+      <u who="PICKEN">Well, I was—I was a reasonably good student. Played—played football, ran track, and then—in high school. And I wasn’t much of a basketball player. I tried to play basketball. I was probably the high school champion Ping-Pong—football, I played left end, that’s left end of the bench. That was—I was 147 pounds as a senior—a senior defensive guard, so I wasn’t real big. And so I played, and I played a defensive guard and a little bit of linebacker and center in football, but I was pretty small for the—for the sport.
+
+The high school I was in was an exceptional high school with respect to athletics, and so we had some really good athletes. We had—we were state champions in track seven or eight years in a row, state champions in baseball my senior year, a runner-up in basketball, and ranked number two or three in the state in football, and we were the smallest Class A school in the state.
+
+But being located near the university and having access to facilities and stuff like that—we had good coaching, good facilities, good athletic games, so—I was not a jock in high school. I was—I was an academic. I studied a lot, did well. Ended up taking some classes at the university in my senior year, because they didn’t offer calculus, and so a buddy of mine and I enrolled in engineering calculus at Iowa State [University]. We finished number one and two in the class. We both wanted to be math majors.
+
+You know, that was sort of the kind of the stuff. But it was—we weren’t discriminated at because we were nerds, but I wasn’t—I wasn’t one of the great jocks.</u>
+      <u who="LI">And were a lot of the students at your school—did they have parents involved with the university?</u>
+      <u who="PICKEN">Yeah. Oh, yeah.</u>
+      <u who="LI">Was everyone—</u>
+      <u who="PICKEN">Probably a third of them. We had—we had some special—special stuff because we were a big university. They—they selected a group of students who were good science students, and they had a science seminar, which was sort of an enrichment thing that met a couple of times a month for three or four hours. And they had a—a faculty member from the university come down and conduct a three-hour seminar, just basically talking about a particular field of expertise and so on. 
+
+One of the ones that I was most fascinated by was a professor from Dartmouth. That’s actually how I got interested in Dartmouth, a geology professor at Dartmouth who came in and talked about the volcano Krakatoa [in Indonesia] and the volcanic eruption. He had researched that, and that was a fascinating talk, and he and I talked a little bit about Dartmouth. Of course, I had never heard of [unintelligible] And sort of got me interested in Dartmouth at that time, but that was a great enrichment opportunity.</u>
+      <u who="LI">And what in particular, as you learned about Dartmouth, made it seem appealing to you?</u>
+      <u who="PICKEN">Well, I mean, it was—it was certainly a premier school. I wanted to get out of Ames. I had a graduating class of about 200 or so, and probably 180 of those 200 went on the college, but only three of us went to college east of the Mississippi: one to [University of] Michigan, one to Dartmouth and one to Duke [University]. The guy at Duke only lasted a semester and came home.
+
+So we were very much local. Everybody went to Iowa State, basically, or other small colleges around. Most of them [unintelligible]. I wanted to get out. I wanted to see the world. I wanted to see things differently. Dartmouth appealed to me just—I—I’d never seen the campus before I showed up there. But the pictures looked good. And had a good reputation.
+
+I’d actually had my heart set on going to Michigan. Michigan and Dartmouth were the two top departments in mathematics at the time in the country, and so I put Dartmouth down as my second choice on my Navy ROTC application. The Navy, in their infinite wisdom, sent me to Dartmouth instead of Michigan, and it was probably a great thing for me.
+
+But I didn’t know anything about Dartmouth until I showed up there. I got on the train, Union Pacific [Railroad]. In Pella, Iowa, that’s one of the stops, it was like 40 miles south, and rode the train to Chicago, where they switched to New York Central [Railroad] and rode that to Springfield, Massachusetts, and then got on the bus that drove me to Hanover. So it was about a 36-hour train trip.
+
+And met four or five other guys who were headed to Dartmouth on the—on the trip, and we played poker and showed up in Hanover. [Chuckles.] So, I mean, that’s—that’s the first I’d seen of it.</u>
+      <u who="LI">And I guess what did this impulse to explore and leave your hometown—that was by no means the norm at all. Where did that come from, do you think, growing up?</u>
+      <u who="PICKEN">You ever lived in a small town all your life?</u>
+      <u who="LI">Sorry?</u>
+      <u who="PICKEN">I’m asking you the question: Have you ever lived in a small town all your life?</u>
+      <u who="LI">I have not.</u>
+      <u who="PICKEN">Okay. Well, then you know what the motivation is. My—my—we traveled—we traveled a lot when I was a kid growing up. We had a camping trailer. We pulled it all over the western United States, and I’ve always been interested in—I’m a high-adventure kind of guy, I guess. 
+
+The summer I was—the summer I turned 16, we spent three and a half weeks out in Jackson Hole [Wyoming], and I had done some rock climbing before, and I got my dad to pay for a climb up the Grand Teton and got to know the guides, and they said, “Hey, you know what you’re doin’.” I said, “Yeah, I’ve had some pretty good—pretty good training on this thing.” So I—I made two other climbs for free up there, because the guides went out and did things on the weekends, trying new routes and stuff like that. So I had three—three ascents of major peaks in the Tetons [the Teton Range] the summer I was 16. That was fun. And so I’m interested—you know, always been interested in doing—doing fun stuff.</u>
+      <u who="LI">Interesting. 	</u>
+      <u who="PICKEN">I want to go sky diving, but my wife won’t let me.</u>
+      <u who="LI">[Chuckles.] That might be a reasonable request on her part.
+
+So you applied for this ROTC scholarship. When you got to Dartmouth, what do you remember being struck by the most in terms of your first impression?</u>
+      <u who="PICKEN">Well, it was a beautiful place, a beautiful place. As a new freshman coming in for freshmen orientation, it was—it was a different experience. And we all gathered in the dorm. I was in the North Massachusetts [Hall] dorm, and there eight of us, I think, in a group. We had a junior that lived in the dorm that was supposed to be our adviser and mentor, and we all gathered in the—what was sort of the little living room down in—down in the first floor. And he brought in a couple of six packs of beer and said, “Welcome to Dartmouth.” First time I’d ever tasted beer in my life. So, you know, that would be the initial impression.
+
+And then there was an awful lot of hazing that went on. Upperclassmen would—if you were—you were required to wear your freshman beanie, which is an ugly little hat, and if you had it on, you were on call and upperclassman could ask you to do anything for 45 minutes to an hour. And so we carried an awful lot of furniture back and forth across the campus, from one fraternity house to another, something like that in that first week. But, you know, it was—it was—it was fun.</u>
+      <u who="LI">So what was the campus climate like back in 1961?</u>
+      <u who="PICKEN">Campus climate. Oh for heavens. From a—from a weather point of view, not much different from it is today—from what it is today. There weren’t any women around. And as a freshman, you know, you—you had athletics and stuff like that. I—I—the Navy took us down and had us—we had to qualify on the rifle—rifle range. And I had grown up shooting butterflies off bridges on the sandbars as a kid, so I knew how to shoot. 
+
+We used to walk country roads with a .22 [caliber] rifle when I was a kid growing up, and butterflies would be sitting on the sandbars down below the bridge on the—on the country road, and you were a good shot if you could hit the butterfly and leave the wings lying—leave the wings lying on the sandbar with a perfect split, which means you hit it directly in the middle.
+
+So I learned how to shoot and went down and qualified for the Navy, and they looked at me and said, “You can—you can shoot. I want you for the rifle team.” Well, that was not exactly what I had in mind. And the rifle range was up in the attic of Alumni Gymnasium. It was hot. It was noisy. It was pretty miserable. And so I got on the rifle team, and then I—I practiced very hard to miss the target. I hit the target every time, but I—I—upper right-hand corner, lower left-hand corner, lower right-hand corner and so on, and they said, “Well, you can qualify if you can hit the center of the target every time.” And I said, “Well, I”—you know, I don’t know—not sure about what happened, but they threw me off the rifle team, and I went out for crew and rowed crew for the fall.
+
+And then played lacrosse as a freshman. Very few people had learned how to play lacrosse, so I was—half the team had never played before, so I played—played lacrosse in the spring of my freshman year. And after that, I blew out both knees playing lacrosse, so—but it was—you know, it was—it was a bunch of guys, and it was a small class. There were only 800 of us in the class. And we were—you know, we road-tripped and did stuff like that.
+
+[Antone L., II] “Tony” Lott [Class of 1964] was in our dorm, had a—he was a sophomore, had a car, and so we road-tripped with Tony, two or three of us. And that was sort of our introduction to life off the campus. I don’t know whether you’ve ever seen the movie [National Lampoon’s] Animal House?</u>
+      <u who="LI">I still have yet to see it.</u>
+      <u who="PICKEN">Well, you got to see it because the guy that [director John A.] Belushi played was modeled after Tony Lott. So—so you’ll have to see that. That was written by a guy a year ahead of me at Dartmouth, and I can—I can put real names on most of the characters in there.
+
+But anyway, that was—it was a very interesting—very interesting time. You pledged a fraternity when you were a—at the beginning of your sophomore year. And you were not allowed to have a car, not allowed to join a fraternity until you were a sophomore. And so that changed the—the environment substantially.
+
+
+
+I had a car—I had a car in the beginning of my sophomore year. I had joined the Kap Sig [Kappa Sigma, now Chi Gamma Epsilon] fraternity, which is now Chi Gamma Something-or-other, Chi Gam. And completely changed the—the social environment and the—and so on. The fraternity was inter- —intercollegiate athletics, road trips, social environment as well as, you know, just a bunch of your friends. And several others who had been friends as freshmen all joined the same fraternities, so it was—it was a complete change in the environment.</u>
+      <u who="LI">And would you say that—how was your transition freshman year, going from your Iowa hometown and coming to Dartmouth?</u>
+      <u who="PICKEN">Well, it was—it was certainly a—a different environment. As I said, we grew up in a town that was very much all white and all basically Protestant, a few Catholics, a large population—a large Jewish population in Hanover. About a third of the class were Jewish. A lot of the kids came from prep schools. A very, very different environment. And it all blended together pretty well, but it was different. You know, quite honestly, we didn’t know much difference. I mean, they were just all guys and—worked out—worked out fine. Made some good friends.</u>
+      <u who="LI">And how did the ROTC responsibilities play into your—you time here? Can you talk a little bit about what your commitment was while on campus and how that contributed to your Dartmouth experience?</u>
+      <u who="PICKEN">Well, we—we had to wear our uniforms one day a week. I think it was Wednesday, but don’t know for sure. One day a week, we were—we were in uniform. Went to all our classes in uniform and so on. We drilled in the—drilled in the afternoon. We had to take a Navy—Navy class every—every term, so we were on the third-term system back then, quarter system, and we had one naval science course every—every term, which reduced the electives that we had available to us, which was—I think the only negative about the thing was that I didn’t get a lot of the electives that I would have liked to have taken because of the requirement to take a Navy course every semester. 
+
+But we learned—we learned a lot about the Navy. Of course, we had summer—summer cruises, summer training every summer. But we were accepted on campus without—without too much difficulty. I mean, it was—that was pre-Vietnam protest. We never saw much of that, quite honestly, even though Vietnam was—was gearing up back in 1966. We weren’t—there was no protesting going on on campus. That—that happened less at Dartmouth, I think, than a lot of places.
+
+Saw a little bit of it in San Francisco back when I was in training. Training there at damage control and NBC [Nuclear, Biological and Chemical] warfare school in—in ’67, but it was also Haight-Ashbury [a district in San Francisco] and the hippies and so on out there, so we didn’t—didn’t see any negatives, certainly, because of the—the Navy ROTC. Friendly rivalry with the Army guys. But we weren’t accepted or thought of as anything different. We had two or three Navy guys in our fraternity, Navy ROTC guys with the fraternity. Because we were together in the summers, we were closer to them than some of the other folks, but really it didn’t have much impact on how we viewed the world.</u>
+      <u who="LI">Did you—were there ever any moments where you questioned your involvement with ROTC? Obviously, it gave you the scholarship, but were you ever nervous about going into the Navy afterwards?</u>
+      <u who="PICKEN">Nope. Nope. Big adventure comin’ up.</u>
+      <u who="LI">And what were those summer trainings like?</u>
+      <u who="PICKEN">Summer training. First one was on an old Fletcher-class destroyer out of Norfolk [Virginia], and about half the time, we were on the ship, it was in the shipyard, so it was not a lot of fun. And you went on board as an enlisted man, and—wearing your Dixie cup hat and spending your—spending your days chipping rust and painting and stuff like that. We broke most of the rules. We—we set out the Dartmouth—or the Dartmouth ROTC guys set out to break as many rules as possible. They gave us a copy of the Naval Academy’s rules, code of conduct, and they—so many demerits for each—each infraction. And we decided to see if we could accumulate enough demerits to get kicked out of the Naval Academy without getting caught. We—we did. We were pretty successful.
+
+I had a—we spent three weeks in the shipyard down in Portsmouth—Portsmouth Naval Shipyard [sic; Norfolk Naval Shipyard] in the Norfolk area, and we weren’t allowed to have a car, but I had one anyway, and we parked it off campus or off—of the base, and we’d go off and take off our uniforms, had to go off the ship in uniform, carefully put the uniforms in the trunk, four or five of us, and head to Virginia Beach. And we did that. Had a good time. Breaking rules, of course, any time we had a chance. It was sort of a rebellious part of our life. But that summer training was okay.
+
+
+
+The second summer, we went to—went to [the Naval Amphibious Base] Little Creek, Virginia, which is, again, in the Norfolk area, for three weeks of Marine training, and I again had the car, and we managed to—we were all there together as a unit, so there were 12 of us regular ROTC guys from Dartmouth.
+
+And we competed against the other schools in athletic competitions and stuff like that, and then got up at five o’clock every morning for a run—you know, two- or three-mile run before breakfast. And then went through the rest of our Marine training. We were crawling on our bellies through the sand and let them fire the machine guns over our heads, and they kept telling us, “Don’t stick your head up.”
+
+But we—we were rebellious there, too. We—I had the car We rented a beach house for the three weeks we were there, down in Virginia Beach, and managed to infiltrate the watch section so that we always had one of our guys on duty on any given night, in response to bed check. And we were supposed to be in bed, sleeping, by ten o’clock at night, and they’d get us up at five o’clock in the morning. Well, a couple of us that were there watch, we fudged the bed check reports, and we came in—rolling in at two thirty, three o’clock in the morning from partying at the beach, snuck into the—snuck into the barracks and then rousted out at five o’clock in the morning to go running. That’s—that’s hard to do if you’ve—if you’ve been drinking beer all afternoon or all evening, to put a rubber boat on your head and run four miles, but we learned how to do that. So that’s what we did.
+
+And then we went down to Corpus Christie [Texas] for the next three weeks for aviation training, and learned how to fly. Flying training, training airplanes, and had an orientation flight in a [Grumman F9F-2] Panther jet, which is—which was a Korean War aircraft, F9F, and flew—flew that and partied a significant amount while we were down there. Had a good time. A few trips across the border into Mexico and so on, so it was all good fun.</u>
+      <u who="LI">Where do you think that rebellious culture came from? Was it just a function of the fact that you were a group of young guys being forced to go through training, or what’s your opinion on that?</u>
+      <u who="PICKEN">We knew the deal. We were all on scholarship. Yeah, it’s a bunch of young guys and a little bit rebelliousness to break the rules. You know, live the life of high adventure, why not?</u>
+      <u who="LI">And did you have a favorite part—sorry?</u>
+      <u who="PICKEN">Wouldn’t want our kids doing that, but we did it.</u>
+      <u who="LI">And did you have a favorite part of training in terms of, like, the technical side of things?</u>
+      <u who="PICKEN">Well, I enjoyed flying. Flying is fun. I’ve been around aviation most of my life. That was my first opportunity, you know, to sit at the controls of an aircraft, so that was a good time.</u>
+      <u who="LI">So at the conclusion, you mentioned that you went to Dartmouth undergrad for three years and then Tuck [School of Business] for two. </u>
+      <u who="PICKEN">Yeah.</u>
+      <u who="LI">How did that—was the typical ROTC program for just four years?</u>
+      <u who="PICKEN">Yeah, the typical ROTC scholarship was four years, and they paid—they paid for four years, and they paid for the first year at Tuck. But at the time, Tuck had an experimental program called the 3-2 program, where you could get into the business school at the end of your junior year—highly selective. There were only ten of us that were—were selected into the—in the Tuck class. But it was ten out of the 120 students in the first year of class for Dartmouth 3-2, so a small percentage of the class.
+
+
+
+We probably did pretty well. Obviously, we were selected as pretty good students, but I would guess probably six or seven out of the top ten in our first-year class at Tuck were Dartmouth 3-2s, and we had a couple of guys from Yale [University]; they both flunked out. I was always intrigued by that. [Chuckles.] Because Yale was a big rival.
+
+But did well—did well. Finally figured out that—I found something that was interesting from an academic point of view. I had migrated from a math major to an economics major, beginning in my junior year and then to business school, so moving from theoretical to practical.
+
+And really found my niche at—at Tuck in terms of stuff that really intrigued me. Had good opportunities as a research assistant with a couple of professors, so I was up there during the summer, got paid for the summer, traveled all up and down the East Coast interviewing chief financial officers with Fortune 50 companies, and that was kind of fun.
+
+But did very, very well at Tuck and had some great experiences, made some great friends on the—on the faculty there, and had some mentors and so on, and so that was really, really a good experience.
+
+We had one other Navy ROTC guy, [David L.] Wagner [Class of 1965, Tuck 1966] was also at Tuck, and we competed in the intercollegiate athletics. We did some fun stuff. We were on the top of the—top of the intercollegiate—the intramural athletics in football and baseball and stuff like that, so we had a lot of fun doing that.
+
+Tuck was very, very different. Much more intense. Didn’t have near as many rules as the—living in the dorms on campus had. And all of the judicial stuff was handled by student committees, so the fine for having a—getting caught with a girl in your room as an undergraduate was to [unintelligible] out of school. The fine at Tuck School was set at one dollar less than the cheapest motel room in the area.</u>
+      <u who="LI">[Chuckles.]</u>
+      <u who="PICKEN">So we had a lot of girls in the dorms. Some of them moved there for entire semesters. So it was kind of a different atmosphere.</u>
+      <u who="LI">And where did you meet those girls, if I may ask?</u>
+      <u who="PICKEN">I wasn’t one of them. I didn’t have a girl then. Road trips. I dated a girl—I dated a girl who was going to Smith [College] for two and a half years when I was up there, so she’d come up every weekend, ride the train or drive up with a friend, or I’d go down there. We’d road trip down to Smith for a [unintelligible].</u>
+      <u who="LI">I see.</u>
+      <u who="PICKEN">[unintelligible].</u>
+      <u who="LI">And you were training throughout this entire period?</u>
+      <u who="PICKEN">Well, I mean, we were going to school. Yeah, we were going through the ROTC training, yeah. And the ROTC only paid for four years, so my fifth year, I had to pay for. And so I worked as a—I’d been involved in the—I was in the math program, and the startup of the BASIC computer language, which you’ve probably never ran across, but BASIC was written up at Dartmouth by a group of sophomore math students, and then the Dartmouth Time-Sharing System was set up—the programs written in BASIC, so I paid for my second year of business school, my fifth year on campus, by working as a computer programmer for Chase [Manhattan] Bank [now JPMorgan Chase Bank, N.A.] out of New York, writing financial analysis software to run on a time-sharing system.
+
+So I spent a lot of—a lot of late nights in the—in the computer room. And we only had one computer room on campus at the time. But writing software and getting paid for it, so I wrote a lot of financial analysis software for Chase Bank.</u>
+      <u who="LI">So you were really on the frontier of technology, doing that.</u>
+      <u who="PICKEN">Yeah, yeah. And so the Navy, of course, in their infinite wisdom, took this guy that was really, really good with computers and made me a engineering officer, responsibility for diesel engines. [Laughs.]</u>
+      <u who="LI">[Chuckles.]</u>
+      <u who="PICKEN">That’s—that’s—didn’t have much use for what I was doing, but at least I understand—understand a little bit about computers.</u>
+      <u who="LI">So tell me about what you did after graduation. What was the next—the beginning of the next part of your life like?</u>
+      <u who="PICKEN">Well, after I graduated, I went into the Navy, and I was assigned to USS Arneb, A-r-n-e-b, which was an AKA [Attack Cargo Ship]. Had a bunch of landing craft on it, and out of Norfolk, Virginia, and I spent 13 months on the Arneb. When you are—you couldn’t—you couldn’t ask for a change in duty stations until you’d been on board somewhere for at least a year, so I started bugging my detailer after about nine months, volunteering for [unintelligible] to get out to where the action was in the Pacific.
+
+Most of the good people that were in the Navy and the good ships that were Navy were headed west, based on the West Coast and so on. On the East Coast, it was sort of the left-behinds. And the amphibious Navy was sort of the lower tier of the Navy. I got assigned there because I had deferred my commission for a year, and I went to the bottom of the selection, so I got the worst—worst—one of the last choices and one of the worst duty stations in the Navy.
+
+So we—we were doing amphibious landings and stuff like that, and I was axillary engineering officer. Volunteered for anything and everything, and—to get out to where the action was in the Pacific, and then July 1967 we left the Arneb, went out for three months for damage control and nuclear, biological and chemical warfare school in San Francisco.
+
+And then flew to the Philippines, picked up the [USS] Goldsborough and started my experience in—in Southeast Asia on the Goldsborough, as an auxiliary engineer—as a damage control assistant, which was responsible for maintaining the physical maintenance of the ship: electricians, welders, plumber, all those folks. And so I spent six and a half months up close to North Vietnamese on the Goldsborough.
+
+Came back to [Naval Station] Pearl Harbor[, Hawaii] for four months, turned around and went back for eight months to support the Marines and the Army officers up in Long Bình empire support.
+
+And then May ’69 left Goldsborough. Got orders—this commander officer of a minesweeper—to mine warfare school in Charleston [South Carolina] for three or four months, and came back, in July ’69. Took over as commanding officer of USS Force, out of Pearl Harbor, which was in a major shipyard overhaul conversion stop, so we never went to sea. But there were five minesweepers that we converted into electronic intelligence ships.
+
+In the shipyard, I was responsible for all of the main propulsion engineering for all five ships. Had the title of CO on one of them. We went through conversion of a couple of those ready to be electronic intelligence ships.
+
+During the time, oh had to be early ’69, I think, the North Koreans captured the USS Pueblo. You may want to look that up in a history book. Pueblo was an iconic intelligence ship, that [unintelligible] along the coast of North Vietnam but it was—captured it, and confiscated the ship and eventually [unintelligible].
+
+So the Navy decided we needed more electronic intelligence ships and they didn’t need any minesweepers. Five minesweepers to intelligence ships. We were involved in that for a little over a year. Like at home.
+
+I had gotten—I told my detailer I wanted orders to a—another command, one that was really going to be at sea. He got the orders to do construction on Bremerton. High-speed, experimental gas turbine patrol boat, something like that. He lied to me and I got upset with him and turned my letter in. He told me, “Oh, yeah, it’s going to be Bremerton as far as we know, for the next couple of years.”
+
+I just had a new baby, so on and so forth. Well, actually, it was going to be 14 months Cam Ranh Bay, back in Vietnam for the third time in three years, and with a new baby at home and so on, in fact, the guy lied to me and said, [unintelligible]. So that’s the situation.</u>
+      <u who="LI">So if we can—if we can step back for a second to the USS Goldsborough, which obviously you had wanted to get closer to the action in the Pacific, like you had mentioned, so what was the first arrival like in that atmosphere? And also, how did your family feel about your going into the forefront of controversy, essentially?</u>
+      <u who="PICKEN">It wasn’t controversy. There was no controversy. You’ve been—you’ve been reading too much left-wing liberal history. There was no—no controversy in 1967. My family was supportive. I wasn’t married at the time. But my—I was—I had gotten engaged just before I went overseas. My wife had grown up—her father was Navy, had been brought up in military. And so she—she was fairly, you know, supportive. 
+
+
+
+But there wasn’t any controversy. Hawaii, Pearl Harbor, military, Korea—all very supportive. Really, we didn’t see—we didn’t see anything in terms of controversial protests or anything else until back in the ’69, ’70 timeframe and after that. There weren’t any campus protests. I think they started basically in early 1970. But I’m—my parents were supportive. I didn’t see any controversy over it, really. I knew what was going on, and we felt a strong sense of patriotism and responsibility going in there, going from the Arneb, which was a really crummy ship, not very good officers, to the Goldsborough, which was at the top of the heap and meeting first-class people was—it was a great—great experience.</u>
+      <u who="LI">And what were your typical responsibilities like during your tours?</u>
+      <u who="PICKEN">Well, I was a damage control officer, so I had about 70 or 80 men who were responsible for maintaining plumbing and air conditioning, welding up shrapnel holes in the side of the ship, all the auxiliary engineering, electric, electrical, communications, stuff like that. So I managed that during the day. My duty was officer of the deck. We—when we were in the combat zone, we had two march sections, so we—what we called port starboard, with six hours on and six hours off. And I was the officer of the deck, so I was the officer responsible for basically controlling the ship and running the ship from a operational and tactical point of view, from the bridge during—during that period of time.
+
+And, of course, we had other officers down in engineering and sonar and in the combat information center, who had their own sets of responsibilities. But I coordinated all of the activities on the ship. They—they all had responsibilities, and we had an officer, obviously, who was—was my boss, but he wasn’t there—he wasn’t there all the time, particularly in the middle of the night.
+
+I had midnight to 6 a.m., and noon to 6 p.m. around the clock for 20 days or so at a time. Going to port for a couple of days and back out for 42 days. Forty-two days is the longest period of time in the combat zone.
+
+
+
+And the combat zone was—was mixed. I mean, it was obviously more adrenaline going on, but we were making—I was a lieutenant JG [junior grade]. I guess I was probably making $300 a month. But when we were in the combat zone, we got $50 a day combat pay. And $50 a day was—translates into, you know, twelve, fifteen hundred dollars extra every month, so it significantly increased our salaries [unintelligible]. And we got paid in cash when we walked off the ship, when we came into the port.
+
+So we ended up having to send some money back home. At the similar time we bought a lot of electronics. Had a good time when we were in port. Weren’t in port very often. But at sea, it was a grind. I mean, we were six hours on, six hours off around the clock, and then we got off at 6 a.m. you worked for three or four hours doing your administrative jobs in your division and doing those kinds of stuff. Took a nap and go up five o’clock and had lunch and went up and spent six hours on bridge.
+
+[cross-talk; unintelligible]—</u>
+      <u who="LI">How did you deal with—sorry, go ahead.</u>
+      <u who="PICKEN">Well, I said the mission—the mission was Operation Sea Dragon, and I think I told you a little bit about it. We had two ships—two ships that patrolled the coast of North Vietnam from the DMZ [demilitarized zone] north for about, oh, 80, 90 kilometers north. Đồng Hới was about 30 miles north of the DMZ, Vinh was about 30 or 35 miles north of Đồng Hới. And then we went beyond that a little bit. So 60 to 90 miles north of the DMZ.
+
+And basically our job was to sink anything floating, going south, or blow up anything rolling, going south along—along the coastal highway. And we were able to hit targets up to eight or nine miles inland. And we had aircraft that were out spotting for us, would find targets.
+
+We had aerial reconnaissance aircraft flew out of [Naval Air Station] Cubi Point down in Subic Bay [in the Philippines]. Flew up—refueled in Da Nang and flew up and down the coast of North Vietnam out on recon[naissance], and then they would fax us—they’d come back to Da Nang, and they would fax us photos of targets. So we had people looking for targets for us.
+
+And we’d go in, and we’d fire and hit the targets and go back out to sea a little bit, get out of range of the coastal guns. They had guns in caves all up and down that stretch of the coast. They’d roll them out of the caves and shoot at us occasionally, but not every time. So it was always kind of a surprise.
+
+Operated two ships. The front ship, the lead ship, was shooting at the target, and the ship that was following would fire into the caves to keep their heads down so they wouldn’t roll their guns out and shoot at us. And that worked pretty well most of the time.
+
+We spent—most of the time, we were lead ship, but occasionally we operated with a cruiser, and [USS] Oklahoma City was the one we operated with a good bit. We were the second ship firing into the—into the caves to [unintelligible].
+
+
+
+And we had the aircraft spotters up above telling us where the gunfire was coming from, and we’d train our guns over there and pop a few rounds in the caves to get them to roll back to the caves. So that was how it was.
+
+My job as the officer of the deck, when they weren’t shooting, was to maintain a steady course, two to three to four miles off the coast, usually headed north, till we finished our mission because it was easier for the gunnery folks to hit the target, and the aircraft would relay spots—would direct the spots. Hit the target, fire for effect, and—until we finished whatever was necessary or the aircraft said, “It’s done. Here’s the damage report” and stuff like that. Turn around and head back out to sea.
+
+The range of their five- and six-inch guns was 10 to 12 miles, so we’d—we’d stay 10 to 12 miles off the coast, out of range, until it was time to go in for another mission, and then we’d turn in and head in, go fire another mission and then get out. When they started shooting back at us, our job was to get out of there as quickly as we could and steer a zigzag course to make it more difficult for them to hit us.
+
+And so basically, when we had the shells flashing into the ocean around us, I’d steer—I’d steer for the last shell because that’s where they were shooting, and we figured they would correct, based on what they were doing.
+
+So random zigzag course, a fairly high speed, duck-and- dodged bullets coming in. We never took any direct hits. But we did have some shells go off, and we had [unintelligible] shrapnel holes and stuff like that, but it was not a big deal right until the end of that, and they—the Russians had brought in some tactical radar. And so some of the North Vietnamese, using Russian fire-control radar, got to be a lot more accurate.
+
+And we were relieved by the HMAS Perth, which was an Australian ship, one of our sister ships, right after we left in—in March of ’68, February or March of ’68, [unintelligible]. And took a direct hit on the forward mount and killed about 27 sailors. We were lucky. We didn’t get hit. And they were unlucky that they did, but I think the fire-control radar helped an awful lot in that situation.
+
+
+
+We were—we were celebrated as one of the—the best ships in the Navy. The secretary of the Navy came out and met us on the pier when we came into Pearl Harbor and presented the entire crew with the Navy Unit Commendation award, which is the equivalent—it’s the unit equivalent of a Silver Star, two or three—second or third highest awards that could be given in the military, and they gave it to the entire crew because we were credited with sinking 360 or -70 water-borne logistics craft and blowing up a lot of trucks in a seven-month—a seven-month tour, the first time a Navy Unit Commendation had been awarded since World War II. We didn’t get any in Korea [during the Korean War]. So it was a big deal. And we were celebrated as being really an outstanding bunch of folks and a good crew.</u>
+      <u who="LI">Wow, yeah. So I guess in those—it sounds like you had a very systematic mechanism for going out on your missions: acquiring the targets and avoiding the hostile fire.</u>
+      <u who="PICKEN">Yeah, that’s [unintelligible].</u>
+      <u who="LI">How—</u>
+      <u who="PICKEN">We were well trained in that, and we practiced a lot. 
+
+I do have one story to tell you, though, about another Dartmouth guy, if I may, on that—on that segment of the cruise. We were out on the Oklahoma City, which was a cruiser, and so we were the second ship. The admiral was on board the OK City [pronounced oak]. And we got caught in crossfire. There are three islands in the South Island Sea named Tiger Islands, but this was the bigger one. And it’s about four miles off the coast of North Vietnam, north of Vinh, and we were between the mainland and the island, following the Oklahoma City and hitting targets inland.
+
+And we had an aircraft up there giving us spots, and I was on the radio with this guy for about 40 minutes. We got caught in a crossfire. Oklahoma City said, “I’m outta here. You cover me,” basically, and so we had—forward mount is aimed at the coast, the aft mount was aimed at the—at the island, and suppressing fire from both sides, point blank, at about two miles.
+
+That was—that was a very interesting time. It was—it was exciting, to say the least. A lot of adrenaline going on. And we got out. The cruiser got out. The admiral didn’t get his uniform dirty.
+
+And back in, oh, about July of ’68, I was in San Diego and ran into one of my Dartmouth ROTC guys, a guy named Kurt [D.] Findeisen [Class of 1965], and we were sitting in the bar in the officers’ club in San Diego and swapping stories, and he started telling me about this time that he’d been the—the pilot flying—flying the [Grumman] S-2 [Tracker] over two ships that got caught in a crossfire. [Chuckles.] And that doesn’t happen very often, so we started talking about it, and I said, “What was the—what was the call sign of the ship?” And he said, “I don’t remember.” I said, “Was it Killer Whale?” Which was our call sign. He says, “Yeah, I think it was Killer Whale.” And I said, “Do you realize that we were talking to each other for 40 minutes in the middle of that battle, and we didn’t know who—who was on the other side?” [Chuckles.] So that was kind of fun.
+
+So Findeisen—Findeisen and I were on the radio with each other for 40 minutes. He was up spotting for me, and I was trying to keep their heads down in the caves. So that was—that was kind of an interesting reminiscence, I guess, about that particular time.</u>
+      <u who="LI">And what did you g- —and how did you, I guess, sustain or endure those 42-day stretches at sea? You know, what did you do for recreation or to help get through—</u>
+      <u who="PICKEN">[Chuckles.]</u>
+      <u who="LI">—those periods of time?</u>
+      <u who="PICKEN">You’re on your feet—you’re on your feet for 12 hours, standing on the bridge. You eat a couple of meals. You—three or four hours of administrative stuff, and then when you’re trying to sleep, the guns are going off over your head. There’s no time for recreation, okay? No time for recreation. I mean, this is—this is serous—serious work.
+
+I did have one Dartmouth guy who was on the ship with me, David [L.] Nicholas, who was a Class of ’66, who was a fraternity brother of mine, and when I showed up on the ship, there was—there was Black Dave, as I think I wrote about. And he had blown his knee out—he wanted to be a SEAL [Sea, Air and Land], and he had blown his knee out, and so he—they put him on a ship for recuperation.
+
+And so we would go out and exercise, trying to help him get back in shape, and so we would do pushups on a rolling deck and do one-arm pushups with the right arm and then do the left arm on a rolling deck. That’s—that takes a fair amount of balance and timing to be able to do that, but—so we worked out a little bit to try and get him back in shape. And he left when we got back into Pearl in ’68. Went back, completed his SEAL training, and then he was killed in a blocking operation with the SEAL raid in South Vietnam early 1969, so—but Dave and I had a lot of fun. And we worked out together. So that’s the only recreation we had.
+
+Mail took about three weeks back and forth. And when you’d get into port, you wanted to call your wife, you’d go stand in line at the local postal telephone and telegraph office for 45 minutes to two hours. You get there, the operator—she’d call your home number. If the line was busy, you got up and walked to the end of the line again. So communication was—was very, very difficult. So, mail took about three weeks either way, so—
+
+My wife was pregnant during the second cruise, with our first child, and we were trying to name the baby with letters crossing in the mail with the three-week lag, and it was quite an adventure. But we did get on the phone. But when we finally figured it out, so—we named—named our first child after—after Dave Nicholas.</u>
+      <u who="LI">And how—how connected did you feel to the war while you were aboard? Because obviously it’s—it’s an isolated world, in a sense. You know, you have your crew.</u>
+      <u who="PICKEN">We were—we were—</u>
+      <u who="LI">So how connected did you feel?</u>
+      <u who="PICKEN">We were quite—quite enthusiastic about the mission and about what we were accomplishing on the first cruise. The first tour, Sea Dragon—the action was—was constant. We were doing some good. We thought we were doing a really good job, and we were. And so quite enthusiastic.
+
+Got back, went back and during the period of time that we were in between the cruises, they declared a bombing halt, trying to do that. All the action moved south of the DMZ, and we were just doing plain, ordinary naval gunfire support of the troops in South Vietnam, fighting the Viet Cong. And got a little cynical, as you could read in that midwatch log, a little big cynical about the rules of engagement. And starting a bombing halt, so: Why are we here? We’re not quite sure why we’re here. We’re not quite sure this all makes sense and so on.
+
+And a certain amount of cynicism crept in during that—during that second tour. Nothing like getting shot at to get your adrenaline going, and the second—second cruise off South Vietnam, we—we did a lot of shooting, but I think we only took one—one burst of .50 caliber machine gun fire during the entire cruise, and that was probably a disgruntled Marine just taking out his frustrations on the beach, probably one of our guys.
+
+So the lack of adrenaline. Pretty much the same crew on the second cruise except we had a new commanding officer and a new executive officer. The commanding officer on the first one was—the first cruise was—was very, very good. Everybody loved him. The commanding officer on the second cruise had come out of the Pentagon. Everybody hated him. And we amused ourselves by playing—playing tricks on him, basically. It was a very, very different experience.
+
+He used to—</u>
+      <u who="LI">How close was your—</u>
+      <u who="PICKEN">I’ll tell you one story about the second cruise. This guy used to—he has a sea cabin right behind the bridge, and he used to insist on getting up for every firing mission when we were operating down south. He’d come out of the Pentagon. We had to wear our full battle dress; black jacket, helmets, everything else. And it’s hot. And he insisted on all this, as he was playing war, and that’s—that’s what you do from the Pentagon, I guess.
+
+
+
+The first guy—we were much more relaxed about it, and so totally by the book. And I was still midnight to 6 a.m. and he would insist on getting up for every firing mission. Well, you’re sitting there, four or five miles off the coast, firing off into the jungle five or six miles away, pitch black. You can’t see anything, and he thought he was out there to make sure we didn’t do anything stupid. But firing 20 or 30 rounds into the jungle and just periodically just keep--keep the Viet Cong heads down—he’d get up in his purple and white striped pajamas and bathrobe. And then he’d sit out there, and just be a grouch. We called him the Grouchy Bastard.
+
+And we decided we were going to fix him. And he’d come onto the bridge, and I’d say, “Firing to starboard, Captain.” He’d go out and stand on the starboard wing of the bridge and watch the guns go off. Couldn’t see anything. Couldn’t add any value or anything else. But—and he’d come out, and he’d grouch—grouch around for a half hour, 45 minutes. Couldn’t get back to sleep, so he’d make our lives miserable the rest of the night.
+
+And we decided we were going to fix him one time. So we—one of the rules is you never fire the guns abaft the beam, which means more than 90—90 degrees from straight ahead, because the gun—the concussion off the gun would—would hit the superstructure and break windows and do stuff like that. You don’t want to do that because you don’t want to break your own windows.
+
+So we figured out exactly what angle we needed to turn the gun. That angle was 94, 95 degrees abaft the beam, in order for the gun concussion to hit the door of the bridge. And we timed his walk from coming out of his sea cabin onto the bridge, his number of steps to get to the door of the bridge, and figured out exactly how we could get the gun concussion to hit him just as he walked through the door.
+
+And we practiced this for two or three nights, and finally the—the right time had arrived, and I said, “Captain, we’re going to fire here in a couple of minutes,” and he got up, and [unintelligible] bathrobe and came out and I said, “Firing—firing to starboard, Captain.” And he—it hit the—came around the corner and—my roommate was the gunnery officer back in CIC [Combat Information Center, also known as the Operations Room], and I had him on the phones, and I said, “The Captain’s on the bridge.” A thousand one, thousand two, thousand three. Fire, Woody.”
+
+And the timing was perfect, and the gun went off just as he was stepping through the—through the door. Knocked him backwards, onto his back. Glasses flew off. And he knew he’d been had. And got up and says, “Lieutenant, don’t get me up next time.” I never saw him again in the middle of the night, so it—it worked quite well.
+
+But those are kind of—those are the kind of things you do to amuse yourselves when there’s nothing else to do.</u>
+      <u who="LI">And was your crew close, you would say?</u>
+      <u who="PICKEN">Pardon?</u>
+      <u who="LI">Was your crew close with each other, you would say?</u>
+      <u who="PICKEN">Yeah, pretty much, yeah, yeah. We were—we were—I mean, there were around 300—200—200-and-some guys in the crew. We didn’t know all of them, but, yeah, we—we stuck together pretty well. The officers—the officers stuck together pretty well, with the exception of the commanding officer and the exec officer. The executive officer was a drunk, and so the captain restricted him to the ship for most of the cruise, so he—he was a nonentity in the second cruise.</u>
+      <u who="LI">And how regular was your access to news while at sea?</u>
+      <u who="PICKEN">None. Very little. Very little. I mean, almost none.</u>
+      <u who="LI">So most of what you knew came from the—information within the Navy, I guess.</u>
+      <u who="PICKEN">Oh, yeah, absolutely. I mean, you got to understand, satellite communications didn’t exist back then. We had no television. I mean, my—my—two of my sons are—are currently active duty Navy, and they’ve got television, they’ve got telephone communications back home, they Skype back and forth with their wives and kids and stuff like that. None of that existed back then. Mail came. Mail came, but it was three weeks late by the time it finally got out there. So not very much communication.</u>
+      <u who="LI">And at the end of your second tour, you mentioned obviously it was more cynical and not as—</u>
+      <u who="PICKEN">We saw—</u>
+      <u who="LI">—didn’t have as—you didn’t see as much action on your second tour. So how were you feeling at the end of that?</u>
+      <u who="PICKEN">Well, I was still—I was still in the Navy. Had a good job. Got orders to command the ship, which I’m very, very young for that, for that set of orders, so I was pretty enthusiastic about that, went back to mine warfare school back in Charleston. And so it was—you know, it was fine. Went out. Took over the [USS] Force, and that was an engineering and administrative job, but that was—it was challenging.
+
+And I didn’t have a negative attitude. I liked the Navy. I was good at it. I had been promoted earlier than a lot of my contemporaries whose oriented toward a career in the Navy. As I said, the detailer lied to me, and I got pissed off and [unintelligible].
+
+But nothing negative, nothing negative in terms of cynicism or anything else. You’ve been reading too much history of the protests and stuff like that, and those were—those were relatively isolated to the United States. We didn’t see much of it in the military at all.</u>
+      <u who="LI">Mmm. I think you said in May of ’69 you were on one of those ships that was being converted into the electronic intelligence ships, if that’s correct?</u>
+      <u who="PICKEN">In ’69 I went to mine warfare school and learned how to—learn how to run a mine sweeper, basically, and learned all the tactics and stuff like that. In July, I went back out to Pearl and took over as commanding officer in July of ’69 on the Force.</u>
+      <u who="LI">And how did that experience compare to your previous time on the Goldsborough?</u>
+      <u who="PICKEN">It was—it was tied to the pier in downtown Honolulu with no engines in it, and we take off [unintelligible] week and, you know, had a—had a very—very nice period of time. It was hard work. It was hard work, and it was difficult and frustrating because of screw-ups in the engineering side of the—of the Navy. The plans that were being sent out from the Pentagon were screwed up, and we ended up having to redo, rework an awful lot of stuff out there. But we worked with the supervisor of shipbuilding, which was a civilian operation, a bunch of Hawaiians and Chinese and Japanese engineering folks who worked for the—civilian workers for the Navy.
+
+And we worked with them. We played golf with them once a week at their clubs, and we played on military bases. We had—had a good time. And it was rest and recuperation. And, of course, I had a new baby at home, so that was a new experience. We had—it was—it was shore duty, basically, which was okay.
+
+
+
+We had lived in a housing compound outside of Pearl Harbor, and had some Air Force boats, and we were very cynical about the Air Force because for three years I lived across the compound from an Air Force officer who was the  same rank as I was and had the same pay I did, and I’d had two tours in Vietnam as commanding officer of a minesweeper, and he spent his entire time as the assistant bowling alley officer on the Air Force base.
+
+So we were—were cynical about the Air Force. We call them the Chair Force. And a little bit cynical about the Air Force, but other than that, proud to be in the Navy and probably were doing some good.</u>
+      <u who="LI">So tell me about the transition to life after the Navy.</u>
+      <u who="PICKEN">Well, I came back to Hanover. I had planned to get a Ph.D. after I got out. When I got out, I was going to go back to school and get a Ph.D., so—while I was in Pearl, I went to the University of Hawaii to—I’d gotten an MBA from Tuck, and I wanted to see if there were any courses I could take just to be back in the idea of studying. I’d taken my Graduate Record Exams and had real good scores. Was going to go back and get a Ph.D. in economics, and I applied to Harvard [University] and Stanford [University] after that.
+
+But had gone to the University of Hawaii, and they said, “No, there’s”—you know, I looked at courses. I said, “I’ve had all these.” “Oh, really? You had all these?” And I said, “Yeah.” “Would you like to teach?” And so I—I taught business statistics in the business school, in the MBA program at the University of Hawaii for a semester because it was the same textbook I’d used at—at Tuck.
+
+And that was an interesting experience, not a particularly good one, but—so I did—I di d a little bit of, you know, spare time teaching, trying to get back in the swing of it. I wrote to [J.] Brian Quinn, who had been one of my professors and sort of a mentor at Tuck, and asked him for a recommendation to Harvard, and he wrote back and said, “I’m got going give you a recommendation to Harvard. You need to work for a few years. And besides that”—this is back when the campus protests were—were springing up in the summer of 1970. He says, “Besides that, coming back as a Vietnam vet, you’re not going to fit in at Harvard.”
+
+And then he said, “Oh, by the way, I’m on the board of a company that needs you, so I ended up with a job instead of a recommendation and didn’t go back to school for another 25 years to get my Ph.D., so I went to work for Creare [pronounced cree-AHR-ee] in Hanover, in the high-tech consulting engineering group and spent three years there, so I was back in Hanover from September of 1970 through August of ’73.
+
+And, you know, so the adjustment wasn’t—wasn’t a big deal. I was back in Hanover, doing interesting stuff. I didn’t see much adjustment.</u>
+      <u who="LI">And did you perceive a difference in campus culture when you returned from when you, you know, went to school?</u>
+      <u who="PICKEN">Well, I mean, sure, four—four years later, married—I wasn’t doing the same stuff I’d been doing when I was in college. [Chuckles.] And so, yeah, it was a little difference in culture. A year after we got there, the place admitted women. I think it was ’71 or—’71 or ’72. The culture started to change a little bit, but the town was about the same. The college wasn’t any larger than it was. They hadn’t started year-round stuff, so it was—it was pretty much—pretty much the same.
+
+We didn’t see any protests, if that’s what you’re looking for.</u>
+      <u who="LI">[Chuckles.] Looking for nothing in particular, but that’s interesting to note.
+
+Did you—I guess in this transition—you said it wasn’t too difficult for you, going back into society. You had a job lined up, you know, shortly after coming out of the Navy. Was there any sort of—and this could be my projections about what returning would be like, but was there any sense of liberty regained that you felt after leaving the Navy?</u>
+      <u who="PICKEN">No. Nope. Nope. Not—not at all. I mean, you got to remember, I was—I was in a position where I was pretty independent. I was a commanding officer of a ship. I had some responsibilities. But, you know, I was pretty independent. I never felt constrained. We had our routines. We were doing what we were doing. We knew why we were doing it. But no, I—I didn’t—I didn’t feel any need to escape or anything else. It was—it was a reasonably normal transition, went from one job to another.</u>
+      <u who="LI">And did you feel like the Navy—your time in the Navy impacted the following years, or in your mind, was it very compartmentalized, like you just moved on from one job to the next like you just mentioned?</u>
+      <u who="PICKEN">One job to the next, but if you were—if you were in the military, [unintelligible] one of the things about the military is that you grow up—you grow up in a hurry. And I was 26 years old, commanding officer of a ship. And previously, 25—24, 25 years old, responsible for a ship, several hundred crew, in a combat zone. You grew up in a hurry. And I loved the responsibility. I loved the action. And it—you know, I’ve always lived a high-adventure lifestyle, in one way or another. Never shied from responsibility, and I never felt—never felt that I had been disadvantaged [unintelligible] military. 
+
+As a matter of fact, I’ve [unintelligible]. And learning how to take responsibility and put up with—put up—you put up with some inconveniences and hardships and stuff like that, but I was way, way ahead of my contemporaries when I got back in the business world; maturity, judgment, experience, and so on and so forth.
+
+
+
+As I tell the students—</u>
+      <u who="LI">So you—</u>
+      <u who="PICKEN">—“You’ve had a tremendous—you’ve had a tremendous opportunity in the military whether you were an officer or whatever it is. You grow up faster than most of the other people your age, and take advantage of it, because it’s true. Responsibility—learning responsibility, learning how to get along with very, very different kinds of people, learning to be accountable to yourself and for others. Tremendous—tremendous amount of [unintelligible].”
+
+I’m—I’m—I’m personally of the opinion that everybody ought to [unintelligible] military, and when [unintelligible]. I think Israel’s got it right. I think it’s—we lost a lot when we got rid of the draft.</u>
+      <u who="LI">And you mentioned that two of your sons are in the Navy. Did you encourage them to—to join and get that experience that you were just talking about?</u>
+      <u who="PICKEN">Well, I don’t know that I encouraged them or not. It was certainly an option. My oldest son went to—went to a small school here in Texas, about 1,200 students, called Austin College, but it’s regarded as being one of the top schools in Texas for getting into medical school, you know something like 60 percent of their pre-med students get into the medical school of their choice. They do a really good job [unintelligible] he wanted to become a doctor. He went to [unintelligible], graduated from there with honors, and had a real good experience. A small school. He’s gotten [unintelligible]. 
+
+Got into the University of Texas and Houston Medical School [sic; McGovern Medical School at the University of Texas], and he attended that on a Navy scholarship, so [unintelligible]. The scholarship is worth probably $150,000 at that time, five years ago. A full ride, military scholarship to medical school probably worth $300,000 before—today, technically [unintelligible]. And military medicine has been good for him, [unintelligible] of it all.
+
+My second son—he’s not military, but he’s semi-military. He’s a federal agent with the [U.S.] Immigration and Customs Enforcement [unintelligible], and which—ICE is—you’re responsible for all the electronic surveillance for the undercover teams operating [unintelligible]. So he’s been working under cover and works—about 120 undercover agents doing narcotics and stuff, narcotics and money laundering and stuff like that, human trafficking [unintelligible]. He’s the guy who’s responsible for all the electronic surveillance [unintelligible].
+
+My daughter married a Navy guy, we sent her and her little brother over to Japan one summer to visit their big brother, who was on the [USS] Kitty Hawk, out of Japan, and she met her husband [unintelligible] officers’ club. He was an intelligence officer for the air wing [unintelligible]. And so she spent the last two years with us and commuting to Japan chasing her boyfriend. So—and he’s—he’s a great guy. But he had 12 years in as an intelligence officer with three tours in Iraq and one in Afghanistan. She’s grown up military as well.
+
+And my youngest son had an appointment to the Naval Academy but also had an ROTC appointment to Vanderbilt [University], and ended up as commanding officer midship [unintelligible] Navy ROTC [unintelligible], and Navy—naval aviation engineers now. And [unintelligible] pilot. Was supposed to become a pilot.
+
+One tour in Afghanistan and another tour in the Iraq-Syria operation—Persian Gulf, and currently expecting—next month—expecting the first child, so they’re out in [unintelligible], California.
+
+So the kids wrapped in the military. Their grandfather on their mother’s side was a career Navy pilot, all the way through World War II and Korea, [unintelligible] Vietnam. So there’s tradition in the family, and I never encouraged them in any direction, but I guess osmosis it seeped through.</u>
+      <u who="LI">And how would you—with—obviously a history in the Navy in particular—how would you characterize the Navy’s role in terms of the nation’s defense?</u>
+      <u who="PICKEN">Absolutely critical. We are surrounded by oceans on both sides. Our ability to trade with trading partners and Europe and the Far East depends on freedom of the seas, which is being challenged right now by China, but we have had the dominant military, dominant Navy for a long, long time. And if you—if you had trouble any place else in the world and the United States feels a need to project power, that’s who you’d called. You call the Navy carrier aviation. Naval aviation is the first one in, and the Marines follow right after that. They’re part of the Navy. Absolutely essential.
+
+
+
+And unfortunately, our ditherer-in-chief. I mean, our president, doesn’t have the same view, and he’s—you don’t want any politics in this, but he’s in the belief that if you talk nice to people they will all come around to your point of view. And you got to understand that there are evil people in the world, and they—many of them have an agenda that is not the same as ours, and they have—maintaining strong military is absolutely important to everything we want to accomplish in this country.
+
+The Navy is the first line of defense there.</u>
+      <u who="LI">And how do you think that your experiences in the Navy have shaped your world view since?</u>
+      <u who="PICKEN">Well, you understand the psychological concepts of resilience and psychological hardiness?</u>
+      <u who="LI">I hope so [chuckles].</u>
+      <u who="PICKEN">Well, I mean, have you heard those terms?</u>
+      <u who="LI">Yes.</u>
+      <u who="PICKEN">Okay. Psychological hardiness. You have a sense that you are in control of your own destiny, right? That’s important. That’s important. If you take a look at the—the definitions—I’m getting into professor mode right here now. It’s an important point. If you are psychologically hardy, you have a strong sense of control, believing you can influence the outcome of a situation and so on, and strong sense of commitment to what you’re trying to do, and challenge doesn’t bother you. You—you enjoy learning, challenge and so on and so forth.
+
+So I think there’s probably gazillion psychological hardy anyway. I don’t think the Navy hurt that a great deal. And most of my career, I’ve been in assignments that were challenging. I’ve never been afraid to step up and do something that I—most people would say, “Gee, I don’t know how to do that. It’s too in my head.” I always figured that I would figure it out.
+
+And so I’ve opted for a career of doing turnarounds. I operate a bunch of different industries. Done some IPOs [initial public offerings] and stuff like that, which is always high adventure, if you will. I—I’ve always led a high-adventure lifestyle. Never been afraid to jump in over my head and figure it out. And I suspect that the Navy—the Navy probably—didn’t—didn’t hurt that a bit.
+
+One of the things I was asked one time, as the turnaround guy, going in and doing—going in and take sick companies, turn them around and fix them is—someone asked me, “What’s the—the primary characteristic of a successful turnaround guy?” And I thought for a minute, and I said, “A high tolerance for ambiguity.” You’re able to walk into a situation and not get rattled because you don’t understand what’s going on. Just set a direction, and you—you figure it out.
+
+And they said, “Well, where did you learn a high tolerance for ambiguity?” I said, “I think in combat.” Combat is a situation that’s rich with ambiguity, and you have to learn to function and make it up on the fly as you go through it, so from that point of view, the military experience has been very, very positive and very good. A high tolerance for ambiguity is—important in combat. It’s important in difficult situations and doing turnarounds are among those.</u>
+      <u who="LI">And you mentioned a little while back that you thought America had lost something when they got rid of the draft. Could you expand on that?</u>
+      <u who="PICKEN">Yeah. I think—I don’t think America has lost so much as the generations that have come through without the lack—without the lack of—the positive benefits of military experience and the discipline and learning to get along with all different types of people, and so on. And we—we’ve gotten, as a nation, spoiled by the fact that only a very—very small percentage of this country and populations had that military experience. And you grow up in a hurry in—in that kind of a situation, either in the training or in the actual—the actual combat.
+
+And there is a piece in the Sunday paper actually, about how we’ve lost the ability to function effectively as a nation because we haven’t had that experience. I think that experience is good for anybody, and I say Israel’s got it right, that everybody has two years of compulsory military or public service.
+
+
+
+We’ve got a president and an entire cabinet who have never had any military experience, and it shows in the decision making. Less than 5 percent of Congress has any military experience, and when you’re asking people to go out and do the country’s job, and—as I said, the world is—there are evil people in the world, and sometimes you have to—have to get back, not just talk sweet.
+
+We don’t have people that know how to do that. Read—read [Robert M.] “Bob” Gates’ new book, wrote A Passion for Leadership[: Lessons on Change and Reform from Fifty Years of Public Service]. He talks about that and his experience in running the Department of Defense and the CIA and [unintelligible]. He talks about leadership in those contexts. And the experience in the military gives you a perspective that unfortunately, a good part of our leadership does not have. And I think that’s a mistake, and it hurts—it hurts.</u>
+      <u who="LI">So tell me about your decision to go into teaching.</u>
+      <u who="PICKEN">Well, I’d already—always thought about—always thought about teaching. As I say, when I got out of the military, I thought about wanting to go back into an academic career. I got sidetracked for 25 years, but it was always something—always something I wanted to do. And I was running two businesses of my own at the time, but paying through the—paying through the nose for medical insurance for the family and felt that I was getting along in years and, looking back now, it doesn’t seem like that, but I was—I was in my late 40s, and I had a wife who had some issues, health issues that were going to continue to be expensive, and thinking that, you know, maybe I ought to put myself in a position with a regular salary and benefits and stuff like that.
+
+So that was part of the motivation. But part of the motivation also was the fact that it’s a way to—it’s a way to give back. And did not involve the travel, the turnaround guy involved. That was when I had four kids at home—four kids at home and I was—a wife with bad health. I needed to be closer to home.
+
+I had started a consulting business and a real estate business and so on because I could be close to home, but quite honestly, [unintelligible], and I decided [unintelligible]. But I was the only part-time student the Ph.D. program. And worked my way through Ph.D. in four and a half years, part time, commuting 55 miles each way to be at class at night. It was kind of a grind. Then spent a year and a half at a Ph.D. program on the West Coast.
+
+So it was a real challenge, but once I got started in that, I said I’m going to finish this. And did. And then—and was able to get into a teaching position at Southern Methodist University. Southern Methodist is a well-regarded midterm—mid-tier, liberal arts school, in Dallas, [unintelligible]. Not much of a graduate program but got a job teaching—teaching there for about three years, but culturally it wasn’t a real good fit for me.
+
+And I transferred to go to the University of Texas at Dallas, [unintelligible] and it was twice the size of [unintelligible], and higher ranked [unintelligible]. I got there—I was fortunate to get there at a real good time and go up [unintelligible]. Had a dean who’s called me into his office three times and asked me to [unintelligible]. And I said, “What’s involved in that?” [unintelligible].
+
+And for someone who has high talent [unintelligible] challenge, he knew exactly how to push my buttons and started and worked hard at building something. So I have been on the faculty for 16 years, but I’ve been an entrepreneur inside the school, building something. And it’s turned out to be a lot of fun. So that’s—that’s how I did it. It’s why I did it.
+
+I think if I had been stuck at—in my situation [unintelligible] hate your job, I probably wouldn’t have stuck with it, but I had an opportunity to be independent, get a lot of support, and do something that was pretty significant.
+
+We—we—we won a number of awards, national awards. Curriculum by design is the current national model, master’s program in [unintelligible], nice credit to our faculty, and the work of the students. So I teach entrepreneurship and leadership [unintelligible].</u>
+      <u who="LI">It seems like those two qualities have been with you your entire life, ever since, you know, your construction business when you were young.</u>
+      <u who="PICKEN">Well, yeah, there’s been a common thread there, I guess. But, you know, as long as I’m having fun, I’m going to keep doing it. I’ll be 73 in about a month, and I can’t see myself ever slowing down. [Unintelligible]. I can only play golf four times a week without getting frustrated. You know, life is good. Remarried about eight years ago, and my wife and I have a great time. We travel a lot. And she’s got her thing and I got my thing, and it isn’t a big deal, for either of us, and we enjoy our kids, traveling. So life is good.</u>
+      <u who="LI">That’s great.</u>
+      <u who="PICKEN">Get on the golf course [unintelligible]. It’s—it’s [unintelligible].</u>
+      <u who="LI">I guess this is a very large and broad, open-ended question, so I apologize, but—</u>
+      <u who="PICKEN">Most of them have been.</u>
+      <u who="LI">[Chuckles.] True.
+
+What do you think, in your opinion, the younger generations need to understand, the American generations, about the Vietnam War? And what lessons should be learned?</u>
+      <u who="PICKEN">Well, that’s a very interesting question. There’s a book. It was written by a professor up at Oklahoma State [University]. He went out and asked a whole bunch of leaders around the country, “What should be tell our children about Vietnam?” A lot of different perspectives in there. That—about as much as you can get.
+
+I mean—the lessons that I—I take out of that are that—first of all, this is heresy to [unintelligible], and John F. Kennedy got us into it [unintelligible] escalations, and nobody likes Johnson, but Johnson was just trying to do what Kennedy wanted and Kennedy’s people around him. So I’m not—I’m not—I respect that I am not fawning over JFK. He was not a very—not a particularly effective president. And he started this thing, and we got into it deeper and deeper because we didn’t know how to get out.
+
+And the—one of the things that we learned—one of the things that we learned in Vietnam, from the military side, and has—one of the things we didn’t learn—let me put it that way—is that politicians are not very effective at running—running wars. Micromanaging military from Washington is very, very frustrating and not very effective. And we have—we have a capacity and capability to do anything we want to militarily. [unintelligible] military [unintelligible] have a significant advantage in terms of capabilities of both the people [unintelligible], [unintelligible] countries in [unintelligible], we could win any war we want to go into, if we wanted to win.
+
+But half measures don’t count, and if we had to—were really interested in winning, as [President Harry S.] Truman was, [Franklin D.] Roosevelt was, as Eisenhower was, we wouldn’t ask our military to even fight with one hand behind your back and [unintelligible]. We have the capability, we don’t have the will—and that’s one of the big problems, I believe—so people in government and people whose civilian population have not ever been [unintelligible], and the act of national will is pretty high.
+
+War is a nasty sort of business. You can ask people to go out and put their lives on the line. Don’t constrain them with rules that limit their ability to do—what’s needed to do to win. We have not—since really [unintelligible] certainly Vietnam and certainly in Iraq and Afghanistan, we could have won all of those wars, except for the fact that our [unintelligible] chose not to do it. So, if you—if you—if I were to deliver a message to [unintelligible]—</u>
+      <u who="LI">Sorry?</u>
+      <u who="PICKEN">[unintelligible].</u>
+      <u who="LI">Sorry, I can’t hear you.</u>
+      <u who="PICKEN">I said, “Are you a millennial or a Gen X” or where are you here?</u>
+      <u who="LI">I’m a millennial, by definitions.</u>
+      <u who="PICKEN">You’re a millennial. The message I would have for you is it’s important to have the experience and to feel a sense of responsibility for what’s going on in the world and in your—in your country and your country’s role in the world. And it’s not all about you, and it’s not all about your electronic media or anything else. There’s a lot going on that’s important in the world. And you can’t hide behind the borders of the United States and think everything’s rosy, because it’s not, around the world. And if you had the experience, if you have an opportunity to have the experience to travel, travel. One of the ways you can travel is join the military and see the world. Maybe that’s not exactly your first choice, but you grow up a lot. 
+
+And I’ve seen kids go in—my daughter dated a kid in—in high school, who had two older brothers who were into the drug—drug culture, and unfortunately that’s part of our society these days. And I encouraged him to go into the Air Force. I encouraged him to go into the military, and he went into the Air Force, and he has turned out a very solid citizen.
+
+And I think that that training really saved him, because he was going down the wrong path. And he’s now a very successful, mature, a solid citizen.
+
+And I think that is a good example of something that is beneficial. I’ve seen a lot of kids go through the university, and I’ve seen a lot of vets come through the university. And in terms of maturity and experience and just common sense, kids who have had the benefit of the military training, the military experience, whether they were officers or enlisted, are far better able to function in society than an awful lot of those who have not had similar experiences.
+
+Now, it’s not 100 percent, for sure, but our university is one of the most selective in—of the public—it is the most selective of the public universities in the state of Texas. Higher standards and so on than any of the other schools. So we get very, very good students. We’ve got top students all the way through.
+
+And those—there are a lot of good students who have never had the experience, but the ones who had had the experience, whether they were enlisted in the Army or in the Air Force or officers or whatever it is, are far more mature, demonstrate better judgment and are ahead of their classmates, in my—in my view and opinion. And it shows up in their academic performance.
+
+So I don’t think it’s—people say, “Well, gee, I’ll lose a couple of years. Yes, I will lose a couple of years, of a different experience. I won’t get started. I won’t graduate quite as soon. I won’t go out and make big money quite as soon.” That’s probably true. But the chances are that the benefit of the experience and the maturity will put you in a position where you can catch up and be equal to or better than most of the other people in your peer group within two or three years. I really think that’s the positive message that one ought to have about military service.</u>
+      <u who="LI">Yeah, and I think especially with the draft gone now, it’s an experience that is dwindling in terms of representation across our generations.</u>
+      <u who="PICKEN">Well, I think it’s easy—yeah—I mean, when I was—when I was growing up, 80 percent of the members of Congress had had military service in World War II. It’s now down to something less than 5 percent of the members of Congress who’ve had any kind of military experience, and it shows in terms of the—the judgments that are being made.</u>
+      <u who="LI">Right.</u>
+      <u who="PICKEN">And it scares the hell out of me, quite honestly, that we’re going to elect either [Donald J.] Trump or Hillary [Rodham] Clinton, neither of whom has any military experience and, near as we can tell, very little common sense. So I fear more for our country in the next—next iteration than I have in the past iteration, which has been, in my view, has been an unmitigated disaster, particularly on the international front.</u>
+      <u who="LI">Well, it seems like a decent, yet concerning, place to stop at the same time. Well, thank you so much for sharing your experiences with me and the Vietnam Project in general.</u>
+      <u who="PICKEN">Okay. </u>
+      <u who="LI">It’s really important that we—</u>
+      <u who="PICKEN">Well, if I haven’t—</u>
+      <u who="LI">—get all these stories down.</u>
+      <u who="PICKEN">I hope I haven’t offended you too much.</u>
+      <u who="LI">[Chuckles.] Not at all.</u>
+      <u who="PICKEN">Everywhere we went, by the way, we—we—we spent five weeks in Australia and New Zealand—everywhere we went, people would look at us and then they’d talk to us. We’d run into people in bars and restaurants and stuff like that down in that part of the world, and every one of us—every one of them would ask us about the political situation in the United States. And the—the most common response is, “Are you folks nuts? Are you folks nuts? Is the political situation that bad that you’re considering the candidates you’re considering on either side?”
+
+And what do you say? But the world doesn’t see us in a favorable light. And we saw that in China; we saw that in eastern Europe, Middle East. People think we’re nuts. So we have to—we have to take that into account and we need some common sense somewhere along the lines.</u>
+      <u who="LI">Yeah. I think a lot of the self-reflection that’s needed is aided by, you know, conversations like these, and it’s great that we can capture your experiences and the experiences of people, you know, like you during this Vietnam era to kind of inform the younger generations about what has been lost.</u>
+      <u who="PICKEN">Well, and we didn’t—we didn’t get into the—the negatives of that but read my—read my remarks at the Wall.</u>
+      <u who="LI">I did, yeah.</u>
+      <u who="PICKEN">And I’ve lost half a dozen good friends. And that was the negative of it. We talked a lot about the positive experiences of military service, but that’s one of the negatives. And I don’t want to leave that out. </u>
+      <u who="LI">Of course. Is there anything you’d like to add about that?</u>
+      <u who="PICKEN">Well, I—I just—if I were you, if you—if you have the capability, I just hope that set of remarks—and appended them to the file.</u>
+      <u who="LI">Sure.</u>
+      <u who="PICKEN">Okay.</u>
+      <u who="LI">Definitely, along with the—
+
+Thank you.</u>
+      <u who="PICKEN">Okay. Well, I appreciate your work on this project. I hope it proves fruitful.</u>
+      <u who="LI">Definitely, and thank you so much again for all the materials you forwarded my way and for the conversation today.</u>
+      <u who="PICKEN">Okay, good enough. Well, good luck to you. I hope you graduate with honors and find a fine career.</u>
+      <u who="LI">I hope so, too. Thank you.</u>
+      <u who="PICKEN">Okay. All right. Goodbye.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,847 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="SONNENFELD"/>
+        <person xml:id="WELLING"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="SONNENFELD">This is Alexa [P.] Sonnenfeld with Curt [R.] Welling. We are in the Rauner [Special Collections] Library. It is August the 19th, just after 2 p.m. And it is 2015.
+
+All right, Curt, let’s go ahead and begin at the beginning. Can you tell me when you were born and where you were born?</u>
+      <u who="WELLING">I was born on June 21st, 1949, which is, by the way, the summer solstice, the longest day of the year. A propitious day to be born. In Rochester, New York, in upstate New York.</u>
+      <u who="SONNENFELD">Okay. Can you tell me a little bit about your family? Did you have any siblings?</u>
+      <u who="WELLING">Yup, so I was a postwar baby, and I had, as was common at that time, a sibling who was a prewar baby, so I have sister who is eight years older than I am.</u>
+      <u who="SONNENFELD">Okay. And it was just the two of you?</u>
+      <u who="WELLING">Just the two of us, yup.</u>
+      <u who="SONNENFELD">And how about your parents? What did they do?</u>
+      <u who="WELLING">My parents were post-Depression era young, professional people. They both grew up in Syracuse, New York. My father grew up on a farm. Both of them dropped out of college during the Depression.</u>
+      <u who="SONNENFELD">Okay. </u>
+      <u who="WELLING">And my mother went on to make a home, and then in later years of her working life, she worked as an administrative assistant or secretary in local public schools. And my father was an insurance man and always worked in the business of independent insurance brokerage in Rochester.</u>
+      <u who="SONNENFELD">Mm-hm. And can we get both of their names and the maiden name of your mother?</u>
+      <u who="WELLING">My mother’s name was Helen Otto, O-t-t-o, Welling, so her maiden name was Otto. My father’s name was Roger B., as in boy, Welling.</u>
+      <u who="SONNENFELD">Mm-hm. And how was growing up in Rochester?</u>
+      <u who="WELLING">It’s a good open probe. So Rochester is actually—are you familiar with New York state?</u>
+      <u who="SONNENFELD">A bit, yes.</u>
+      <u who="WELLING">So Rochester is in western New York, which, for people who are New York City centric, it’s all sort of the frontier out there. Western New York actually has more in common with Ohio and the Midwest than it does with New England and downstate New York.
+
+So it was a very sort of Midwestern community orientation. Rochester is—was then and to some extent still is sort of a very white-collar, professionally oriented community. The Eastman Kodak Company was founded there. Xerox [Corporation] was founded there. Bausch &amp;amp; Lomb was founded there. So there were lots of technically oriented manufacturing and innovation there, which really drove the postwar growth of the city, and so there was a fairly sophisticated arts community there. There was not a lot of smokestack industry. Two prominent institutions of higher learning. The University of Rochester [and] Rochester Institute of Technology have always been big factors in the community there. So it was a very professional, upscale but very Midwestern values kind of place, community orientation. Not terribly consumption oriented, not terribly public wealth oriented. So it was a great place to grow up. Sort of a Norman [P.] Rockwell America kind of place.</u>
+      <u who="SONNENFELD">Sure. Yeah. Any kind of specific memories that jump out when you look back to your childhood? Where did you go to elementary school, and how did you like elementary school?</u>
+      <u who="WELLING">Yeah. So I went to public school throughout. Both my sister and I were public school kids. We had a great public school education living in a near-end suburb of Rochester.
+
+And I was sort of a stick-and-ball athlete, so I had that kind of American experience playing baseball, Little League baseball and playing baseball and football and basketball in high school. And a little amateur theater, a little singing in the choir—you know, that kind of stuff. Church was a big part of our family’s life, so the Sunday experience was a part of the acculturation.
+
+And the only—so it was great. And—and the school had a history of sending its better students to very good sch- —very good colleges, which is I suspect what we’ll talk about when we talk about Dartmouth.
+
+The only blemish in Rochester’s sort of very benign appearance was in the ‘60s, when there was a period of racial violence in the United States. And a community activist, who has become quite famous in history, named Saul [D.] Alinsky, was behind mobilizing a group of people in the black community in Rochester, and there were very debilitating race riots in Rochester around the same period of time, and there were isolated riots in other parts of the country. And it was sort of a shock to people in Rochester because no one had thought about a systematically disadvantaged community of people. It was back in the day when segregation was a reality, and it was sort of out of sight, out of mind. But it wasn’t—you know, there wasn’t a lot of blue-collar work in Rochester. There wasn’t — hadn’t been any racial tension before then; it just sort of erupted, and it was quite a—quite a striking thing.</u>
+      <u who="SONNENFELD">Sure, and do you remember how you perceived the race riots of the ’60s as a younger individual?</u>
+      <u who="WELLING">Yes. I was probably 13 or 14 years old. So—no, I just remember thinking that—number one, not really understanding from a social contract and a political standpoint why it was such a big deal, but knowing that it was a big deal because property was being destroyed and people were very—you know, fires were being started, and looting was taking place and so on. So it was the first time in my life that I had ever even come close to a boundary feeling unsafe.
+
+And it wasn’t—it wasn’t that I didn’t feel safe; it was that suddenly you knew that there were places you were not supposed to go, and suddenly you know that—that there was violence that was obvious in your community.</u>
+      <u who="SONNENFELD">Mm-hm. Sure.</u>
+      <u who="WELLING">And if you think about post-World War II America, which is obviously the—the preamble to the Vietnam period, it was—you know, in Ronald [W.] Reagan’s term, it was “morning in America, you know. It was the great postwar boom. It was Dwight [D.] Eisenhower, the great, avuncular president. It was a double-digit annual growth. It was the American dream. It was a home. It was—you know, it was a very robust time for growth. It was also a dark time, as we’ve come to now know, with things like anti-communism and McCarthyism and racism, so—but that was not very apparent to people in a community like Rochester.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">And it was certainly not apparent to people who were approaching adolescence or in their preteen years.</u>
+      <u who="SONNENFELD">So the race violence was kind of—would it be fair to say it was kind of your first—the popping of kind of the insular bubble of Rochester for you to—</u>
+      <u who="WELLING">Yeah, although I don’t think I intellectualized it that way.</u>
+      <u who="SONNENFELD">No?</u>
+      <u who="WELLING">I think it was just, Wow, this is—this is scary a little bit. It’s hard to understand and so on. And it—and it was contained relatively quickly so that if you were not focusing on it and you weren’t qualified to look at it sociologically or intellectually (which I wasn’t at that time), it was sort of—you had the illusion that things were okay, that stability sort of made things seem fine.</u>
+      <u who="SONNENFELD">Did anything change in terms of what your parents allowed or disallowed you to do going out at night or seeing friends throughout the course of—</u>
+      <u who="WELLING">No.</u>
+      <u who="SONNENFELD">—this time?</u>
+      <u who="WELLING">Not really. No, not really.</u>
+      <u who="SONNENFELD">Your adolescence just progressed.</u>
+      <u who="WELLING">I wasn’t old enough to drive at that time. But by the time I got to high school and stuff—you know. Once again, it was sort of the spasm of activity that opened a wound. But the wound in the United States for a long time was pretty well contained and glossed over.</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">So the racial issues in America in the ’60s were perceived to be largely Southern issues, for example. So having debilitating riots in Philadelphia and New York and in Watts [a neighborhood in Los Angeles] in California was a shock to people because they didn’t associate it—you know, there was a simplistic view that racism equals slavery equals the South. But everybody from the chamber of commerce to the mayor, to people, didn’t want it to be a problem, so they sort of took the ostrich approach and calmed it down and then moved on.
+
+So there was no solution, obviously. It was right around that time when the race debate started to become more engaged, in the early days of [the Rev. Dr.] Martin Luther King [Jr.], that—I remember [U.S. Senator from New York  Daniel Patrick] “Pat” Moynihan being famous for coining the term, “benign neglect.”
+
+There was this sense of urgency about “solving” the race problem. And Moynihan, who was a distinguished thinker, said, you know, these are very long-cycle social problems.
+
+And despite the fact that Americans have a short attention span and a desire for a quick fix, the prudent policy, which will have the greatest long-term stability and probably the fewest negative externalities is going to be what he called “benign neglect,” which is do no harm, find ways at the margin that you can begin to create integration and so on, but don’t try and force feed it—</u>
+      <u who="WELLING">For example, busing was a big thing, if you remember—</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">—reading about the busing controversy in Boston and New England and other places. Busing is a remedy for poor segregation, which was something Moynihan would not have favored because it was such a violent dislocation of people. And so I do remember sort of coming into an awareness of this debate—</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="WELLING">—but, again,—</u>
+      <u who="SONNENFELD">How about—</u>
+      <u who="WELLING">—the focus was primarily on the South at that time so the Northerners were able to say well it’s not really a Northern problem. </u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">Where are you from?</u>
+      <u who="SONNENFELD">I’m from Denver, actually.</u>
+      <u who="WELLING">Mm-hm, yeah.</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">Great place.</u>
+      <u who="SONNENFELD">It is a great place to grow up. How about your parents’ perspective on the—the race violence? Were you aware of their political leanings?</u>
+      <u who="WELLING">Mm-hm, mm-hm. Yeah, we were a Republican house.</u>
+      <u who="SONNENFELD">Where did they fall on the spectrum.</u>
+      <u who="WELLING">My father was a staunch Eisenhower supporter, very conservative guy. He was a Barry [M.] Goldwater supporter in 1964.
+
+My mother was sort of apolitical, but voted Republican because it was consistent with sort of the family values.
+
+They were not—you know, they associated liberalism with socialism. They weren’t rabid anti-communists, but they were, I would say, solidly conservative, patriotic Americans. We didn’t have any black friends. There were no black people in the community that I grew up in.
+
+In fact, it was a big deal: A couple of black families moved into the town that we lived in when I was a junior in high school, and we were all excited because they were both good athletes.
+
+So suddenly we had [snaps fingers] a great black running back and a great black wide receiver, and that was an exciting thing. But it wasn’t—there was no—there was no tension around these families moving in. There were segregated neighborhoods. I mean, there were deed-restricted neighborhoods in the town I grew up in, but it was not the norm. I’m sure there was a lot of subliminal racism.
+
+My parents were—when I described the Midwestern values, my parents were incredibly generous, decent people. And so they would have—you know, “do unto others” kind of people. And so while they may not have chosen to live with black people, they didn’t avoid black people, either.</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">And our role model was sort of “Well, they’re not us, and they live where they live and we live where we live, but we don't think that they should be disadvantaged. We don’t think they should be segregated. We don’t think they should be barred, you know, just as a basic matter of fairness and so on.</u>
+      <u who="SONNENFELD">Mm-hm. You mentioned—</u>
+      <u who="WELLING">But I don’t remember—I don’t remember any serious arguments or debates or—you know, I was never a particularly liberal person.
+
+We got into a little bit of an argument in [the] Vietnam era. But, you know, it was—it was generally—it was generally as it was I think for a lot of middle-class Americans, who weren’t living side by side with aggressive segregation or obstinate, stubborn resistance to integration.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">It was sort of an issue that was there but you could conduct your daily life, and it wasn’t top of mind, and It wasn’t top of experience.</u>
+      <u who="SONNENFELD">Mm-hm. You mentioned that the Sunday experience was—was part of your life growing up.</u>
+      <u who="WELLING">Mm-hm, mm-hm. </u>
+      <u who="SONNENFELD">Can you speak a little bit to what sect of Christianity you ascribed to and how your Christian upbringing might have—</u>
+      <u who="WELLING">Sure.</u>
+      <u who="SONNENFELD">[cross-talk; unintelligible]</u>
+      <u who="WELLING">Yeah, it was pretty conventional Protestant upbringing. American Baptist Convention, which is different than the Southern Baptist Convention, just because when you say “Baptist” to some people, they think—so it really the liturgy and the—and the service is more like a Presbyterian or a Lutheran or Methodist form of Protestantism. 
+
+I went to Sunday school. My mother sang in the choir. My father was an usher and served in various leadership positions in the church, and so the church fellowship, the church community was a big part of our social life and community. I had friends who went to church. We did things there. I had a lot of friends at church.
+
+I got involved at one point in—when I was in high school—in county-wide youth fellowship activities, so there was a socializing with a group of people even in that formative period of adolescence that just had this shared, common value base.
+
+And so you’d go on retreats and camps and things like that, so I remember that being a lot of fun. Pretty tame stuff.</u>
+      <u who="SONNENFELD">Mm-hm. Before we really get into—into high school a little bit deeper, let’s talk about a couple of the defining events of the ’60s, if you don’t mind.</u>
+      <u who="WELLING">Mm-hm.</u>
+      <u who="SONNENFELD">Do you remember where you were when [President John F.] Kennedy was assassinated?</u>
+      <u who="WELLING">Oh, vivid—vividly. Yeah, I was in English class in junior high school, and the teacher of the section of English came in in tears and said, “They’ve just shot the president.”
+
+And, of course, when you’re—so I was 13 or 14—I guess I would have been 14 because it was November of ’63. And the magnitude of important events like that is not immediately registered by 13- or 14-year-olds, right? So it was sad. Everybody was sad. I didn’t happen to be a Kennedy fan. I was in a Republican house.</u>
+      <u who="SONNENFELD">That’s what you mentioned.</u>
+      <u who="WELLING">My parents had voted for Richard [M.] Nixon and so on, but obviously the president being shot was an enormous national tragedy and trauma and a terrible, terrible thing.
+
+So everybody was focused—and, of course, that was back in the days of great big black-and-white televisions that didn’t exist very many places, so it was hard to get news. So people were huddled around radios. It’s like—we used to smuggle radios into school so we could listen to the space launches as well.
+
+We had a little transistor radio, and you’d be—so the information was much less available, and so that creates its own dynamic—</u>
+      <u who="SONNENFELD">Were you attracted to radio and broadcasting through- —throughout your adolescence or throughout high school in any way?</u>
+      <u who="WELLING">I was aware of radio and broadcasting. My parents were extremely well informed people, so they—they read, even though they never finished college. It was back in the days when if you got a high school education, you got a really good education.
+
+So a high school education in the ’30s and ’40s was a very good education by today’s standards. So they were curious and well-informed and well-read people. So [CBS journalist] Walter [L.] Cronkite [Jr.] was a part of our household and a bunch of people whose names you would not recognize: Howard K. Smith and [Chester R.] “Chet” Huntley and David [M.] Brinkley and so on. I didn’t personally associate with it because I was a sports guy, so I was more—I was more attuned to sportscasters.
+
+And I got into broadcasting in a big way when I came to Dartmouth, actually. I spent—that was sort of the defining thing of what I did when I was here.</u>
+      <u who="SONNENFELD">Mm-hm. Alright. 
+
+Let’s talk about your high school experience a little bit. You mentioned you were public school all the way through and that you were a stickball athlete.</u>
+      <u who="WELLING">Mm-hm.</u>
+      <u who="SONNENFELD">Was there a sport that you excelled in in high school, or did you continue to dabble in a number of sports?</u>
+      <u who="WELLING">I was a somewhat successful football and baseball player. I was an All County football player and a quarterback and the captain of the football team.
+
+And I was an All County baseball player. But I hasten to say the classic sort of small pond, the kind of situation, because I came to Dartmouth thinking, This will really be great, and I was one of 30 quarterbacks that tried out for the freshman football team. So it was pretty clear to me pretty quickly that I was not going to play college football.
+
+But I loved it. I played sports my entire growing up period. As I said, we had both good team success, and I had some individual success in high school, and I was a big sports fan, and I still am a big sports fan, so—so participating and spectator sports have always been a big part of my life.</u>
+      <u who="SONNENFELD">Mm-hm. Are there any other experiences or events that really stick out to you when you look back on high school? And can you give us the name of your high school?</u>
+      <u who="WELLING">Sure.</u>
+      <u who="SONNENFELD">I’m sorry, I forgot that.</u>
+      <u who="WELLING">Brighton High School, B-r-i-g-h-t-o-n High School. It’s in Brighton, New York, which is—zip code Rochester, so it’s not typically differentiated, as some other towns are around—[soccer player M. Abigail] “Abby” Wambach, for example, is from the next town out, which is called Pittsford, New York.
+
+And whenever they talk about Abby Wambach, they talk about her being from Pittsford, not from Rochester. It drives the Rochester people crazy.</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="WELLING">You know who Abby Wambach is.</u>
+      <u who="SONNENFELD">I do. </u>
+      <u who="WELLING">Yeah.</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">Any other defining events—[raps table several times]? Well, it was the beginning of a big drug culture experience, of course.
+
+Hard drugs were not—you know, the dominant motif in high school was beer and a little booze occasionally and maybe—maybe some marijuana, but not—not so much marijuana. Marijuana was still—</u>
+      <u who="SONNENFELD">You—</u>
+      <u who="WELLING">—exotic in the mid-‘60s. </u>
+      <u who="SONNENFELD">—partook in—</u>
+      <u who="WELLING">Oh, yeah.</u>
+      <u who="SONNENFELD">In both? Yeah.</u>
+      <u who="WELLING">Yeah. But I didn’t really smoke much until I got to college,—</u>
+      <u who="SONNENFELD">Uh-huh. </u>
+      <u who="WELLING">—because I still thought I was an athlete.</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">Well, you know, the ’60s, right? I mean, it was a pretty heady time. You know, the economy was great. There was this social fabric tension. People were making money. It was the Beatles. It was Motown. It was—</u>
+      <u who="SONNENFELD">Were you a Beatles fan?</u>
+      <u who="WELLING">Oh, yeah. I was a big music fan. That’s the other thing.</u>
+      <u who="SONNENFELD">Okay. Yeah.</u>
+      <u who="WELLING">Loved music. Sang. Was a lead singer in a B-plus cover band in high school and college.</u>
+      <u who="SONNENFELD">Mm-hm. What kind of bands did you cover?</u>
+      <u who="WELLING">All rock ’n’ roll stuff—you know, some Motown, some Beatles, some groups that you never would have heard of, but—you know, Earth, Wind &amp;amp; Fire and the Grass Roots and all kinds of other stuff like that. Mitch Ryder &amp;amp; The Detroit Wheels, Bob Dylan, the [Rolling] Stones, you know. So it was—it was—it was the—one of the most extraordinary times in music history in the United States, in popular music history in the United States.</u>
+      <u who="SONNENFELD">Certainly.</u>
+      <u who="WELLING">There are people now that think the hip-hop era has exceeded that in terms of its social importance and the quality of the music, but that’s a pretty aggressive debate to have.
+
+So music was a big—was a big thing. And, you know, we were living a great life. This little band, and I know we used to look at each other and laugh because would pay us, like, five hundred bucks a night to go and play for two and a half or three hours at some pavilion someplace or a bowling alley or something like that. So they’re paying us to do this, and we’re having all this fun.
+
+No, it was pretty—it was a pretty—pretty—pretty good life.</u>
+      <u who="SONNENFELD">How about classes, themselves? What subjects did you like? Were you excelling in school?</u>
+      <u who="WELLING">Yeah, I was—social sciences. I always was able to write pretty well. And I had the benefit of good teaching, good writing teaching when I was in high school. And I was fine at math, but I topped out in math pretty early. I had pre-calculus in high school, and I just didn’t like it very much. Liked the sciences, liked biology and chemistry much better than physics.
+
+Was never—never significantly technical or tempted to go in a technical direction. [Raps the desk rhythmically.] Good test taker, you know? I think the thing that got me in here was probably my SATs. [Continues to rap on the desk.]</u>
+      <u who="SONNENFELD">Sure. So you graduate from high school. You’ve excelled in sports, done well in your classes.</u>
+      <u who="WELLING">I was a pretty well rounded kid, yeah.</u>
+      <u who="SONNENFELD">Pretty well-rounded kid, definitely. What drew you to Dartmouth?</u>
+      <u who="WELLING">My wife’s father.</u>
+      <u who="SONNENFELD">Your wife’s father?</u>
+      <u who="WELLING">So we grew up in Rochester, and my wife was a year older than I was. We started dating when she was a junior and I was a sophomore.</u>
+      <u who="SONNENFELD">So through most of your high school career you had a serious girlfriend.</u>
+      <u who="WELLING">She went to a college in central New York, called Wells College, which is still there. At that time, it was an all-women’s college about 30 miles north of Ithaca, where Cornell [University] is.
+
+And I didn’t really—I didn’t really care where I went to college. I still had this illusion that I might play football or baseball, so I applied to—I applied early decision to Colgate [University] because it was the best school that was within two hours or where [Katharine] “Kathy” [who became Welling] was going to school.
+
+Her father was a deep, serious, rabid Dartmouth alum. Class of ’45. So the split-war war classes. And he and I always got along great. When he found out that I applied early decision to Colgate, he went crazy.
+
+I got deferred at Colgate. He brought me up here physically. Said, “If you’re gonna apply to Colgate, you should at least look at Dartmouth,” which was right, and I’d applied to I think a school in the Ohio [Athletic] Conference, Wittenberg [University], and I’d applied to Cornell and Colgate, because Cornell was also an attractive driving distance to my girlfriend.
+
+[Drums rhythmically on table.] I might have applied to one other place. But I fell in love with the place, and so by the time the acceptances came, I was really—I was really completely focused on Dartmouth and fortunately got in.</u>
+      <u who="SONNENFELD">Did your parents dropping out of college weigh on your decision or your desire to continue your education, or not so much?</u>
+      <u who="WELLING">Oh, no, it was never—my parents were huge supporters and believers in education, so there was never a question, and they—they’re classic examples of WASP [White Angle-Saxon Protestant], American dream parents, I think, who said, “The best way for our kids to have a better life than we have  is for education.”
+
+And so while that fell unevenly between my sister and me because she was so constrained by the lack of opportunity for women—you know, women were getting out of high school; they could go to nursing school or they could go to be teachers, or they could—there was this incredible limitation and bias for women. There was never—my parents would have been beside themselves if you told them I wasn’t going to go to college.</u>
+      <u who="SONNENFELD">So did your sister not attend?</u>
+      <u who="WELLING">No, she did go to college.</u>
+      <u who="SONNENFELD">Oh, she did.</u>
+      <u who="WELLING">She went to State University Teachers College in New York.</u>
+      <u who="SONNENFELD">Okay. </u>
+      <u who="WELLING">Yeah.</u>
+      <u who="SONNENFELD">Sure. So you said when you got to Dartmouth, you immediately fell in love with the place.</u>
+      <u who="WELLING">I actually fell in love with it before I got here.</u>
+      <u who="SONNENFELD">Okay. Was it—was it the environment? What was it about Dartmouth that—that really attracted you?</u>
+      <u who="WELLING">It was—there’s a big, very active alumni presence in Rochester, many of whom I know—I knew and admired, and so the camaraderie among the alumni was great.
+
+I got—I got recruited this much by the football program, which was then [Robert L.] “Bob” Blackman, and Dartmouth had dominated the Ivy League in football for the first ten years of the Ivy League’s existence, so I thought, Wow! Great tradition, great program, this great sense of camaraderie, beautiful place. What’s not to like about this?, you know?
+
+I’d done a little bit of skiing. I wasn’t an aggressive skier, but the great outdoors, not in a big city—I didn’t want to go to a big city. [Keeps thumping the table.]
+
+And it just seemed like it was sort of the perfect—perfect thing.</u>
+      <u who="SONNENFELD">So you arrive on campus in what, the fall of ’66?</u>
+      <u who="WELLING">Sixty-six. Sixty-seven, the fall of ’67. </u>
+      <u who="SONNENFELD">Sixty-seven? All right. Can you tell me a little bit about what it felt like, late ’60s, at Dartmouth as a freshman? What’s going through your mind?</u>
+      <u who="WELLING">Yeah, sure. Well, what is now called the River Cluster of Dorms, which at that time was called the Wigwam dorms because the mascot at that time was the Indian.
+
+And it was—that motif tells you a lot about it. It was big grin, wa-hoo-wa, predominantly white. There were probably, of the hundred kids that went out for the freshman football team, there might have been ten black kids, and they were pretty aggressively recruited.
+
+So not a big racial presence here, obviously, visually or in any particular interest group.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">I lived in French Hall, which was the last of the River Cluster dorms. And those dorms were not wildly—widely sought out.
+
+If you think about nothing where the old Tuck School [of Business] is, the old Tuck School building, and the original Thayer [School of Engineering] building, there was nothing west of that.
+
+So there were the three River Cluster dorms, none of the Tuck stuff, none of the other stuff, and the area between the River Cluster and Thayer was called the Tundra. And so you felt—it seems silly now, right? But you felt like you were miles away from anything.</u>
+      <u who="SONNENFELD">Oh, I understand that feeling.</u>
+      <u who="WELLING">So it would be—it’s a little like living in the north campus, maybe, even though by urban campus standards, you’re a five-minute walk, right?</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">It’s just not on the [Dartmouth] Green. It’s not where Mass[achusetts] Row is or Topliff [Hall] or, you know, Tuck Drive is. So anyway. But I was a pretty unentitled kid. I hadn’t gone to prep school. I’d gone to public school. I didn’t have any great expectations. I thought everybody there was great. And I thought it was fine. My first roommate was a public school kid from Minnesota. We had nothing in common. </u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="WELLING">So we didn’t actually become great friends, but we coexisted fine.
+
+There was a subculture there in the dorm, which was sort of an esprit de dorm, you know? We had great intramural teams, and I played intramural sports for the dorm. We three-nights-a-week poker games, which were great. Serious poker games. All that kind of stuff. And the only thing that was inconvenient about it was it was a five-minute walk, and that didn’t seem fair, when everybody else got to roll out and walk one minute.</u>
+      <u who="WELLING">So it was fine. And the culture was very white and very Greek system dominated. So right away, you became—</u>
+      <u who="SONNENFELD">Were you affiliated?</u>
+      <u who="WELLING">I was, yeah. I was a Phi Delt [member of Phi Delta Alpha].</u>
+      <u who="SONNENFELD">Uh-huh. </u>
+      <u who="WELLING">And one of my best friends from high school, who was a year ahead of me, was a Phi Delt, so as soon as I got here, he said, “You gotta come over.” And I came to be aware that the place was sort of deeply anti-intellectual at that time.
+
+So if you were—and there were a lot of—I was not a particularly serious scholar, although I did okay. But if you wanted to study hard, you had to sort of be a closet scholar or you risked some sort of social ostracism.</u>
+      <u who="SONNENFELD">Would you classify yourself as kind of a closet scholar, or did you?</u>
+      <u who="WELLING">Yeah, there might be too self-aggrandizing, but, you know, I graduated with honors and distinction in English.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">And I do remember—I do—we have conscious memories of making up excuses for why I wasn’t going to do something because I was going to go study. That didn’t just say I was going to go study, right? And I do—I do remember lots and lots of examples of the kind of apparently continuing bad levels of behavior that—that—I remember thinking, you know, there’s a—we talked—would say, you know, “What is it about this that people think is attractive?”</u>
+      <u who="SONNENFELD">Drinking related?</u>
+      <u who="WELLING">Yeah, drinking related and abusiveness to women and—now, we didn’t have any particular hazing at Phi Delt at that time, and Phi Delt was a—Phi Delt was a socially very prominent fraternity but was not quite as bestial and as violent and so on as some other places. Theta Delt[a Chi] was particularly difficult at that time. Beta [Theta Pi, now Beta Alpha Omega] was particularly difficult at that time. So we had a lot of swimmers, so we had athletes, we had football players. But I do remember, you know, the—the—the—the deep—you know, the body fluids and the beer and the—and the intimidation and abusiveness to women. I remember thinking a number of times having conversations, “Why—why is this fun?”</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">Or “Why is this going on?”</u>
+      <u who="SONNENFELD">So the campus was single sex at the time.</u>
+      <u who="WELLING">Yeah.</u>
+      <u who="SONNENFELD">How did that kind of affect your Dartmouth experience? Did you continue to date your girlfriend—</u>
+      <u who="WELLING">Mm-hm, mm-hm.</u>
+      <u who="SONNENFELD">—outside of Ithaca?</u>
+      <u who="WELLING">I did, although I also dated here, and it was sort of—we sort of dated a little bit, and yet we were each other’s go-to. Well, you know, I don’t think there’s any question that the fact that it was male only at the time intensified some of the bad behavior.
+
+I mean, Dartmouth is and has been for a long time a demonstrably stronger, better, more balanced place since coeducation. I was here in the year that they started the coeducation experiment, and so they had the ten-college exchange program.
+
+And there were, like, 80, I think—some number like that—women who were here for a year, and I remember thinking [chuckles]—one of them was [actress Mary L.] “Meryl” Streep, who was a theater—</u>
+      <u who="SONNENFELD">Wow.</u>
+      <u who="WELLING">—who was a theater person—that it had to be excruciating for these women because you got 3,000 men and 80 or 100 women, and so people knew where every one of them was at all moments, I mean, there was no possibility of—of not being observed and tracked, and—and so I just can’t imagine it was all that spectacular an experience for them, but—
+
+You know, tradition was—is and was a big part of the Dartmouth thing: songs and freshman traditions. We used to have something in Phi Delt in the fall called the Mud Bowl, where we—it’s now the parking lot behind the fraternity, but we would flood that lawn for two weeks before the—to create that much deep [demonstrates] mud, and we would play a touch football game after the major football game, which ended up invariably disintegrating into go and chase spectators and drag them into the mud.</u>
+      <u who="SONNENFELD">[Laughs.]</u>
+      <u who="WELLING">It was this great game. And some of the women played along with it and sort of liked it, and some of them were I think legitimately aghast and traumatized. But that kind of thing—nobody—nobody in the administration or anywhere else did anything to—to—to curtail that kind of activity. That was just sort of, part of the social mainstream.</u>
+      <u who="SONNENFELD">Mm-hm. So you—you mentioned that you ended up graduating an English major. Were you always drawn to English courses?</u>
+      <u who="WELLING">From my freshman summer.</u>
+      <u who="SONNENFELD">A specific professor, or what about your freshman seminar [First-Year Seminar]?</u>
+      <u who="WELLING">Yep, a guy named [James] “Jim” Epperson, who died tragically when he was about 45, who was my freshman seminar professor in Swift, and we just became very close. He was my honors adviser. Taught me how to write. Just a great guy. Wonderful sense of irony, and he was a sports fan. He was a recovering alcoholic. I got to know him and his wife quite well.</u>
+      <u who="SONNENFELD">So did you write a thesis then, if he was your honors adviser?</u>
+      <u who="WELLING">I did.</u>
+      <u who="SONNENFELD">And what was the topic of the thesis?</u>
+      <u who="WELLING">Comparing comedy, tragedy and satire.</u>
+      <u who="SONNENFELD">Okay. </u>
+      <u who="WELLING">Pretty ambitious.</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="WELLING">And it was pretty prosaic, but it seemed like a big deal to me, you know, 75 pages of—of—literary criticism. I went back to The Poetica [sic; Aristotle’s Poetics] and all that kinda stuff. 
+
+And it was—the other significant thing that I said was my defining experience was when i—when I—I got hurt in freshman football practice about midway through the season, which was merciful because I was never going to play.
+
+And I—one of the guys in the dorm was the sports director at WDCR, and at that time—this is before—
+
+</u>
+      <u who="SONNENFELD">WDCR being the radio—</u>
+      <u who="WELLING">The student radio station. And the student radio station at that time was a pretty unique thing. It was a commercial radio station. There were not very many radio stations. There was only two in the Upper [Connecticut River] Valley: one called WTSL and WDCR, and DCR was incredibly student run—entirely student run.
+
+So there was this great sense of professionalism. It wasn’t a bunch of kids playing with a ham radio; it was really serious-minded, quality standards radio programming 24/7.
+
+And he said, “You know, you like sports and you talk okay. Why don’t you come up and”—and I got involved in WDCR, and then from my sophomore year to my senior year, I was the radio broadcaster for every Dartmouth football, basketball and baseball game,—</u>
+      <u who="SONNENFELD">Wow.</u>
+      <u who="WELLING">—including playoffs, including the College World Series in baseball, and it was just an incredible—first of all, learning about the radio business was fun.
+
+And I actually did a little bit of professional broadcasting after I left Dartmouth. But it was just such a great way to be involved in a leadership kind of, prominent kind of way, you know? I mean, I was—I don’t mean this—but I was sort of a little celebrity. Like, I’d walk into Lou’s [Restaurant &amp;amp; Bakery], and people would know me as the voice of Dartmouth football or the voice of Dartmouth basketball.
+
+And I made friends with the coaches. It was just a really rich experience for me. And that work at DCR is one of the principle ways in which I engaged with the violence that took place around Vietnam, which we’ll talk about.</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">So it was more as an observer than a participant.</u>
+      <u who="SONNENFELD">So in ’68, Nixon was elected.</u>
+      <u who="WELLING">Right.</u>
+      <u who="SONNENFELD">Did you vote in that election, or were you not—were you not quite old enough at that time?</u>
+      <u who="WELLING">I don’t remember when the voting age changed to 18, but I did not vote in that election.</u>
+      <u who="SONNENFELD">Okay. Could you feel the shift on campus at all?</u>
+      <u who="WELLING">[Sighs and pauses.] So here’s who was here in ’68: [Robert B.] “Bob” Reich ‘68. Do you know that name?</u>
+      <u who="SONNENFELD">It’s familiar.</u>
+      <u who="WELLING">Former secretary of HEW [United States Department of Health, Education, and Welfare; now United States Department of Health and Human Services]
+
+
+
+[sic; secretary of labor under Bill Clinton], big thinker, small [in stature] man. Bob Reich was the political activist on campus. He was a Rhodes scholar, I think. If not, he was a Fulbright. I mean, a big deal, big guy—little man but big guy. There was not—it was not a heavily liberal place—or a progressive place, as they’d say now. So I don’t—I have no—I have no active memory of serious political activism other than [Eugene J.] “Gene” McCarthy, of course.
+
+So the dominant story line leading into that election was [President Lyndon B.] Johnson deciding not to run, right?</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">And the reason Johnson decided not to run was because the youth brigade of idealistic young people, who were the early opposers to Vietnam, had gotten out and supported Gene McCarthy, who never had a snowball’s chance in hell of being president but clearly demonstrated that—that Johnson was too weak to be reelected.</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">So he abdicated, essentially.</u>
+      <u who="SONNENFELD">Do you remember Eugene McCarthy’s run on campus at all? I know he did well in the New Hampshire primary.</u>
+      <u who="WELLING">Yeah, that’s why—the New Hampshire primary was what forced Johnson to withdraw.</u>
+      <u who="SONNENFELD">Right. Mm-hm. </u>
+      <u who="WELLING">Yeah, I remember him being an issue. I remember him being around, and I remember a lot of students being excited about him. You know, there was this—and frankly, the people who were most excited about Gene McCarthy at Dartmouth at that time were not mainstream Dartmouth people.</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">They would have been sort of the equivalent of brown rice and beard kind of people, you know, who were social liberals, people who were not perceived to be in the social mainstream, whether it was fair or not.</u>
+      <u who="SONNENFELD">Mm-hm. So you—you didn’t share their fervor.</u>
+      <u who="WELLING">No. No, but I was agnostic. I don’t remember really thinking I cared much about it. I thought this was sort of interesting. I was interested in the political power dynamics, but I wasn’t terribly doctrinaire from a policy standpoint.
+
+And I didn’t actually have a point of view. You know, I think most—most casual, conservative observers at that time believed in the domino theory, believed in the perils of monolithic international communism. Were woefully ignorant, even—even academically—woefully ignorant of the post-colonial dynamics of Vietnam at that time.
+
+So it was just—it was a proxy war, and it was a proxy war between the north and the south, and we had to stop— everybody from Jack Kennedy on had been telling us we had to stop communism in Southeast Asia because “if we don’t stop them there, we’ll be stopping them in California.” Now you that you think about that, it’s a pretty stupid thing to say, right?</u>
+      <u who="SONNENFELD">[Chuckles.] Sure. </u>
+      <u who="WELLING">But there were serious-minded people who were saying that at that time.</u>
+      <u who="SONNENFELD">Uh-huh. And were those debates that were dominating campus or still on the fringe, would you say?</u>
+      <u who="WELLING">Oh, no, I think—</u>
+      <u who="SONNENFELD">As we lead up to ’69.</u>
+      <u who="WELLING">I think there were people—I think they were dominating some aspects of campus, but, again, remember, in the ‘60s—the economy didn’t get crappy until 1970. So the late ‘60s were still a period of fairly robust activity. And, again, Vietnam had gotten much worse, but Americans still didn’t really didn’t know how bad it was in 1968.</u>
+      <u who="WELLING">So, you know, you had Nixon, who was elected in part because he was a tough anti-communist. You know, Alger Hiss, the whole communist conspiracy and so on. And so it was thought—there was no chance that a pacifist was going to be elected president in the United States, not just a Democratic pacifist, but there was no chance, zero chance in George McGovern, of course.
+
+So first Hubert [H.] Humphrey and then George McGovern. That’s not where the country was. So my recollection, which I would not represent as authoritative, but my recollection was that there were lots of activity, and there were fora, but the main activity of Dartmouth went on relatively unpoliticized by what was going on in the ’60s when I got here.
+
+And that all changed with the Cambodian incursion.</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">That was the big, defining change.</u>
+      <u who="SONNENFELD">So then we get to 1969.</u>
+      <u who="WELLING">Right.</u>
+      <u who="SONNENFELD">And we have the Parkhurst [Hall] takeover.</u>
+      <u who="WELLING">Right.</u>
+      <u who="SONNENFELD">Which you broadcasted.</u>
+      <u who="WELLING">Mm-hm. I did.</u>
+      <u who="SONNENFELD">Correct. Can you speak a little bit about that experience and how your experience as a sports broadcaster transferred over to broadcasting as sort of a major political movement within the microcosm of Dartmouth?</u>
+      <u who="WELLING">Yeah. It was—you know. So I was—there was sort of a church-and-state thing between the hard news people and the sports people, and the news people were news people and the sports people were just rah-rah jocks. So the sportspeople didn’t generally get pressed into reporting, but that was something where it happened. There were some rumors about it. They sort of needed stringers everywhere, and so on, so I got pressed into service to be sort of a beat reporter.
+
+
+
+And I remember—I remember thinking several things. I remember thinking that it was a bunch of kids playing at being serious revolutionaries, that there was no—you know, there were guys from the dorm that I knew, a bunch of guys I’d known from my dorm from Minnesota. “What the hell are you doin’ here?” [Chuckles.] You know, “Well, we gotta demonstrate to the president that we’re”—“I’m not demonstrating to anybody.” I’m not saying this on the air, of course, but I’m—</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">So there was this sense of sort of flavor of the week, faddish, “Let’s demonstrate that we’re”—you know, “Let’s go on board with this because it seems like a cool thing to be.” There were—there was always this sense that the people who were really passionate about this had statistics from here to breakfast, and so you could never get into a discussion with them because they would out-statistic you. And so you couldn't have a nuanced, moral, ethical, philosophical discussion because it was, “Are you realizing that 127 people every 26 minutes are being—and the amount of money we’re spending on Agent Orange and napalm” and so on and so on—so at the time I became aware of the power and the tyranny of statistical manipulation, listening to these discussions and debates.
+
+And I remember thinking—my dominant thing was it was a bunch of—it seemed like a bunch of kids sort of playing grownup, you know? “What are you doing? What are you—what do you really expect to accomplish this?”
+
+Now, you know, broadcasting it, of course, we were all playing—we were all playing grownup, right?</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">I mean, this was, you know, “Reporting live from Parkhurst, this is Curt Welling for WDCR. Over to you, Wally.” And it was, as campus things and little old Dartmouth, Hanover, New Hampshire go—it was pretty exciting. It was not—I don’t recall it being violent in any significant way. I don’t recall—I do recall people ultimately being hauled out of there, but I don’t recall anybody being hurt. So if somebody got hurt, they didn’t get hurt very much.</u>
+      <u who="SONNENFELD">It sounds like you were—</u>
+      <u who="WELLING">There was no tear gas or anything like that.</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">As I recall.</u>
+      <u who="SONNENFELD">—somewhat apolitical up until this point at Dartmouth.</u>
+      <u who="WELLING">I was.</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">Yes.</u>
+      <u who="SONNENFELD">So you didn’t have any difficulties in trying to mitigate any bias while you were broadcasting or anything like that?</u>
+      <u who="WELLING">No.</u>
+      <u who="SONNENFELD">No.</u>
+      <u who="WELLING">And I was pretty conscious of that, actually. Remember, Walter Cronkite was the voice authority in my family growing up,—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">—and my parents had done a pretty good job of getting me to understand the difference—the role of journalism. I had taken journalism courses in high school, so I understood this idea of objectivity and grounding and so on, and “You’re a vessel, you’re not the story” and that kind of stuff. And that’s true in sports broadcasting, too, by the way, so—
+
+
+
+But I didn’t have—you know, I didn’t have a strongly-examined personal view about whether we should be in Vietnam or not be in Vietnam, and I wasn’t even sufficiently interested to real dig into it to develop that point of view because there was other stuff that was more important to me.
+
+And I actually think in that respect I was probably in the majority of young people at that time, that the people who—they were either people who were rebelling as we went into a period of rebelliousness generally, rebelling against authority, rebelling against police oppression, rebelling against a whole bunch of things. So there was a—there was a climate that Vietnam happened in the context of, an evolution of society that—that had many similar root causes and different manifestations, right?</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">But Hanover, New Hampshire, Dartmouth College, all boys, way up in the north woods, mostly white—it just had this feeling of, like, You’re really, you’re just playin’ at this, to me. I would say that changed when, for some reason—and I can’t explain this rationally, but I think that changed a lot when—when Nixon made that incursion into Cambodia and lied about it. Clearly had acted illegally, because then it was not just a question of, well, should we be in Vietnam or not? It’s the president is acting in a dictatorial and imperial way. That’s a different kind of problem. That’s a problem that threatens the integrity of the republic.</u>
+      <u who="SONNENFELD">Do you remember—</u>
+      <u who="WELLING">And so I remember a whole bunch of people being politicized by that, including myself, to some degree, who weren’t politicized before.</u>
+      <u who="SONNENFELD">Do you remember first hearing about that and what your initial reaction was, and how your opinion or reaction developed following the news of Cambodia?</u>
+      <u who="WELLING">Yeah, my opinion and reaction largely developed by listening to other people telling me what I should be thinking about. So listening to national media, listening to the sense of concern, listening to people who were not strident or partisan people saying why this was such a significant problem for the country. And I was an English major and a government minor, so I was interested in politics. I was interested in political process and dynamics and political thought: legitimacy, questions of legitimacy and the Enlightenment, government model and all that kind of stuff.
+
+So then suddenly popular sovereignty sort of comes into sharp relief, and you understand the nexus between being well informed and understanding what the truth is, but you’re going to be an informed sovereign, which is what the people are supposed to be, means you better—you know, something significant enough happens, you better figure out what your point of view should be about it.
+
+
+
+And as I recall, that was in the spring of  ’70?</u>
+      <u who="SONNENFELD">Yup.</u>
+      <u who="WELLING">And, of course, the place was electrified, as college campuses were everywhere, right?</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">So you had the Chicago [Democratic] Convention, you had the violence there, you had Kent State by that time, I think, right?</u>
+      <u who="SONNENFELD">I mean, pretty mu- —Kent State was in reaction to the excursion into Cambodia.</u>
+      <u who="WELLING">Right, right. </u>
+      <u who="SONNENFELD">Pretty simultaneous.</u>
+      <u who="WELLING">Yeah, so it was all being fermented at the same time.</u>
+      <u who="SONNENFELD">Yes.</u>
+      <u who="WELLING">But the sense of much greater solidarity and much more widespread outrage on college campuses. And Dartmouth was in the process of moving from John [S.] Dickey [Class of 1929] as president to John [G.] Kemeny as president.</u>
+      <u who="SONNENFELD">Mm-hm, mm-hm.</u>
+      <u who="WELLING">(I’ll tell you a great story about that.) And so it was a moment of some vulnerability because it was a transition, and John Kemeny was not uniformly well regarded in the alumni community. He was a Princeton [University] graduate who was a Hungarian mathematician, and, you know, was he really the right guy to succeed this hallowed figure, John Sloan Dickey?
+
+But they shut the college. The college was closed down, and students were given the option of going home, staying here and completing courses, or canvasing. And, again, I was not a politically terribly active person, but I liked to stay here and  canvas, and that was an amazing learning experience because [chuckles] you haven’t really—so you can imagine what this is like, going into these little towns, South Strafford and Royalton [both in Vermont] and so on, and going up some dirt road and knocking on the door and saying, “I’m from Dartmouth, and I wonder if you’d be willing to sign a petition urging the president to get out of Vietnam.” I mean, it was lucky kids didn’t get shot.</u>
+      <u who="SONNENFELD">So that’s where you ended up standing on the issue.</u>
+      <u who="WELLING">Ending up doing that. Ended doing that, yeah.</u>
+      <u who="SONNENFELD">Would you describe yourself as a conscientious objector?</u>
+      <u who="WELLING">No, I was not a conscientious objector, because I actually served in the National Guard. But I was outraged by this abuse of power. And I was sort of swept away—it was also the cool thing to be doing, right?</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">Now it was sufficiently mainstream, so it was cool to be doing it. I did it with lots of friends. There was a solidarity around that. You know, you’d go out and you’d canvas, and you’d come back and you felt like you were part of something that was a movement, and there is something—you know, there’s a lot of—there’s a lot of literature around the social dynamics of feeling as though you’re part of a movement.
+
+So the Kemeny story is—the reason I remember it was it was spring. It was Green Key Weekend, and so people had been out canvasing for a couple of weeks, and they’d been through this trauma and shock,—and I don’t remember whether Kent State had happened or not. But there was a—it was a pretty wide sense of outrage, even if it wasn’t terribly well informed.
+
+And I think the concert act for that Green Key Weekend was Sly &amp;amp; the Family Stone, which everybody was really excited about. And it was Kemeny’s baptism of fire. So before the concert started at Leverone [Field House]—so there are now 5,000 people in Leverone, and there’s this incredibly charged environment, where people have had all of this experience, and they wanted to just have a great party, right?</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">And Kemeny stands up and gives this incredibly eloquent, incredibly eloquent, aspirational speech about sort of what we’re doing there together and the meaning of legitimacy and authority in government and why it’s important for people to take it upon themselves, and how we’re upholding this great tradition.
+
+About two weeks before, in a famous editorial, the Manchester Union-Leader [now New Hampshire Union-Leader], had—had—had in response to Kemeny’s nomination as president—they published a headline saying “Dartmouth Picks a Lemon,” because they were not in favor of Kemeny, that liberal, Jewish, blah, blah, blah.
+
+So Kemeny makes this incredible speech. He’s got people in the palm of his hand, and he said, “Just so you understand that I share your sense of opposition to people who have not seen clearly,” he reaches in his pocket and he takes out a lemon, and he holds a lemon up.</u>
+      <u who="SONNENFELD">[Laughs.]</u>
+      <u who="WELLING">And the place went—it was one of those amazing moments. The place went crazy. And, of course, at that moment, he owned the place. He was the president then. He had demonstrated this incredible grace and eloquence and leadership and self-deprecation under this pressure. And he was a—John was a great man. I got to know him fairly well later on. 
+
+That was really the galvanizing—that was the transition at Dartmouth. That was obviously the inflection point in civil and social unrest here around the Vietnam era but for lots of other things that were going on. I think it became a point of irrevocable politicization of college campuses. I’m quite sure that you will conclude that the Dartmouth campus has never been the same in the post-’70 to ’72 period. And that’s true across a wide range of issues, right? It’s true with respect to gender issues. It’s true with respect to race. It’s true with respect to foreign policy and politics, authoritarian leadership. So it was a high water mark to depending on your perspective.</u>
+      <u who="SONNENFELD">So following that speech from Green Key [Weekend], you were a fan of Kemeny?</u>
+      <u who="WELLING">Yeah, yeah, I was. And actually I also said I wasn’t much of a math guy. He taught the most basic math course at the college. It was called Finite Math. And I had him for math.</u>
+      <u who="SONNENFELD">How did you like him as a professor?</u>
+      <u who="WELLING">He was great.</u>
+      <u who="SONNENFELD">Yeah?</u>
+      <u who="WELLING">He was great. He was funny. But he was demanding. I mean, as demanding as you can be. You know, finite math is set theory and Bayesian probabilities and decision making and so on. And he was demanding. And then I got to know him personally about ten years after I graduated because he—my wife worked for Dartmouth, in the campaign for Dartmouth, and she used to travel with him, so we worked together quite a lot. He was just an amazing guy, amazing man.</u>
+      <u who="SONNENFELD">Sure. So then we’re pretty much up to your senior year.</u>
+      <u who="WELLING">Mm-hm.</u>
+      <u who="SONNENFELD">Anything—any events in ’71, in your senior year? You’re ready to get out of this place and start a new life.</u>
+      <u who="WELLING">The draft—so you talk about conscientious objection. So in the waning days of Vietnam, they instituted a draft lottery, and so I remember sitting down at Phi Delt with all of my fraternity brothers on the night of the lottery. And one of our fraternity brothers, who was the most terrified of being drafted, got down there and sat down there, and he got a cooler and he got chicken and all kinds of stuff, and he was really settling in, and his number was drawn first. He got number one.</u>
+      <u who="SONNENFELD">Wow.</u>
+      <u who="WELLING">I had number 60. The idea was that if you were below 120, you were probably going to be drafted. I didn’t want to be drafted, so when I got that number—and I had some respiratory problems that I thought might get me out.  Whereas earlier in the war they had been pretty lenient with what they call 4-F deferments, physical deferments, as it got later and they needed people more, they started not to disqualify people.
+
+So I actually went down to Manchester [New Hampshire] for my physical, expected to be 4-F’d, and the guy said, “You’re 1-A.” And I said, “Oh, no, I can’t—you know, respiratory allergies.” He said, “Nah, you take some pills.” So I joined a National Guard [of the U.S.] unit and served for six years in the National Guard.
+
+But it wasn’t—you know, it was really—and again, I’m not—I’m not apologizing, nor am I beating myself up for this. It wasn’t a philosophical thing. I didn’t want to go to Vietnam. I wanted to go to graduate school. If I served in the Regular Army, I was going to have to defer for two or three years, so I just took the path of least resistance.
+
+I mean, I wasn’t opposed to service. I didn’t have any philosophical problem with that. And so I signed up with a National Guard unit, did my six months of active duty, and then six years worth of meetings.</u>
+      <u who="SONNENFELD">Can you speak a little bit more about the experiences of being in your fraternity, watching draft numbers come up on the screen?</u>
+      <u who="WELLING">Mm-hm.</u>
+      <u who="SONNENFELD">Was that kind of a searing memory, or feeling everyone’s collective tension?</u>
+      <u who="WELLING">Yeah, it was—it was—it was a—it was a huge dynamic of the time, in ways that I don’t think—you know, the thing that made it a dynamic was that every American male between the ages of 18 and 30 was going to have their future influenced by picking these numbers out of a thing, you know?</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">And so it was a moment, and it crystalized all kinds of things, so there was enormous preoccupation with this debate about—you know, all kinds of different levels—debate about whether the draft is the right thing and what should the terms be and how should the lottery be conducted, and so on. But I can’t imagine that there were very many people in the country between those ages who weren’t watching television that night.
+
+And so it had this feeling of focusing the attention of the country on the consequences. In a way, lots that have been written recently is—one of the problems we have with the military today is it’s an all-volunteer force, and none of the children of privilege and power serve in the Army, so the military service is essentially below the policy makers’ radar screen, from a personal, skin-in-the-game standpoint.
+
+Well, now everybody was going to have skin in the game, in this most democratic way. You were either going to have to go to Canada, join the National Guard, or you were going to serve. And if you serve, there’s a chance you’re going to come back in a box. There has been no dynamic in the United States like that since then.
+
+
+
+And in fact, ironically, they suspended the draft six months after I joined the National Guard, so I went back and tried to get out of the National Guard. They said, “What are you crazy? We’re not going to be able to beat people in.” So it was— for that one year, it was a dominant social dynamic that affected decision making for, as I said, almost—almost every man between the age of 18 and 30 in the country.</u>
+      <u who="SONNENFELD">Let’s talk a little bit about your National Guard experience.</u>
+      <u who="WELLING">Mm-hm.</u>
+      <u who="SONNENFELD">Did you start your service with the National Guard immediately following graduation?</u>
+      <u who="WELLING">I did. Well, yes. You had to wait to be called to active duty, so it’s a sequencing process, but yeah, I graduated, and then I commenced waiting, so I had a great summer job that I’d had in Rochester for a number of years. I did that, and I actually didn’t get called to active duty, Fort Jackson, South Carolina, until the winter of that year. 
+
+And that was an issues because I’d applied to law schools, and I had to defer and then reapply. So I got called to active duty in I want to say the winter, so probably January, maybe. Did my 10 or 12 weeks of basic training, whatever it was, at Fort Gordon—at Fort Jackson, South Carolina. Then I did 10 or 12 weeks of what they call AIT or advanced individual [sic; infantry] training, which is the rest of your basic training, at Fort Gordon, Georgia.
+
+And the unit that I was in had been in Pawtucket, Rhode Island, because there was one that I had a friend in, and he knew they had some openings, so I joined this unit. And it was a military police unit, which happened to dictate where I got trained.
+
+I then went almost immediately to law school in Nashville, Tennessee, so I transferred from the military police unit at Pawtucket to a quartermasters and administrative unit in Nashville, Tennessee, which is where I was for three years of law school at Vanderbilt [University].</u>
+      <u who="SONNENFELD">Mm-hm. So you were in law school at the same time as you were part of the National Guard.</u>
+      <u who="WELLING">Yeah, yeah, yeah. Citizen soldiers. You’d go to one meeting a month, and you go to two weeks of intensive training in the summer, and you do that for six years. Now—now the National Guard gets called to active duty, but back in those days, the National Guard was almost never called to active duty.</u>
+      <u who="SONNENFELD">Mm-hm. And so did your affiliation with the National Guard affect life law school? Or can you speak a little bit to that?</u>
+      <u who="WELLING">No, not too much.</u>
+      <u who="SONNENFELD">No?</u>
+      <u who="WELLING">So I went to law school at Vandy and matriculated in the fall of ’72., and my dominant memory of that is that’s the year that Roe v. Wade was decided. And I remember it was quite an electrifying thing because—even I didn’t know anything about it. I knew something about the abortion debate and the differences of view, but being in law school with students who were intensely focused on this kind of thing was just an exciting dynamic, because people were taking—this was back before any electronic media, so people were taking the opinion as it was coming off the teletype and running it out and reading it aloud to this group of a couple of hundred students, who were hanging on every word because it was thought to be the most important Supreme Court decision in the post-Vietnam period.
+
+And I remember thinking, Wow, this is really cool. But that was a politicizing issue. Race was obviously a politicizing issue. But, again, now you’re in—now you’re in the mid-’70s, and you’re in the post-Nixon, post-Vietnam period, and some amount of normalcy is starting to return to the system.
+
+And I remember the three years I was there being pretty benign and, you know, nobody thought—as opposed to being at Dartmouth in the ’60s, when they would throw pigs’ blood on the people from Dow Chemical [Company] who came here to recruit, because they were a maker of napalm, or when they would boycott chemical manufacturers and so on, there wasn’t a hell of a lot of politics at Vanderbilt at that time.
+
+Now, Vandy is Vandy, and there’s a difference in the Central South and the Deep South from the sophisticated, elite Northeast. But nobody—there are lots of students in graduate school, and the undergraduate school who were in the National Guard, for example. It’s on balance probably a more outwardly patriotic culture than the culture up here.</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">So, you know, I don’t remember any negative thing at all. I went right to law—from law school, got admitted in the bar in New York and then came to Tuck [School of Business]. And so I transferred up here, and then I was in a unit up here, right out there on Lebanon Road and Route 120 by Miller Auto [Group] there. And that was an artillery unit. So I went from military police to quartermaster and admin to an artillery unit. And the—the reality is, back in those days if the National Guard had ever called to active duty, a lot of people would have gotten killed because we were not terribly well trained, so—</u>
+      <u who="SONNENFELD">Mm-hm. Yeah, speaking of your training, can we take a moment to return to your experience at basics in Fort Jackson and Fort Gordon?</u>
+      <u who="WELLING">Mm-hm.</u>
+      <u who="SONNENFELD">What was that experience like? Was it something very different than what you had gone through in the 20-something years previous, or—</u>
+      <u who="WELLING">Well,—so there’s a caricature of basic training, right? And it’s most intense in—so have you seen [An] Officer and a Gentleman, the movie [An] Officer and a Gentleman?</u>
+      <u who="SONNENFELD">No, I have not.</u>
+      <u who="WELLING">Okay. But have you read the stuff about the women, the Special Forces women that are going through—</u>
+      <u who="SONNENFELD">Yes.</u>
+      <u who="WELLING">—in the Ranger stuff recently?</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">Okay. So that’s the caricature of basic training. That’s at the intensive end of the experience. But the drill sergeants are these ogres, and they beat the crap out of you, and dah, dah, dah, dah. And frankly, while it wasn’t—it wasn’t a very pleasant experience—you know, living in a barracks with a hundred other guys and people yell at you and all that kind of stuff—physically it wasn’t any harder than two-a-day sessions in football. So I didn’t find it physically terribly demanding or challenging.
+
+And it was really—it was an interesting thing for me because the draft is this great social equalizer, right? It’s why uniforms are so important because you don’t differentiate people by their clothes or anything else. I was in a unit that was half black kids. It was by far the greatest concentration black people that I’d ever been around physical and personally. There was no racial tension to speak of. I mean, every once in a while there’d be a little something, but nothing to speak of. Again, I think the Army was a fairly significant leveler of all that.
+
+So I don’t—I don’t recall it as being a terribly negative experience, but it wasn’t a great experience, either. It felt sort of like I was wasting six months.</u>
+      <u who="SONNENFELD">Okay. How about—how about when you were part of the military police? Did that position weigh on you in any way? Did you notice that people treated you any differently?</u>
+      <u who="WELLING">No, because military police are like all quasi-policing people. You know, there are some that are good and there are some that get self-important and try and, and there are people who take them seriously and don’t take them seriously. Now, I never—I never served in a situation where I had to aggressively use police power, so I did some directing traffic and things like that. But the military police and the administrative things in the armed services are not the mainstream. The mainstream is combat.</u>
+      <u who="SONNENFELD">Mm-hm. Right.</u>
+      <u who="WELLING">So there is a tendency—if there’s a division. There’s a division between the combat people and the most intense—there are SEALs [U.S. Navy’s Sea, Air, Land teams] and Rangers and so on, and the non-combat people. And the combat people tend not to take the non-combat people very seriously. They call them house cats.</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="WELLING">“He’s a house cat,” right? So there’s a bit of that. But, again, it’s all internal, social, structural dynamics. I don’t recall it being any big deal.</u>
+      <u who="SONNENFELD">Mm-hm. 
+
+So then you’re back at Tuck in—in ’77, did you say?</u>
+      <u who="WELLING">We’re breezing right through this. You know, you’re going to have a lot of extra time.</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="WELLING">I came back to Tuck in the fall of ’75.</u>
+      <u who="SONNENFELD">Seventy-five, okay.</u>
+      <u who="WELLING">I was in the Class of ’77.</u>
+      <u who="SONNENFELD">How did campus culture feel different in ’75 than it had when you were an undergraduate?</u>
+      <u who="WELLING">Yeah. Well, so first of all, Tuck was an island sort of unto itself when I was an undergraduate. I knew some Tuck students, but they pretty much—they pretty much kept to themselves because they were older and in many cases, married. So now I’m back here. I’m older. I’m married. And the dynamic of the Tuck School was quite different then, because it was going from the dominant Tuck progression in the ’60s and early ’70s—what was called three-two, so you’d be an undergraduate for three years, then you’d be at Tuck for two years and you’d get your B.A. [bachelor of arts] and M.B.A. [master of business administration] in five years. 
+
+And starting in the ’70s, they began to morph that in all business schools to wanting more practical experience, so they would require you to be out for a few years, and then you come back and get your M.B.A. So there were very few undergraduates at Tuck when I got here.
+
+Tuck is a classic—was then and to some extent still is, maybe a little bit less now because I think because of social media and pervasiveness of information—Tuck was the classic apolitical place. Tuck was about money. And so I don’t remember—I don’t remember any serious political engagement or social engagement in the context of the Tuck School.
+
+You know, it used to be—in the ’60s, ’70s and ’80s they used to have very elaborate ice sculpture competition at—at Winter Carnival time, as opposed to these little ice sculptures that get done along Main Street there [in Hanover, New Hampshire]. Every dormitory [hits table], every fraternity [hits table] and many [hits table] of the administrative buildings and so on built these amazing ice sculptures—you know, big, two-story high things. The one in front of Tuck was always a green dollar sign.</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="WELLING">They would build a 20-foot-high green dollar sign, and that’s pretty much what Tuck was about. It was about, “Okay, we’re done with Vietnam [thumps table]. We’re back here [thumps table]. We want to prepare ourselves to go to work and make a lot of money.”</u>
+      <u who="SONNENFELD">Why—why were you drawn to Tuck after—after just completing law school?</u>
+      <u who="WELLING">Law school? So I went to—well, this may be relevant to the Vietnam era evolution, social evolution. I went to law school not so much because I was driven to be a lawyer as because I didn’t have anything better to do. So I wasn’t technical. I wasn’t going to be a medical professional. I didn’t really know what I wanted to do, but I had English training, government, politics and so on. And so the conventional wisdom then was if you want to work, generally speaking, in commerce or in politics, legal training is great training for background. And that’s still valid, to some degree. It is good intellectual training.
+
+
+
+But the vast majority of people go to law school because they want to be lawyers, and I didn’t really give any critical thought to whether I wanted to be a lawyer or not. When I found out what lawyers did for a living, it didn’t really appeal to me very much. I did a couple of clerkships and stuff like that, but I got turned on by corporate business and stuff, by a couple of courses I took in—
+
+So—so I was sort of in a generation where I think a lot of people were finding themselves on the fly. You’d gone through this social dynamic. You’d gone through this brush with the military or the military that maybe had either kept you from deciding or it obscured your decision and so on. And by the time I had gotten through three years of law school, I said, Okay, now it’s time to get serious. I mean, I’m 24. Single at the time. And I’ve accumulated some debt. My parents had been sacrificial in helping me get through school, both undergraduate school—
+
+I’ll never forget when I called them to tell them I was going to Tuck, my father said, “Well, that could be a good idea. But you’re on your own.” [Chuckles.] And so by the time I came here for business school, I was really focused. I was focused on working my ass off. I was focused on finding exactly what I wanted to do when I started in business, and—and it was great.
+
+But I was like a lot of—I was like a lot of students who were here at the time: very focused on the career orientation. As I said, then—at that point, probably two-thirds or three-quarters of the class had migrated away from this undergraduate three-two thing, so while there were still some younger students here, the vast majority of them were in their mid-20s and had work experience. In many cases, had families or at least husbands or wives.</u>
+      <u who="SONNENFELD">A lot of them must have had some—some Vietnam experience.</u>
+      <u who="WELLING">Right, right.</u>
+      <u who="SONNENFELD">Did that play out in the classroom at all, or was it pretty much pushed to the side?</u>
+      <u who="WELLING">Remember, returning Vietnam veterans were—were badly and consistently vilified by society.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">So if you were a Vietnam vet, the best you could hope for would be a benign reception. And I think most of them at Tuck got a benign reception, but nothing like the military gets today. You know, we celebrate that’s here at Dartmouth and at Tuck. Every year at Tuck they have a student panel, which is six or eight of the vets that are Tuck students, moderated by the dean, where they share their experience, I’ve been to it two years in a row now. It’s about two hours long, and at the end of it, they get a ten-minute standing ovation. So the culture today is one of gratitude and celebration. The culture in the ’70s was one of, at best, benign neglect and at worst was really vilification, like “You’re a pig” and “How could you have gone and done this?” and “You’re a baby murderer” and—</u>
+      <u who="SONNENFELD">Were those the sorts of slandering that you saw—</u>
+      <u who="WELLING">Oh, yeah, yeah. I actually—</u>
+      <u who="SONNENFELD">—take place—</u>
+      <u who="WELLING">Yeah.</u>
+      <u who="SONNENFELD">—with your own eyes?</u>
+      <u who="WELLING">Yeah. Yes, I did. I personally saw people—you know, the same brown rice crowd that had been opposed to the war when vets came back in the most cruel and unfair way would attack these people as part of the war machine, which is of course absurd. These are kids who were drafted or were sent—you know. So, yeah, it was—and I remember it made me—it made me deeply angry. 
+
+
+
+I’m sure you’ve seen the movie, Born on the Fourth of July, which is a movie about—Tom Cruise plays a paraplegic Vietnam veteran coming back, and that’s sort of the apotheosis of that period, where he was deeply troubled and deeply ostracized by society, both because he was disabled but also because he was seen to be an instrument of this war that, now having sent all these boys to fight, everybody wanted to pretend they’d always been against. So there was a lot of hypocrisy.</u>
+      <u who="SONNENFELD">You said the treatment of vets made you angry. Did—did their reception help politicize you in any way or to define your own political leanings?</u>
+      <u who="WELLING">Probably not.</u>
+      <u who="SONNENFELD">No.</u>
+      <u who="WELLING">No. So I remember thinking about the progression. I remember being very sad the night Richard Nixon was elected in 1972 because I really thought that he was a bad guy. And it turns out he was a bad guy. But I was generally not a Democrat. I remember thinking it was sort of absurd when [President] Gerald [R.] Ford [Jr.] lost to [James Earl] “Jimmy” Carter [Jr.], not that I had anything against Jimmy Carter. In fact, I might have—I might have sort of thought he was a cool guy, but the idea that you could be a peanut farmer and a one-term governor of Georgia—but, again, it wasn’t philosophically because Jimmy Carter wasn’t a deeply philosophical guy. He was a moralist and all that stuff.
+
+
+
+And I remember thinking Ronald Reagan was articulating— absurd as it was that this television actor was running for president—that Ronald Reagan was articulating a vision of America which obviously resonated with lots of people and was sort of consistent with I thought my politics were at the time.
+
+But I don’t think any of that was politicization as a result of the treatment of vets, except what Reagan did, Reagan tapped into this idea of the nobility of service and the nobility of thinking—of being patriotic in a positive way, not negative patriotism but “a shining city on the hill,” “morning in America,” all that kind of stuff. So wanting to make Americans proud of the Americans again.
+
+And there was a phrase at that time that Jimmy Carter got tagged with, which was the “blame American first” crowd. So there was this feeling among patriotic people that there was this group of American nihilists who were always quick to take the side of all the things that America does wrong. And there’s probably some truth in that.
+
+
+
+So I was probably more upset about the imbalance that some people had in blaming the country for [unintelligible] “we’re always wrong.” And I remember thinking on a couple of occasions how completely reprehensible it was that returning soldiers should be treated this way. But did I—was I an activist, or did I go out and, you know, campaign or do anything? No. I was—I was moving along in my own little tunnel.</u>
+      <u who="SONNENFELD">How about you—your parents? You mentioned your parents were sort of classically Midwestern, conservative.</u>
+      <u who="WELLING">Right.</u>
+      <u who="SONNENFELD">When they learned you were doing some canvasing back at Dartmouth and then when you joined the National Guard, what were their reaction to both of those developments?</u>
+      <u who="WELLING">Well, I don’t—I don’t have anecdotal. I think when I called them to tell them that classes had been suspended, they said, “What are you gonna do?” I said, “Well, I’m gonna go out and do this canvasing.” I think they sort of probably thought, Okay, fine, that’s something that the college says it’s okay for you to do, and if that’s something that you want to—so they were never, “Oh, how can you do that? You know, you can’t be opposing the war.” “Fine.”
+
+I don’t ever remember having a big debate—my mother was not a political person. I don’t really ever remember having a big debate with my father other than sometimes he would be very closed-minded about social policy issues. But, again, I wasn’t so doctrinaire about that stuff that it was a big gulf between us; I just remember thinking to myself, You’re from a different time. And I would now say what I was thinking was, you’re not understanding the complexity of social evolution here and the forces that have been unleashed here that are going to have to find their way into a new social contract.
+
+
+
+He was just, “This is wrong, and this is right. This is wrong, and this is right.” You know, communism is wrong, and freedom is right. Big government’s wrong, and limited government is right. Obey the law, pay your taxes is right. Don’t tell me you’re not going to pay your taxes because you don’t like something the government is doing; change the government. So he was a very straightforward conservative that way.
+
+And so I don’t remember—I’m just trying to think whether or not he was opposed to the idea of abortion, but my guess is he was opposed to the idea of abortion, and he would have certainly not thought there should be a constitutional right to abortion, so he would have been a strict constitutional constructionist.
+
+So it was a time when, if you think about all the stuff that was going on, there was this evolutionary dynamic of the society as a whole, which has continued right up until the current moment.</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">And Dartmouth was lagging then. Dartmouth as its place lagged that dynamic, did not lead it in any way. All men, anti-intellectual—</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">—politically conservative, white—you know.</u>
+      <u who="SONNENFELD">By the time we get to ’77, did you notice any of that starting to change, women starting to be admitted to the college? You mentioned that there wasn’t a lot of undergraduates in Tuck itself, but did you have any interactions with the undergraduates? Did you notice the influx of women?</u>
+      <u who="WELLING">Yeah, I had a little bit. And there were women here, a small number, initially, but women. The college had gone to year-round operation as a way of being able to increase—I don't remember what the numbers were, but certainly was well short of 50:50. It didn’t get to 50:50 until the ’80s, I think.</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">There were probably—you know, Tuck was very slow to integrate gender as well, but there were probably—out of my class of 140, there were probably 20 women, and it was part of a steady-state increase which has been—they’ve been working on ever since. But it had only been in the ’60s, I think, when the first woman was admitted to Tuck, so it was not—it was not integrated from a gender standpoint.</u>
+      <u who="SONNENFELD">How about racial diversity in your graduating class?</u>
+      <u who="WELLING">At Tuck?</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">Very small. Ten maybe, five to ten if I had to go back and count them I would have to say. International. But if you count racial diversity, you count Japanese, Chinese, Latino as well as African-American, I would guess maybe 10 to 20 out of the class. And black students, half a dozen maybe. So not a very—you know, it’s a thing that Dartmouth still labors with a little bit.</u>
+      <u who="SONNENFELD">Do you look back at your time at Tuck as—as a happy time, a good time? Were you still with your girlfriend?</u>
+      <u who="WELLING">She was now my wife.</u>
+      <u who="SONNENFELD">She was now your wife.</u>
+      <u who="WELLING">We got married when we were in Nashville at law school.</u>
+      <u who="SONNENFELD">Okay. Great.</u>
+      <u who="WELLING">Yes, it was a great time.</u>
+      <u who="SONNENFELD">Uh-huh. But you said you were pretty academically serious. </u>
+      <u who="WELLING">Yeah.</u>
+      <u who="SONNENFELD">You knew you wanted a career, and so you got down and focused.</u>
+      <u who="WELLING">But in a community of 150 people Tuck was two sections of 70 or 75 each, half of whom were married. Incredibly tightly knit. The culture at Tuck, which is largely intact to this day, is a very internally supportive, collegial, community oriented culture. And everybody works really hard. There’s no cutthroat competition. 
+
+At those times, Friday—now it’s Thursday afternoons because they don’t have Friday classes. In those days, Friday at five, everybody came together for a cocktail party, sort of blew off steam because the week had been hard, blah, blah, blah, and then did whatever they were going to do on the weekend and picked it up and start again on Monday. But it was a very—in the way in which intensive experiences can be, it was a very satisfying experience. I mean, it taught lots of people, and they talk about that being one of the high water marks of their lives, the time they spent here at graduate school.</u>
+      <u who="SONNENFELD">Great. So then you get—</u>
+      <u who="WELLING">So almost no politics, almost no politics.</u>
+      <u who="SONNENFELD">Yeah. Then you graduate. Can you speak a little bit about your life experience after you graduate Tuck, and did you feel anything from the Vietnam era influence your career decisions?</u>
+      <u who="WELLING">[Raps table rhythmically.] Let’s see. The country had taken a significantly conservative term, so it was the Reagan—post-Reagan era, right?</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">Deregulation became the mantra and the theology. It was  a period of the beginning of electronic technology and information processing technology, and so there was this feeling of business ascendancy and a much more—the idea that young people would be proudly going into business, as opposed to the climate in the ’70s, was clearly taking hold. So you didn’t have to apologize because you were a business person. You didn’t have to pretend you didn’t want to be a business person. 
+
+And so whether that’s attributable to—not so much to Vietnam, I don’t think—I think it’s attributable to the realities, the imperatives. You get to a certain age, you got to make money. Remember, this is the crest of the baby boom generation, so the baby boom generation is now coming into its professional realization. So I was born in ’49, so I’m fairly late, but the baby boom generation started coming into its political ascendancy and its business ascendancy between 1970 and 1985.</u>
+      <u who="SONNENFELD">Mm-hm. And being a Dartmouth, a Vanderbilt and then a Tuck graduate, you were kind of ideally positioned to seize that opportunity.</u>
+      <u who="WELLING">Well, yeah, I had that—you know, I had good education, because I had a J.D.-M.B.A, I was thought to be qualified to do things that other people might not have been. I ended up going to Wall Street [the term used to represent the financial district of New York City] and worked in Wall Street for 25 years. And Wall Street was at that point just sort of lifting off from what had been a fairly arcane, small number of people into what became the modern financial services business, so there was lots of opportunity. So I was for—timing was fortunate.</u>
+      <u who="SONNENFELD">What specifically—</u>
+      <u who="WELLING">But it was not politi- —it was interesting. I would say the period from the mid-’70s to the end of the ’80s was essentially economically driven, not politically driven, when you think about what was going on in the world. You know, [William J.] “Bill” Clinton, when Bill Clinton beat George [H.] W. Bush, he ran on a new conservative Democratic Party platform, the New Democrats. He was one of the New Democrats.
+
+The New Democrats were all focused on fiscal responsibility. I mean, they were more conservative than today’s Republicans. So this was a period that was driven—where the dynamic social—the dominant social dynamic was about the economy [hits table] and jobs [hits table] and wealth [hits table and consumption [hits table] and stuff. It wasn’t about philosophy and—you know, we passed the Voting rights Act [of 1965], we passed the Civil Rights Act [of 1964], we’d gotten out of Vietnam, we began to purge Vietnam from our consciousness, we had rapprochement with China. You know, at that point, the world seemed like a pretty good place.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="WELLING">We had hyperinflation of the Carter period, which, by the time the ’80s came around, was being managed down. A long period of continuous prosperity. And so you didn’t need—you know, people weren’t politicized. They weren’t—you know, women’s issues were really just starting to take off. Gloria [M.] Steinem was—Gloria Steinem came into her—as the editor-in-chief of Ms. Magazine I want to say in the mid-’70s or late-’70s, sometime like that. Betty Friedan wrote The Feminist Manifesto [sic; The Feminine Mystique], you know?</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">So there really wasn’t, you know, political correctness, true racial integration, equality—those were not big topics in the ’80s, and so you could focus on your—you could focus on money, and you could focus on that stuff.</u>
+      <u who="SONNENFELD">Mm-hm. Looking over your profile, after—after Wall Street, it looks like you got into more a humanitarian line of work, crisis relief. What—what drew you to that type of work?</u>
+      <u who="WELLING">So Midwestern background, family values, church background, all that stuff. Both our families were great role models in terms of community involvement and generosity. So it was always sort of part of the deal. And so both my wife and I were involved in a variety of things. Somewhere along the line, when I was maybe halfway through the 25 years, I began to think, Gee, wouldn’t it be great to have a second career with some mission-driven organization where you weren’t working primarily for money but you were doing good stuff?
+
+And so September 11th [the attacks on September 11, 2001] happened. And so at that point, I’d been in Wall Street for 25 years, and I remember thinking, Well, if you’re gonna do a second career, you need to get at it. You have a life list. You have to start either doing the things or crossing them off the list, right?</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="WELLING">And so that was a profound emotional-social catalyst for millions of people, and so we talked about it and said, Yeah. You know, if we’re gonna do it, this is as good a time as any. And I found—I was found by this organization called AmeriCares. I had never traveled to any of the developing countries where they worked. I had never done emergency response. But they were looking for someone to succeed the founder, and the founder, like all charismatic founders, is not very objective about himself and when it’s time to go, so they always stay too long. They always—they have problems delegating authority. They are ego driven and so on.
+
+And I knew something about founder transitions because I’d seen a bunch of them in the securities business. So I thought, Gee, this could be great because I can—I can make a contribution to this organization as the CEO [chief executive officer] because I know how to manage the founder transition and discern the strategy and so on, and I can learn about the international development and public health business on the fly.
+
+And that was a spectacular 12 years. Just a great, great experience. The first trip I took was to the Republic of North Korea.</u>
+      <u who="SONNENFELD">Wow.</u>
+      <u who="WELLING">I visited 30-some countries, no one of which I had visited before I went there. All developing world countries. Was sort of a witness and participant to all the major natural disasters that took place over that time: the Southeast Asia tsunami, Hurricane Katrina—(which, by the way, the 10th anniversary of Hurricane Katrina is this month)—the Pakistan earthquake—you know, all of those—Japan, the triple disaster [2001 earthquake, tsunami, Fukushima disaster] and so on. 
+
+And it caused me to see the world in quite a different way, so looking back on my upbringing, which was both before an electronic media period of time and this period of American hegemony, even when people were—even when we were—you know, when we were being vilified [in the] Vietnam period—there was an American view, and I became aware of how limited our view was of the reality of the world.
+
+And I became aware that one of the things that would have allowed us to get into a situation like Vietnam—or, now, the current period analog would be Iraq—would be because we were so woefully American-centric and ignorant of long, historical dynamics and long-standing ethnic, racial and religious dynamics in places in the world where we would say things like, “Well, they’re better off with democracy” or “They’re better off if they’re not communists.”
+
+You know, it seems almost an incomprehensible, superficial, and naïve view to me today. But that was the policy view: quote, “communism versus democracy,” and it was the Cold War, and it was the rising specter of China. You know, we were just stupid post-colonialists.</u>
+      <u who="SONNENFELD">Do you think Americans in general have a more sophisticated view today, or—</u>
+      <u who="WELLING">I think—yes and no. I think because of the ubiquity of information, as opposed to media, I think Americans are exposed to more realistic images of the developing world and more information about the developing world. So you didn’t—one of the—one of the reasons why global public health has become such a hot issue in the last ten years is because the reality of an AIDS [acquired immune deficiency syndrome] pandemic was made viscerally accessible by television and media, so you could see 10 million babies dying a year from malaria, and you could see the real—real—real time, you could see the consequences of gross income inequality or child trafficking or something.
+
+Now, I’m not saying we’re doing a great job solving these problems, but I think Americans are generally more aware of the dynamics of poverty and income inequality and the dynamics of race and culture and religion, because unfortunately the dominant theme of your life has been radical Islam.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">And so whether that is contributing to a politicized knee-jerk reaction to religious differences, it’s certainly the case that Americans know more about different religious systems, different religious beliefs and so on. As an overall body politic, are we better informed about it? Yeah, probably. It’s probably still not great, but yeah, probably.</u>
+      <u who="SONNENFELD">Now, of the course of—you visited 30-plus developing nations. Did—did your travels for AmeriCares bring you to Vietnam?</u>
+      <u who="WELLING">No.</u>
+      <u who="SONNENFELD">No?</u>
+      <u who="WELLING">Although it’s the one country that I wanted to visit when I was there that I didn’t visit, and we had—we’ve had a 12-year, incredibly successful comprehensive nutrition program there with Abbott Labs, so I could have gone a couple of times, and for one reason or another, it always got preempted. So actually this will be the first one I go with [Edward G.] “Ed” Miller this fall, this will be the first time I’ve been to Vietnam, ever.</u>
+      <u who="SONNENFELD">Mm-hm. Do you want to speak a little bit about what you’ll be doing there with Professor [Edward G.] Miller and the Tuck students?</u>
+      <u who="WELLING">Sure. So Tuck has now something called a global experience requirement, so every Tuck student, as a condition of graduation, has to fulfill this global experience requirement. And they can do it in a number of ways. They can do something called the Onsite Consulting Project, which is where Tuck students get hired by businesses to do consulting projects. They can do it by doing something—by studying abroad. They can do it by an independent study in a foreign country, or they can do something called a global experience—Global Insight Expedition (GIX), which are 10 or 12 trips that are taken each year in the spring to specific countries, with a specific topic. And that’s what we’re doing in Vietnam.
+
+So the way that works is we have faculty directors. You figure out a curriculum for the experience. There’s some amount of advance preparation the students have to do to study and learn about the business issues and the culture they’re going to go visit in an in-country for two weeks, and then you have a concluding deliverable.
+
+So we’re going to Vietnam, and we’re going to look at—how can I—we haven’t written the syllabus yet, but we’re going to look at the economic evolution in Vietnam, which has obviously been quite robust and powerful, in a number of ways, but very uneven and still incredibly inefficient in a number of ways.
+
+And we’re going to look at that through the lens of—through a variety of lenses: the postwar; the differences between the north and the south, both political and cultural; the difference between large enterprise and small enterprise, particularly focusing on entrepreneurship and startup enterprises, which has become a very big deal in Vietnam; and try and see if we can tease out some conclusions about what elements of these various dynamics either impeded or fostered the rate of growth that’s taking place in Vietnam. And I’m not sure yet whether we’re going to have the students compare and contrast that to someplace or that we’re just going to analyze it, you know, like north versus south or a mature company that’s currently either under state control or has been a state-owned enterprise for a while versus something a more rapidly-growing [unintelligible].
+
+But Vietnam is quite an amazing economic story, as you no doubt know, so it’ll be—it’ll be really interesting to be there.</u>
+      <u who="SONNENFELD">I’m sure that’ll be fascinating.</u>
+      <u who="WELLING">Yeah.</u>
+      <u who="SONNENFELD">Now, what drew you back to Tuck, to come back as a professor and an adviser?</u>
+      <u who="WELLING">Yeah. So—so when you get to be 65, remember you heard this from me.</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="WELLING">The concept of retirement makes no sense, right? So the idea that you—and it did in an industrial time, when you would literally exhaust yourself doing physical labor. But for anybody who wants to maximize the greater longevity and have an interesting life, the idea that you would arbitrarily stop doing something productive at 65 and go and play golf and go to cocktail parties just seems crazy to me.</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="WELLING">Or something—or essentially drop out and become 100 percent consumed with leisure. It just doesn’t—it sounds really dopey. And the common ground was I became fascinated with the dynamics of markets during the time I was in the securities business, and actually read and thought a lot about the way markets work, and having seen the creation of a number of securities markets and regulation and all that kind of stuff—and then realizing—when I was about hallway through my nonprofit work—that the nonprofit, social impact sector is a huge sector in the economy, but it raises capital incredibly inefficiently. And it raises a lot of capital. It’s about 8 percent of GDP [gross domestic product], and philanthropy in the United States is about $350 billion a year.
+
+But as opposed to a for-profit marketplace, which allocates—you’re not an economics major, are you?</u>
+      <u who="WELLING">I’m not, but I’m a public policy minor.</u>
+      <u who="WELLING">Okay. </u>
+      <u who="SONNENFELD">So I know a little bit about social investment.</u>
+      <u who="WELLING">So the way capital is allocated in the for-profit world is through something called the central auction marketplace with full time and price priority. So the idea is that you—everybody who wants capital goes to a place, and you have this big auction, and the auction is a virtual auction; it’s not a literal auction. But it means the least risky, the best prospects for rate of returns get the most capital on the best terms. </u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">The way money gets raised in the social impact sector is emotionalism, storytelling, which is inherently inefficient, right?</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">It’s objective and values based and so on. So I became really interested in looking at the intersection of government and markets, the nonprofit sector and business, to see what we can learn about that, what we can learn about, on the one hand, the changing role of government in business as the social contract evolves; on the other hand, what we can learn about how social purpose capital gets created and how we can make it more accountable and more efficient.</u>
+      <u who="SONNENFELD">So—</u>
+      <u who="WELLING">It turns out—and then I’ll be done with this—</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">It turns out, not thinking that anybody gave a damn about this, I started talking to a couple of people I was having lunch with the dean of the NYU Business School [sic; the New York University Stern School of Business], and he practically launched himself over the table and said, “You know, that’s the hottest thing in the academy right now: students—you know, social entrepreneurship, and impact investing in students all over the place who are interested. You gotta come here and do it here.”
+
+And so I came up to my friends at Tuck and said, “Hey, I’m sort of interested in this,” and they said, “C’mon, we’ll give you an office, and you can be a senior fellow, and you can develop a couple of courses,” which I’ve done. It’s been just fantastic, great experience.</u>
+      <u who="SONNENFELD">So related but maybe a little tangential to the rest of the interview,—</u>
+      <u who="WELLING">And I’m the chairman of the Board of Visitors at Rocky [Nelson A. Rockefeller Center for Public Policy], by the way.</u>
+      <u who="SONNENFELD">Uh-huh. Yeah. I was actually a first-year fellow, so I’ve been pretty plugged in to Rocky.</u>
+      <u who="WELLING">Right, right. Yeah, Rocky’s a great place. I have a lot—a lot of respect for what they do there.</u>
+      <u who="SONNENFELD">Yeah. Has your line of inquiry led you to social impact bonds?</u>
+      <u who="WELLING">Mm-hm.</u>
+      <u who="SONNENFELD">Or, just tangentially, what are your thoughts on that? I just wrote a policy memorandum on them.</u>
+      <u who="WELLING">Oh, did you? </u>
+      <u who="SONNENFELD">Last week.</u>
+      <u who="WELLING">Well, you tell me what your thoughts are, and then I’ll tell you whether I agree with them or not.</u>
+      <u who="SONNENFELD">It was a policy paper in favor of social impact bonds.</u>
+      <u who="WELLING">Tell me what you think a social impact bond is.</u>
+      <u who="SONNENFELD">I think that they’re an innovative solution to breathe innovation into the social investment industry. I think that they’re limited insofar as—to get the bonds, themselves, the social programs need to have sort of a proven track record, so in the sense that they need to show their effectiveness and a history of success, it could be limiting to actually scale up innovative projects that might not have that span of success.</u>
+      <u who="WELLING">Yeah. Okay. So—I’d love to have a longer discussion with you about this. So first of all, that’s a gross misnomer. They’re not bonds.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">So in terms of understanding and transparency, whoever coined the term “social impact bonds” did everybody a disservice because it doesn’t have any of the qualities of a bond. You know, a bond is an unconditional promise to pay a sum certain of money at a certain date, secured or unsecured by collateral assets. 
+
+So-called social impact bonds are really project financings, which are a way of securing financing based on expected and contingent performance, so the classic social impact bond for reduced recidivist rates in prison systems, where the money to make the rate of return payment to the bondholder comes from public savings as a result of reduced recidivism rates, right?</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">A prisoner costs this much. These prisoners are identified as your target population. We’re going to use the money to run this anti-recidivism program. If these people don’t go back into prison, we’ll pay you a portion of the saving.</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">So what it’s really doing is monetizing public saving through innovative programing. So it’s not really a bond in that sense; it’s a project financing.</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="WELLING">And project financing is basically looking at how you look at monetizing an uncertain event in the future by bringing together some up-front capital, some guarantees, some performance criteria, and then some profit sharing. So I think in places where you have the track record (as you were suggesting) and you have innovation and you have sufficiently clear metrics so you can identify cost saving, I think it can be an incredibly effective financing tool. 
+
+But I think it’s just another tool. It’s not a panacea, because there are—you know, so how would you do it—people talk about doing a performance-based evaluation of education. Well, think about the problems of measurement. So most of the—most of the problems in the social capital area have to do with the imprecision of the standards for measurement when you—it’s ironic that social purpose bonds in recidivism work because you can come to a number and say, “This is what a prisoner costs the Commonwealth of Massachusetts. And if you keep that prisoner out of jail for three years, you’ll save the commonwealth three times that number, and we’ll give you 50 percent of that.”
+
+But more subjective social objectives, which aren’t as easy to measure; they can’t be reduced to a number—you have the same problem that you have in the absence of a central auction market, right? You don’t have that summary number that allows you to sweep up all those performance characteristics into one thing.</u>
+      <u who="SONNENFELD">Right. Well, that’s interesting stuff.</u>
+      <u who="WELLING">Yeah, yeah. That’s more than you wanted to hear about.</u>
+      <u who="SONNENFELD">[Chuckles.] No, it’s actually all very fascinating to me.</u>
+      <u who="WELLING">It’s a fascinating topic. So what year are you?</u>
+      <u who="SONNENFELD">I’m a sophomore, sophomore summer, just finishing up now.</u>
+      <u who="WELLING">Yeah, yeah, yeah. And you’re a major in?</u>
+      <u who="SONNENFELD">History.</u>
+      <u who="WELLING">History.</u>
+      <u who="SONNENFELD">And a minor in public policy.</u>
+      <u who="WELLING">And a minor in policy.</u>
+      <u who="SONNENFELD">Yup,</u>
+      <u who="WELLING">And what policy courses have you taken?</u>
+      <u who="SONNENFELD">I’ve taken [Ronald G.] Shaiko’s Introduction to Public Policy.</u>
+      <u who="WELLING">Yeah, yeah.</u>
+      <u who="SONNENFELD">I’m in [Charles J.] Wheelan’s Economics and Public Policy now,—</u>
+      <u who="WELLING">Charlie’s, right.</u>
+      <u who="SONNENFELD">—which is an excellent course. I’ve loved it.</u>
+      <u who="WELLING">Yeah, yeah, he’s one of the most entertaining guys around.</u>
+      <u who="SONNENFELD">Yeah. Truly nice guy.</u>
+      <u who="WELLING">So you’re reading Naked Economics[: Undressing the Dismal Science]?</u>
+      <u who="SONNENFELD">I—</u>
+      <u who="WELLING">Are you using his book?</u>
+      <u who="SONNENFELD">We—we used his Introduction to Public Policy book in the first couple weeks, but it’s mostly been a sampling of kind of current political literature, The Economist and The New Yorker and so forth.</u>
+      <u who="WELLING">How big is the class?</u>
+      <u who="SONNENFELD">The class is probably 40 students, I would say, so not quite discussion but—</u>
+      <u who="WELLING">Mm-hm, mm-hm. </u>
+      <u who="SONNENFELD">—lively.</u>
+      <u who="WELLING">So have you seen his book, Naked Economics?</u>
+      <u who="SONNENFELD">Yeah, I’ve read—I have read both Naked Economics and—
+
+</u>
+      <u who="WELLING">It’s a great—it’s a great—</u>
+      <u who="SONNENFELD">—and Naked Statistics.</u>
+      <u who="WELLING">It’s a great book to have just as a primer. I go back, and I go through it periodically, just to refresh myself.</u>
+      <u who="SONNENFELD">Well, Mr. Welling, it’s been a pleasure to chat with you today.</u>
+      <u who="WELLING">Yeah, it’s great, so—and we’re done in record time.</u>
+      <u who="SONNENFELD">Yeah. [Chuckles.] Don’t wanna do too much.</u>
+      <u who="WELLING">So tell me a little bit about the project, and then I’ll let you go.</u>
+      <u who="SONNENFELD">Sure. Yeah.</u>
+      <u who="WELLING">On this beautiful day.</u>
+      <u who="SONNENFELD">So the Dartmouth Vietnam Project—kind of the idea behind it is, as I see it, twofold. One, it’s creating an archive for future historians to look back at Dartmouth and see what the campus trends and tensions were during the Vietnam period, how that affected Dartmouth students and faculty and even people, like, pretty tangentially related to Dartmouth, Upper Valley members or people who now find themselves here. How Vietnam impacted their life.
+
+And I think the second objective of the Dartmouth Vietnam Project is for students to have first-hand experience conducting oral history, thinking about the ethics of oral history, what it could be used for in helping to give us a first-hand experience in actual research.</u>
+      <u who="WELLING">Mm-hm, mm-hm. Great, great, great. 
+
+The one thing we didn’t talk about that I would just add, by way of context, is I think back about the period ’67 through when I got out of business school in ’77, a ten-year period, and I think about the transition from the beginnings of politicization of Vietnam to the end of politicization and the rise of the economy and the Ronald Reagan era and the deregulation era. So this what some economists refer to as the beginning of the period of market triumphalism.
+
+
+
+That ten-year period was a period of intense social fabric pressure and tension and reexamination of the United States’ core values, its world view and so on.</u>
+      <u who="SONNENFELD">The age of fracture, crisis of confidence.</u>
+      <u who="WELLING">Yeah, yeah. And the—and the Vietnam dynamic is clearly an enormous part of that. But actually, a little bit—in a way that feels a little bit to me like the way people in Rochester reacted to the race riots, the problems of social justice that were really captured by the assassination of Martin Luther King and the assassination of [Robert F.] “Bobby” Kennedy. Bobby Kennedy really represented something, so you went Jack Kennedy, Martin Luther King, Bobby Kennedy.</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="WELLING">I’ll never forget the night that Martin Luther King was killed. A guy named [Wallace L., II] “Wally” Ford [Class of 1970] took over WDCR and went on a rant for, like, two or three hours. He’s a black guy, distinguished now, alum and so on. You know, “We’re gonna kill all the fuckin’ white pigs. You know, this is it. This is war, were gonna [unintelligible].” And I remember actually people not being that shocked at that. So something was happening to say, “Man, we’re not sure what the right policy answer here is between communism and Vietnam, but—what we got aint workin’,” right?</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="WELLING">So there was this growing realization. And—and it was in part the assassination of heroes that really brought that into very sharp relief. You know? Whether Martin Luther King was a hero to very many white people, he was certainly a respected figure. And Bobby Kennedy was—you know, was going to be—you know, was the great hope.</u>
+      <u who="SONNENFELD">Were you a Bobby Kennedy supporter in spite of your maybe more conservative upbringing?</u>
+      <u who="WELLING">I actually, I actually liked Bobby Kennedy?</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="WELLING">Would I have voted for him or not if I had been able to vote, I’m not sure. But I liked him. And it was clear that he was at least as good as his brother and maybe better than his brother, and I think most historians have concluded that Jack was a charismatic guy but Bobby was really the brains.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">And I remember—I remember both those nights. Very shocking.</u>
+      <u who="SONNENFELD">Were you at Dartmouth for both?</u>
+      <u who="WELLING">Yeah. </u>
+      <u who="SONNENFELD">Can you speak a little bit to</u>
+      <u who="WELLING">No, let me think about it. When was Martin Luther King assassinated?</u>
+      <u who="SONNENFELD">He was assassinated in ’68. They both were.</u>
+      <u who="WELLING">Yeah. Yeah, yeah, yeah, so I was at Dartmouth for both of them. Yup. Can I speak about—no, I’m sure somebody will talk about the—about the racial fragmentation on that campus and so on, you know. Part of the problem is there was beginning to be all this stuff about—just lip service about—about integration and bringing more people of color here. Then they were called African-Americans. They weren’t called people of color.
+
+And I remember people who were in the administration saying, “The problem is, you can’t just bring them up here and drop them into this white, Anglo-Saxon, male culture. You’ve got to do some things to manage that.” And so that there was a long period of time, and maybe we’re still not out of it, when the college wasn’t doing as good a job of managing the diversity—and I mean over-managing. I don’t mean political correctness run amok. I mean just thinking practically: What do you have to do to facilitate—you know, now we’re getting serious about a residential life program which will actually break this stranglehold that the Greek system has in social life here.
+
+That’s not 100 percent of the answer, but—but there were none of these mechanisms in place at that time. And so there were only blunt instruments that people could use to express, so they—you know, they would take over the radio station or they would trash the dormitory or they would—you know. And it was, you know, the period of fragmentation and disillusionment and so on.
+
+But it was incredibly inarticulate, you know, because weren’t really—you know, you’re vilifying veterans who were the best young people, and you’re killing leaders, you know, and so it was just a period of intense uncertainty and confusion, you know? And it ultimately all got swept away by the marketplace.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="WELLING">Or swept under the rug by the marketplace, because all these things that were going on domestically suddenly got superseded by the fact that inflation was 13 percent and this two-bit dictator in Iran had held Americans hostage for three-quarters of a year, and there was nothing we could do about it. So this feeling of incredible impotence. What’s the solution to that? Reagan’s belief was the solution was economic power, and he was right. What brought down the Soviet Union was concentration of economic power, not—not—not philosophical discussions.
+
+Anyway, it’s been great to meet you.</u>
+      <u who="SONNENFELD">All right. It’s been such a pleasure.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

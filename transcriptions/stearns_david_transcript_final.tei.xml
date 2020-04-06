@@ -1,0 +1,444 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="STEARNS"/>
+        <person xml:id="RIDKER"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="RIDKER">This is Elena Ridker. I have Dave Stearns on the other line for an oral history interview. Today is May 20th. It’s Wednesday. I am sitting in Rauner [Special Collections] Library. It’s about 3:15 p.m.
+
+So, David, thank you so much for being here. It’s really awesome to have an opportunity to interview you.</u>
+      <u who="STEARNS">Sure. Thank you.</u>
+      <u who="RIDKER">So just to get started, we’ll start with some biographical information, so where and when were you born, and what were your parents’ names?</u>
+      <u who="STEARNS">[Chuckles.] Oh, sure. Yeah, I was born in Springville, New York, a little town about 30 miles south of Buffalo. My dad is Howard Gordon Stearns, and mother is Grace Harvey Stearns.</u>
+      <u who="RIDKER">And what was it like growing up in New York?</u>
+      <u who="STEARNS">Ah! A little town. My mom was the—when I was a little kid, my mom was the switchboard telephone operator in town, so if I wanted to talk to her, any phone would do. I’d just have to pick it up and say, “Mom?”, and she would be there. It also worked the other way. It meant if I was in trouble anywhere in town, the neighbors could pick up the phone and say, “Grace, your son is outside doing this. You better do something about it. So it was a very small town. It was a pleasant place to grow up.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">What can I say about it? It used to be farming country and is, to some degree, but a lot of that is going back to forest. I’m not sure exactly what people do there anymore. I haven’t been back there except to visit gravesites and stuff with my grandparents, for quite a while. </u>
+      <u who="RIDKER">Mm-hm. And did you have siblings, and were you close with them?</u>
+      <u who="STEARNS">Oh, sure. Yeah, I was the youngest of four kids. For Springville, I guess you’d say it was a fairly intellectual family. We all went to college, to some degree. I mean, my next older brother didn’t spend much time there. He spent more time drinking beer than studying, I think, but he ended up becoming one of the earliest real computer programmers for money, and he was sort of how I got into my occupation. In 1968 I went down and visited him and asked—you know, I was troubled about what to do, and he said, “Why don’t you come down to my company and take an interview and aptitude test?” And I did, and that made me a programmer, and that’s how I made my living.</u>
+      <u who="RIDKER">Interesting.</u>
+      <u who="STEARNS">Let’s see. I don’t know what kind of material you’re—the background stuff: pretty typical white-bread kind of town. I have this story that my paternal grandfather was actually in the KKK [Ku Klux Klan] in upstate New York back in the—back in the ’30s, when the Klan was not just an anti-black organization; it was an anti-Catholic organization as well. And upstate New York in those days was being—from the standpoint of the old white Protestant guys who had farmed that country first, it was being sort of invaded by Catholic Europeans, who were changing the politics from, you know, white-bread Republican to, you know, more liberal Democrat kind of things. And that’s the way Erie County is today. It’s run more by Democratic folks in Buffalo than it is by the Republican folks out in the suburbs and the country.</u>
+      <u who="RIDKER">Hmm. And so what kind of things did you do in high school, and I guess how did that lead you to going to Dartmouth [College]? </u>
+      <u who="STEARNS">Oh, well, sure, yeah. I went to high school in Orchard Park, New York, where the [Buffalo] Bills’ stadium is now. It’s a little farther toward Buffalo. And the schools there were excellent, in my opinion. It was back when—I don’t know if teachers got paid an especially living wage, but it was a respected profession, and a lot of the people who taught were sharp, really good people. I think I had a great background in math and English in particular, though I liked doing everything.
+
+I ended up being the valedictorian of my class, despite my best efforts to not do homework. You know, subjects came easily to me. Probably too easily, given the fact that when you get to college, you realize you have to really study, and, I, you know, ended up being a B student at Dartmouth because [chuckles] I never really enjoyed sitting down and grinding it out in the library that much.
+
+So let’s see, other things I might say about New York. I suppose it’s true of a lot of states in those days. Education was fairly well funded in those days, at least in New York, and there were things called Regents scholarships. I have no idea if they still give them or not. That made it pretty easy for any of the reasonably smart kids to go to—go to college. I decided early on to go to Dartmouth because I had a friend, who was a year earlier graduate, who was there, and he was quite happy there. And I got the catalogs and stuff, and I was early decision at Dartmouth, just because I thought it looked like a really cool place to go to college, and I wanted to do some more skiing.
+
+And it was a really cool place to go to college, and I did do some more skiing. I can’t say I took advantage of everything I should have there. That’s for sure. But it was a great—a great place, despite the fact that it was—you know, no women in those days, of course.</u>
+      <u who="RIDKER">What kind of other things on campus were you involved in on campus?</u>
+      <u who="STEARNS">Oh, at Dartmouth? I was in the [Dartmouth] Outing Club, in particular the winter sports stuff. As I said, I was interested in skiing, and it was—in return for working at ski meets occasionally, we got access to ski passes at the Dartmouth Skiway for free. So basically skiing was free for me, and I always used to organize my winter classes so I didn’t have anything in the afternoons, if possible, so I could just go and ski.
+
+Let’s see. Other stuff. I was in—my fraternity was Phi Psi [Phi Sigma Psi], which, when I pledged it, was still called Phi Kappa Psi, but in my pledge class, the brothers decided that they would pledge a black guy, despite how the national felt about black guys. And Joe [Nathan] Wright [Class of 1968] in in fact—he’s, like, class agent or something for my class, a very respected guy. Done a lot of fundraising for the college and done quite well for himself, I think, actually. But that got us thrown out of the national, so we very quickly became a very local fraternity called Phi Sigma Psi. And I forget what it’s called nowadays.</u>
+      <u who="RIDKER">I think it’s—Panarchy is inside the house now.</u>
+      <u who="STEARNS">Thank you, thank you, Panarchy.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="STEARNS">They occasionally send me e-mails, hoping, I’m sure, that I would donate some money. [Laughter.] But so far, I haven’t. My charity is mostly organized through Rotary [International].</u>
+      <u who="RIDKER">Okay. Yeah, the house is still standing, so—and it looks great.</u>
+      <u who="STEARNS">Yeah, it was a beautiful place, and it was—you know, it was an interesting bunch of guys. I enjoyed my time there. So I did get married at the end of my junior year, so—and at that point, I dropped out of the fraternity.</u>
+      <u who="RIDKER">Was that—was it common to get married that early or—at that time?</u>
+      <u who="STEARNS">Oh, heck no. No, no, no, no, no. You know, my wife—I went to high school with my wife. Or actually earlier. I met her in seventh grade. And so we’d been dating off and on for—what? We started dating when we were 18, and she was back in Buffalo, studying nursing at a nursing school associated with a hospital there, and she was graduating in June of ’67, and so we got married. We just thought, you know, we were already committed to each other; why not do that? And then she could go to Mary Hitchcock [Memorial Hospital, now Dartmouth-Hitchcock Medical Center], where she could be a nurse, and I could live off campus. And it was great, you know. Worked out well for us. I can’t say—you know [chuckles], hardly anybody gets married anymore at 21, but it wasn’t like it was all that weird in those days, although most of my friends—</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">—weren't married.</u>
+      <u who="RIDKER">That’s interesting. So it seems like—so you were on campus at Dartmouth from ’64 to ’68? Is that correct?</u>
+      <u who="STEARNS">Right. Yes, right, yeah.</u>
+      <u who="RIDKER">And so that was a very interesting time to be on campus in terms of campus climate surrounding issues about civil rights and the Vietnam War, and I’m just wondering how that influenced you or how you kind of experienced that.</u>
+      <u who="STEARNS">Oh, I wasn’t certainly involved much in that stuff, though, you know, you certainly get involved in your share of discussions about things. Just—well, you know, it was that kind of time. You know, that was when there was a lot going on in the country right then. You know, the march on Selma had taken place—when? The year before, I think. It was ’63 I believe. And certainly, since the [Vietnam] War was cranking, that was always a big topic of conversation and, you know, a lot of ferment [sic; foment] involving that. You know, I could enlarge on some of that if you want me to. I’m not quite sure how much associated stuff you’ve done—you know, historical stuff—with the college and what went on. I’m not sure what year SDS, for example, Students for a Democratic Society, was founded, but it was around in there, and we had a pretty active chapter. We used to do a lot of consciousness-raising stuff.
+
+I sent you that set of notes, I think, that—</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="STEARNS">—says when things would happen. Probably it was my sophomore or junior year. SDS announced that they were going to “burn a puppy for peace,” which—boy, you’ve never seen people get so upset. It was really amazing how upset—and the fraternity extended to the people who were on the, you know, full military, anti-SDS kind of side, and then there was always, of course, a strong liberal component at the college who were, you know, anti war. And the whole thing sort of caught people’s attention. They were going to do it on a certain day.
+
+And, of course, many threats of violence against them were brought up, so maybe it wasn’t the best idea. But then when the day came around, they put a piece in The Daily D that said, “You’re kidding. I can’t believe you ever believed us. We were never going to burn a puppy for peace. But if you got so upset about this, how come you’re not upset about the fact that there are people, you know, being killed by napalm and stuff in Vietnam? In your name.”
+
+And that made me think—I’m not sure—I hope it made a bunch of other people think that, you know, that the stuff going on in Vietnam was not as abstract as sometimes it looked.</u>
+      <u who="RIDKER">Were your—</u>
+      <u who="STEARNS">I’m sorry. Go ahead.</u>
+      <u who="RIDKER">No, no, sorry. Continue.</u>
+      <u who="STEARNS">Oh, I was just going to mention that there was also—I remember [unintelligible] at the fraternity. You know, we used to occasionally have faculty members come up to give talks, and we had—I wish I could remember the guy’s name. He was a professor of Asian studies, Buddhist religion and stuff like that. I mean, he knew quite a bit about Southeast Asian history. And he was antiwar, and so he came and talked to the fraternity. And we had two guys who were actually ex-Army, both came. This was after Korea [the Korean War], of course. But early days of Vietnam were sort of before I arrived at college, but these guys were never anywhere near that. They were both, like, European posting Army guys. One of them I think spent a lot of time in Iran at a listening post and stuff.
+
+
+
+But they were, you know, pro war, and several other people in the house were, too. And there were—I wasn’t, I’m sure, the only person who was saying, “But, but, but. You know, this is not a good looking war.” And that became sort of an argument inside the house for a while for some of the—what shall I say?—the strains of brotherhood were somewhat strained. The strings of brotherhood were somewhat strained by that.</u>
+      <u who="RIDKER">Hmm. Did you have any fraternity brothers who had been drafted?</u>
+      <u who="STEARNS">Gee. Those two guys—you know, in those days, intelligent people didn’t get drafted. All you had to do was go to college. Or get married and have a kid. It was very easy to get out of the draft, and only—only until, you know, Vietnam really got cranked up and started to need a lot of men, there really—it just wasn’t a threat to intelligent white guys. I’m sure that, you know, black guys in Buffalo right along were probably getting drafted. My draft board was in Buffalo, so they were probably taking those guys off the street and sending them off to fight, but everybody I knew that I went to high school with, which was also a pretty white-bread area—until they got out of high school and then didn’t go to college, it was no threat to them. So certainly I knew high school people who went into the Army, though, you know, I didn’t keep an awful lot of track. I since discovered by going back to high school reunions that several of them were in the war and a few of them died.
+
+
+
+In terms of college, gee, no. The real shocker for me was, of course, as I mentioned in that little note to you, the death of Duncan [B.] Sleigh, who was a ’67, the year before me. A sweetheart of a guy. I really loved Duncan. He was maybe a little too party-ish to ever make house president, but he was one of those guys who probably could have house president if he had just been a little more political and a little less social.
+
+For whatever reason—and I didn’t talk to him about this—when he graduated in ’67, he went into the Marines for Officer Candidate School, and he didn’t last all that long in country before he was killed. And he won—I don’t think it was—it was a Navy Cross; that’s right, not a Silver Star. They don’t give the Silver Star out, I think, to too many people, but the Navy Cross that is done for people who do really amazingly heroic things, and mostly die doing it, and he got one of those.
+
+
+
+And he was a lieutenant in a—came under serious fire. I recently read through the documentation for it online. And he was given the job of trying to organize the landing zone to get the wounded people out, and then the landing zone came under serious attack, and then he was actually killed—he and another guy were actually killed trying to shield the wounded guys from additional fire. Like, mortar rounds were coming in, and more of them died. So it was a fairly bad action, and Duncan, among other people, died.
+
+And that sort of really caught my attention. I was still in college, not in a fraternity at that time, and that and you know, the general tenor of the war seemed to be deteriorating. It was less and less like we were going to win that thing. And here I was, facing graduation, knowing my draft board was slavering at the chance to grab some more people because they were running out of black guys, I think, to send, so they needed some white guys.
+
+
+
+In fact, a high school buddy of mine, one of my best friends from high school, went through the University of Buffalo, and he was in Air Force—what do they call it? Air Force ROTC [Reserve Officer Training Corps]. And he got all the way through senior year, and then when he graduated, the Air Force said, “Nah, we got too many Air Force guys. We got too many ROTC guys. Sorry, you’re not gonna get to go on the Air Force.”
+
+And so he was, standing with a degree in his hand and the draft board looking around for people who are warm bodies to send, and they picked him up and put him in the Army. He ended up being a sergeant and got sent to Vietnam and got shot up a little bit. And an evacuation helicopter came under fire, and they dropped him. They had him up in the air on a lift and had to cut him loose, and they scrammed out of there. They eventually found him hours later. He survived. And to this day, he’s kind of brain damaged, but he managed to live through it.
+
+But you know, like I said, it’s just—you know, two friends of mine who were severely—one killed and one fairly well damaged by the war. I was not all that excited about going in the Army at that point. I sure as hell wasn’t going to volunteer for Marine Officer Candidate School.</u>
+      <u who="RIDKER">And so were you trying to find a way to avoid the draft?</u>
+      <u who="STEARNS">Yeah.</u>
+      <u who="RIDKER">After hearing about this?</u>
+      <u who="STEARNS">Oh, wait. I don’t know if—there was sort of a major antiwar event at commencement. Our valedictorian stood up. What was his name? [James W.] “Jamie” Newton, maybe? Can’t remember his last name. Heck of a nice guy. Had him in a lot of my psych classes. And he was—he announced his own intention to go to Canada and advised us to all go, too. And at that point, a whole bunch of people stood up and started to either cheer or boo. You know, it was—for a commencement, it was probably a pretty exciting commencement. I don’t think too many had happened like that. Usually it’s a pretty cut-and-dried affair. And happier affair than it was in this case. And he did go to Canada. Eventually came back when the Carter Act [sic; Carter Pardon Proclamation] went through. I forget what they called it. They said: All is forgiven. You guys can come back. And he became a faculty member in Canada, I think, but came back, and now I believe he’s back in the U.S. I haven’t kept track of him.
+
+Oh, I diverted to—what was your question?</u>
+      <u who="RIDKER">Oh, I was just wondering—so after—as you were graduating, were you trying to figure out a way to avoid the draft?</u>
+      <u who="STEARNS">Yeah. Frankly, yes. I could not believe that I could go to Canada. I mean, it seemed to me that, you know, although I hated the war—I thought it was a terribly bad idea, very unfortunate for the United States as well as unfortunate for Vietnam. I certainly wasn’t excited about going, so I was, you know, torn on these two things. Like, you know, It’s my country. I’ve got to do what they say, and I don’t really want to fight in this war, though I do.
+
+
+
+And although I was married, that didn’t count for anything in those days. And we didn’t have any kids, and we didn’t have any immediate plans to have kids. So that’s when I went to visit my brother. Before graduation, I think it was, I went down to Washington, D.C., where he lived. And that’s where I got the interview with his company. And they said, “God, you should be a programmer.” And I said, “Okay, I’ll be a programmer.” So—in those days, you could get a deferment based on what you were working on. So I went off and worked on military contracting things.
+
+What did I work on? Let me think back for a minute. Kind of abstract. Obviously, I wasn’t putting together weaponry systems. I worked on a compiler for language—I’m not sure if they use it anymore—called Jovial. It’s a lot like [unintelligible]. And I worked out a telegraphy system at Vandenberg Air Force Base, and I worked on an operating system, change-over to another military contract. And that worked for a surprisingly long time. I think that kept me out of the draft board’s attention. They kept giving me these occupational deferment ratings until late ’69. So it was what? Not quite a year and a half.
+
+
+
+By that time, we had ended up in California, partly because the war was using up so much money for, you know, bullets and napalm and stuff like that that they didn’t really have much money to spend on computer development projects. So the contracts I was working on were getting cancelled, so there was an ever smaller—you know, places to go, and my draft board was losing patience, I guess, with guys like me, who could think of creative ways not to agree to go.
+
+
+
+And finally they sent me a draft notice in maybe October of ’69, something like that, saying that “you’re going to get drafted.” It wasn’t the draft notice, but it’s the one that says, “You’re going to get it soon, so get your affairs in order.”
+
+And at that point, I actually volunteered for the Army. There was a two-year volunteer thing in those days. The only advantage relative to being drafted was that they were also drafting people for the Marines, and remember Duncan Sleigh. I had Duncan Sleigh on the top of my mind. Marines carry the battle. Marines die. And in the case of—well, I have trouble thinking of a good war recently. [Unintelligible] a lot of Marines die. So I wasn’t too excited about doing that, either.
+
+So I figured, Well, let’s try the Army. So I went in as a volunteer, which meant that I was called a G.I. instead of a U.S. A U.S. thing means you’re drafted. And I went through basic training at Fort Ord, ’cause you’ve got to go through basic training. Fort Ord, Monterey County was a great place in those days. It’s now a university, by the way. The same chunk of land is what they call CSU Monterey [California State University, Monterey Bay] or something like that. But considering it was December, January and March of 1970, it was very nice weather, much better than a lot of places in the U.S. would have been, so I can’t claim I suffered very badly there.
+
+
+
+Anyway, I’m rambling. I covered your draft thing. Do you have another thing you wanted to ask about?</u>
+      <u who="RIDKER">Yeah. Do you mind speaking a little bit about what basic training was like at Fort Ord?</u>
+      <u who="STEARNS">Let’s see. Well, I sure met a cross-section of California younger humanity there. [Chuckles.] The guys I hung out with were Southern Californians, for the most part. I was technically a Northern Californian, since I’d gone in from Point Conception [unintelligible]. And a lot of guys who came in, the first day you saw them, they still had the long hair. You know, they were hippie-looking guys, their eyes still bleary from having, you know, pulled the biggest party they could possibly do before they actually went into the Army. So they were all, you know, hung over, and bloodshot eyes. Experts in dope, in those days, compared to, you know, an innocent guy like me from the East Coast.
+
+And nice guys. Mostly uneducated relative to a kid from college, you know, with a college degree. But, you know, certainly passed the physical, and they were on their way to be whatever it was, you know, that the Army wanted them to be. And, of course, the Army did a lot of—you know, everybody goes through in basic training, I presume to this day, goes through—there’s the same physical stuff. Everybody has to do the running and the pushups and the pull-ups and learn to shoot a rifle and all that kind of stuff.
+
+And there is a point, though, when they—early on, when they give you a lot of exams and stuff. And, of course, you know, a white guy from Dartmouth who has a pretty good education doesn’t have any trouble with exams. So I got through that stuff, and I got a classification which in military parlance is called HAP, high-aptitude personnel, which means they pay more attention to where they put you. They don’t pay an awful lot of attention, I don’t think, but they pay more attention.
+
+Oh, yes—oh, I do remember something, an oddball thing that happened to me when I was in basic. Getting toward the end of basic, you don’t really know what your orders are going to be to get sent on, and I was on—it wasn’t a bivouac. We were out away from the base unit, and they called me in, back to headquarters, and I said, Okay, sure, and jumped in a deuce-and-a-half [two-and-a-half-ton cargo truck] or a Jeep—I forget what it was—and went back.
+
+
+
+And there were these guys in tweed coats who wanted to talk to me. It turned out they were, like, professor types in psychology. My degree was in—my major was psych, experimental psych. And they were from Fort Benning, Georgia. They had a sort of, for the Army, kind of a egghead center that worries about how to train Army guys. And they said, “Why don’t you come down and work with us? We’d love to have you.” And I thought, Oh, man! You know, when I went in there, I began talking to my—one of my—probably my boss’ boss’ boss, a guy named Admiral [Samuel B.] Frankel, who was a retired admiral. And he was going to try to finesse me into—back into Washington, right? To work either in the Pentagon or someplace like that, because they liked me in the company I was in. They wanted to keep me somewhere around.
+
+And so I checked with the office, and they said, “Well, you know, at the moment your orders are for Washington, D.C.” So I went back and told these guys with tweed coats. You know, hardly anybody in the Army gets this opportunity, to turn down what they’re offering you, and I said, “I won’t do it, because I think I’m going to go to Washington.” They said, “Okay.” They shrugged their shoulders, and they got back in the airplane and went back to Fort Benning.
+
+Of course, when the orders came through, there was no Washington. They sent me to Fort Hood, Texas.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="STEARNS">So I’ve always thought that was one thing—you know, it’s one of those classic bird in the hand versus one in the bush situations where, boy, I should have made the other choice.</u>
+      <u who="RIDKER">Hmm. So you ended up going to Fort Hood instead.</u>
+      <u who="STEARNS">Yes. Yes, and I forget what my MOS was—sorry, after having worked in the Army, the military has a lot of TLAs, three-letter abbreviations, and MOS is one of them, as his HAP. MOS is military occupational specialty. And when you leave basic, you got an MOS. If you’re bound for the infantry, it’s infantry, and if you’re bound for the artillery, it’s artillery. So mine was something vaguer than that. Computer systems guy, I guess, something like that.
+
+
+
+So I went to Fort Hood and was assigned to the computer center there. Fort Hood was—well, it is what it is: a big, rambling post where they do armor and artillery. But like any big, rambling post, with thousands of things and thousands of machines, they need computers to keep track of all the crap. So I worked in a computer center. They had a couple of IBM computers and a bunch of tape drives—and all those old movies that you see with the tape drives spinning and stuff like that. I was one of the guys who spun the tape drives. Changed the big boxes of paper, that kind of stuff.
+
+And it was, of course, in my opinion, a big step down from being a hotshot programmer, right?—[Chuckles.]—for a military contractor. But I didn’t have to carry a gun. I didn’t have to ride in a tank, so it had its moments.
+
+And gradually, from talking to the other people around the building, I finessed my way into a programming job there, which got me pulled off the machine operator, and I actually did go back into programming, which was good, which was good. You know, it’s much more intellectually challenging and no midnight shifts spinning tape drives and changing boxes of paper.
+
+And that lasted almost a year, and my wife—she was a nurse, right? So she didn’t have any trouble finding herself employed wherever we ended up going. So we lived off post in Fort Hood, in an apartment house because we had—you know, we had money, because she had money. She was making more money than I was.
+
+And the kind of places we lived in typically were the places where the officers and their wives lived. So, although there’s this rule about how you’re not supposed to fraternize with officers and enlisted men, which I think is really intended to keep [unintelligible]—you know, sexual relationships—between officers and enlisted men. They really didn’t want—if this had been known I was hanging out with a bunch of officers and their wives around the pool and bullshitting and things and having dinner with them and stuff, their were people who would have frowned on it, but nobody I ever knew talked about it.
+
+We had friends who typically, you know, had—had gone through OCS or one of the military schools or something like that. Instead of living on cam- —living on post, which is what, you know, the guys who ran the tanks and stuff usually did.
+
+Your question?</u>
+      <u who="RIDKER">I was just going to ask what kinds of specific things were you programming for?</u>
+      <u who="STEARNS">Oh, let me think. Let me think. The parts and stuff, supplies, everything. You know, any big, complicated organization has big, complicated lists of supplies they need, and they got to keep them ordered, and they need to know where stuff is, so that’s what the computer systems basically do. Now you have—you know, the computers are much smaller, and, you know, it’s all web based and stuff, but in those days, if you wanted to know if you had—how much spare tank tread you had for M60 tanks, you had to go over to where the big listings were, thumb through the thing to find the right page, and see dut, dut, dut, dut, dut, dut, dut—okay, we got 20 pairs; we probably need to order another 300 because we’re running out. So it was basically keeping track of objects, accounts of things. So nothing sophisticated at all. It was just doing what computers do really well, is count this stuff.</u>
+      <u who="RIDKER">And were you anxious at all at this time about getting Vietnam orders, or were you kind of thinking you might stay there a little longer?</u>
+      <u who="STEARNS">Oh, yeah. I mean, it—it wasn’t clear—they probably wouldn’t have made me an infantry guy at that point because it’s a specialty, too, and, you know, if you’re really an infantry guy it isn’t just, “Hey, you know, I carry a gun and go out and patrol.” There’s a—after basic, there’s an extensive thing called advanced infantry training, where you learn to do the serious things: you know, how to avoid ambushes and how to really kill other people, the important things you need to know if you’re in the infantry. And I didn’t have any of that training, so it isn’t likely that that would have happened to me in any case. 
+
+But it was sure true that as the end of my term approached and I got to be, you know—with less than a year—it was a two-year enlistment, and I had less than a year left—and then I finally did get Vietnam orders. But I had—by that time, I had an MOS of being a computer guy, and I had the experience being a programmer and other stuff, so—but they don’t need—did need a certain number of those kind of people in Vietnam, and so they sent me.</u>
+      <u who="RIDKER">So how did you prepare for your departure, and when exactly did you go?</u>
+      <u who="STEARNS">Oh. [Laughs.] You know, the biggest hassles were personal because, you know, Bonnie [Stearns] and I had to pack up the stuff and figure out where she was going to go. And she was by that point pregnant, so the biggest hassle was arranging somewhere for her to live while I was in Vietnam, and we ended up going back to the Buffalo area, getting an apartment for her, which wasn’t too far from where her mom and dad lived, and she, you know, had lots of friends around that area, so she had people she could rely on for help when she—as she was going through the pregnancy.
+
+And she continued to work. She went back to nursing or the hospital where she’d been to school, although—when was this? Let me think. When was this? We went there in late winter, I think, and got this place, so it wasn’t, like, the worst of Buffalo weather; it was just Buffalo weather, ordinary Buf- —maybe a little snow everyday.
+
+And once I got that straightened out—I did that on leave, and then I had to go to Oakland, which is, you know, near home for me now, but in those days was kind of an exotic location. The Oakland Army—I don’t know what it was called. Anyway, that was sort of a shipment place for most of the people going to Vietnam, I think. And in those days—in fact, back in World War II, they shipped people over—in the Pacific in boats. But by the time, you know, I was in and they moved people to Vietnam, it was by chartered [Boeing] 707s or something. I forget what Boeing it was, but it was something like that.
+
+So basically guys like me ended up all converging on Oakland with our orders in our hand. And they issued jungle fatigues instead of our regular fatigues.
+
+And, oh, yeah, I skipped it. There was a point where I did more weapons training because I was being sent to war zone. They did ship me—run me through the Fort Hood qualification with the M16, which was the rifle of choice for Vietnam, and a M30 machine gun, which I never had a chance to fire. So both those were, you know, slightly interesting. I mean, you know, guns are—as long as you’re not having to kill somebody, guns are kind of fun.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">In fact, I did quite well in that part of it. When I was in basic training, I was one of three guys, I think, who got the sharpshooter qualification. I have a little medal someplace that shows I was really good at target shooting.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="STEARNS">Anyway, Oakland. I still remember the day I flew out. It was one of those beautiful winter days.
+
+Oh, wait, no! It wasn’t winter. I’m sorry, I forgot the month. It  was—it had to have been December because I was there in Oakland on probably December 30th with beautiful clouds blowing through, a little bit of rain, mixed sun, glorious day. Got on an airplane. Flew to Asia. It was almost like a regular flight except it was full of guys in fatigues. And, you know, we had stewardesses who brought us coffee and stuff like that. I don’t think we had alcohol on the plane. But everybody unloaded off the plane when we got to Anchorage—landed there to refuel—everybody got off the plane and ran into the bar.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">And the people who smoked ran off the plane and lit up cigarettes. But I ran into the bar and found a glass of Scotch. Probably two. And then we jumped back in and flew on. I think we flew probably directly into Tan Son Nhut [Air Base] in Vietnam in those days.</u>
+      <u who="RIDKER">Sorry, into where?</u>
+      <u who="STEARNS">Tan Son Nhut. It was the Vietnam name for the Air Force base just outside of Saigon.</u>
+      <u who="RIDKER">Mm-hm. And so what were your first impressions of Vietnam like?</u>
+      <u who="STEARNS">Oh. Yeah, as I—hey, give me a second here, would you? Hold on. I’ll get a glass of water.</u>
+      <u who="RIDKER">Sure.</u>
+      <u who="STEARNS">My throat is sore.
+
+[Recording interruption.]</u>
+      <u who="STEARNS">Flew into—I don’t remember landing, but it was New Year’s Eve, and we got posted over to Long Binh, which was the U.S. Army Vietnam headquarters, and shown our, you know, groggy eyes into—into a place where we could sleep for the night. So I laid down, went to sleep. Was awakened by gunfire. God, machine guns! There’s stuff goin’ on outside. Holy shit! You know, this is terrible? I just arrived in country, and already I’m in a war!  And it turned out—no, no, it’s just the guys celebrating New Year’s Eve. It was unsanctioned, but, you know, a lot of people have ammunition and guns, and they were a little drunk, so they went outside and shot off the guns, just like they do in big cities everywhere in the U.S. now.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">So I went back to sleep. Woke up and turned in—turned over my papers to the—to the company commander and those guys who control that kind of stuff and received my job, which was going to work at a computer center at this Army headquarters. And so for a war job, it was a great war job because we worked in an air conditioned building, in a pretty well-protected place. This particular area—the only time that it had been fought over, I think, during the Vietnam War was during the Tet Offensive, when a—
+
+
+
+Do you know the history of that a little bit?</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="STEARNS">And I can’t go into it in any depth, but there were guys around who pointed out, you know, where the North Vietnamese or Viet Cong invaders actually got inside Long Binh and holed up in the sort of forested area in the middle, and it took, like, three days to herd them out of there and kill them all. So that was within the memory of, you know, the people who were there when I was there, although there really wasn’t any danger except, of course, from your fellow soldiers. You weren’t liable to be shot by a Vietnamese, but you could be shot by, say, an angry black guy, that was a possibility.</u>
+      <u who="RIDKER">And what were your daily tasks? Like, can you describe a typical day?</u>
+      <u who="STEARNS">Oh, gee. Well, as I said, I was, you know, a computer programmer in an air conditioned building. I worked with a bunch of other guys who were pretty much like me. You know, they were relatively overqualified for what they were doing, and, you know, we spent a lot of time, you know, bullshitting about what we’d rather be doing and writing COBOL applications to—guess what—count things. You know, the particular one that I worked on was helicopter parts accounting. And I had a lieutenant that I worked fairly closely with, who sort of knew the specs, and he and I would work through the details of what he wanted, but I was the one who actually executed the—wrote the code to figure out how to do what you wanted done.</u>
+      <u who="RIDKER">So it was keeping track of helicopter parts—</u>
+      <u who="STEARNS">Yes, right.</u>
+      <u who="RIDKER">—and things like that?</u>
+      <u who="STEARNS">Yeah. You know, in those days, the Army was going through a lot of helicopter parts. Not only were they being shot down, which happened occasionally, but they just wore them out. You know, they’re big, complicated devices with lots of whirring parts, so they needed lots of rotors and lots of engines and et cetera.</u>
+      <u who="RIDKER">And were you doing any systems analysis about the, like, efficacy of helicopters and the parts, or was it mainly just keeping track of everything?</u>
+      <u who="STEARNS">Keeping track of everything, yeah. I hope to God there were people who worried about that, but it wasn’t me. That’s for sure. You know, that note I sent you—I don’t know if you—if you have a chance to read many books about Vietnam, but the one I left and mentioned at the very bottom was my absolute favorite. It’s called A Bright Shining Lie[:John Paul Vann and America in Vietnam]. It’s about John Paul Vann, who was instrumental in the war, died in the war, was a critic of the way the military ran it. And, you know, hopefully people at his level were worried about the efficacy of flying helicopters around, shooting people, ferrying soldiers around.</u>
+      <u who="RIDKER">Mmm.</u>
+      <u who="STEARNS">You know, when you look back on it, the whole war was a tremendous waste, just a tremendous waste. If we just—you know, when Hồ Chí [which he pronounces to rhyme with sky] Minh came to talk to the U.N. [United Nations], I suppose it was after World War II, if somehow [Secretary of State] John Foster Dulles had said, “Yeah, it’s a good idea. Let the Vietnamese run the country,” it would have saved so much trouble! [Laughs.] You know, I mean, the French wouldn’t have had to go through [the Battle of] Dien Bien Phu, and we wouldn't have had to go through the Vietnam War. </u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="STEARNS">Very odd, when you look back on it, how a country that’s supposedly led by intelligent adults like the United States can make such terrible choices once in a while in the wars that it fights.</u>
+      <u who="RIDKER">Yeah, so I guess I was asking specifically about systems analysis stuff because I know that the Vietnam War was, like, one of the first wars to kind of use electronic data extensively, especially under [Secretary of Defense Robert S.] McNamara. I was wondering if you at the time, like, had any opinions about the use of data collection or if you were mainly just kind of—</u>
+      <u who="STEARNS">Oh—</u>
+      <u who="RIDKER">—invested in what you were doing.</u>
+      <u who="STEARNS">Oh, oh, oh, I see what you’re getting at. That’s a wonderful question, but at the time I was there, it didn’t mean anything to us. Nothing at all. I mean, that was the kind of argument that was going on at the Pentagon and in [President Lyndon B.] Johnson’s office, right? I mean, McNamara would come in with I’m sure his ins and outs, his counts. They were saying, you know, “Good God, look. They can’t hold out much longer. We’re killing them at this rate.” And it turned out, well, that was bullshit. You know, they could hold out a lot longer, and they probably weren’t killing them at that rate. They were doing just fine, thank you, and they were being supplied despite our best efforts, you know, to bomb the crap out of Laos and Cambodia and stuff like that. And that really worked in the long run. Caused a lot of damage, but certainly didn’t affect the progress of the war, ultimately.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="STEARNS">So no, no, I didn’t see any of that stuff. From the standpoint of, you know, a Spec 4 enlisted guy, programming in Long Binh, aw, no, no. They didn’t ask my opinion about stuff. They just, you know, said, you know, “Figure this thing out in this COBOL program.”</u>
+      <u who="RIDKER">[Chuckles.] Can you describe a little bit what COBOL programming was like?</u>
+      <u who="STEARNS">[Laughs.]</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">Boy, how much do you know about programming? [Laughs.] You know, I can remember—I’m speaking to people who might be listening to this in 20 years.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">COBOL was the invention of a wonderful woman named [Rear Admiral] Grace [M.] Hopper, who I believe retired as an admiral from the Navy. And she’s dead now, but she’s highly regarded by people like me, who, you know—who’ve been involved in software for many years. And I only ever heard her talk once, but she’s just—she was absolutely brilliant. 
+
+And what it is, is a great language for people who’ve got to figure out accounting systems, business applications that keep track of large numbers of things and do dollar computations. As I say, there’s an awful lot of that in any big organizations, so COBOL was designed to make that straightforward, in some sense. The more machine oriented or the more—what shall I say?—graphically oriented stuff. It doesn’t matter at all at that level. What you really want are a presentation of data in nice columns, and you want everything to add up nicely, and you want to feed in the data correctly to get those columns to add up. So that’s what COBOL does well.
+
+So from the standpoint of artistic, challenging programming, eh, no, it’s not that kind of language at all. It’s, you know, an accountant’s language. I much prefer other languages, myself, that I’ve had a chance to work with over the years, but, you know, it kept me out of the fighting, so I can’t bitch too much about it.</u>
+      <u who="RIDKER">[Chuckles.] Yeah, so you mentioned you were out of—out of harm’s way and out of danger, for the most part.</u>
+      <u who="STEARNS">Yeah.</u>
+      <u who="RIDKER">So what was your—did you have much leisure time at all? What was the culture like in your office and outside?</u>
+      <u who="STEARNS">Oh, sure. There weren’t many officers in the office. The place was pretty much run by the non-coms—you know, the non commissioned officers, warrant officers and stuff, on a sort of day-to-day basis. So it was fairly—everybody had a rank, but it was pretty egalitarian, really. I mean, there wasn’t any question that the noncoms who were charge of us were not as sharp as we were intellectually, so the real intellectuals in the group were the guys like, you know, me, who’d come in from—who didn’t want to be in the Army but here we were and we ended up doing this kind of work. 
+
+So there was this camaraderie of the lower enlisted men, who were actually more likely to be college graduates. We didn’t hang with the non-commissioned officers. There was an evening, you know, when we were off. It was more probably not too dissimilar to the atmosphere you would have had in a dorm bull session back at Dartmouth except we were still wearing green uniforms.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">A fair amount of dope was available, easily. Marijuana was no problem at all. It was technically illegal, and they would search our hooches [huts] for it occasionally, but it was not a problem to maintain a stash. Beer was easily available at the PX [post exchange] and the enlisted men club, so if you were prone to alcoholism, it was easy to sink into that fog in the evening, and plenty of people did.
+
+We had a PX within an easy walk of where we lived—the post exchange—excuse me, my military talk again—where you could buy, among other things, French Champagne. And I’m pretty sure they had booze, too, but among my friends, we didn’t drink hard liquor much, you know. But we were fond of that French Champagne. It was pretty cheap, and it wasn’t bad at all. But mostly we were beer and marijuana people.
+
+And so what knowledge I have now of the Grateful Dead I learned there in the Army, you know, because I had friends who were Deadheads, really.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">And we got tapes from the PX or from, you know, mailing things, and we would sit around and listen to, you know, like, Eric Clapton [laughs]—Eric Clapton and Derek and the Dominos. It was, like, one of our favorite albums.
+
+Now, one of the downsides of that is that there was also a fair amount of heroin available, also because it’s so small—you know, the amount you consume is relatively small; it’s very easy to hide, so on a post like Long Binh, with big numbers of people coming in and out the front gate all the time, there was easy access to heroin. And I had several acquaintances who became addicted while they were there. Typically, nobody shot up, but they smoked it. They had it into cigarettes or joints [rolled marijuana cigarettes] or something.
+
+
+
+And it was just terrible. I mean, that was—that was one place where I learned what a horrible drug it is because once you’re on it, it’s what you really want. And it’s very difficult to get clean of it. You’ve got to—it’s really suffering. There was a guy a couple of doors down from me in a place in our hooch, who went cold turkey, and he was just in agony for, like, two days.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="STEARNS">So I know more than I wish I knew about—about heroin and heroin addiction as a result of that military experience. But I would never touch the stuff, myself.</u>
+      <u who="RIDKER">Yeah. Was there any risk of getting trouble—getting in trouble? Sorry.	</u>
+      <u who="STEARNS">Oh, sure.</u>
+      <u who="RIDKER">During leisure time?</u>
+      <u who="STEARNS">Oh, yeah, yeah, yeah. When I first showed up, I think our captain, who ran the company—if he had ran it, he had somebody who was a drunk problem. He was, as it was referred to in those days, shipped up north, which meant they were headed for some sort of combat situation, but I think during the time I was there, that became impossible with the guys who, you know, did the transfers would look at the paperwork and say, “Hell, no, we’re not takin’ that guy! You know, we don’t need any more—we got enough trouble up here. We don’t need any more of your problems coming up north,” so he couldn't do that anymore.
+
+It was strange, though. There were people who found niches, where they could sort of survive and be druggies and still do their job. One guy I knew—when he was off—I think he wore military jeans and maybe boots, but he always had this sort of wild-colored shirt, and he actually spent his nights off post with his girlfriend. He had a Vietnamese girlfriend. And it was a little bit like, you know, the TV show M*A*S*H, where it was—an amazing number of crazy things went on because the powers that be did not have enough eyes or attention or care enough to stop it.
+
+So it was not, you know— what shall I say?—an ideal military environment from the standpoint of maintaining Army rules. It was weird that way. But we got our job done.  It was not like that wasn’t happening, though there—I mean, there were—[unintelligible] sometimes that I remember from those days is FTA, for “fuck the Army.” And there were people who, because they were in there, would do anything they could do surreptitiously to screw things up.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="STEARNS">Again, not me. I, you know, did what I had to do and wasn’t, you know, happy about the war, but—but there were people who would do, you know, things when they could to foul things up.</u>
+      <u who="RIDKER">Yeah. Did you ever feel like you kind of like resented the work or your own contributions to the war effort, or you just had to do it because it was your duty?</u>
+      <u who="STEARNS">You know, more the latter. You know, when you—it wasn’t like we were involved in anything that was inherently evil. I mean, in stepping back from it, you could say, yeah, it was inherently evil. It was certainly mistaken. But, you know, we weren’t involved in—it wasn’t like [Lt. William L.] Calley [Jr.] at Mỹ Lai saying, “Line those people up and shoot them,” you know? We did not do that. All we had to do was keep track of helicopter parts. So I don’t know. I don’t know.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="STEARNS">That’s a deep ethical question, actually, about how for you’d go before you become complicit in what you consider to be a crime. And I have a lot of friends now who dodged the draft in a variety of creative ways. One guy sort of made himself so sick that he couldn’t pass the draft. He wasn’t sick, in fact; he just, you know, starved himself or took some drug or something. And another guy joined the Army Reserve. There were a hell of a lot of Army Reservists about my age, to the point where you about couldn’t get into those organizations because they were full of college guys who were trying to avoid Vietnam. Now that wouldn’t work. You know, the current Army, if you join the Army Reserve, I think they still end up going overseas. They’re essentially Army guys who are in some sense temporarily Army, but—
+
+
+
+I could go on for a while about whether the draft was a good idea. I don’t know if that’s come up in any of your other interviews, but—</u>
+      <u who="RIDKER">I mean, yeah, if you have any more thoughts, sure.</u>
+      <u who="STEARNS">Yeah. It’s interesting to me personally because, of course, I went in under draft pressure. And had I been able to wait I think about one more month, I wouldn't have had any draft pressure because it ended. No, it didn’t end; it had a lottery. That’s what it was. So it was no longer up to the individual draft boards.
+
+The draft boards were pursuing guys, really, who lived in an area, and they were responsible for delivering their quota of serviceable young men to the war effort. Now, in the—while I was in basic training, just shortly after I got there, they had the first lottery drawing, and the lotteries were done by birthday. So if you—you only had to run the lottery gauntlet once, and depending on what your birth date was how it was drawn, in the ratio—you know, 1 to 65. That determined whether you were going to go in the military or not.
+
+
+
+And when we were sitting in this big hall and the drill instructor said, “Okay, yell out your birthday, and I’ll tell you what your number is.” I yelled out my birthday, and I got the biggest laugh of all because it was, like, 365. You know, no way would they have gotten to me if I had lasted a little while longer.</u>
+      <u who="RIDKER">Hmmph.</u>
+      <u who="STEARNS">But I always thought, you know, looking back on the history of the last 50 years, that the draft ended, essentially. The Vietnam War killed it because people were just revulsed by the Vietnam War, and there was so much popular resistance to what was going on that Congress decided they would end the draft. But I think that was just a mistake. 
+
+Now we’re in a situation where the only people who end up in the military are volunteers, which, God bless them, you know? I’m happy that there are volunteers, but not too awful many of them are college guys. So you end up with a slice of American life. We’re drawing on guys who aren’t well educated, the women who aren’t well educated, who see it as their big opportunity to get some training, education and get out and they’ll be, you know, trained for life and set up to some degree for the G.I. Bill [Servicemen's Readjustment Act of 1944] kind of things.
+
+But it also means that the kind of people who end up being lawyers and doctors and governors and presidents and stuff like that—now we’re seeing—[President Barack H.] Obama’s generation, for example. He never had to be in the military. He just went to law school and didn’t think about it.
+
+Now, back in—you dial it back a little bit more, and you get George [W.] Bush. W had to be—he’s my age, exactly my age. He had to do something and ended up being in the Air Force Reserve, and he flew jets, which is a ballsy kind of thing to do because a lot of those military jets—you know, the guys who go into that—there’s an attrition rate, and the attrition isn’t—they can’t fly the jets, it’s just they die. You know, they crash. So what he did was a brave thing, but, on the other hand, he never had to fly a combat mission. He learned to fly jets, and that was it.
+
+Now, you go aback to his dad, Herbert Walker Bush—he not only flew, he flew combat missions and got shot down. I mean, the level of bravery required between the two of them is remarkable, and the level of bravery required for what W did and what Obama did is also remarkable, I think.
+
+And now you’ve got these guys in—Congress and House of Representatives is full of people who never had to worry about the military. So, I mean, I don’t think they have any sense of the risk to the personnel that they’re sending over there.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="STEARNS">And it’s one of the things that sort of pisses me off about the way that they treat veterans and issues like, you know, PTSD [post-traumatic stress disorder]. You know, the only way you’d be diagnosed with PTSD is it had to be really bad. And I think everybody who comes back from, you know, being in real combat situations probably has it to some degree. And I know a few people who have—you know, mostly either people I met in the Army when I was in the Army or people I’ve met since who are my age and went through Vietnam, because I just don’t run into Iraq War veterans. But it’s—you know, it’s a lifetime thing. You run into these people with—I’m not sure what all the proper name for it is, but I always call it “the thousand-mile stare.” You know, they just are looking into the distance, with this sad look on their face. You know, it’s—it’s a bad thing to happen to people. Like, killing people is an unfortunate thing for anyone to have to—it better be in a good cause. So I’m philosophizing over much about that. 
+
+
+
+Let me see. There’s a couple of new things I wanted to mention. In the notes I sent you, I did mention another book that I don’t know if you’ve ever seen. It’s [Richard S.] “Dick” Durrance’s—I think it was in ’66, his photo book called Where War Lives[:A Photographic Journal of Vietnam].</u>
+      <u who="RIDKER">Mm-hm.</u>
+      <u who="STEARNS">I don’t know if you can interview him. He lives in Maine, I think. I don’t know if he’s on your list of people to contact, but I would highly recommend that you give him a call because his book is beautiful. It’s just a bunch of photographs he took when he was—he was an enlisted man in Vietnam, who somehow I think got himself assigned to be the photographer, and he took pictures of a lot of, you know, combat situations. And the book doesn’t have a whole lot of gore in it, though there’s a couple of pretty grisly pictures, but there’s a lot of pictures which, as I thumb through it—you know, he was there—he was in Vietnam I think the year before or two years before I was, so it’s—you know, I can look through it and say, Oh, boy. I remember stuff like that exactly. I remember guys looking just like that. Anyway, Dick Durrance, ’66, D-u-r-r-a-n-c-e. And if you poke around the library, I hope to hell there’s a copy of his book because it’s a very nice book.</u>
+      <u who="RIDKER">Yeah, no, I’ll definitely check it out. It sounds really cool.
+
+So just going back to what we were talking about before, about kind of the culture amongst the programmers and during leisure time, you mentioned—</u>
+      <u who="STEARNS">Oh, yeah.</u>
+      <u who="RIDKER">—camaraderie and, like, friendship with other guys, and I’m wondering if there are any people specifically that stand out to you in your memory that were close friends you made or still keep up with and people like that.</u>
+      <u who="STEARNS">Boy, I didn’t keep up with any of them. Gee. Certainly was—Doug, my bunk mate—you know, it’s above-and-below kind of bunks, so you spend a lot of time with that guy. He was an interesting guy. He was from South Dakota, I think, and his dad was a car dealer. And he was just a charming guy, with a great smile, and I spent a lot of time sort of hanging out with him. I remember he borrowed my shoes. I had a pair—why I ever took these shoes to Vietnam, I don’t know, but I had a certain nice pair of brown shoes. And he had to go—he was going back on leave for a couple of weeks, so he borrowed my shoes. And when he came back, he regaled me with stories about what had happened, that those shoes had helped him get laid one day, in a Volkswagen,—</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">—which I—that was Doug. You know, he was that kind of guy. He would sort of encounter those situations.
+
+Another—here’s an odd—I mean, talk about the sort of bizarre M*A*S*H-like environment, ironically my tennis game was probably the best in Vietnam as it has ever been. I wasn’t good enough to play on the tennis team in college, but I had been a singles player in high school. And we had a lit tennis court in Vietnam, in Long Binh. Two of them, I think. So I bought a sort of not-too-bad racquet down at the PX, and they had tennis balls, so, you know, I used to play at night. And I had, you know, a fair number of guys there who also played.
+
+I still remember this one match. It was between me and another guy in the company. We were the two best tennis players. And I managed to beat him, but not by much. And I always recall that as being one of the two best tennis matches I ever played. You know, athletes talk about playing in a zone. That was one of the times that I actually felt like I was in the zone. Bizarre that it happened in Vietnam.
+
+We also had a weight room. You know, it was open air, but we had weights. We had a swimming pool that was not deep, only, like, three or four feet deep, so you could splash around in it and get wet, but by God we had a swimming pool! Here we are, in a war zone. Tennis court, war zone, PX that sold French Champagne. Except for the fact that, you know, couldn’t see your wife, it wasn’t a half bad place.</u>
+      <u who="RIDKER">Yeah. Did you keep in touch with her much?</u>
+      <u who="STEARNS">Oh, sure. Of course, yeah. Yeah, we had—we also had a darkroom, so I used to take pictures there, myself, with my—with my Pentax that I’d gotten as a graduation present, and my wife used to send me rolls of film that she had shot of our new baby, for example, so I would develop those and send the prints back to her. So I was sort of the photo lab for my family.</u>
+      <u who="RIDKER">So was your—your daughter was born while you were in Vietnam? Were you able to go home?</u>
+      <u who="STEARNS">Yes, yes, both—well, as the birthday approached, you know, everybody in Vietnam got to take a leave, and a lot of people didn’t bother going all the way back to the U.S. just because it’s a long flight. They would, like, meet their significant other in Hawaii, often. Or if they didn’t have a significant other, they would go to Australia and, you know, have a good time down there, or Thailand or some place like that. They’re both famous for having, you know, sort of a party atmosphere, welcoming to American soldiers.
+
+
+
+But I went back to Buffalo and spent—you know, I was there when my daughter was born, and I went to the hospital and, you know, helped take care of the baby for a couple of days before I had to go back to Vietnam. And that was in—she was born—let’s see, she’s about to have a birthday. I think she was born May 26th, and I still had a few months left in my tour. Didn’t talk about that, but my wife takes credit for getting me out of Vietnam early. She’s the one who researched graduate schools for me, finding one that started the earliest possible date that could match my 90-day early release.
+
+So went to my separation date, backed up 90 days and found the University of California, Santa Barbara had a program that started just about then, so I was able to—I applied for that and got in, and they approved to let go of me three months early, so I came back in late August, and we packed up our stuff, and I was out of the Army, and we drove back cross country, and I’ve never left California since. I mean, vacations, of course, but—</u>
+      <u who="RIDKER">Hmm. So you were—you went straight into school after?</u>
+      <u who="STEARNS">Yeah. And part of the deal is, since I was in the Army, is a two-year—let’s see, it’s technically a six-year commitment, but I went on a thing called inactive reserve for four years, and they never called me. So in theory I had to keep the uniform available, my boots available and stuff should they call me up for anything, but they didn’t care. They had too many people to get rid of during that period, so they certainly weren’t calling reservists back in.</u>
+      <u who="RIDKER">Yeah. And were you keeping up with sort of the progress of the war winding down at that time?</u>
+      <u who="STEARNS">Oh, sure. Of course. I mean, it was still big news. And I got back in—that would have been ’71, and, you know, the war didn’t really end until ’74. </u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="STEARNS">Yeah, but it was really—you know, when I was there, there wasn’t any doubt that it was going to end and that we were going to pull out. I think that they were maybe more publicly saying that, but I think everybody there kind of understood that we’re not going to win this thing, and we somehow have to get out of it. You know, can the current president, defense secretary, whatever figure out a way to do it without looking too ugly? And sort of they did.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="STEARNS">You know, it’s, like—you know, you look at what’s happened recently. You know, Obama—one of the things he came in was saying he’d get us out of Iraq. Well, he did, and now people are whining at him because the situation is deteriorating again. Well, yeah. One of the reasons we left is it was deteriorating anyway, and you leave. You’re not helping. You might as well leave. You can’t fill the country up with American troops and expect it to, you know, be a happy place. You know, we tried that in Vietnam. It didn’t work for shit. We tried it in Afghanistan for, you know, a while, and it didn’t work very well, and we tried it in Iraq for a while, and that didn’t work. We’re just never really good at that. 
+
+Japan was the last really good exam- —Japan and Germany were the last really good examples of an occupation force from the United States maybe doing the right thing. It’s a different situation, in both cases, from the kind of wars we tend to enmesh ourselves in in Asia.</u>
+      <u who="RIDKER">Hmm.
+
+So was it easy to adjust back into—into school and back into your life in the States when you got home?</u>
+      <u who="STEARNS">Oh, sure. Absolutely. Santa Barbara’s great. [Laughs.] I loved living there. The university there was on the beach. Very pleasant place. You know, we had an apartment, and not too long after we were there, we put together enough money and got—I didn’t mention this part of it: One of the things that I did was I probably have had most of the veterans’ benefits you can get, that I was qualified for. Being a California—I went into the service in California, so I was a California veteran, and the state gave—had a special loan program. And if you could get approved, because it took a little more effort to get the loan, you could buy a house for relatively little down. So we bought, you know, our first house in Santa Barbara was under—I don’t know how much we had to put up, but it was only a few thousand dollars, maybe a few hundred. I can’t remember. And, you know, that levered me into California real estate, and it’s been a good deal ever since.
+
+
+
+I went to, you know, the University of California on the G.I,.  Bill, so they paid a lot of my expenses, gave me a check every month for living expenses. Even now, you know, we just got back from a cruise on Princess [Cruises], and Princess gives veterans a ship credit. I think this last thing, I got 250 bucks credited to my account that I could spend any way I want, on ship. So, you know, a whole bunch of little veterans’ things that you could take advantage of after that.
+
+Probably in the long train of things, for somebody with my level of education and background, it probably don’t matter much. It would matter more to people who got, you know, less of an opportunity than people who go to Dartmouth, but I tried to—tried to use them.
+
+I’m just looking back on my own notes that I wrote up the other day. I just wanted to make sure we covered—covered stuff.
+
+Yeah, I didn’t stay full time very long. I went to work part time as soon as the three months were up, pretty much. And it took me six years to get my master’s degree, which is the longest the University of California would tolerate me. [Chuckles.] Because I wasn’t making really fast progress. I was taking, like, one course that I was interested in every quarter. But I finally did leave with a genuine master’s, and got my way into—
+
+Oh, it’s funny: The training I got in Vietnam was on a Burroughs computer, so I went to work for Burroughs [Corporation] in Goleta on the basis of that. Goleta is just outside of Santa Barbara, okay? And Burroughs in those days was a really good place to work for if you were a computer guy. It was, like, the most sophisticated software, I think. IBM was pretty vanilla. Burroughs had all these oddball things that were fun to work on. So it was a great— that way, it worked out well career wise, because I loved working for Burroughs. And that led to a lot of other possibilities later.
+
+So funny. You know, you can’t—you can’t really tell if things will work out and what’s going to be good and what’s going to be bad, and so I can’t say my Army experience was bad. Considering it was the Army, it was really okay. It’s the Vietnam War that was a bad idea.</u>
+      <u who="RIDKER">Yeah. [Chuckles.]
+
+
+
+So did you become involved in any, like, veterans’ organizations or any sort of, like, postwar activities like that?</u>
+      <u who="STEARNS">No. You know, there certainly is—I think they’re probably still around, Vietnam Veterans Against [the] War. I don’t know. I haven’t seen anything about them in the news. And certainly in never went anywhere near them. The guys who hang out in post-military social organizations are generally right-wingers. And that ain’t me. You know, they’re just another group of folks. So the American Legion guys, no, I’ve never been inside one except for the oddball party that was scheduled by some other event.
+
+I remember I used to get occasional invitations, and I’d just throw them away right away. I always figured—you know, whenever you see anything about the American Legion in the papers, it’s always, in general, a kneejerk reaction to support whatever military venture is going on at the moment, and you can tell, from everything I’ve said so far, that I’m not very happy about that, so—</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="STEARNS">—the American Legion is not my kind of organization. I’m a Rotary [International] guy. You know, Rotary is my main thrust in what I do post career. You know, I try to do things to help people now [chuckles], you know, in whatever way I can. I’m not too interested in influencing public policy or any of that stuff. I just want to try to make a difference in my community and, where I can, internationally. </u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="STEARNS">So since I—</u>
+      <u who="RIDKER">What kind of work—sorry?</u>
+      <u who="STEARNS">I was just going to say, since I brought up the subject, I’ve been in Rotary for 22 years, and I’ve been, you know, president of my local club. Most of my stuff, stuff I'm really interested in and have worked on over the years has been internationally oriented things. So I’ve done a fair amount of international travel and organizing projects. We get funding from various sources, often from the Rotary Foundation, itself, but often from other groups to do, you know, good things around the world.
+
+Last February, we were in India. My wife and I went to visit some projects that we funded—the Rotary “we,” not my wife and I, although we certainly contributed some money to it. To do computer training in various centers around [unintelligible] and some other eye care facilities. There’s an outfit that we coordinate with called Sankara [Eye Foundation]. That’s really an India-aimed charity funded often by American Indians; that is to say, guys living in American who came from India India and made their money here.
+
+Also we work with an organization called Shin Shin [Educational Foundation]. It’s a Chinese oriented foundation funded by Americans of Chinese background who’ve made a lot of money here and want to do stuff back in—in the mainland. In fact, I’m off for—in July I’m going to be on a Shin Shin trip, teaching English teachers how to teach English a little better. I’m not a teacher, myself, but I’m a Rotarian going along on the trip, and a couple of people with me are university types who are English teacher teachers, so I’m going to go along and probably just—I suspect mostly what I’ll be doing is schmoozing and chatting with the students and trying to improve their English as best I can.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="STEARNS">But that’s the stuff that I’m motivated by now. So veteran stuff? Not so much. You know, you can see I mostly just grouse probably no more than anybody else does about, you know, the crazy things we get involved with overseas, the stupid military adventures, but I can’t say anybody pays much attention to me on that.</u>
+      <u who="RIDKER">So have there been, like—you haven’t gone to any, like, sort of reunions for veterans that you may have worked with or anything like that?</u>
+      <u who="STEARNS">No, no, not at all. Like I said, you know, I have sort of—I guess I would say mostly fond memories with the people I was associated with, at least the enlisted men in Vietnam and in Fort Hood, but I certainly haven’t stayed in touch with them. I still have one good friend that I happened to meet. He was exactly the same situation as I did. You know, we both arrived at University of California, Santa Barbara at the same time, having gotten out for the same reason. He hadn’t been sent to Vietnam, but he managed to get out of the Army on an early release also, to attend UCSB. I’m still a good friend of his. 
+
+We used to have a Veterans Day tradition of dressing up in which fatigues we could still fit into and—</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="STEARNS">—eating MREs—you know, Meals Ready to Eat, They’re K-rations, if you could find them. But we haven’t done that for a long time. And I think I still—I still do have two of my Vietnam shirts, because they were cut loose, so they still fit me fairly well.</u>
+      <u who="RIDKER">Huh.</u>
+      <u who="STEARNS">Everything else, I got rid of.</u>
+      <u who="RIDKER">Huh. So this—as one more kind of, like, final question, kind of more open ended, I’m just interested in hearing your thoughts on how your service in Vietnam has sort of shaped the rest of your life. I know you’ve mentioned already a bit about your political views, but just generally how it’s shaped you in other ways.</u>
+      <u who="STEARNS">Aw, boy! Well, I think it made me certainly more tolerant and appreciative of people who aren’t like me [chuckles], you know? In particular, not just Americans but also the Vietnamese I met. You know, God knows it was an artificial thing. You know, the Vietnamese I met usually on post were the women who cleaned up for us. But, you know, just having a chance to chat with them a little bit and trying to get some sense of what their lives are like and, you know, how do they survive on a daily basis. I suspect that did have an effect that sort of lingered into my—you know, my Rotary preferences.
+
+And, you know, as I said before about the kind of people you go through basic training with, they’re pretty regular guys, certainly not Dartmouth material. You know, there must have been several guys in my basic training unit who had gone to college, but, you know, I only remember one who had gone to, like, University of Georgia, and he’d been through some ROTC kind of training, so he was—he was a very useful squad leader for us, because he had us—he taught us to do things like, you know, polish the brass around the toilet and stuff like that. We would never have thought to do that, but he knew it was a good way to get brownie points with the inspectors. So in that sense, I guess there’s a degree of tolerance, you know, of people who weren’t as educationally lucky. For sure.
+
+I don’t know. When you think—you know, when I look in the alumni magazine and see, you know, what—thumb through it relatively quickly and see what happened to people in my class—I’m sure you’ll end up probably having more or less the same thing: There aren’t that many of them you—after 50 years, you don’t remember that many of them anymore. And the ones who names come up again and again—they’re generally pretty amazing people.
+
+And in some ways,—you know, I don’t know if—I’ve never sat down with, like, [Robert B.] “Bob” Reich [Class of 1968], for example, though [unintelligible; 1:23:29]. I could probably meet if I work at it a little bit. You know, he was—what?—secretary of labor, I think, for [President William J.] “Bill” Clinton. And now he’s a professor at [University of California,] Berkeley. And I don’t think he would have been drafted just because of his size. He’s a little guy.
+
+And then there was that guy who was secretary of the treasury in—jeez, what’s his name? Anyway, the people who—you know, they went through Dartmouth, and their lives after that were relatively—and “lucky” is the wrong word, but, you know, gifted, successful. There’s a lot of  people like that, and I don’t know—you know, living on the West Coast, I’m sort of out of the orbit of Dartmouth alumni. But I think a lot of them probably have a much different perspective on life and war and tolerance for poor people and people from poor countries [chuckles] than I do, you know? [Chuckles.] Things look different, you know, if you’ve actually been in the Army.
+
+And, God knows, things look different from California because it’s such an oddball place dominated by industries that just aren’t that prominent elsewhere in the country. And we have a lot of immigrants. And I think it’s great. You know, I see all the immigrants here, and I think it’s wonderful. You know, there’s this deep reaction to what’s going on on the national politic level, trying to, you know, restrict immigration, and I just slap my head and say, Where do these people come from?</u>
+      <u who="RIDKER">[Chuckles.] </u>
+      <u who="STEARNS">You know, don’t they pay attention to the way the world works? Anyway,—so I’m running out of things to say.</u>
+      <u who="RIDKER">Oh, yeah. I mean—oh, it’s—it’s an interesting point. And I guess this could be a good place to wrap up. So, again, thank you so much, Dave, for taking the time to participate in the Dartmouth Vietnam Project and to talk to me. It’s a really good opportunity for me to have a chance to hear of your stories and hear your thoughts, so thank you so much again.</u>
+      <u who="STEARNS">Sure. Good. Yeah, I’m glad to help. Try to find Durrance. He definitely has some things to say, I bet.</u>
+      <u who="RIDKER">Yeah, I’ll keep an eye out for that, for sure. I’ll let you know. Thanks again, though.</u>
+      <u who="STEARNS">All right.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

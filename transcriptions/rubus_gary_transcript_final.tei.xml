@@ -1,0 +1,783 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="FARKAS"/>
+        <person xml:id="RUBUS"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="FARKAS">This is Sandor Farkas talking to General Gary [M.] Rubus over the phone. I’m calling from Webster Hall [in Rauner Special Collections Library at Dartmouth College], and Mr. Rubus is in his home. It’s the 16th of January, 2016. And this is part of the Dartmouth Vietnam Project.
+
+So can you tell me who your parents were?</u>
+      <u who="RUBUS">My father was James William Rubus. My mother was Shirley Miriam Zook Rubus, and they met in Southern California, where my father had been sent for training as an enlisted tank mechanic in the—the [U.S.] Army. My mother had somewhat migrated from western Nebraska with the defense industries, and they met in a—a hospital where my father was getting treatment for an injury that ultimately took him out of military service before he deployed, and they settled in Southern California during the war but stayed there until my father died of a heart attack in 19-about-97, and my mother was put into assisted living in Oregon, with my younger brother.</u>
+      <u who="FARKAS">So you’re referring to World War II? Your father was an enlisted mechanic in the Army during World War II?</u>
+      <u who="RUBUS">Correct.</u>
+      <u who="FARKAS">And when did he enlist? Did he enlist much prior to the war, or did he enlist during the war?</u>
+      <u who="RUBUS">He was drafted as soon as he became of age. I don’t know actually the—the specific history on that. My speculation would be, from the ages involved, that it was during the war and drafted.</u>
+      <u who="FARKAS">So where exactly did you grow up?</u>
+      <u who="RUBUS">When I was born, my parents were living in Corona, California. I was born in Riverside, California, very close to Corona. They moved once to [Lake] Elsinore, California. My father had taken a job with an automobile parts distribution company, and the company asked him to move to Banning, California, while I was in the middle of first grade, and they did, and I lived from my—my home, my parents’ home is in Banning, California, for the next—oh, about, 25 years.</u>
+      <u who="FARKAS">So it sounds like both of your parents met in a military context. I mean, you said your mother was in defense industries and your father was at that time an Army mechanic. So was that part of—did you hear that story growing up a lot? Was the military something you were very conscious of?</u>
+      <u who="RUBUS">Your last statement, “reasonably conscious of” would be a better term. And no, the fact that my mother and father met in a—in a—in an Army hospital, where she had volunteered as a—what I think would colloquially be known as a Donut Dolly, had nothing to do with my entering into the military.</u>
+      <u who="FARKAS">So you said you had—</u>
+      <u who="RUBUS">But I did have—</u>
+      <u who="FARKAS">I’m sorry.</u>
+      <u who="RUBUS">I did—I did have an uncle, who spent almost 40 years in the [U.S.] Navy and had—had joined in 19- —well, before the war, I think 1937 or 1939, I don’t know which, and had had—he was on the cruiser [USS] Juneau in one of the battles off Guadalcanal [in the Solomon Islands], they were sunk—and he spent some time in the—in the water, waiting for rescue and was one of fewer than 30 people that survived off an 1,800-crew—a crew of 1,800 people on the Juneau. So was aware of that story, but I’m not sure that that had much of a—of an impact on my joining the military. We’ll get to that a little further in—in your interview, I’m sure.</u>
+      <u who="FARKAS">Of course. And you said you had a brother, if I recall? Did you have any other siblings?</u>
+      <u who="RUBUS">Two younger brothers.</u>
+      <u who="FARKAS">Two younger brothers. So you were the eldest. What year were you born?</u>
+      <u who="RUBUS">Nineteen forty-five.</u>
+      <u who="FARKAS">And your other brothers? What years were they born?</u>
+      <u who="RUBUS">I don’t know the years. You can do the math. Three years and nine years younger than me.</u>
+      <u who="FARKAS">Interesting.</u>
+      <u who="RUBUS">One, the eld- —the older of my two brothers is still with us; the younger passed away last year.</u>
+      <u who="FARKAS">I’m sorry to hear that. Did either of them join the military?</u>
+      <u who="RUBUS">No, they did not.</u>
+      <u who="FARKAS">So going back to the town that you—you grew up in—or, sorry, the latter town that you spent more time in, tell me about what it was like. What kind of town was it? Was it very suburban, rural?</u>
+      <u who="RUBUS">It was a very small town, approximately maybe 80 to 90 miles east of Los Angeles. It was a small town in those days. As Los Angeles has expanded, it’s become almost suburban Los Angeles, but in those days,  it was a very small town, 12 to 15,000. The high school I graduated from graduated 100 members in my class. 
+
+And I think right now I should give you a little—since you don’t have the background yet, and this is the purpose of the interview—let me—let me give you an overview of the way I spent—the geography of where I was through my, let’s say, graduation from—from Dartmouth.</u>
+      <u who="FARKAS">Sounds good.</u>
+      <u who="RUBUS">In the summer after my eighth-grade year—it might have been before or after; I’d have to look back—my family, who—my father’s family was from central Pennsylvania in the coal mining country, and my mother’s was in the farming area of Nebraska—would, every couple of years, head east and spend some time in Nebraska, spend some time in Pennsylvania and then come home. It was a—a way to keep track of a reasonably large and extended family in Pennsylvania, and my mother’s connections with her two siblings in Nebraska and Wyoming.
+
+On one of those trips, I had decided that I—I would like to work on a farm for the summer, and my mother’s aunt found me an individual in a very, very—it was out on a rural farm in Nebraska, who was interested in taking a city kid who didn’t have any farming experience on for the remainder of the summer. So they dropped me off when they came back westbound.
+
+I worked in a farm between Kearney and Grand Island, Nebraska, 15 miles north of what was then Highway 30, U.S. 30. Very remote, but I found the work enjoyable, and I worked there for the next—it was either seven or eight summers—I actually worked there the summer before my senior year in college. And one of those summers, I did not work in Nebraska and was home in—in Banning. Only one summer. So I have a little bit of a more varied—was not in Banning, California, for all of my formative years before I ended up at Dartmouth.</u>
+      <u who="FARKAS">Now, what kind of farm was it?</u>
+      <u who="RUBUS">Varied. It was in the Sandhills [region of Nebraska]. It had irrigation for the Greenleaf, Atlas, [unintelligible], and sorghum and a lot of wheat and a lot of alfalfa, but not a large farm, today’s standards, not a large farm. It was, I believe, three sections at that point. I—I don’t know a western Massachusetts city type like yourself will know what a section is, but that’s approximately three-square miles and probably three to four hundred head of cattle. No horses. We didn’t have any cowboys. But there was lots of wheat, lots of Atlas [unintelligible] and sorghum, corn, and alfalfa for the—for the cattle. Hogs, sheep. 
+
+It was a very different environment and a totally absorbing environment. You get up and work the full breakfast, worked late into the dark in the evening, and the principal attraction was every—perhaps just about every—every nickel I earned was in my pocket when I went home to Banning, in the fall.</u>
+      <u who="FARKAS">So I have, I guess, two questions coming off of that, and they’re kind of connected. One is at what point did you decide that you didn’t want to be a farmer? And the other is did you always want to go to college? Had you been planning on that? Was that an expectation?</u>
+      <u who="RUBUS">I had always been planning to go to college. I only applied to 40 schools.</u>
+      <u who="FARKAS">Sorry, did you say 40?</u>
+      <u who="RUBUS">I had no- —40, four zero, yes. I had no—no intention of becoming a farmer, and relatively early in my younger years, based on a—I’m not sure where the idea first came from—I tried to expose myself to a number of different potential career paths or professions, and had been interested in the military and an interest in the law. So those were all very attractive enterprise—working on a farm was—was a means to an end. It was not—certainly not a—a career objection.
+
+Now, let me interject something in here. Where you’re going, it’s a good direction in the interview. Two of the last summers but for a—I would say the last four or five summers, there were visits by the farmer’s son, and one of the visits in—the last two summers, he worked side by side with me, and in the previous summers, they were sporadic visits.
+
+He had gone to the University of Nebraska, done ROTC [Reserve Officers’ Training Corps] and became a fighter pilot, so at a very young—</u>
+      <u who="FARKAS">Oh interesting.</u>
+      <u who="RUBUS">—at a very young age, at least two summers and sporadic visits before that, he talked the lifestyle, the career progression, the work environment of being a fighter pilot.</u>
+      <u who="FARKAS">I see. And what years would that have—</u>
+      <u who="RUBUS">What years were that?</u>
+      <u who="FARKAS">So in other words, as a fighter pilot, what was he doing? Was he deployed anywhere?</u>
+      <u who="RUBUS">No. His career turned out to be totally dissimilar from mine. He had been in—this was the—I think he was commissioned in—oh, let’s see, probably ’55, ’6, ’7 or ’8. Had gone from ROTC to pilot training to a convers- —well, a training program that qualified him in the [Convair] F-102 [Delta Dagger], which was one of the very first supersonic, missile-equipped, air defense aircraft fighters, and his first operation assignment was at Andrews Air Force Base [now part of Join Base Andrews, Maryland] in Washington, D.C., defending the nation’s capital from the Soviet whores. I’m being a little facetious, but that was his job.
+
+Then he upgraded when the [Convair] F-106 [Delta Dart] followed the F-102, and this is probably Greek to an Army ROTC student, but this was the first line of defense against the nuclear bomb or nuclear equipped bombers that were going to come in and—in the middle of the Cold War. So it was a very elite unit. Let’s just say that social opportunities and the lifestyle of a single, bachelor fighter pilot in Washington, D.C., probably generated as many stories, working side by side—there were lots of jobs on a farm where you would spend an hour or two or three in—in reasonably close proximity, working very hard, picking bales up and stacking them on the—on a trailer or moving irrigation pipe or doing those sorts of things, where you could talk.
+
+And the farmer was a staunch Republican, a fixture in the Republican Party in Nebraska. His funeral, which I attended, was attended by two retired senators and three retired congressmen. And the conversations were not what you’d expect on a farm in nowhere, Nebraska. [Chuckles.] But very—very useful in my formative years, as were the discussions with the bachelor fighter pilot in Washington, D.C.</u>
+      <u who="FARKAS">Now, did you share those political views at that time?</u>
+      <u who="RUBUS">Well, you’re—you’re—you’re leaping to a conclusion. This individual had been a staunch [President Franklin D.] Roosevelt New Deal Democrat for a number of years.</u>
+      <u who="FARKAS">Interesting.</u>
+      <u who="RUBUS">So there were a very diverse set of political views, and I would say I think the work environment and the lifestyle on the farm and the independence had far more impact on my—what are conservative political views, but certainly I was subjected to a good deal of Republican propaganda at that time. You—you need also to understand that I am an Independent. I’m not a registered Democratic or Republican. And the missteps of the [President George W.] Bush administration, in its international program, but the second Bush, W., made me an Independent.</u>
+      <u who="FARKAS">Interesting.</u>
+      <u who="RUBUS">So don’t draw any conclusions. Don’t draw any conclusions from ancient history, okay?</u>
+      <u who="FARKAS">Oh, no, no. I’m not—not going down that line, certainly. But—</u>
+      <u who="RUBUS">Well, I think you can tell from the trajectory of this—of this—of this conversation that I—I don’t have a very common—I don’t have a very—didn’t have a youth—a childhood through matriculating at Dartmouth that—that would reflect most people’s experience.</u>
+      <u who="FARKAS">So I guess that is my next question: Why Dartmouth? I mean, opposite ends of the country. It seems like you were towards the south; that was towards the north. Entirely different spheres. How did you come to apply to Dartmouth?</u>
+      <u who="RUBUS">I applied to four Ivy League schools. I knew I would probably graduate as the valedictorian, would probably have a good academic grade—academic record in a very small but not very impressively academically high school. And I applied for—to a very wide range of institutions. And I enjoyed being out of the house, out of the home, and had no inhibition at all about going to school in New Hampshire or in Boston or a number of places. I applied to both Harvard [University] and Yale [University] and was in the Harvard acceptance track, I believe, until I went for my alumni interview. And my alumni interview in Harvard, in the Harvard system had created such a negative impression that I withdrew my application. Let’s put it that way. No reason to trash one of our esteemed Ivy League colleagues [sic].
+
+But I decided that I did not want to continue with the Harvard, Yale or Princeton [University] applications, I was very favorably impressed with the Dartmouth interview, which was with two people, good humor and well-grounded individuals. Not as impressed with their—their—well, let’s just say those interviews went—that interview went far better than the other three. And when I realized that I had a shot at an Ivy League education, I decided to persist with Dartmouth, and that’s where I went.</u>
+      <u who="FARKAS">Now, at that point in time, did you apply for [U.S.] Air Force ROTC prior to coming to Dartmouth, or is that something you started once you got to campus?</u>
+      <u who="RUBUS">I wanted to take a look at the Dartmouth ROTC program and see whether I wanted to participate. I knew I could be commissioned any number of ways, and no, I didn’t—didn’t consider any activity with ROTC before I got to the campus. I went in and looked at the system and decided I would start with that. And, in fact, I’m not sure—I don’t recall the terminology, but I was—I—it’s easier to describe the fact that the Air Force offered me some kind of financial assistance that they worked out with the college. They picked up some of the bills that Dartmouth was paying for me. They—they picked up those bills when I was a junior.
+
+By the student scholarship assistance from the ROTC—but they—it was a very small ROTC program. I think we had four in my graduating class, ROTC—Air Force ROTC types.</u>
+      <u who="FARKAS">So let’s—</u>
+      <u who="RUBUS">I—</u>
+      <u who="FARKAS">Oh, sorry. I didn’t want to cut you off.</u>
+      <u who="RUBUS">No, go ahead.</u>
+      <u who="FARKAS">So let’s wind backwards a little bit. How did you actually get to Dartmouth? Did you fly or drive across the country?</u>
+      <u who="RUBUS">No, I was in Nebraska at the time just before. My parents were—were planning to come to Pennsylvania that year, so they—I don’t remember how they got there, but sometimes they took the train, they flew, or they drove, so I don’t know. But I met them in Pennsylvania. They drove me up to the campus. We both—we all looked at the campus, and then they went home.</u>
+      <u who="FARKAS">Do you remember when you first got to the campus what your first impression was?</u>
+      <u who="RUBUS">No, I really don’t. But my—my first impressions of Dartmouth were more formed at—in the Connecticut suburbs of New York City, where I had—I had been informed who my roommates would be, and corresponding with one of them, and went to visit him, but I think we drove up. I—I—but he was in let’s just say a very different social and economics strata. And I had a very good time with his family and met a number of people who were all headed off to universities for a couple of days, a couple of parties in Stanford, Connecticut, and then went on to Hanover. My parents came in. They were not there very long. And we started—you know, the round of events that crank up your freshman year.</u>
+      <u who="FARKAS">So tell me about—</u>
+      <u who="RUBUS">I don’t have any major, major, huge impressions of Hanover or of Dartmouth or anything like that.</u>
+      <u who="FARKAS">Can you tell me about your freshman orientation, your first couple of weeks or month at Dartmouth?</u>
+      <u who="RUBUS">I apologize, but I don’t have very many distinct memories of that—</u>
+      <u who="FARKAS">Or here’s a—</u>
+      <u who="RUBUS">—of that program as well.</u>
+      <u who="FARKAS">Here’s a more specific one: I—I saw in your yearbook that you were part of Green Key [Society]?</u>
+      <u who="RUBUS">Yes.</u>
+      <u who="FARKAS">At that time, was Green Key still doing freshman welcoming stuff?</u>
+      <u who="RUBUS">Yes, I believe so, but you’re not really a Green Key until your sophomore year, when you participate in those kind of programs, so—but I don’t remember much about the Green Key orientation at all, on Hanover.</u>
+      <u who="FARKAS">Ah. So at Dartmouth, what was your major?</u>
+      <u who="RUBUS">Russian language and literature. And that’s not very descriptive of my academic program, but it was Russian language and literature.</u>
+      <u who="FARKAS">Now, over your academic career at Dartmouth, did you come in knowing you wanted to do Russian language and literature? Did you come in with a different idea?</u>
+      <u who="RUBUS">Well, you—you—you’ve not described what was actually happening. I had an absolutely miserable foreign language program at that very small, academically challenged high school. I made the decision to start a new language, which was acceptable at Dartmouth, to fulfill the foreign language requirement that existed in those days. I have no idea what’s their—what the foreign language requirement is now. But as a sideline—you know, as a sideline, a peripheral interest, secondary interest, I decided to take a language that I thought would be useful to me. And—and I bounced around in the decision process from French to German to Russian. And since I did have an interest in being in the military already, I thought, Well, I can either be a pilot or a spy.</u>
+      <u who="FARKAS">[Chuckles.]</u>
+      <u who="RUBUS">And Russian seemed to be an interesting language to take. And as I got into it, I did find that I was interested in as many aspects of the Soviet Union and the Russian culture as I was the language, and what is written up as a Russian language and literature major, if you actually look at the course content of what I took, I was allowed to take the minimum number of Russian language and literature courses to satisfy the department, but I also took as many of the sociology, history, political science—those kind of courses that related to the Soviet Union or Russia. So I actually cobbled together accidentally, with no particular design or intent, what the Air Force would have called or the State Department [sic; U.S. Department of State] would have called an area studies program.</u>
+      <u who="FARKAS">Interesting.</u>
+      <u who="RUBUS">Now, that did absolutely nothing for me career wise in the Air Force in the first 20 years of that career. The Russian language was put on the shelf, and I got totally absorbed with—in other—in other things in the military. But obviously, since you know my history, it was resurrected later.</u>
+      <u who="FARKAS">Now, in terms of other academic interests at Dartmouth, are there any other memorable academic things that stick out to you?</u>
+      <u who="RUBUS">No, I was—I was very—I mean, there were no epiphanies; there were no—there were several instructors that were—were—were very, very good, but I—</u>
+      <u who="FARKAS">Do you remember any of—of your favorites?</u>
+      <u who="RUBUS">[Charles B.] McLane in political science, [Basil] Milovsoroff from the Russian language program, [Dmitri] von Mohrenschildt from the language program. I—I basically bounced around and cherry picked, without a—I didn’t have—for example, my—the room I—I lived with one roommate, [Kenneth M.] “Ken” McConnochie for all four years. We were in triple rooms for the first three years, but we had—the third party in the room was—was different each year, and then we—we pledged a fraternity and had a double room in the fraternity. But he had—he’s a physician now. I believe he’s instructing at the Dartmouth Med[ical] School [now Geisel School of Medicine], but—if he’s not retired.
+
+But I would say my academic history, since I didn’t take a traditional path in—at Dartmouth, didn’t lend itself to, you know, having specific mentors or, you know, highlights or whatever. But, you know, there were several people I was very impressed with. And I was very happy with the flexibility that the college gave me. I guess that’s how I’d answer that question.</u>
+      <u who="FARKAS">Now, going back for a brief moment to not just high school but things prior to high school, would you describe yourself as popular in high school?</u>
+      <u who="RUBUS">I was a very active participant in student government, athletics. I don’t know that “popular,” Big Man on Campus, if you’re looking for that kind of—mmm, I would say no, I wasn’t in the—the most popular, but I was very visible and very active in—in just about everything the college— the college— the high school offered.</u>
+      <u who="FARKAS">Now—so—and—sorry.</u>
+      <u who="RUBUS">Let me ask—I’d like to—I’d like to pursue in the finest [unintelligible] traditions—one is: How large was your high school graduating class?</u>
+      <u who="FARKAS">Fifty.</u>
+      <u who="RUBUS">Fifty. </u>
+      <u who="FARKAS">Yes.</u>
+      <u who="RUBUS">Was it a public or private institution?</u>
+      <u who="FARKAS">Private.</u>
+      <u who="RUBUS">Okay. May I ask where it was, what was the name of the school?</u>
+      <u who="FARKAS">A little bit unusual. It was Valley Forge Military Academy [&amp;amp; College].</u>
+      <u who="RUBUS">I know it. Okay. I know it. </u>
+      <u who="FARKAS">Yeah. </u>
+      <u who="RUBUS">Well, we have very, very different—very different—we come from very different parts of the United States, and you have a very different high school—I mean, high school is not even the correct term. I don’t think—</u>
+      <u who="FARKAS">A very different experience.</u>
+      <u who="RUBUS">To ask—to ask the question of a backwoods, small, Banning Union High School—institution—and then project in to where you were—was it an all-male school? </u>
+      <u who="FARKAS">Yes.</u>
+      <u who="RUBUS">I think it was.</u>
+      <u who="FARKAS">Yes, it was.</u>
+      <u who="RUBUS">Yeah. I don’t know that you can associate or identify with it, so I’m not sure it’s a useful question, but I’m happy to answer it. I’m just trying to put it in context for you.</u>
+      <u who="FARKAS">It’s—it’s—what I’m actually more interested in—we can move into this—is at Dartmouth, so you mentioned you were in a fraternity. I see Psi U [Psi Upsilon]—did they call it Psi U when you were part of it?</u>
+      <u who="RUBUS">Yeah. Mm-hm. </u>
+      <u who="FARKAS">Yup. So why did you pick Psi U? Did you—did you always know throughout freshman year that you were interested in rushing?</u>
+      <u who="RUBUS">No, I didn’t. Ken and I rushed or went in a visitation mode to Psi U because he had brothers there. He was—let’s see, one, two—third-generation Dartmouth, I think. I can’t remember. But that was the interest. I found the—the brotherhood, or whatever you want to call it now—I don’t have a continuing, close relationship with Psi U, and we’ll talk more about that later. But that was a sort of a familial, indirect familial—but I rushed a whole bunch of them, and I found, after I got into—into Psi U that the attitudes of the brothers were more closely aligned with mine in terms of intellectual curiosity and wide-ranging interest in the fraternity itself and the membership, and that was the attraction. And I’m not sure it was a hugely conscious decision, but I—I hope that answers your question.</u>
+      <u who="FARKAS">It answers it perfectly. So at Dartmouth, as a member of the fraternity system, did you—did you have a very active social life in the kind of conventional fraternity sense?</u>
+      <u who="RUBUS">I don’t know if I was more or less active than most people, but I do know I would say I would say I was, you know, average in terms of activity. I participated at—I was a—I played freshman football and enjoyed that. I’m not a large man, and I didn't see any future—I wasn’t going to do anything in the football program. I had been a baseball player and had played baseball, both on the high school teams and, in the summer, in Nebraska as—as a semi-pro kind of adult. That’s a term that might be deceptive in terms of how good the baseball teams were, but I got a car to get to the games and so forth.
+
+But I decided to—I was tired of baseball, so I decided to play lacrosse, and I lettered as a freshman, and I would have lettered all three years and was the starting goalie for my junior and senior year. Was very active in that, was very active at sports, and, yes, I would say I was very active in the—in the fraternity social scene. But I had—I had a good time at Dartmouth.</u>
+      <u who="FARKAS">Yeah. So at that time, if I’m correct, President [John S.] Dickey [Class of 1929] was president?</u>
+      <u who="RUBUS">Correct.</u>
+      <u who="FARKAS">What did you think of Dickey?</u>
+      <u who="RUBUS">He was president all four years. 
+
+What?</u>
+      <u who="FARKAS">What did you think of Dickey and the way he and the other administrators ran the school?</u>
+      <u who="RUBUS">I don’t know that I have a well-formed opinion of Dickey. I enjoyed, thoroughly enjoyed my experience at Dartmouth. I thoroughly—I was challenged positively by the academic experience. I was very satisfied with the social and athletic and student government opportunities I had, so on balance, since he was responsible for that, you’d have to say that I have a favorable opinion. But in terms of a—a—a sense or direct knowledge of his personal role in that, I can’t tell you. But having commanded large organizations, I would say he was doing a very good job.</u>
+      <u who="FARKAS">All right, so let’s move on to ROTC. Can you tell me how you first got involved in ROTC at Dartmouth?</u>
+      <u who="RUBUS">Well, I went—I—I had been—I had intended to evaluate the Air Force ROTC program before I got to Dartmouth, so I went in to see how they ran the program, see what the opportunities were, and it seemed to be a very flexible program. And ROTC detachment commander was a colonel who had been a [Boeing] B-17 [Flying Fortress] pilot in World War II. The other—they only had two officers, if I recall. The other one had been a transport pilot, and they seemed to be good people and running a good program, and it was not going to interfere with my other objectives at Dartmouth, so I signed on.</u>
+      <u who="FARKAS">Can you tell me about the structure of the program, where it was located, how many other cadets were in it?</u>
+      <u who="RUBUS">Sure. I believe—I can’t tell you the total number, but I think you can infer from the numbers I’ll give you now—I don’t believe there were more than six or seven Air Force ROTC participants in each of the class years that I was associated with. So there were probably no more than 20, maybe 30, but I doubt it. And we graduated four in my—in my class.</u>
+      <u who="FARKAS">And—</u>
+      <u who="RUBUS">There’s some humor in there. Go ahead.</u>
+      <u who="FARKAS">Oh, no, no. I want to hear the humor in this.</u>
+      <u who="RUBUS">How many—how many cadets are there in your—your class year? You’re a junior. How many—how many juniors are there in the Army ROTC program now?</u>
+      <u who="FARKAS">It varies, but probably around four. We probably graduate around four to five cadets a year.</u>
+      <u who="RUBUS">Okay. There were larger classes in the Navy and in the Army when I was at Dartmouth, but the humor is in comparison to other universities, that’s minuscule, as you probably well know.</u>
+      <u who="FARKAS">Of course.</u>
+      <u who="RUBUS">Some of the public schools have cadet corps with maybe two or three hundred per class. When I showed up at ROTC summer camp, I was already a cadet colonel because we were all colonels. It was like a confederate Air Force. [Both chuckle.] And my roommate was a cadet major, who was very impressed to be a roommate with a full colonel until he found out how large the corps was, because he had something like a hundred people, lucky for him, in his cadet corps, and I—I had nobody working for me and three colleagues at my cadet corps, all colonels. So, yeah, as a soon-to-be—well, you have a military—you have far more military experience today than I had at your point in the university, your college career, because of Valley Forge experience.
+
+But—yeah, he was totally unimpressed when I showed up with my then-khaki uniforms, had not even been out of the plastic, cellophane, whatever containers and had to be, you know, assembled because they’d never been worn before.</u>
+      <u who="FARKAS">So that’s—that’s actually very interesting for me to hear because in many ways, you could say that is very similar to how it is now, so—or at least how it is in Army ROTC now. Can you tell me what the unit culture was like?</u>
+      <u who="RUBUS">It did not—</u>
+      <u who="FARKAS">You used the word “flexible” earlier.</u>
+      <u who="RUBUS">It did not have a culture, okay? We—we—the ROTC program, as I recall, was not very intrusive. It was—it consisted of an academic program. Two of us became fighter pilots, and had a little bit of contact. I went to visit [Robert E.] “Bob” Fisher [Class of 1967] in Southern California when I was on the leave they gave me when I extended my first tour in Southeast Asia. We had—that’s the last time I saw him. So, I mean, in terms of a close-knit or a—a culture, there was none—none that I can remember. We were there to—</u>
+      <u who="FARKAS">Now—</u>
+      <u who="RUBUS">—to get done what was necessarily in minimalist fashion, in order to get a commission.</u>
+      <u who="FARKAS">Now, did ROTC have a building? Did it have weapons they used for drill?</u>
+      <u who="RUBUS">I don’t recall drilling very much, if at all. The ROTC had a series of offices—you know where Psi U is, probably.</u>
+      <u who="FARKAS">Of course, yeah.</u>
+      <u who="RUBUS">Okay. Directly across the street, in the direction of the [Dartmouth] Green, there’s a building whose name I forgot. For reasons you will completely understand or at least I will inform you, whether you understand or not, I did not return to Dartmouth for 18 years,—</u>
+      <u who="FARKAS">And I am very—I’m sorry. I didn’t mean to cut you off.</u>
+      <u who="RUBUS">—1970 through it was either 1997 or ’98; I can’t remember which. And I’ve only been back once. But the—the—the—I believe all of the ROTC detachments, or at least the Air Force was in that building that is directly across the street, towards the Green—</u>
+      <u who="FARKAS">Would that be College Hall, Collis [Center for Student Involvement]?</u>
+      <u who="RUBUS">I—if you’re curious—and now I am—I’m going to—I’m sitting in front of my computer. There’s nothing on the screen right now, but I may call up Google Maps and see what I can find. I don’t remember the name. Parkhurst [Hall]? Parkhurst is—that’s where the—</u>
+      <u who="FARKAS">Parkhurst is the administration.</u>
+      <u who="RUBUS">Yeah, the administration building. Anyway, it was in that building or right next door.</u>
+      <u who="FARKAS">Yeah, interesting, yeah. 
+
+So my next question is: Vietnam, Southeast Asia, categorically, the conflicts in that region. Do you recall the first time you heard about them?</u>
+      <u who="RUBUS">I would say I was aware of that conflict as I arrived. I mean, I arrived at Hanover in 1963, and in—’64 or ’5, ’6, ‘7 were very active years, so—and I was interested in foreign policy and studying the Soviet Union. I can’t tell you the first day, but I—I doubt that I was unaware of that from the very beginning of—of being at Dartmouth. So when the decisions [President John F.] Kennedy was making to get into that conflict were being made, I’m sure I was aware of them.</u>
+      <u who="FARKAS">Now, was it in your mind that when you commissioned as an Air Force second lieutenant you were going to go to Vietnam or go to some area in Southeast Asia?</u>
+      <u who="RUBUS">The simple answer is yes, but it’s not in the context of what you just described.</u>
+      <u who="FARKAS">I would love to hear the context.</u>
+      <u who="RUBUS">Remember—well, what I’m trying to do is answer your questions and then clarify my answers.</u>
+      <u who="FARKAS">That’s very interesting.</u>
+      <u who="RUBUS">You will get an ex- —you will get an explanation because I had signed up for the Air Force to be a fighter pilot, plain and simple. That was my goal from the very beginning of signing the ROTC commitment. You go back to the experiences I had in—in Nebraska, and I was maintaining contact with these people throughout. I mean, I—I went back as a general officer and spoke at the son—spoke at the graduation ceremony where the son of the fellow I’d been working with graduated from pilot training—you know, flew in an F-15, conducted a—you know. So that—you know, I was committed to that kind of career track from the very beginning.
+
+If you were going to be a fighter pilot, if you were a fighter pilot—and this is not a play on words, you were planning to fight, in my opinion. Fighter pilots who weren’t planning to fight were some of my most disdained colleagues in the Air Force. So back to your question, I had in mind a trajectory very early on that would take me from Dartmouth to pilot training to a fighter qualification and, if at all possible, to the war. That was an objective, not—not a duty. Okay?</u>
+      <u who="FARKAS">I—as an ROTC cadet, I fully understand. I mean, I think that’s even more interesting considering, as your Air Force biography says—and I do have to insert this here—where is that?—it says you were the last U.S. Air Force fighter-on-fighter—I’m sorry, you had the last U.S. Air Force fighter-on-fighter aerial victory with a cannon.</u>
+      <u who="RUBUS">Correct.</u>
+      <u who="FARKAS">I see, which I’d love to ask you about later, but it’s—it’s just very interesting for me to see that and see that that was something you were imagining at this point anyway.</u>
+      <u who="RUBUS">Well, let me tell you, in all honesty, you just said I was imagining that, and I’m assuming you were—you were referring to the environment you asked the question, which was when I graduated from Dartmouth and—and got into the Air Force. No, that’s not what I was imagining at that point. I had been described a peacetime—peacetime environment in the fighter business, and I didn’t know any combat fighter pilots. I—I had read about some. I had read about a lot of them, and I’d read about some in Southeast Asia and was very familiar with the [Republic] F-105 [Thunderchief] loss rates and the kind of things that were coming up in the news when—</u>
+      <u who="FARKAS">Sorry, what is the F-105?</u>
+      <u who="RUBUS">I don’t want to divert you too much into the fighter business, but the—the most—the prestigious fighters are single seat and single engine. The F-105 was the most heavily employed single-seat, single-engine fighter in the initial stages of the war. They had hellacious loss rates, but they were—that was the—that was my objective as I was going through pilot training, and I looked very hard to be number one in my class because the selection—the Air Force offered the graduates of pilot training a list of potential aircraft they could fly, which were anything, you know, from fighters to bombers to tankers to whatever. Number one got first choice and number two, second choice, that sort of thing.
+
+And I wanted an F-105 very badly. There were none—there was a first block of assignments if they had no F-105s, but we’ll consider this history down—downstream. But that was what I wanted to be, which was—I happened to graduate, get into pilot training and come out of pilot training when there was a war on. My mentor and a guy that had told me—you know, had most greatly influenced me to do this, was a peacetime fighter pilot. So we talked about this. It’s not a—you know, it’s—it’s not a failure on his part; there just wasn’t a war on.
+
+So—</u>
+      <u who="FARKAS">Now—</u>
+      <u who="RUBUS">—that’s a very convoluted answer to your question, but I—I don’t think—I don’t think I can accurately explain the thought process without qualifying it to the specific circumstances in which I was making those decisions, okay?</u>
+      <u who="FARKAS">No, I think that’s a very—it’s a very important distinction.
+
+Your peers at Dartmouth, especially those who disagreed with the war. How aware were you, or how much was the antiwar movement relevant to your time at Dartmouth? Were there any major protests? How did you kind of relate to that movement?</u>
+      <u who="RUBUS">I don’t recall—</u>
+      <u who="FARKAS">Let me—let me clarify. This is before you went to Vietnam.</u>
+      <u who="RUBUS">I don’t recall— You’re beginning—your last statement, I didn’t—I couldn’t hear properly. What did you just say?</u>
+      <u who="FARKAS">Oh, sorry. I just wanted to clarify. I know there’s something that I’m very excited to talk about in 1970, after you’ve already gone on one tour in Vietnam, but this is during your time as an undergrad at Dartmouth.</u>
+      <u who="RUBUS">I understood your—your question as far as whether there were any protests and how did it affect my—my relationship with my peers. But you said something after that that I didn’t hear. I couldn’t understand.</u>
+      <u who="FARKAS">Oh. I—I don’t recall, sorry. I’m just very interested in that question.</u>
+      <u who="RUBUS">I—I don’t know that the—well, first, to answer the second part of your question, I don’t recall any major protests. There may have been some, but I did not—I don’t recall seeing them or hearing about them on campus through 1967, although I’m sure there were some and there were—there were people who philosophically disagreed with the war, and I can tell you right now that in my advanced age and with my experience in the political arena—and I—I think you have my Air Force biography. You understand that I was on the Joint Staff, and I was in the strategic planning function of the Joint Staff, in—in particular as the deputy director for international negotiations. I was responsible for our treaty structure and also for the Russian portfolio. I worked very closely with the State Department and understand, to the extent that anyone can, how the State Department, the White House and the Defense Department, and [the U.S.] Congress—I have testified up there—how we get ourselves into conflicts like Vietnam, Afghanistan, not—not the philosophy, not the strategy but the process. I understand the process.
+
+And it’s—it’s not a pretty—If you don’t like, if you like sausage, you best not look at how it’s made, and I would say the same about foreign policy and the United States government. So I am not a fan today of the conflict that I participated in. But a first lieutenant’s or second lieutenant’s perspective is a very different one than a general officer’s. And I—I—I—I’m trying to alert you to the fact that your attitudes toward conflicts are heavily colored by the role you’re going to play in that conflict: whether you see it as an opportunity or whether you see it as a huge risk to your life, limb, whatever. And those attitudes, at the very younger ages (first and second lieutenants, or students) are very different as you age.
+
+So I am fully supportive of the position that the war in Vietnam was a huge mistake. But I was an active, willing participant. That’s something you can wrestle with yourself, as a future lieutenant, but I’m looking up at my library right now, and I can count five or six books on Vietnam, a couple on Russia against Napoleon [Bonaparte]. Valley of Death[: The Tragedy at Dien Bien Phu That Led American into the Vietnam War]—are you familiar with that one? Ted Morgan?</u>
+      <u who="FARKAS">Yep.</u>
+      <u who="RUBUS">That one is worth reading because it’s—it has a lot of references and background for how we got into the war and why we did and why we shouldn’t have, by inference. So Stanley Karnow, Vietnam[: A History]. Anyway—so the point is no one has a single, perfect, correct, astute focus or opinion on a conflict at the same focus at any one point in their life, in my—in my experience. And if I’m branding myself as somewhat of a political chameleon, that’s going to have to be a problem for some people, but I was a willing, active participant for two and a half years.</u>
+      <u who="FARKAS">So going to the more technical side of things now, especially for those people who don’t—aren’t familiar with the ROTC commissioning process, can you tell me about I would say camp to graduation, the process by which you became a distinguished military graduate, what that means and what happened immediately prior to the training you went through after graduation?</u>
+      <u who="RUBUS">I don’t think I have an answer for that, frankly.</u>
+      <u who="FARKAS">All right. So I can—I can rephrase that and change that if you want.</u>
+      <u who="RUBUS">ROTC was not—and I’m sure the chief of staff of the Air Force and the ROTC instructors would—would have—take issue with this—but ROTC was—was designed to—to, I think, prepare me to just an officer of any flavor. And with a very singular focus that I had on being a fighter pilot, there was very little relevance to being a fighter pilot in what you do in ROTC. I took a flight indoctrination program up at Post Mills, Vermont, that basically in—in—in a pilot’s context, assured the Air Force that I could walk and chew gum at the same time.
+
+
+
+What I did in pilot training and what I did in the [McDonnell Douglas] F-4 [Phantom II] qualification course was what got me ready for what I wanted to do, which was be an active combat fighter pilot.
+
+So, you know, did I—did I tolerate the ROTC stuff? Did I—did I do well at it? I believe so. I was a distinguished graduate. You can begin to exert yourself as a leader, or you can—you know, very quickly you can figure out—it doesn’t take long in any kind of organized endeavor with a military flavor to determine who the leaders and the followers are. That’s a normal winnowing process, but it’s not something you train; it’s just—they create an environment where you go in and do it, and you see who does well.
+
+
+
+And I would suspect that you have experienced the same at Valley Forge and in your ROTC experience so far. I hope I’m not contradicting your experience.</u>
+      <u who="FARKAS">Oh, no, not at all.
+
+So that said, you graduated. Is there anything that you specifically recall about graduation? Perhaps anxieties you had? Any—or family that came up? Anything that sticks out?</u>
+      <u who="RUBUS">Family came to town. Extended family came to town. No, nothing—nothing sticks out. I was excited about moving on and excited about the next steps. I had been accepted to pilot training, and—you know, my pursuit of a good record in the ROTC program in Hanover was specifically focused on making sure I got into pilot training, so there are motivations—I think maybe that puts—puts some of my earlier answers into context.</u>
+      <u who="FARKAS">Now, can you tell me about the—the training you went through, pilot training: where it was, what exactly you did?</u>
+      <u who="RUBUS">The pilot training was at Webb [Air Force Base, Texas].</u>
+      <u who="FARKAS">And did it consist of—</u>
+      <u who="RUBUS">Dallas, east of El Paso. We flew an aircraft called the [Cessna] T-41 [Mescalero]., which you would know as the Cessna 172 [Skyhawk], for maybe 40 hours. And, again, this was, you know—in crude terms, was the Air Force’s last chance to weed out the people who couldn’t walk and chew gum at the same time. Didn’t really learn very much in that program. But it was a good elimination device. And that’s me looking back on, you know, 31 years of flying airplanes. That’s what the Air Force did with the T-41.
+
+Then we went into a [Cessna] T-37 [Tweet], which was a twin-engine, two-seat. Obviously, everyone flew with an instructor most of the time. T-37, twin-engine jet. Learned the essences of or the basics of aerobatics, instrument flying, formation flying, the tools, the beams, the bullets, that sort of thing, the tools for most aircraft.
+
+And then went into the [Northrop] T-48 [Talon], which was a supersonic—although we didn’t fly at supersonic very often—supersonic, almost fire performance, low-grade fire performance aircraft with more formation flying and instruments and aerobatics.
+
+Now to point out that the Air Force no longer trains that way. In—in—in the dark ages of pilot training, when I graduated, we were trained—all pilot candidates were trained the same way, whether they were going to bombers, fighters, tankers, transports, whatever. And I think even someone without a flying background can—can accept the proposition that flying a single-seat fighter is a very different enterprise than flying, say, a crewed—not c-r-u, but c-r-e-w-e-d—a large—we had a large contingent of pilots, copilots, navigators, that sort of thing on, say, a [Boeing] B-52 [Stratofortress] or a transport. Different skill set required. So they train differently now. We don’t need to go into that.
+
+But we all trained the same way, then we went into whatever aircraft I described earlier. We were ranked in a competitive fashion. We were ranked on our combined academic and flying scores, and other than personal pride, the—the immediate consequence of that was your choice of what aircraft you were going to fly. And as I indicated earlier, I wanted to be a fighter pilot, so I worked very hard to be number one and was number one and got first choice.</u>
+      <u who="FARKAS">Now, from the end of that training process, what happened—did you immediately—when you received that assignment, were you informed that you were deploying or were there intermediate steps between graduation from that process and going to Southeast Asia?</u>
+      <u who="RUBUS">The—the process was this: You—you get into pilot—you qualify for pilot training, and you are—you receive an assignment to an aircraft, a specific—we label them the Air Force, weapon system. And you then go qualify in that weapon system and then are assigned to a unit that’s  employing the weapon system. 
+
+So if you look at it from a personal standpoint, let’s say you want to be—and people are either looking at a long-term career in the Air Force or they are—well, I shouldn’t say that. There’s a distribution of different objectives, goals and so forth amongst the pilot candidates when they first get to pilot training. Some people competed very aggressively in pilot training in order to become airline pilots, and [unintelligible], so they worked hard, and then when they came out of—about to graduate and were given their choice of weapon systems, they would choose the most analogous aircraft in the Air Force inventory that would lead them to an airline career. That is a very, very well-known decision set for post pilots out of candidates in the Air Force.
+
+There were others at the other end of the spectrum, like myself, who wanted to be fighter pilots and were either willing to accept the fact that choosing a fighter, qualifying in a fighter was going to take you to the war or were hoping that they could graduate, become a fighter pilot, then go to Europe or something. But, you know, the whole pool of fighter pilots was going to go to the wars, so you either needed to be prepared to accept that or you wouldn’t pursue that.
+
+And there were just as many—you know, I can identify and look back now on my colleagues, and I think we started with a little over 100 in my class at this one base, and there were six or seven other bases training pilots at the same time. I would say we had maybe four or five people who wanted to be fighter pilots and wanted to go to the war, and we had, at the other end of the spectrum, probably 15 or 20 people who wanted to be airline pilots, and they were going to tolerate the Air Force for some length of time which was, you know, mandated by legislation, and then resign and go to the Air Force.
+
+And in between, you had a number of other people who just wanted to be pilots and didn’t really have career objectives or specific objectives for their career.</u>
+      <u who="FARKAS">So that weapon system—</u>
+      <u who="RUBUS">Did that answer your question? Does that have any—am I off base here or—?</u>
+      <u who="FARKAS">Oh, no, no, no you’re—you’ve been giving great answers. It’s very good answers. Thank you for that.
+
+So what weapon system were you assigned?</u>
+      <u who="RUBUS">I was—I—I had to select an F-4 [McDonnell Douglas F-4 Phantom II], which is a fighter with two people in it and two engines, and I point that out for any of those who—who know the weapon systems. It was a difficult decision for me because having been focused on a single-seat, single-engine fighter career, or at least entry level, and having a—a strong desire to fly the F-105 initially, I really wanted an F-105, and there were no F-105s in the block of available assignments offered to me by the Air Force. </u>
+      <u who="FARKAS">I see.</u>
+      <u who="RUBUS">But there was—go ahead. You had a question.</u>
+      <u who="FARKAS">Oh, no, no, I didn’t. Sorry.</u>
+      <u who="RUBUS">There was a—there was an F-4 front seat—and the F-4, for reasons that I strongly disagreed with, as—and the Air Force eventually changed—the Air Force for, I think, political reasons and force level reasons, was assigning—had been assigning pilots right out of pilot training to the back seat of the F-4, where they didn’t really do much flying. In fact, they shouldn’t have been doing any flying if they were employing the aircraft correctly and if the guy in the front seat did it, did all the flying. 
+
+But the—the—the Air Force decided to experiment and put a couple of second lieutenants directly into the front seat. And at the time, a lot of people were warning me that they might offer me the front seat and I’d end up in the back seat and that—that was extremely risky career wise. But since there were no F-105s and the F-4 was a frontline flyer and assuming a larger and larger role in the—in the war, I decided to take the front seat F-4 assignment. As it turned out, it was—it was as good a decision as I could make at that point.</u>
+      <u who="FARKAS">Now—yeah.</u>
+      <u who="RUBUS">I’m giving you an awful lot of—this is not just a—there are an awful lot of Air Force unique and pilot unique and fighter community unique considerations in that, and I’m trying to explain as much of that as I can without burdening you with a lot of fighter pilot lingo or attitudes. But go ahead.</u>
+      <u who="FARKAS">No, you’ve been doing—you’ve been doing a great job of that, so thank you for explaining those terms. That is one thing that the project tries to encourage, kind of, you know, explaining the more jargon-y terms and concepts that civilians might not necessarily get because whoever is listening to these tapes might not necessarily have a knowledge of that, so thank you again.
+
+Now, when you had been assigned that weapon system and trained on that weapon system and it came time to select units, did you have any type of input into the type of unit you’d be a part of?</u>
+      <u who="RUBUS">None.</u>
+      <u who="FARKAS">None.</u>
+      <u who="RUBUS">You—you—an individual who graduates from pilot training by selecting his weapon system has narrowed down the aperture significantly on where he’s going to be assigned and what kind of unit he’s going to be in, but you lose control of that completely. You go where the Air Force needs you to go. And I knew that—that—you know, the range of assignments at that point, you knew what the F-4 locations were. You knew where they needed pilots. And the greatest demand was in Southeast Asia. And—</u>
+      <u who="FARKAS">Now, what was your first assignment? What unit?</u>
+      <u who="RUBUS">Well, okay, my first assignment in the F-4 was the qualification program, and that was at George Air Force Base in Southern California, where I—I spent I think it was four to six months learning how to fly and employ the F-4 air-to-air gunnery, air-to-ground gunnery tactics, that sort of thing, so the first assignment in the F-4 was to learn how to fly the F-4 at George Air Force Base.
+
+The next assignment was Ubon Royal Thai Air Force Base in Thailand, where the—the four fighter squadrons that were there were active participants in the air activity over both North Vietnam and Laos. And I’m not sure what depth we need to get into there, but—</u>
+      <u who="FARKAS">Well, let’s go back a little bit to before you went over to Thailand. So before you went to Thailand—I guess when you received the assignment or the notification that you were going to go to Thailand, what did your parents think about this, your siblings? I don’t know if you had a significant other at that point, but if you did, what did they think?</u>
+      <u who="RUBUS">Well, no one—no one was very pleased about that, and, no, there wasn’t a significant other. But the—they were all very aware from the very beginning—the very beginning being, you know, initial qualifications for pilot training and then certainly the selection of the F-4, they were all very aware that that was—was my objective, and so they were if not supportive, resigned to it.</u>
+      <u who="FARKAS">And what did—what did you think, given the prospect that you could have been assigned to Vietnam, itself, or another place? Would you say you were happy with the assignment or disappointed or neither?</u>
+      <u who="RUBUS">It was what I wanted.</u>
+      <u who="FARKAS">So—</u>
+      <u who="RUBUS">I was happy with it.</u>
+      <u who="FARKAS">Yeah. So before you went to Thailand, I’m curious what kind of contact you’d had with people from that region. I don’t know if there were many Asian or Southeast Asian students at Dartmouth, but did you know any Southeast Asian people?</u>
+      <u who="RUBUS">None. I’m sure I had encountered—</u>
+      <u who="FARKAS">Had you—had you ever—yeah.</u>
+      <u who="RUBUS">—I’m sure I had encountered—I mean, Dartmouth is—is—wasn’t that cosmopolitan. Certainly Hanover is not cosmopolitan.</u>
+      <u who="FARKAS">[Chuckles.]</u>
+      <u who="RUBUS">And certainly Big Spring, Texas, is not cosmopolitan, and I can guarantee you that Victorville, California, is not cosmopolitan. Neither was the town I grew up in, Banning, nor was the environment in rural, central Nebraska. So, no, I—I did not have the advantage or disadvantage of, say, Boston, New York, Los Angeles, any of those experiences. And if—if I looked back at the consequences of my choices, of going to Hanover, going to Big Spring; the consequences of choosing the career trajectory that I did, I would say you have focused in on a—a major deficiency. I was not at all exposed, as I was very late in my career, when I went to live in Moscow for four years, to a variety of other races, cultures, religions, whatever. That’s not something you can create in Hanover, in Sodtown or Ravenna, Nebraska or Banning, California.</u>
+      <u who="FARKAS">Interesting.</u>
+      <u who="RUBUS">I don’t know if it’s a deficiency, but it is a—a fact of my, you know, formative years.</u>
+      <u who="FARKAS">So arriving in Thailand, what did you think, getting off the plane? Was it different than you expected? Was it exactly how you expected it to be?</u>
+      <u who="RUBUS">Well, I’ll offer you two—two factors in that, that formed that impression that you’re looking for. First and foremost, it was pretty much what I expected because all of my—all of my instructors in—well, no, most of my instructors in the qualification program in the F-4 had already been to Southeast Asia and were—were—we discussed what it was like over there as the context for the training I was going through.
+
+Now, one of the things that I think is difficult to perceive or accept is how focused someone is on learning the skills (a) to be effective in a fighter and (b) to stay alive in a fighter. So what I was focused on when I got there was my initial combat checkout and progressing acceptably, by staying alive and becoming a better fighter pilot. That is a focus that doesn’t fit the academic, you know, somewhat distant conversation we’re have right now. So—</u>
+      <u who="FARKAS">So—</u>
+      <u who="RUBUS">So I got off the airplane, and it was pretty much exactly what I expected.</u>
+      <u who="FARKAS">Now, going to that, I would say—well, as—as you have phrased it, rather not academic, but I would say, in many ways, academic concept—what was the mission of the unit you were assigned to? What kinds of things did you do as a fighter pilot?</u>
+      <u who="RUBUS">For my first tour, the missions were almost exclusively focused on or limited to attacking ground targets in Laos, southern North Vietnam, occasionally South Vietnam, and occasionally Cambodia.</u>
+      <u who="FARKAS">And what years was that, by the way?</u>
+      <u who="RUBUS">From February of 1969 through December of ’70.</u>
+      <u who="FARKAS">So what does that mean as a pilot? </u>
+      <u who="RUBUS">Well,—</u>
+      <u who="FARKAS">Can you kind of walk me through what one of those sorties would be like?</u>
+      <u who="RUBUS">The sortie would involve a flight briefing, which you’d receive an intelligence assessment of the threats in the area, a specific briefing on the target that you were going to attack, and a briefing on the defenses that were expected in the target area. Then—that briefing would be by people who were not going to fly with you, but then the flight leader would determine what tactics he wanted to employ. And the flights were very seldom single-ship, mostly two- or four-ship formations in the target set, the mission set that we were given in Laos. It was not a large raid kind of thing. That occurred in my second tour, when we were going into North Vietnam. 
+
+But for the first two years, we would then also—someone independent of the pilot set that was going to actually fly the mission would determine, to the best of their ability, what weapons would be most effective against that specific target and the time over target, that sort of—you’d be given all that sort of thing. And then the flight leader would determine what tactics he wanted to do.
+
+You’d go from the initial briefing to a flight briefing, where everyone would be given a role to play in the formation. You might do some aerial refueling before you attack the target. You might not. You might just fly from Ubon into Laos and do that.
+
+Then clip on the—your sort of life support equipment, g-suits, that sort of thing, go out to the aircraft, start. From that point, it was a—a very focused—a very focused effort to—to conduct yourself and fly your aircraft in a fashion that fit the objectives and the responsibilities of the role given to you by the flight leader: Launch, go to the target, hopefully come back.</u>
+      <u who="FARKAS">What kinds of targets did you have?</u>
+      <u who="RUBUS">In that phase of the war—let me back up and give you—in the early phase of the war, most of the targets were North Vietnam, and they ranged from factories to oil refineries to air bases to, you know, most of the kind of things that you associate in a—in a—with a heavily defended—well, you asked for the targets not the defenses. The targets were in North Vietnam in the first phase of the war. Any of the things that supported the transportation systems, the weapons production systems, the materiel storage area, that sort of thing, that supported their war effort.
+
+In Laos it was the attacks on the transportation system and the items being transported from North Vietnam through Laos into South Vietnam. That could be anything from personnel to—to foodstuffs to weapons to petroleum, oil, lubricants, that sort of thing that were on the trail from North Vietnam, around the border between North and South Vietnam, into South Vietnam, supporting the—the North Vietnamese units in South Vietnam and the—the Viet Cong units in South Vietnam. So the targets could be anything from transportation systems to—to the items being transported, to the people, to the animals, whatever.</u>
+      <u who="FARKAS">Now, you mentioned one thing: defenses. And returning to something I mentioned earlier, which is the—the distinction I mentioned of being the last—having the last fighter-to-fight aerial victory with a cannon, and looking over your awards and decorations, you have a Silver Star, a Purple Heart, a Distinguished Flying Cross, a Defense Distinguished [sic; Meritorious] Service Medal, in addition to, of course, the Air Medal with 24 oak leaf clusters. So aside from the amount of missions you’ve flown, and this is the official Air Force mission—it says you flew 375 combat missions in Southeast Asia? Not necessarily on your first tour, but—</u>
+      <u who="RUBUS">Yes.</u>
+      <u who="FARKAS">Can you tell me more about how you were awarded the Silver Star or the Purple Heart or any of these medals? I don’t know if they happened during your time in Southeast Asia, but if they did, could you give me more information on that?</u>
+      <u who="RUBUS">I could. I can describe the missions on which—or for which those missions—or those awards were made. I would prefer not to, but not from any—not from any false sense of modesty or so forth. Let me give you—</u>
+      <u who="FARKAS">It’s completely fine, by the way, if—yeah.</u>
+      <u who="RUBUS">Well, now, let—let me give you the context. I have—there are several—Dartmouth is reaching out to Vietnam veterans in a number of ways, one of which the—I don’t know—you’re probably not aware, but the Class of 1967 is encouraging written inputs from classmates, to be combined in a, you know, “What the War Did to Me” kind of—of document, for the class. So I have to be consistent throughout this. And your—the thrust of your question is a bit different than the—the—the direction that the class, the Class of 1967, is taking, because everyone is allowed—you know, it’s more of a psychological—
+
+And what I don’t want to do is give you the wrong impression, particularly because the objectives—and I’m looking at the sheet you sent me—the ways they affected life at Dartmouth—and I think you can infer from what I’ve said already, the war really didn’t really affect my life at Dartmouth as an undergraduate very much at all.</u>
+      <u who="FARKAS">Yes.</u>
+      <u who="RUBUS">And if that’s the focus, then—then, you know, the medals and all that sort of thing are somewhat immaterial.</u>
+      <u who="FARKAS">Well, so there are a number of—this is a very broad project, so that—the reason it’s phrased that way is because we also have people in the project who were, for example, antiwar protesters, and I think the language is phrased to be inclusive of them. But we’re really interested in a much broader spectrum of things.</u>
+      <u who="RUBUS">Well, I respect that, and I—I—the antiwar protesters are one group you’re going to be interviewing, and you, as an Army officer, prospective Army officer, will I think read very carefully the infantry—the accounts of the war that are written by the Marine and Army people who participated in the ground war in South Vietnam. And their—we probably share only one common experiences—and I’m talking pilots and infantrymen, and let’s just focus on those two for a second—and is that your—what is your—what combat arms objective in the Army?</u>
+      <u who="FARKAS">I haven’t quite decided yet. Probably—I want to eventually go Civil Affairs.</u>
+      <u who="RUBUS">Civil Affairs. Okay. The—the images that the people who have not fought in a—in a—in a military environment are mainly focused on the blood and gore and immediate watching your friends die, holding them in your arms as they die from legs and arms that are shot off and that sort of thing. I have been there only through books and only through conversations with people that I respect who actually had that experience.
+
+My stance is that, although there are common objectives, particularly amongst people from the various services and combat arms who aspire to be leaders of others in combat or to prepare themselves to be leaders of others in combat, that there’s a very different mind-set amongst the people who will be walking through the mud with and looking people in the eye when they kill them than there are amongst fighter pilots, who—and I’ll be brutally honest about it—who go to war in an air conditioned cockpit. And when they see friends die, it’s from a distance, in an exploding airplane or an airplane hitting ground, or coming back to their quarters in the evening and finding a roommate missing. Those have different psychological impacts.
+
+And as I look back on this, I would guess that the only common interest I shared with a Marine second lieutenant leading a squad or a platoon and myself was that the common interest in being very good at what they did, being effective in—in applying combat power to the—to the enemy, and keeping as many people alive. But the psychological impact of the experience they had, we had—and I’ve read a number of—of papers from my colleagues from Dartmouth who—who were in the mud in South Vietnam, and I know my own experience, and they’re just very different.
+
+But the shared common objective is being good at what you do and keeping your people alive and applying combat force to the enemy.</u>
+      <u who="FARKAS">Well—</u>
+      <u who="RUBUS">And the reason I—what I’m—what I’m trying to do is differentiate my experience in some fashion from the experience of the other people but—but give you the common objective. And that common set of objectives provides you a hell of a focus when you get to the theater, and it—it totally overshadows any political or other concern you might have at that point. People become usually apolitical in combat, I think. That’s my experience. 
+
+Am I making any sense to you at all?</u>
+      <u who="FARKAS">Absolutely. I’m thinking it’s around 11 o’clock. We could stop now and schedule another time to finish up our conversation. Would that work for you?</u>
+      <u who="RUBUS">If that’s best for you, that’s fine with me. I could give you another 30 minutes without destroying my schedule today, but I’m not sure—I’m not sure how that would fit with your interview objectives, and I’m perfectly happy to stick with your schedule.</u>
+      <u who="FARKAS">I can also do 30 minutes, but I think, since we’re kind of at a natural stopping point, why don’t we wrap it up? So I’m going to stop the recording now.
+
+[End of January 16, 2016, interview. Begin March 5, 2016 interview.]</u>
+      <u who="FARKAS">This is 9:12 a.m. on March 5th, 2016, and this is Sandor Farkas talking to Gary Rubus. I am in Webster Hall on the Dartmouth College—on the Dartmouth College’s campus, and he is in his home in New Mexico.
+
+So we left off—and this is the second round of our interview. We left off last time talking about your first tour. So when did your first tour start, again?</u>
+      <u who="RUBUS">Let’s break the first tour into two tours because if you want me to talk about my experience at Dartmouth during the time that I was in Vietnam, in fact that occurred in the middle of my first tour. My first tour began in February of 1969. I had left Dartmouth, gone to pilot training, gone to the checkout program in the F-4, finished the checkout program just before Christmas in ’68, and then did a couple of survival training courses and ended up at Ubon Thailand in February of 1969.
+
+In June of 1970 I completed what would have been my—my first tour if I had not extended my tour. I extended my first tour and came back to the United States essentially on leave, on vacation, in May, June of 1970. Then I returned in—it was June, July—I don’t have the exact dates—June, July to finish up what I’ll have to call my extended or second half of the first tour. I’m not sure how you want to bookkeep this, but—
+
+I then stayed in—in Thailand, flying in the places I’d been before, until late December of 1970, so essentially I was in Vietnam, with a break to come back to the United States, from February of ’69 through December of ’70. So that’s the first tour.</u>
+      <u who="FARKAS">Interesting. So let’s go back to that break. Obviously, you—I’m assuming you had accrued some leave, and what were you most looking forward to, going back to the U.S.?</u>
+      <u who="RUBUS">Well, let me go. I didn’t get to the end of the tape. Did—was I able to cover, in the last session, what happened to me just before I went back on this break?</u>
+      <u who="FARKAS">No, actually.</u>
+      <u who="RUBUS">Okay. There’s some humor, there’s some pathos, but there was an unusual circumstance. The F-4 has two air crew members in it. Normally, it’s a—most of the time, it’s a pilot in the front seat and a navigator in the back seat. He’s called a weapon system operator, and he operates a number of systems that are accessible to the front seater but better done with a team of two people: radars, ground attack, avionics, that sort of thing.
+
+I had been crewed—c-r-e-w-e-d—I had been teamed up with an individual for about the latter half of my—of the period between January of February of ’69 and June of ’70. I’d been teamed up with a fellow, and we flew almost exclusively together. Occasionally, we would swap out with different individuals, but still together. He was—had gotten to Ubon in June of 1969 and was due to rotate home in June of ’70.
+
+When you finish up your combat tour, it’s somewhat of a ceremony. We would usually have fire trucks meet the aircraft. The individual whose going home would be hosed down, get flowers, go to the club, have a party, that sort of thing. And my back seater, Jack Schullenberger [archivist note: spelling uncertain] was due to go home—I don’t remember the exact date, but he and I were teamed up to fly his last combat mission before he rotated back to the United States and my last combat mission before I would rotate to the States on vacation/leave and then [unintelligible] to come back to Ubon.
+
+We briefed for a mission in Cambodia. We were diverted to another target in Laos. And I won’t necessarily go into all of the details on the—the—the reasons, but we were attacking—attacking gun sites, which is not a very good idea if—if the gun site is active because if you’ve shot ducks—Farkas—or Sandor, have you ever shot at a duck in flight?</u>
+      <u who="FARKAS">No, I haven’t, actually.</u>
+      <u who="RUBUS">[Laughs.] Well, you can imagine—I mean, I’m sure you have some weapons training for your Army background, but if a duck is flying perpendicular to your line of sight, you’d have to aim out in front of the duck. Can you visualize that?</u>
+      <u who="FARKAS">Yeah, yeah. like when you’re shooting skeets.</u>
+      <u who="RUBUS">That’s exactly the same. Now, if the skeet is coming directly toward you, where do you aim? Right at the skeet, right?</u>
+      <u who="FARKAS">Yeah.</u>
+      <u who="RUBUS">You don’t have to lead it. Well, If you’re attacking a gun, you’ve basically [chuckles] eliminated the problem for—for the—for the gunner because now all he has to do is aim straight at you. Well, on about our fourth or fifth pass against active gun sites—which we had a perfectly valid reason to be doing that. There were some other people on the ground, and we were trying to suppress an antiaircraft fire so helicopters could come in and pick these people up.
+
+
+
+But we—we got the gun, but the gun got us, and the airplane caught on fire and was—it was flying pretty well, I couldn’t talk to Jack in the back seat; he couldn’t talk to me. There were some problems with the airplane, but I started flying it out over North Vietnam, out toward the Gulf of Tonkin to get back to a—hoping to land at an air base in the northern part of South Vietnam, up near the DMZ [demilitarized zone], called Da Nang, and it looked like I was going to make it over there, but just before we left the coast, the engines quit. My wing man had told me that the fire had gone out. That was good news until the engines quit.
+
+So our F-4 became a glider, and the F-4 does not glide very well. But it got us far enough out over the water that we could bail out, get recovered and go to Da Nang in a helicopter instead of in an F-4.
+
+So let’s just say Jack was not at all pleased [chuckles] with having been shot down on his last combat mission before his rotation, and I was not happy to be shot down at all. I flew one more mission before we left to go back to the United States. I flew one more mission to make sure I hadn’t—that’s one of those if you get thrown off the horse, get back on and ride again, quickly, and then take a month’s vacation.</u>
+      <u who="FARKAS">[Chuckles.]</u>
+      <u who="RUBUS">So that event, which is, you know, something you expect in combat and is not surprising, but it’s certainly a little more exciting than—than a normal combat mission. That immediately preceded Jack and my trip to Boston, where his wife lived, and immediately preceded my trip to Hanover. So those are the circumstances leading up to the incident at Hanover.
+
+Do you have any questions on—
+
+Go ahead.</u>
+      <u who="FARKAS">Oh, so—so you did a water—well, did you bail out of the aircraft before it hit the water? I don’t quite know how these things—</u>
+      <u who="RUBUS">Oh, yeah.  Yeah, the F-4 –the F-4 would not [chuckles]—not be a very good airplane to land in the water, period. Yes, bail out, relatively low altitude. The helicopters happened to be—actually, it was a very fortuitous circumstance: They happened to be airborne on a training mission and were just diverted up the coast to come pick us up. [Chuckles.]
+
+If you’re going to get shot down, this is a relatively benign way to do it, and I’m saying that with a smile on my face. Neither one of us were hurt. I apparently had some injuries that I was unaware of and am now having some problems with my lower back, but the ejection seat is pretty much of a real kick in the butt. It will throw you up from the ground if you’re at zero—if you’re not even moving on the ground, it throws you high enough to—to—to let the parachute open before you hit the ground, so it’s a—it’s quite an acceleration, a lot of g’s on—on your spine, and apparently that caused me some problems. But different story.
+
+So, no, we did not land in the water—we landed in the water in—in a—in a parachute. There’s some more humor in that. When you eject from an F-4 in those days, you had a seat kit that had a life raft that you could deploy while you were in the parachute. It came down on a long lanyard and hung below you, and it would hit the water, you hit the water, you pull it towards you, get in the raft.
+
+Also had some underarm life preservers. Both had been sabotaged, it turned out, in—in the life support shot. And when I deployed the raft and the kit, all I got was the release handle. Everything else dropped into the ocean, never inflated, and when I deployed my underarm life preservers, they inflated from the CO2 cartridges, but they immediately deflated because the oral inflation device had been opened, so they went full up and full down, and I was then a—very, very heavy, with all of the equipment we carried for survival—very heavy sinker about to head to the bottom of the Gulf of Tonkin. [Chuckles.] I got one of them inflated and stayed above the surface long enough for the helicopters to get there.
+
+So it—it sounds humorous at this point; it is humorous, if somewhat pathetic in that there was some sabotage involved, but those were the events immediately preceding my departure from Ubon to go back on a—on a—essentially a vacation, to return to Ubon and finish up another six months of—of combat.</u>
+      <u who="FARKAS">And so going back to Dartmouth, do you remember—do you recall the date that you arrived on campus?</u>
+      <u who="RUBUS">It was three or four days after [the] Kent State [University shootings on May 4, 1970]. You can look up Kent State. I do not recall the date.</u>
+      <u who="FARKAS">But that would be 1970?</u>
+      <u who="RUBUS">Within a week—within a week of the incident where the students were killed at Kent State in Ohio.</u>
+      <u who="FARKAS">Did you know—were you following that news? What were your opinions on that at the time?</u>
+      <u who="RUBUS">Well, this is—this is—this is where it’s going to be difficult for you to accept or comprehend my feelings at the time. And this is probably something that your reviewers of this thing would like to—to review. Let’s just say at the time, given what had just happened with the combat incident, I was not really monitoring or tuned into, while I was in Thailand, what’s going on in the United States. So I can’t—I can’t verify that I was totally unaware, but certainly the kind of news coverage and access you have and time you have and lack of other distractions would give an individual who was in the United States over that same period a different level of awareness of what was going on in—in the United States and specifically at Kent State.
+
+Does that make sense?</u>
+      <u who="FARKAS">Absolutely. So going—yeah.</u>
+      <u who="RUBUS">Not to say that I didn’t—that I didn’t care [chuckles]. I was minimally aware and minimally conditioned to think about those kind of things, as I had been over the entire time I was in Southeast Asia. Now, I can tell you now, at age 70, almost 71, my thoughts about the rationale for the war, the conduct of the war, my personal participation and all that sort of stuff are from a very different perspective and are very different than they were at that point in my life.
+
+I was trying to be the best fighter pilot that I could, to be the best leader of other—I was leading a formation that day. I was actually leading a formation that had people in it that were of—of less rank, military rank than myself because I was a reasonably accomplished fighter pilot and had been designated as a flight leader very early in my career, and people were following me into combat, and I did not want to fail in any of the responsibilities that I assumed when I became a flight leader, which—you know, choice of tactics, choice of targets to attack, all of those kind of things, where other people on the wing had a military obligation to follow me into whatever I got them into. Like Jack [chuckles], unfortunately. He had to follow me because he was in the same airplane.
+
+But I wanted to be very, very good at that. I was totally preoccupied with it. I was also totally preoccupied with combat, none of which is an excuse for any of the activities, but I want to readily admit that I was not at all concerned at that point with the rationale, the conduct and things that I now know, from reading and discussion and revelations that have come out in—in memoirs and so forth on the combat and rationale of the war. It’s a very focusing [chuckles]—leading combat missions is a very focusing activity.</u>
+      <u who="FARKAS">So going back to your arrival at Dartmouth, did you have ay plans for that period of time? Were you planning to go to your fraternity or, you know, what—</u>
+      <u who="RUBUS">I took my—my girlfriend that I had known and been with in Hanover and before. We were going to go up and enjoy some old times:—</u>
+      <u who="FARKAS">So—</u>
+      <u who="RUBUS">—look at the fraternity, look at the campus, decompress, enjoy myself.</u>
+      <u who="FARKAS">So those were the plans. Can you tell me about what actually happened?</u>
+      <u who="RUBUS">Yes. I happened to go up there at about the time that there were some let’s call them disturbances that you can prob- —you’re probably interviewing other people with that—and you’ll get a better understanding of what was going on there, because my memories are not that good—they’re not that pleasant, so I would say you’ll probably get far better reports on what was actually happening there from other people.
+
+But my recollections are a somewhat chilly reception in my—
+
+Hold on one second. I’m going to put you on mute for a second.</u>
+      <u who="FARKAS">No problem.</u>
+      <u who="RUBUS">A somewhat chilly reception in my fraternity, Psi Upsilon, which happened to be relatively close to the building in which the ROTC—I think it’s Parkhurst—was [where] the ROTC offices were, and I’ve actually—</u>
+      <u who="FARKAS">Sorry, one sec. Was it perhaps Collis, the building right in front of Psi Upsilon?</u>
+      <u who="RUBUS">Uh,—</u>
+      <u who="FARKAS">Or College Hall?</u>
+      <u who="RUBUS">Yeah. I actually don’t remember the name. It is the one right in front of—right across the street.</u>
+      <u who="FARKAS">Awesome, so yeah that would be—</u>
+      <u who="RUBUS">You had some disturbances there.</u>
+      <u who="FARKAS">College—</u>
+      <u who="RUBUS">Yeah, there were disturbances in a number of the buildings. I think Parkhurst was taken over for a period of time. But I [chuckles]—I did not remain there very long at all. It was clear that I was not welcome in the fraternity. It was clear that the campus was in somewhat of a turbulent state and that statistically I was in a very distinct minority, so I left. And quite honestly, I did not return again—that would have been in ’67—’8, ’9—it would have been have been in sixty- --no ’70. It would have been in ’70, and I did not return to the campus again for any activity until I believe it was ’86, ’7 or ’8.  And I know know. I don’t have the dates on this. I can look it up, but I don’t know that it’s that material—for quite a while. It was not a pleasant experience.</u>
+      <u who="FARKAS">Can you recall any specific incidents of interactions with students, protesters?</u>
+      <u who="RUBUS">I have no names, no times, no dates, but there were a series of those. I was somewhat readily identifiable [chuckles] as a potential military officer with a short haircut and a different bearing and certainly a different attitude toward the things that were going on. I chose to detach, and I didn’t spend much time in the fraternity at all. It was very clear that—that I was not welcome. So I have no specific, exciting things to report. I was as disappointed with the—the institution’s response to what was going on as anything else and chose to depart and go back to Boston.</u>
+      <u who="FARKAS">So by “the institution’s response,” are you referring to how President [John G.] Kemeny handled—</u>
+      <u who="RUBUS">The college.</u>
+      <u who="FARKAS">Yeah.</u>
+      <u who="RUBUS">The college. You’re—you’re—you’re personalizing this, and I—I don’t have personal, individual, by-name encounters to give you, nor do I have—it’s just the atmosphere and so forth. It was not a place I wanted to be. So rather than—</u>
+      <u who="FARKAS">So—</u>
+      <u who="RUBUS">Go ahead.</u>
+      <u who="FARKAS">How did you spend the rest of your—your leave after deciding you didn’t want to spend it at—on the campus?</u>
+      <u who="RUBUS">I spent some time in—in Boston, spent some time in central Nebraska. I think I’ve told you about the contacts I had there, the previous military types, relatives. And also went to—went home to Southern California and traveled in Southern California. Spent some time with my parents, spent some time with the younger brother in Northern California just before I went back to Southeast Asia and essentially did—did family activities, saw old friends and bounced around Southern California. Rented an airplane and flew around a few different places. And I went to San Francisco and had another wonderful transit through the San Francisco International Airport, where people who were going to and coming back from the war were treated rather rudely. And then I went back to Southeast Asia.</u>
+      <u who="FARKAS">So going back to Southeast Asia, you went to Ubon Air Force Base again?</u>
+      <u who="RUBUS">Yeah, I—I was—I was stationed at Ubon from—from February of 1969 through the end of 1970. Same base, same location, U-b-o-n Royal Thai Air Force Base, Ubon pilots—named after the major town that’s by it.</u>
+      <u who="FARKAS">So did your experiences on leave affect how you looked at—at your deployment, coming back?</u>
+      <u who="RUBUS">I don’t—how do you mean?</u>
+      <u who="FARKAS">So your—your experiences on Dartmouth’s campus, just traveling around the country, your experiences Stateside—did they make you look at what you were doing any differently or just did they give you a different attitude when you came back?</u>
+      <u who="RUBUS">[Laughs.] I will answer that question, but I want to put you on the spot and ask you if you think it should have.</u>
+      <u who="FARKAS">[Chuckles.] I would say—</u>
+      <u who="RUBUS">I want to contrast—I want to—I want to go back to what I told you earlier about a focus on what you’re actually doing and staying alive and all of the—the—the intense concentration that it takes to be good at doing something like that, and why something—why—why you would frame that question the way you did.</u>
+      <u who="FARKAS">So I would say no. I would—if I had to guess, not just for you but for anyone in that position.</u>
+      <u who="RUBUS">Yes, with one additional qualifier. That is correct. What it forced me to do was put my life in the United States, which was my experience at Dartmouth as part of that, and to see—as I was bouncing around with my friends, I was seeing people who were leading lives undistracted—and I’m using that term very selectively—undistracted by the issues of combat, regardless of whatever rationale or why the mission is being conducted, how narrowly focused I had been. And I become a little concerned not about the answer to your original question—you need to go back and listen to that question [chuckles] yourself. I went back and put my—my life as I had known it in the United States in a box and put it on the shelf and went on about my combat business.</u>
+      <u who="FARKAS">So, trying to understand kind of the format of that extended tour, the remaining time you spent during that extension at Ubon, flying more combat missions—are there any other things that stick out in that time?</u>
+      <u who="RUBUS">No. I was not shot down again. I—I basically went through every mission that was flown by my squadron. I became—I actually changed missions a little bit. Most of the time, the F-4 is used as an attack aircraft, carrying bombs and other weapons and attacking targets. We had a very small detachment there, highly experienced pilots, highly experienced not necessarily in their overall flying time but experienced in the mission and in the area that we were flying, who were called forward air controllers, who went out with—with—with only weapons to mark targets and would seek out targets on the ground and lead other formations of similar airplanes, F-4s, F-105s, the Navy, followed their aircraft. We’d lead them against targets that we had found or had confirmed—you know, they might find some in photo reconnaissance and wanted us to go out and take a look at them and make sure that they were actually reasonable targets. Then we’d lead formations back in, meet them on a tanker, lead them in, mark the target.
+
+And we were doing that in high-speed, highly maneuverable aircraft to avoid being—being shot down, because if you put the smaller, conventional forward air controlled aircraft in that area, they—they were very vulnerable. We could fly at low altitude very fast, take a look at targets.
+
+I did that mission for essentially the rest of my tour while I was there. There were only four or five or six of us crews doing that. So that was a very focusing mission. It was—every day you flew. You were airborne for four to five hours, and sometimes an extended period of time. So, yes, I did—somewhat of a different mission, but not—not a major departure. I had worked with these kind of people before.
+
+
+
+I don’t know fi that answers your question or not. Yes, there was—there was a change—</u>
+      <u who="FARKAS">Absolutely.</u>
+      <u who="RUBUS">—in the mission, but not necessarily a major one.</u>
+      <u who="FARKAS">So also I’m trying to understand kind of the rest of that time in Thailand. Did you also do pilot training or aid in training?</u>
+      <u who="RUBUS">Not in the fashion that you would expect. We—we didn’t—we had no one there—well, let me state it positively: All of the pilots there had been through a training program in the United States to prepare them for the maneuvers and the techniques, of delivering weapons on a target and staying alive. So you weren’t—you weren’t training them. As a flight leader, I would take people who were relatively inexperienced in combat but perfectly qualified in the airplane—I would take them out on their initial combat missions. We’d got out, we’d usually try to fly them in a low—a low threat area on their first couple of rides and, you know, brief them a little more heavily, prepare them a little more differently, the briefings would be longer—so in a sense, yes, we were training, or I was training them. However, it’s not the “here is how you take off and land”; it’s “here’s how you employ this airplane as a weapons platform, which you’d already learned, but here’s how you do it, no kidding, in real combat.”
+
+So an experienced flight lead with an inexperienced wing man is a training environment, but it’s not necessarily I think what you have in mind if you walk out to an airport and say, “I want to learn how to fly an airplane,” that kind of training. Does that make any sense?</u>
+      <u who="FARKAS">Absolutely.
+
+So—so when that tour ended, can you tell me about leaving Thailand and what that was like, if you expected that—</u>
+      <u who="RUBUS">Yeah,—</u>
+      <u who="FARKAS">—you were going to come back?</u>
+      <u who="RUBUS">It was somewhat anticlimactic. I could have stayed—in fact, I should have stayed two more months. It cost me some career moves down the line. I should have stayed two more months. But I had—had basically done everything that the organization had done, and I was ready to go home and—and do something different. It wasn’t—it was more of a career future in the Air Force, kind of, Okay, I’ve done everything I can here. Was getting a little stale, and that can be risky in combat. So I went home.</u>
+      <u who="FARKAS">So you had—</u>
+      <u who="RUBUS">My—my assignment—I went—I went back to a unit in the United States and became an instructor pilot in the—the activities that I was trained in. Remember, I went to pilot training. I graduated and went to an F-4 training program that taught me gunnery and—and maneuvering and that sort of thing. Well, I became an instructor in that environment, teaching people who had never flown the F-4 before and had had no experience dropping weapons or chasing other airplanes. I went back and became an instructor in the kind of program I’d been through immediately after pilot training.</u>
+      <u who="FARKAS">Interesting. Now, can you tell me what that was like, training pilots to go do what you had been doing?</u>
+      <u who="RUBUS">Well, I had, you know, experienced as a student, I was experienced—</u>
+      <u who="FARKAS">Hello? I can’t hear you. Did you move the phone?</u>
+      <u who="RUBUS">No. Can you hear me now?</u>
+      <u who="FARKAS">Absolutely, yep.</u>
+      <u who="RUBUS">Okay. So it was a normal progression. It was something I—I thought I might end up having to do. I didn’t particularly want to do that, but I did it for another—oh, then for another year, then was sent off to another school. You know, I did it well. I’m—I’m certain of that. And I could—had no—no problems trying to describe that to you, but it—it was something you expected to do, and you did it, and it was flying, but it wasn’t as much fun as what I’d been doing in Southeast Asia.</u>
+      <u who="FARKAS">So what did you say you did next?</u>
+      <u who="RUBUS">Well, I left Ubon and went to Homestead Air Force Base [now Homestead Air Reserve Base] in Florida and become an instructor in the F-4 replacement training unit that was training people for operational tours. They didn’t necessarily all go to combat. Some of them went to Europe; some of them went to Southeast Asia, where there were no—not participating in a conflict, but a fair number of them went to—along the same trajectory that I had taken: go from the replacement training unit into the combat squadron.</u>
+      <u who="FARKAS">So after that, what were you saying you did next?</u>
+      <u who="RUBUS">Then I went to a special school. I think it’s between 5 and 10 percent of the active fighter pilots, the qualified fighter pilots, go through a school called the Fighter Weapons Instructor Course and become instructors, more highly qualified instructors in the activity of selecting weapons and tactics for specific combat environments.
+
+There is one squadron of instructors at—in those days, one at Nellis Air Force Base in—close to Las Vegas [Nevada]. It’s a very elite school. As I say, maybe five or ten people are selected to even go there of all the fighter pilots, and in my case, all the fighter pilots in the F-4. I was selected to go there, and upon completion of that course, individuals became qualified to be the fighter weapons officer in a—in a  fighter squadron. All the fighter pilots are trained to the level of being able to go employ the aircraft and deliver weapons, but some small percentage of them become more highly trained in the selection of the weapons and the selection of the tactics and the training programs that are involved in keeping the fighter squadron proficient.
+
+So I went to this school in May or June of 1972. I went to the school, graduated from the school, and while I was at the school, the squadron I was in—in—in Florida was actually deployed [chuckles] back to Southeast Asia, back to a different base in Thailand. So they pick up the whole squadron. They take the squadron down, plunk it down, and have it start flying combat because at the time there was a big surge going on in North Vietnam.
+
+You’ll have to look up the history and figure out that sort of thing. I don’t want to try to explain that to you. But basically, while I was in school in Las Vegas, my squadron deployed to Southeast Asia. I finished the school and went immediately to Southeast Asia for what we’ll call my second tour in Thailand. Is that clear?</u>
+      <u who="FARKAS">Can you tell—clear. So was that also at Ubon Air Force Base, or was that a different location?</u>
+      <u who="RUBUS">No, it was—it was a different location, and it’s U-d-o-r-n, Udorn [Royal Thai Air Force Base] in the northern—northeastern section of Thailand. Ubon, the first one, was in the southeast section. We had about—you know, we had five major—four major fighter bases in—in Thailand flying most of the effort in Laos and North Vietnam: Udorn, Takhli [Royal Thai Air Force Base], Korat [Royal Thai Air Force Base] and Ubon. I was at Ubon the first time and Udorn the second. I was never stationed at Korat or Takhli. And that’s more history and more detail than you need. [Chuckles.] </u>
+      <u who="FARKAS">So at that point, what was your rank?</u>
+      <u who="RUBUS">Captain. </u>
+      <u who="FARKAS">And so—</u>
+      <u who="RUBUS">When I went to Southeast Asia, I was a first lieutenant. I was a first lieutenant. When I finished my activity in Thailand, I was still a captain. I made captain when I was in—in Thailand.</u>
+      <u who="FARKAS">So what was your role at that point in your squadron’s operations?</u>
+      <u who="RUBUS">Because I was very highly experienced in combat and because I was a fighter weapons school graduate, I was asked to help select weapons and design tactics for whatever mission came down. We were tasked to do missions by a higher headquarters, and then what’s called a fragmentary order, or a frag, would come in, and then a group of people would sit down and figure out, “Okay, what’s the base going to do to execute the mission that’s been given?” I was taken out of a merely flying role, where I flew as either a flight leader or a wingman on a mission, to helping design what the flight was—was going to do: what weapons they take, how the fuses would be timed, how the package would be used, the delivery techniques, the integration of the avionics, that sort of thing.
+
+And I also became a flight leader of larger formations. We would—a big strike up north, we would take off, maybe 20 or 30 airplanes from Udorn, all go to tankers, and then join into some larger formation and go to the target in North Vietnam. And instead of leading—you know, that formation, let’s say—the basic element was four aircraft, but those four aircraft might be in a 12-aircraft formation. Instead of leading the four-ship, I was leading the 12-ship or the 20-ship, okay? I was just moving up the chain.</u>
+      <u who="FARKAS">So at that point in your career and your time in Southeast Asia, what were you—what were you thinking about? Were you—what were your hopes for your career in the Air Force?</u>
+      <u who="RUBUS">I wanted to progress in the fighter business, and what I was doing—the total focus—you know, the combat focus is—is something you haven’t experienced yet (and hope you don’t), but where—where the combat focus and what I was doing there, the skills I was—was honing, the experience I was getting—all of those things fit perfectly with my focus on being a leader and getting promoted in the fighter community in the Air Force. I was on a perfect step to keep moving forward in the fighter community. That’s what I thought about. And staying alive. [Laughs.]</u>
+      <u who="FARKAS">So—</u>
+      <u who="RUBUS">Well, I need to tell you also, killing people was—you know, that was our mission, was destroying targets and killing people. I know that’s hard—hard to think about, but that gives—that mission and then staying alive as you perform that mission and keeping other people alive as your perform that mission is a—is a very, very distinct pyramid, hierarchy of focus and needs. And I got pretty good at it.</u>
+      <u who="FARKAS">So at that point in the war, now that you were kind of on a slightly more tactical or—I know “tactical” and “strategic” have very specific implications or specific meanings, but on a little bit more of a conceptual level, did you start to think about the direction the war was going? I don’t want to say “worry,” but think about how it might be concluding?</u>
+      <u who="RUBUS">If you’re—if you’re trying to contrast the—the attitudes of someone in the United States, with no focus on combat, with no—no risk to themselves—and I’ll be brutally honest and say, you know, this is not something I had time to go sit in a coffeehouse or in a bar and—or in a fraternity and talk to my compatriots about it. It was something I was living every day. So to the extent that I did think about those things, it was I’m risking my life to do something. I wonder what kind of a contribution I’m making really to the overall effort. And what is the overall effort?
+
+And let me just throw in a couple of—of—well, one specific anecdote. You have probably—if you haven’t, I’ll tell you, there are people now who have written memoirs that state that in this time frame and over the entire time that we were attacking targets in North Vietnam, representatives of the United States government were telling the Chinese what targets we were going to attack and when. Have you read about that?</u>
+      <u who="FARKAS">I have not.</u>
+      <u who="RUBUS">You should research that. I’m not going to give you the authors. You do that. It’s in some former senior White House and Department of Defense officials’ memoirs. You can imagine what—what effect that has on me now, but the reason I’m bringing that up is that I can tell you that it was not a—it was not something we had indications of or I didn’t—let me say I did not have any indications that that was happening. Certainly, the defenses we were facing were [chuckles]—were—were very, very good, and as I’ve learned more about the way the war was conducted—not the rationale for it but the way it was conducted—and I’ve got a whole rack of books that I’m looking up—up on my wall right now, that I have read, obviously, in retrospect. But those kind of things were—were only readily apparent to me in the combat environment to the effect that they forced me to avoid using tactics or strike targets that I could see as a trained weapons instructor would have contributed a hell of a lot more to the conduct of the war than some of the things we were doing. 
+
+So to the extent that I question the rationale and the purpose, probably not to the extent that you would assume if I were to answer your question just yes or no. However, when I was asked to go attack a bridge or when I was asked to go destroy a—a foot bridge [chuckles] with a laser-guided weapon, a 2,000-pound bomb to knock down a foot bridge—[Laughs.] Some of those things don’t make a hell of a lot of sense.
+
+So that was the focus at the time, because it’s Why am I attacking this target?, not necessarily Why am I in this war? Because those are things that—that are slightly above the focus, and you don’t have the time or the access to the proper sources to make those kind of judgments.</u>
+      <u who="FARKAS">So how—</u>
+      <u who="RUBUS">You know, I find it pathetic and laughable now, but that’s just the sad story.</u>
+      <u who="FARKAS">So how did you wind up leaving Thailand?</u>
+      <u who="RUBUS">Just before the—there were several phases of the war. I don’t want to try to walk you through all of those, but in late—I think it was October, November, the—you’re probably aware of the B-52 raids that started going into North Vietnam in 1972, late 1972.</u>
+      <u who="FARKAS">Yes.</u>
+      <u who="RUBUS">As—as—as the—the strategic planners started to reposition forces—and by that, I mean the ratio of bombers and fighters and that sort of thing at the very, very highest level, well above anything I was worried about—as they started to reposition those, my squadron was redeployed back to Florida from Thailand, and I left Thailand with the squadron.</u>
+      <u who="FARKAS">Now, at that point, did you expect that you’d be coming back to Thailand? Was that something you were thinking about?</u>
+      <u who="RUBUS">I didn’t expect it. You know, I was—it—it—it was one of those—we didn’t really know what was going on. I was a little surprised to come back. You know, when you’re at the curb level it’s difficult to perceive the tactics and the strategies. But I actually don’t remember if I had any conscious expectation of what was going to happen. We were just going to go back to what we’d been doing at Homestead before my second tour and continue to do that, I assumed.</u>
+      <u who="FARKAS">So after you arrived home, can you tell me about what time was like? What were you doing?</u>
+      <u who="RUBUS">Well, let me—let me go back to—[Laughs.] You’re skipping all the good parts here, so [laughs] I want to go back.</u>
+      <u who="FARKAS">Oh, I apologize. Sorry about that.</u>
+      <u who="RUBUS">[Laughs.] I think I’ve emphasized to you how much—how focused I was on being a good fighter pilot and accumulating the credentials and the experience and the knowledge, proficiency to progress in the fighter business. One of the—one of the sort of crowning achievements in a fighter career—well, let me explain it in a different way. You’ve probably hear the term “ace,” have you not?</u>
+      <u who="FARKAS">I have.</u>
+      <u who="RUBUS">An ace is someone who’s killed five airplanes (and probably five pilots, or more than five, (however many were on the airplanes) in aerial combat. It’s in the classic sense is with a cannon because that’s what started—that’s how people shot down other airplanes from the very beginning or at the very beginning. They started with a cannon, and then we progressed—in the Vietnam era, we progressed up to having cannons and—and air-to-air missiles. 
+
+But the sine qua non of a fighter pilot credentials are killing another airplane in air-to-air combat, a dogfight, okay? And to give you a sense of what was going on in my mind when I came home, on the 15th of October 1972, I—I shot down a [Mikoyan-Gurevich] MiG-21 with a cannon. Now, in and of itself, that was not that remarkable. It was—it was a very challenging dogfight. It was a tribute to my back seater’s—you know, our teamwork and his specific skills.
+
+But with particular regard to my career, there’s no one—no one in the United States Air Force has done that since, so I’m the last fighter pilot, Air Force, U.S. Air Force fighter pilot to have shot down an enemy aircraft fighter-on-fighter in a dogfight.
+
+So if you think about my focus on my—at the rank of captain—I don’t know—I can explain to you the degree that ego and self-confidence plays in the fighter community, but let’s just say I don’t have any depths [laughs; unintelligible]. And that—that occurred to me on the 15th of October, and then we—we—you know, unfortunately, because I was ready to go back and get four more and be an ace—we redeployed. That was—that—that aspect of it was a major disappointment to me. [Chuckles.]</u>
+      <u who="FARKAS">So—</u>
+      <u who="RUBUS">So that—that was on my mind as I was coming back from Southeast Asia at the finish of my last tour over there.</u>
+      <u who="FARKAS">So your other—your peers in the Air Force I’m assuming had a reaction to that, and—well, let me think how to ask this. Did—did you expect more of a reaction from those at home? Kind of can you contrast the reaction of your peers in the Air Force to maybe your family, those at home, to that accomplishment?</u>
+      <u who="RUBUS">Yeah, the only people that really appreciate it are those that do it, so there’s—there’s—you know, they appreciated it. But the sense of accomplishment can only be shared by those people who—you know, when you [chuckles]—when you’re close enough to another airplane—and it may seem odd in—in the days of supersonic fighters and long-range weapons and so forth—when you get close enough to another airplane to see the pilot’s head moving around and know that he wants to kill you and you want to kill him, and then through the maneuvering you—you get behind and you actually kill him—and I’m being brutal with the language, because that is the experience. That is the psychology. I know this guy died, from a variety of reasons. He was in his ejection seat when he bailed out right in front of me. He was only, mmm, 800 feet in front of me. He bailed out. And when he went over my wing in his ejection seat, I know he hit the ground and never got out of the seat. 
+
+So all of that is something that is difficult to explain or for a fellow fighter pilot who’s not had the experience to perceive it, and I think it’s even more difficult [chuckles] for someone like yourself to explain how—how that kind of hand-to-hand combat, as close as you can do it in an airplane, is—affects your psyche, okay?
+
+Am I making any sense with this at all to you?</u>
+      <u who="FARKAS">No, absolutely. 
+
+So after getting back from that tour in Southeast Asia, you went to Florida again. Can you tell me how your career progressed over the next couple of years?</u>
+      <u who="RUBUS">Yeah. I went to Florida. Instructed in the same program I’d been in for quite a while, or for the previous year and a half, two years, and then was selected to go back and be an instructor in the—the—if you remember the fire weapons instructor course that I took just before I went back for my second tour—I went back and became an instructor in that same school.</u>
+      <u who="FARKAS">And what year was that in?</u>
+      <u who="RUBUS">Seventy-three. And in seventy- —oh, I’ve forgotten—’74  ’5, I went to—to Korea and spent a year in Korea as a fire weapons instructor in a fighter squadron there and sometime shortly after that, came back to a staff tour in the United States, Langley Air Force Base. So I did, after the second tour in Southeast Asia, a brief time as an RTU [replacement training unit] instructor at Homestead, then a fighter weapons instructor at Nellis, then a fighter weapons instructor at Osan Air Base in Korea, and then the headquarters staff of Tactical Air Command at Langley Air Force Base—I don’t know how far you want to go through it, but that’s—you can—if you Google my name on the Air Force General Officers—you can get this whole sequence off a document there, off that. They keep the retired general officers on there until—well, actually, they keep them there after they’re dead, too [chuckles], so you can—you can have my record for a long time.</u>
+      <u who="FARKAS">I have that—I have that right here, and hopefully we can incorporate that into whatever the posting for this recording will look like. But I also just wanted to have it, you know, for whoever’s listening, in case we can’t.
+
+So during those years, Vietnam was wrapping up. I don’t know how much attention you paid to that progression of events, but I’m curious if you did, what your thoughts on it were.</u>
+      <u who="RUBUS">At that point, I was conflicted, not—you know, it wasn’t PTSD [post-traumatic stress disorder]. It wasn’t anything like that. It was, if anything, a lower-grade level of conflicted, not only on the larger issues that I think you’re looking for—the rationale for the war and that sort of thing—but I—I began to reflect on what my focus—and I want to—I’ve tried to use that term explicitly through our conversations—my focus on being a good or the best fighter pilot that I could be and progressing in the Air Force—what that had done to my personal life.
+
+And realizing that—that from the sequence of—the geographical sequence and the social aspects of that, from the time, on an isolated farm in central Nebraska, to Hanover, which is somewhat isolated; it’s now coeducational, but it’s—it’s isolated; to a focus on combat, which began immediately after—well, in pilot training I was totally focused on being number one in the class so I would get my—the assignment I wanted. The assignments were given on class standing. And I did. I was number one. I got my assignment. But it—it—I was very focused there.
+
+Focused in the F-4 training program before I went to Southeast Asia for the first tour. All of those things had had a certain effect, certainly positive, on my career but somewhat negative in terms of social skills and other things. This is an old man looking back at his youth. And I began to perceive that in—in my assignment at Langley. That—that was unfortunately coincidental with a divorce, and I began to spend a little more time thinking about myself and career—other career options and questioning the Air Force. Not questioning Vietnam and the war, but questioning the Air Force.
+
+And as part of that, the war was sort of a peripheral, tangential kind of concern. I’d done it. It had been, you know, a major part of my life, but it was not one you—outside the context of my potential career as a military officer.
+
+Not a happy time for me, looking back on that. And fortunately or unfortunately, I was reassigned from the staff tour—and a staff tour for a pilot is—you know, is a [chuckles] terrible event, period. But I began to question what I wanted to do and almost left the Air Force at that point, but I can honestly say I don’t think my experience as a pilot or as a military officer in the war had anything to do with that. I did become a little disillusioned with the way things were happening in the U.S. but chose to remain in the Air Force and—and try to move forward.
+
+I don’t know if that answers your question or not.</u>
+      <u who="FARKAS">I think that is a great answer. But just checking back on one thing, so did you have any specific reactions to the fall of Saigon and the publicity around that?</u>
+      <u who="RUBUS">It did call into question the—the futility of the effort, and one of the books I’ve got up here—Ted Morgan, The Valley of Death[: The Tragedy at Dien Bien Phu That Led American into the Vietnam War], the futility—as I started to read more and get out of the tactical curb level and question the rationale, it became more and more apparent to me, as a strategic planner—and remember, I went to the Pentagon as a general officer and had served in the—in the Joint Staff’s J-5 Strategic Planning [and Transformation] function, and I—you know, I’d made the leap from first lieutenant fighter pilot to strategic planner and see some of the things that happened in the political environment inside Washington and how strategic decisions are made, so this is when I began to develop those kind of impressions on how the war might have been avoided and how the war should have been prosecuted had the strategic decisions been made intelligently on behalf of the national security interests of the United States. 
+
+That’s not a political statement. That’s just bad decision making, akin to the bad decision making that went into—to the decision to invade Iraq the second time we—we put forces into Iraq.</u>
+      <u who="FARKAS">So before we get to your experience in the Pentagon and also before that, in the Russian or the Russian Embassy, I’m curious to know how—what it was like to be an officer in the Air Force as those veterans who had left their respective services began to form veterans organizations and commemorate the war.</u>
+      <u who="RUBUS">I’ve never been in one of those organizations. All of the organizations that—that—well, let me—let me—now, maybe I—I may not be answering your question, your specific question. The organizations that I associate with today and have associated with since my retirement do not contain or—or their membership is usually—and I’m trying to think of an exception to what I’m going to tell you, and I can’t. The people that I associate with are people who remained in the Air Force for at least a 20-year career, sometimes a 30-year career, so they’re not people who left the service immediately after the war. 
+
+
+
+Does that make—do you understand the distinction I’m trying to make here?</u>
+      <u who="FARKAS">Absolutely.</u>
+      <u who="RUBUS">The people I associate with are essentially career officers who have a different attitude because they stayed in the military. You know, and it—it wasn’t necessarily that they couldn’t do anything else; it was a—a—a choice of alternatives at the time, the same kind of choice I made as a captain and a major when I could have gotten out of the Air Force and, say, gone to the airlines or gone to law school or, you know, I know—I have friends who went to med school, law school, that sort of thing after flying, having the same career trajectory up to that point. 
+
+In fact I’m—you know, I talk to a lot of those officers now, and the reason they’re leaving the Air Force is the same reason I was alluding to earlier. The effect that having such a focus on the—the—the process of becoming the world’s best fighter pilot [chuckles]—and that’s humor, but it’s also a very valid objective for most of us. That process is—is a very limiting—has a hugely limiting affect on the rest of your life, and it’s a decision that you make willingly.
+
+I’m working with a kid now who is, I don’t know, essentially the same trajectory I had, but now, instead of a long, long tour in—our two long tours in Southeast Asia, he’s on his fourth trip to Afghanistan. His experiences in terms of the effect that the focus of being a good fighter pilot exactly parallel mine in Southeast Asia, and you can put two different wars up on the wall and try to trace the different effects that they’ve had on, you know, policy, politics, strategy, whatever. But, the fact that the wars are both as irrelevant to the national security of the United States—Vietnam and what’s going on in central Asia right now—is somewhat irrelevant to the decision-making process that—that people who are 22 to 30 years old are going through.
+
+And I’m not—I’m not trying to eliminate some of the questions—or answers to the questions you’re asking me; I’m just saying that’s not the focus when you’re in the heat of it. That’s not the focus.</u>
+      <u who="FARKAS">Absolutely.</u>
+      <u who="RUBUS">I hope that’s an adequate—an adequate answer to your question.</u>
+      <u who="FARKAS">No, it’s a great answer. That was basically what I was asking.
+
+So just one more question about that: Different attempts at commemoration. For example, the Vietnam War [sic; Veterans] Memorial in Washington, D.C.—did you have any opinion on that at the time?</u>
+      <u who="RUBUS">Well, the first time I saw it, basically what I did—it is difficult for me to go there. But the difficulty is a combination of looking for the people that I lost and realizing how now—not at the time—as more and more information has come to light—how futile that whole effort really was. So it is a very difficult thing for me to do, to go down there, but I don’t come away with—with the same—
+
+
+
+And here’s where I want to go back to something I think I told you earlier, in relationship to fighting my war in an air-conditioned cockpit. As I read some of the other Dartmouth narratives on—on the war that are becoming available to me, it’s one thing to think back to a—an incident where you lose a friend in the mud, in the blood, whether you’re there beside him or whether you know what he or she was doing. It’s one thing—that’s one memory, an impression.
+
+I believe—although I can’t contrast it because I don’t have that same experience—a couple of the people that are on the wall in Washington, D.C. are people that merely went away. I came back one night, and the squadron commander says, “Go box up your roommate’s stuff. He didn’t make it back today.” And that’s one—there’s a distance in the fighter community.
+
+Now, if you look out and see an airplane blow up close to you, that’s—that’s a little closer. If you see an airplane hit the ground and blow up with no parachutes, that’s another. But there’s a distance there that I think tempers the distress. And I’m not a psychologist. We haven’t covered my first trip back to Hanover yet, but I’m not a psychologist, but I think there’s a distance there.
+
+On the other hand, I want you to factor into this answer what I was doing in Southeast Asia—and I’ll be perfectly selfish and self-serving to point this out—enhanced my future in the Air Force. Career objectives. Career—pursuit of an effective career. I don't think there’s much to being a rifleman draftee on the ground [chuckles] in Vietnam, whether you get killed or not. It’s not something you want to do for the rest of your life. It’s not something you want to do for your active career as a fighter pilot.
+
+So there’s a—a common—or not a common—there’s a thread there that I was pursuing my career as I was fighting that I don’t think an infantry rifleman, be he a Marine lieutenant or a private—Army, Marine, Navy, whatever. I don’t think they have that identification.
+
+So I think for those two reasons—the proximity of the fear and the kind of fear—it’s not a—it’s a more visceral thing than it is an intellectual thing as a pilot, but those two things combined to give me a very different experience walking along the Wall in Washington, D.C.</u>
+      <u who="FARKAS">Understood.
+
+Now, to get into one detail or to frame one detailed, experience later in your career that you mentioned, looking at your record of service, the different assignments that you’ve had, you can see how gradually you gained more—more—I don’t want to say staff assignments, but possibly staff assignments but also more strategic assignments, and from 1989 to 1990 you—you’re doing a lot of things involving Russia. Can you describe how that Russian language degree kind of worked its way back into your Air Force career?</u>
+      <u who="RUBUS">Very simply. In pursuit of being the world’s finest and best fighter pilot, I had managed to screw up my—my progression as an officer, my promotion as an officer to the point that I was not going to be promoted beyond the rank of colonel without some radical departure from the operational field. My mistake. I can laugh at it now because the Soviets managed to schedule a revolution to salvage my career. But I had not done the things I needed to do to progress in rank and position, and had sacrificed those things to stay in the cockpit.
+
+I don’t think we need to go into the detail on that, but you can—if you correlate that with—with a couple of—let’s just put it this way: One of the guys that I was assigned with in the fighter weapons instructor course—when I was there as an instructor in Las Vegas, one of those guys became the chairman of the Joint Chiefs [of Staff], and another guy became the chief of staff of the Air Force, okay?
+
+I struggled along and left with one star; they both left with four stars. Those same launch pads, same—same opportunities. I wanted to be a better fighter pilot than they were. They wanted to manage their career and their cockpit. One of them—both of them ended up with four stars, and I ended up with one, okay?
+
+</u>
+      <u who="FARKAS">Understood.</u>
+      <u who="RUBUS">So that may sound an obtuse answer to how did the Russian thing come in it. I stayed in the cockpit, and as I was about to leave the cockpit as a colonel, I was running—I got the first two F-15E’s [McDonnell Douglas F-15E Strike Eagles] off the production line and—and flew—well, I designed the test and flew the test with two other pilots. Did the operation test and evaluation of the F-15E. The general I was working for at the time said, “Hey, you know, I gotta tell ya, you are going to probably have this kind of assignment, and then you’ll be ready for retirement.”
+
+I went back and reassessed who I was and came back to him and said, “Okay, I accept your judgment. I think you’re spot on, and now I want to be the air attaché in Moscow.” He said [chuckles], “What the hell you wanna do that for?” I said, “Well, I think I have a foundation in the Russian language,”—and this is in answer to your question—“and I think we’ll be either fighting the Russians or trading with them.” And this is in the time that the walls were beginning to come down, just before the fall of the Berlin Wall. “I think I can be—I’ll be positioned for a future life after the Air Force better if I go get some Russian on me.”
+
+How’s that for an answer?</u>
+      <u who="FARKAS">Great answer. So your—</u>
+      <u who="RUBUS">[Laughs.]</u>
+      <u who="FARKAS">—time in the—</u>
+      <u who="RUBUS">That’s the truth.</u>
+      <u who="FARKAS">Just coincidentally. Your time in the Russian Embassy as things were winding down. I think you know what incident I’m getting at. Can you tell me about the time kind of working up to that, if that was something you anticipated and then the incident, itself?</u>
+      <u who="RUBUS">What—what— incident are you talking to?</u>
+      <u who="FARKAS">The reception you went to at the Vietnamese Embassy.</u>
+      <u who="RUBUS">Oh, okay. Well, let me give you a little more background. I went—and don’t call it the Russian Embassy; it’s the Moscow Embassy of the United States of America [sic; Embassy of the United States, Moscow.] [Chuckles.]</u>
+      <u who="FARKAS">All right. Sorry. I apologize for that.</u>
+      <u who="RUBUS">[Laughs.] I—I got to Moscow for a series of humorous reasons. I got to Moscow about three weeks before the unsuccessful coup in August of 1991 that brought down—ultimately brought down the Soviet Union in December of 1991. So I take—I take full responsibility and credit for the fall of the Soviet Union.
+
+Now, the—I hope you see a little humor in that.</u>
+      <u who="FARKAS">I—</u>
+      <u who="RUBUS">My tour started very, very spectacularly in that literally I was driving out, escorting a U.S. Air Force officer out to Star City [area in Moscow Oblast], and as we were driving out of town, there was a tank column driving into town. And I spent the next month or so trying to help the U.S. Embassy sort out who was on whose side amongst the various factions in Russia that were fighting over the remnants of the Soviet Union. 
+
+And that is—again, I got plunked down—you should have a sense that I’m an operator first and an intelligence officer second. I went in as an intelligence officer trained to observe and report and do all of the clandestine activities that overt spies do, and I ended up being an operational planner over the next four years, helping the Embassy sort out who was on whose side and, in the fracas that occurred in 1993, actually planning evacuations of the U.S. Embassy.
+
+I—I—the two major incidents that occurred while I was there—one was the fall—the coup of August ’91 and the two tank divisions that came into town, and then when they left by December 31st there was no longer a Soviet Union; and in 1993, where the—the Russian internal security forces surrounded “the White House,” as it’s called—
+
+Are you familiar with that incident at all?</u>
+      <u who="FARKAS">No.</u>
+      <u who="RUBUS">Okay. Well, you probably may have seen a short clip that CNN [Cable News Network] was running in 1993 to ’4, of a tank sitting on a bridge, shooting into the front of a bit white building in Moscow.</u>
+      <u who="FARKAS">Oh, yes, yes.</u>
+      <u who="RUBUS">Okay. Well, if the tank had turned its turret 30 degrees to the right and dropped its cannon 10 degrees, it would have blown out my apartment window in the Embassy compound. That’s how close the U.S. Embassy compound was, unfortunately, to “the White House.” It’s literally 100 yards away. And at that time, I was a senior military officer in the Embassy, and we—we had our families and everyone who lived on the compound and was there when the fracas started on the gym floor, and I was helping the ambassador coordinate how we were going to keep these people alive and hopefully get them out of the Embassy. That’s another political issue that—no relevant [sic] to this thing. But that’s the kind of experience I had in Moscow, okay?
+
+I also had the opportunity to plan exchanges of fighters and bombers. We had B-52s in Russia in 1992. As an operational planner, I organized that visit. They took [Tupolev] Tu-95s to the United States. When the window opened and it looked like we were going to have a normal relationship, which was [chuckles] futile to think we were going to do that, but when those things happened, that’s what happened to me in Moscow, right? It wasn’t an attaché tour that terminated in the Embassy with a Vietnamese guy. [Chuckles.] It was a very operationally flavored four years, and it is what made me a general.</u>
+      <u who="FARKAS">So at that point, as the Air Force attaché, you were a colonel, and—let me see when your promotion was—[Turns pages.]—and it was in 1994 when you became the defense attaché that you were promoted to general?</u>
+      <u who="RUBUS">No.</u>
+      <u who="FARKAS">No.</u>
+      <u who="RUBUS">[Chuckles.] I was asked to remain behind for an extra two years in Moscow. When I left to go to Moscow, we took in two years’ worth of food with us. There was no food available. You—you—you actually took your food in with you. It’s not like Moscow today. And it was a hardship tour. I went in early because my predecessor—when I went in as the air attaché, I went in a year early because my predecessor’s son attempted suicide in Moscow. It was a grim, dismal, dark place to live. I was followed 24 hours a day, seven days a week for four years. People would come in and change out the recording devices in my apartment. [Laughs.] It was an interesting tour. So when I went in, that was the environment. 
+
+Then, for a period of time, we thought we were going to be friends, and let’s just say I had a material part in—in establishing a relationship between the chief of staff of the Air Force of the U.S. Air Force and the chief of staff of the Russian Air Force. That relationship, with the White House approval, led to F-15s coming in to fly in Russia for a couple of weeks and B-52s and also Russian bombers and fighters coming to the United States on exchanges.
+
+I also planned and help execute joint peacekeeping exercises, started helping the Russians destroy strategic and tactical nuclear weapons, all of those kind of different things that we did for a few years that were not intended to be part of my tour. I was asked—I was asked to remain behind because I was pretty good at what I was doing, and to remain behind, I needed to be promoted. I needed to promo- —they needed to promote me; it’s not that they really wanted me as a general, but they said they would promote me.
+
+And then that got derailed, and in fact the first year I was the defense attaché and senior military rep in the Embassy, I was a colonel, which took the concurrence of the Russian government and the concurrence of the U.S. government to have a colonel serving in a general officer’s position. There’s a lot of protocol and prestige and all that sort of thing, but the Russians accepted it, the U.S. accepted it, and I actually, for the first—I don’t remember exactly how long—was a colonel in that position, then was promoted and served the last year and a half as a general officer.
+
+How’s that for a complicated answer?</u>
+      <u who="FARKAS">That is a complicated answer. 
+
+So can you tell me about the—the—going to the—the function at the Vietnamese Embassy in Moscow and how you came to be invited to that and what happened there?</u>
+      <u who="RUBUS">I can’t tell you how I came to be invited to it. I was told to go [laughs] by the ambassador, and—and that—that invitation, if you want to characterize it as that, was—came out of Washington somewhere. I don’t know the context, and I don’t know the rationale. But he didn’t know if he was going, if I was going, we’re taking our wives, but Ambassador [Thomas R.] Pickering called me up and said, “You’re going to go by yourself, and you’re going to go in uniform.” And that’s how I got there. That was my “invitation.” You will learn about that  when you become a lieutenant. Things have a way of rolling downhill. [Laughs.] That’s how I got there. That’s the invitation.</u>
+      <u who="FARKAS">So what was it like going in uniform to the Vietnamese Embassy—I mean, wearing the ribbons you earned fighting them?</u>
+      <u who="RUBUS">I wrestled with a whole slew of ironies as I was driving over. Most of them—you know, they’re—they’re subterranean, almost subconscious, but you think about them. At that point, the ironies of what was—what was happening were almost humorous, but there was some pathos involved also.
+
+I really was trying to think through all of the different scenarios that might unfold in the Embassy and to do my job as a diplomat, which unfortunately, or fortunately, I was at that point, trying to—to prepare myself to conduct—conduct the activity to the credit of the United States government. That was first and foremost.
+
+Now, there’s a personal obligation there, too, in that I had the ultimate and utmost respect for Tom Pickering, the ambassador, and I had a feeling that the fact that I was going and he wasn’t was more due to the fact that he—he—he trusted me to go do a good job rather than anything else. So he was a tremendous ambassador, someone I respected, and I wanted to—to conduct myself well.
+
+I can’t think of anything to add to that answer. Does that do it for you?</u>
+      <u who="FARKAS">Yeah. So can you tell me what happened there? I mean, any conversations that stand out or—</u>
+      <u who="RUBUS">Well, it was clear—it was clear that the conversations were preceded by an arrival [chuckles]. Some lights came on, and a camera came out, and I was recorded getting out of the—I had a driver. Got out of the car, sort of a little portico kind of veranda thing. And was met at the door by the ambassador, and very graciously but very distinctly led through the assembled guests—well, they weren’t assembled—led through and presented to each of the guests by the ambassadors, introduced. I think you can understand the situation.</u>
+      <u who="FARKAS">Mmm.</u>
+      <u who="RUBUS">I didn’t have the sense that—let me back up. The ambassador was a very—I don’t even remember his name, but he was a very sophisticated, well educated, articulate in at least four or five languages. The ones that I recall were, in addition to Vietnamese or whatever language he was speaking (because I don’t understand that one): German, French, English and Russian. And there may have been others. But he presented me in both English and the native language of the other ambassadors and so forth, in—in both English and their native language. So was very cordial, and it was a pleasant evening once you filtered out the—the ironies and the clear diplomatic objectives on both sides.</u>
+      <u who="FARKAS">Any other things—</u>
+      <u who="RUBUS">The conversations—well, the conversations were somewhat unremarkable until we encountered—I believe it was—I don’t remember being introduced to a minister, anyone from the Ministry of Defense, but in the Russian general staff system, ministry system, the fact that [Mikhail] Kolesnikov, the chief—or the—the chief of the general staff and Harshenko [archivist note: spelling uncertain], one of his senior assistants were there, you had the very top of the—the group.
+
+I’d only seen that pair out in the diplomatic circuit once before, and that was at a reception—a reception—I believe it was for the Chinese or at the Chinese Embassy. But anyway, those two—two gentlemen were introduced, and we had—we were all three in uniform, and the ambassador made an allusion to my having flown over his country and come close to being a guest in his country. And I think you can—you can make that association.
+
+And the irony of that situation—because I—I—I’m sure the ambassador knew that Harshenko had been a functionary, as a Soviet officer, in the air defense system of North Vietnam. And I knew that from other—other sources. [Chuckles.] And there was a short exchange, humorous exchange, and “Yes, I avoided that, and bygones are bygones” or whatever.
+
+I don’t think it was put on the table by the ambassador with any diplomatic intent other than to—to recognize—or have me recognize that he had done his homework. I—I could be wrong about that, but I don’t—I don’t think it was any kind of a triumphant gesture or whatever; I think it was just intended to be conversation.
+
+Well, I turned to Harshenko, because I had other objectives in mind, more personal and from an intelligence perspective. I turned to Harshenko, “You know, that’s very true. But, you know, Harshenko, was that a Russian or a Vietnamese that I shot down on the 15th of October, 1972?” [Chuckles.] and Harshenko—I think he knew about—they knew an awful lot about me. I think he knew about that, but he—he—he stopped, and he said, “I’ll check.” He didn’t say yes or no, he said, “I’ll check.” [Both chuckle.]
+
+So that—that conversation, from a personal perspective, was—was somewhat amusing and indicative of the kind of environment I was in in Russia for a long time. But never got an answer. Don’t know what happened. I’m not sure Kolesnikov—Kolesnikov had met me a number of times, when he went out to meet General [John M. D.] Shalikashvili in Vienna, we had a—the chairman of the Joint—if you don’t know Shalikashvili, he as the chairman of the Joint Chiefs, and he met with Kolesnikov in Vienna. They spent a day together at meetings that I helped coordinate, organize and prepare Shali for.
+
+Surprisingly enough, he invited me to fly back with him to Moscow on his personal airplane, so instead of, you know, flying Delta Air Lines or something, I got to fly with the—the chief of the general staff, so we knew each other, and we sat and talked on the airplane for a long time. And I had gone in and given him—you know, I would take messages in from the chairman or from the minister or our secretary of defense, so we knew each other. And he grinned when I said something. I’m pretty sure he was fully briefed, too.
+
+
+
+So those are the kind of incidents that set my attaché tour in Moscow apart from what you probably heard from the other Cold War attachés, and it had nothing to do with—it had a little bit to do with my personal skill set, because I did pick up the language pretty well, but it—it dealt exclusively, almost exclusively from the fact that the Soviet Union fell apart right after I got there. There was a window open of cooperation between the U.S. and Russia. It’s clearly closed now, if you look at the situation today. And I had a front-row seat at that and derived an awful lot of information about the Russians, the Vietnamese and others as a result of that window that opened. And very few people, if they didn’t serve in the Embassy, had that kind of an opportunity. Blind luck.</u>
+      <u who="FARKAS">So can you just walk me through your retirement and then what you’ve been up to since?</u>
+      <u who="RUBUS">I went back to the Pentagon. I’d been invited back for one assignment as a senior assistant to the secretary of defense. He, for a variety of reasons, retired before I—I was put into a holding pattern, and he retired before I got that position. 
+
+I then became the deputy director for international negotiations at J-5. I had the arms control and Russia portfolios, conventional, nuclear arms control, mines, that sort of thing. A lot of travel. A lot of exposure to Congress, taking them over to look at the Kosovo activity.
+
+Then was selected to command a fighter wing, an F-15 unit at Tyndall Air Force Base in Florida. And, given my age—not age—given the length of time I had served in the Air Force, the Air Force decided that I was not promotable beyond one star. Didn’t have sufficient longevity left, I think would be the official reason. And it’s a perfectly valid reason.
+
+And, after not being promoted a couple of times to two stars, I retired in October, November of ’98, signed on with Lockheed Martin to assist them with the—the design, development, purchase and delivery of a Russian-made booster engine, tying together my language and Russian experience, and I’ve been with that program for 15, 16 years.</u>
+      <u who="FARKAS">Are you still employed with Lockheed Martin?</u>
+      <u who="RUBUS">In a manner of speaking, yes. Lockheed Martin combined its Atlas launch vehicle program, the one that uses the Russian engine—you’re probably, maybe seen a little press on that right now. Combined that program with Boeing’s [the Boeing Company’s] Delta program, in a joint venture called United Launch Alliance. And I’m still with the RD-180 Russian engine program, but I’m in a company called United Launch Alliance. It’s a joint Lockheed Martin-Boeing venture. So yes and no, I’m still employed by Lockheed Martin, their program, but not their company.</u>
+      <u who="FARKAS">Interesting.
+
+So before we wrap up, I was wondering if there’s any other things you wanted to say at all about any of the things we’ve talked about.</u>
+      <u who="RUBUS">Well, if—if—if you take anything from the thread, the common threads that run through the narrative on my Vietnam experience, I have no more confidence that the war in Vietnam was initiated or conducted in a fashion consistent with the interests of the United States, the real interests of the United States than George W. Bush #2’s invasion of Iraq with no plan for the consequences of that invasion. 
+
+And I’m looking up at my bookshelf now, and I—I see Thomas [E.] Ricks’ Fiasco[:The American Military Adventure in Iraq] right underneath Valley of Death by Ted Morgan, and I would commend to you both of those books as a young future officer, to help you try to reconcile the contradiction you will have and—and your degree of consciousness of the contradiction. I think most people would—would agree that the United States needs to have a military, on one hand, and that will be your focus as a young officer: being a good officer, an effective officer, a good leader of men. And the leadership aspect of it is something that—that really needs—you really needs you to give some thought to.
+
+And the other contraction, that if the political system generates leaders—and I’m referring specifically to the-to the nominating process that’s going on in our country right now—if it generates leaders who can’t gather around themselves effective thinkers and strategists and people who understand the true costs of employing the military outside the United States—nation building, whatever you want to call these futile exercises—that as you’re young and focusing on being a good or great officer, infantry leader, fighter pilot, you have to place your trust in the government to make the right decisions.
+
+
+
+And I think, looking back in the U.S. history, 1945 forward, and the conflicts where we’ve been employed outside the countr- —the military has been employed outside the country—I’m not sure those decisions are very good. But we need the military, and we need people making decisions on doing that. Your ability to perceive and influence [chuckles] those decisions as a young officer is—is negligible. You will be focused on doing what you need to do to keep the people who work for you alive and to kill as many of the enemy as possible.
+
+On the other hand, as you get older, you will be able to look back and say, Wow, those were huge mistakes. You will be stuck with living with that, as I do now, and interfacing with people who may have different perceptions of what you were thinking at different times in your career. And this is not an apology at all. It is a statement of fact. And I suspect we could go back in history and see warriors of those two different ages expressing much the same conclusions.
+
+When I read that I was—where I was going in North Vietnam was being told to the Chinese, who just might possibly tell the Vietnamese, and in fact the individual writing about it said, “We wanted to influence and tell the Vietnamese that we could go anywhere we wanted to in that country.” Well, they could. At some expense. They could because they had people like myself, who could lead other people who would follow us in to do that.
+
+Now I find out that they knew I was coming. That is a tremendous disappointment. It’s not a disappointment in terms of betrayal; it’s a disappointment in terms of the—the way the military was used as a tool of foreign policy. That’s a long ways from a—a Vietnamese battlefield where people are getting their, you know, heads blown off and their arms cut off to an air conditioned cockpit in North Vietnam. But it’s tragic.
+
+
+
+And unfortunately, I think—you can go back in history and find an infinite number of situations the same way. And I’m very saddened by that. I’m happy with my career, but I’m—I’m saddened by the way the tool that I helped fashion was used.</u>
+      <u who="FARKAS">So with that, thank you so much for this. I’m going to stop the recording. 
+
+[End of interview.]
+
+</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,329 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="WALDEN"/>
+        <person xml:id="RIDKER"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="RIDKER">This is Elena Ridker with the Dartmouth Vietnam Project. Today is Thursday, May 21st, 2015. It’s about 10 a.m., and I’m in Rauner [Special Collections] Library, and I have Dan Walden from the Class of 1965 on the other line for a phone interview.
+
+So, Dan, thank you so much for participating in the project. It’s really great to have you.</u>
+      <u who="WALDEN">Elena, thank you so much for your courtesy that you’ve shown me so far, and I think the project is terrific, and I look forward to the interview.</u>
+      <u who="RIDKER">Great, as do I, and so let’s get started and just with some biographical information up front. So where were you born, and what were your parents’ names?</u>
+      <u who="WALDEN">I was born in Boston, Massachusetts. My parents were John [A.] and Grace [C.] Walden. We lived in the suburb of Watertown for a number of years, and when I was halfway through high school, my father got transferred to Los Angeles, so we lived out there, and that’s where I lived when I matriculated to Dartmouth [College] then.</u>
+      <u who="RIDKER">Do you have any memories of your childhood? Anything specific stand out?</u>
+      <u who="WALDEN">Yes, as a matter of fact. We lived on the banks of the Charles River, not the genteel Charles down by Cambridge and Brighton and that area, but up where it was fairly wild. And along with my boyhood chums, we took great delight in going down to the Charles River and doing all kinds of things, some of which were not so praiseworthy. 
+
+For example, on occasion we’d go down there and light grass fires and sit on the bank of a hill and wait for the fire department to show up, and they would dutifully extinguish the fire. We found out after quite a while that the fire department members really liked this activity because it broke the boredom of sitting around the firehouse.
+
+In any event, that was—I mention that to introduce you to my heavy criminal involvement along the way of my life, and also to hint at the fact that later on in life, I kind of became an adrenaline freak. Adrenaline became my drug of choice, so to speak. I managed to find my way into various activities that satisfied that perceived need.
+
+Along the way, by the way, I played three sports in high school: football, basketball, baseball. I managed to scramble my way to becoming an Eagle Scout. Love scouting and that whole routine. It also positioned me for an escape to Dartmouth later, after we moved to Los Angeles. My family and I—I’m an only child. I believe—I was never told, but I believe that was a result of my father’s injuries after being wounded in World War II. As I say, it was never discussed. In fact, my father’s experience in the war, other than a typhoon that I mentioned to you in our conversations—he never described his combat experiences in the war. He had, I recognize now, the early version of post-traumatic stress disorder, PTSD, a condition I came back from Vietnam with, oh, several decades later.
+
+
+
+In any event, we spent a good deal of time climbing the mountains in New Hampshire and in that general area when I was a child, before we moved to Los Angeles, and so I was familiar with the state, and it was only natural that I took at look at Dartmouth when it was time to matriculate for college.</u>
+      <u who="RIDKER">Mm-hm. And so you mentioned your father. I’m wondering, did you have a close relationship with him?</u>
+      <u who="WALDEN">Absolutely, yes. He was—among other things, he was a devoted father, an excellent teacher and a complete gentleman. He and my mother insisted on—that I develop decent manner, and I try to honor that teaching to this day, sometimes not perfectly. But he was a terrific tower of example. Among other things, he started a stamp club, a stamp collecting club at the Connecticut—Connecticut!—the Concord, Massachusetts, state penitentiary [Massachusetts Correctional Institute at Concord]. Philately was his hobby, and I had the example of one of my parents being a very, very good public servant, so to speak, in a quite unusual way: a stamp club at a prison.
+
+My mother was a prototype housewife at that point, not a helicopter mom, really, but fairly stern but with an absolutely great sense of humor. That sense of humor, I like to think, has penetrated down for a couple of generations, first to me and then to our children, but I let others be the judge of that.</u>
+      <u who="RIDKER">[Chuckles.]
+
+
+
+And so how did you eventually end up at Dartmouth? What made you decide to go back to the East Coast?</u>
+      <u who="WALDEN">As I mentioned, the outdoors life, so to speak, really appealed to me, and I had experience in New Hampshire, New Hampshire’s out-of-doors attractions, and it felt like a natural place for me to attempt to go back to school, so I applied to Dartmouth, among others, other schools. And when I was admitted, that was my first choice, and bingo: I wound up matriculating.</u>
+      <u who="RIDKER">And what kind of things were you involved in on campus?</u>
+      <u who="WALDEN">I’m sorry, say that again, Elena?</u>
+      <u who="RIDKER">What kinds of activities were you involved with on campus?</u>
+      <u who="WALDEN">Well, the principal one that was notable for our discussion was ROTC, Army ROTC [Army Reserve Officers’ Training Corps] specifically. In those days, in the mid-’60s, it was, among other things, common for students to have some sense of feeling that they ought to get involved in, oh, public service of some kind. There was also the impetus that you could get drafted and wind up involuntarily serving in the armed services. I thought it would be a good idea because, among other things, there was a small stipend that came with it—I don’t know, fifty bucks a month or something like that, not a great inducement, but a little bit of spending cash. 
+
+But mostly at Dartmouth, I found out that Army ROTC had a mountain and winter warfare unit, which was semi-unique. I believe there was one other such unit in the continental United States at that point. And mountain and winter warfare provided its members free skis, free snowshoes, free rock climbing equipment and free passes to the [Dartmouth] Skiway and so forth, so it was just a—ROTC was an absolute natural for me, given that I was already familiar with New Hampshire terrain and liked the idea of getting exercise in that fashion.
+
+I became a member of Alpha Delta Phi, the actual Animal House [depicted in the movie, National Lampoon’s Animal House]. And during the time, as a matter of fact, that the episodes, at least some of the episodes portrayed in the film were taking place, I, of course, had absolutely nothing to do whatsoever with any of those escapades.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">And I will always tell you the truth. [Chuckles.] Or most of it.
+
+And my other campus activity was courting a young lady by the name of Joann North, who was a student at Wheelock College in Boston with my roommate. We had descended in October 1966 to Cambridge for the Harvard [University] football game, and afterwards didn’t know what we were going to do. There was a period of hours before our ride back to Hanover was to take place, so we found a mixer that was going on at one of the dormitories.
+
+And the two of us had shinnied up a drain pipe into a second-story open window in a lavatory at this dormitory and, you know, walked downstairs, and I said to Harry, my roommate, “Who do you think I should ask to dance?” And he said, “Why don’t you try the tall blonde?” I did, and we’ve been together ever since.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">It’s one of my best stories. Joann was—when another year elapses, we will have hit our 50th wedding anniversary, and a few years more than that, courting. But she keeps my nature suppressed a little bit, which is desperately needed sometimes.
+
+What else did I do in that college? Occasionally I studied.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">I managed to scrape by by getting every grade that was possible to get in the Dartmouth of those days and had a great time. I had an enormously good feel for the college.</u>
+      <u who="RIDKER">And so at the time, you know, during your senior year, I know the war in Vietnam was just starting to become Americanized with the introduction of ground troops, and I’m wondering if there was much talk on campus about the war and if you were involved in that at all.</u>
+      <u who="WALDEN">I don’t remember a whole lot. My notion was that, you know, there had been stirrings of dissent about the Vietnam War had begun, of course, at that time. But when I graduated in June of 1965, there had not yet developed the kind of furor that occurred later. And we had a few troops over there, but nothing approaching the heavy-duty assignments that came later. And it wasn’t an everyday travelogue, so to speak, in the nightly news.
+
+The Army offered me a Regular Army commission, and I decided to take it for a number of reasons, one of which was that I really didn’t know what I wanted to do for the rest of my life, and secondly it seemed to proffer the prospect of some favorable assignments, like, for example, Germany or some nice overseas post. So I accepted the RA commission. That committed me to three years instead of two as a Reserve officer. And so off I went.
+
+Whether that was a mistake or not is, you know, a question of debate that has occurred throughout the years ever since, but instead of Germany or some nice soft post like that or [unintelligible]. In Germany, for example, I could have continued skiing and things of that nature, and rock climbing. By that time, I had developed an affinity for rock climbing and some skills, and when I got home to the Los Angeles area for vacations, spent some time with that kind of activity. And for a while, I had an affiliation with the Sierra Madre Search and Rescue Team, which was headquartered in one of the—you know, just to the east of Los Angeles and had then, and still does, a reputation for some pretty good mountain and rescue operations.
+
+In any event, courting Joann was a heavy-duty responsibility. [Chuckles.] And still is, for that matter. But I did my best with it. She may be listening to this. I’m not sure. If so, I will suffer for it later.
+
+What’s your next question, please?</u>
+      <u who="RIDKER">[Chuckles.] So, yeah, just in kind of going back to when you were graduating from Dartmouth, did you have any other friends from Dartmouth who had also decided that they were going to join the military as well?</u>
+      <u who="WALDEN">Yes, as a matter of fact. My two senior year roommates [coughs] were both in Army ROTC, and both served in Vietnam at the same time as I did, although in different units and different specialties. [Thomas L.] “Tommy” Miller [Class of 1965] was a commander in an armored personnel unit. [Donald McK.] “Don” Boardman [Class of 1965] was a staff officer in a—basically, a finance outfit headquartered out of the Saigon area.
+
+
+
+I have a photograph—I don’t think I sent you one, but it occurred to—we just got some additional prints of the three of us. When I came back—I was the first to leave the country—I met Don and Tom, you know, just the day before leaving, and we had a nice little mini-reunion down at—down at the airport near Saigon before coming back. So the three of us were, you know, compatriots, and our 50th reunion is about to start in about two and a half weeks, and I really look forward to seeing both of those guys and others as well.</u>
+      <u who="RIDKER">Mm-hm.</u>
+      <u who="WALDEN">So it was commonplace for the people I associated with at Dartmouth to participate in ROTC. Not all of them did. Not all my friends and associates did but enough of them that, you know, it was—set my standards, let’s say.</u>
+      <u who="RIDKER">Mm-hm. And then so what was the first thing you did after graduating?</u>
+      <u who="WALDEN">Well, by that time, I was enrolled in the Army, and it was time for some training. There was an arbitrary—I didn’t particularly want to become an infantry officer, or armored or any of those straight combat branches, which—which was fine in a way, but I knew nothing about electronics, so they shipped me off first to Fort Gordon, Georgia, for basic signal officer training, then to Fort Sill, Oklahoma, for advanced communications officer training, then to Fort Benning, Georgia, for airborne training, a three-week jump school experience.
+
+I have a great story about that. In jump week, which is the third week, when you actually start jumping out of aircraft and so forth, the first phase of jump week is a 34-foot tower, and you take practice jumps off of that, using all the appropriate techniques and so forth. Joann decided she was going to come out and watch us on this particular morning. So I’m out there with the rest of the people in my training platoon, and the drill sergeant, who was a real hard ass—they had to be, and that was a good thing, I know—all of a sudden, he said, “Whose wife is that out there?”</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">And, of course, it was Joann, and she was watching—one of the guys who was tending the ropes associated with the tower exercise had run right into a communications pole and knocked himself out. So he was sprawled on the ground, and Jo was gasping at this spectacle. So the sarge said, “Whose wife is that?” There was no one answering. He said, “Well, if nobody’s gonna tell me whose wife that is, you’re all gonna pay for it.” So I raised my hand.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">He said, “Give me 50 pushups.”</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">So—[Laughs.]</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">We had this spectacle. This, by the way—there may have been two or three other officers in this platoon, but mostly it was enlisted men, so they got a great chuckle out of this, and I’m sure the sergeant got a charge out of it as well.
+
+I saw—actually saw—as I was doing the pushups, I actually saw the humor in the whole situation, and I started chuckling, but that was a mistake because that cost me another 50 pushups.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">In any event, one has—whether in the Army or elsewhere in life, one has to keep up a sense of humor.
+
+Continue, please.</u>
+      <u who="RIDKER">Okay. One sec. All right. So that was Fort Benning when you were doing jump school?</u>
+      <u who="WALDEN">Yes, it was.</u>
+      <u who="RIDKER">And so do you have any other sort of memories like that that stand out to you in particular about training, either at Fort Gordon for basic or at Fort Benning?</u>
+      <u who="WALDEN">Well, my next assignment after jump school was to join my first duty unit, which was—my assignment was to be the signal officer, brigade signal officer for the 3rd Brigade of the 82nd Airborne Division at Fort Bragg [North Carolina]. The most notable experience during that was we—the brigade got detailed to go—to fly up to Detroit and suppress the riots that were occurring there that particular summer. So off we went.
+
+And it was interesting. The signal unit, when Army units are moving around, generally is in the forefront because they have to set up communications, obviously, which is an important task. You can’t carry out missions without that—those circuits.
+
+In any events, so I was in what turned out to be the first airplane that landed outside of Detroit. The command aircraft, which included the brigade commander, a full colonel, was delayed because of mechanical problems. So I wound up unexpectedly being the—as a first lieutenant, being the senior officer available to lead the brigade into Detroit to suppress this riot. So I got to ride in the first vehicle along with the state police commander and National Guard commander until Col. [Alexander R.] Bolling [Jr.] and his staff catch up with us. That was an interesting little experience.
+
+
+
+We spent a week in Detroit. After the first couple of days, things quieted down. Among other things, we would get up in the morning and run around the streets of Detroit, chanting our war cries and so forth, and that seemed to have an impact on people first paying attention and then behaving themselves.
+
+In any event, one little, great story that I remember is that we wound up after the riot was suppressed—we relocated to a place called Chandler Park, which was kind of on the outskirts of the whole riot area. We were ready to go back in if need be. The young women of the Detroit area had found out that these smart, lean, very fit paratroopers were hanging out at this park, so we got surrounded by young lovelies.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">And I got detailed by the brigade commander to ride around the perimeter at night, warding these young ladies off and interrupting their various would-be trysts by the troops and so forth. It was both hilarious in its way and painful. [Laughs.]</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">As you might imagine. Eventually, after a week or so of first putting down the riots and then resisting the young lovelies, we came back to Fort Bragg.</u>
+      <u who="RIDKER">And so you mentioned that was the 82nd?</u>
+      <u who="WALDEN">Yes.</u>
+      <u who="RIDKER">Airborne Brigade. And so how were you feeling at that time about kind of your rising military career? And were you nervous about the prospect of being deployed to Vietnam?</u>
+      <u who="WALDEN">The answer is yes. By that time, I knew it was coming because the war had heated up, and friends of mine had been deployed to Nam, and I had this Regular Army commission, which was kind of dumb at that point. By that time, I knew that—I didn’t think that this was going to be my career. I didn’t like the strictures, if you will, of Army life. And Joann couldn’t see—she was in training to be a schoolteacher, and she couldn't see most—as you probably know, most, if not many—many, if not most of the Army posts are in the South, and we didn’t fancy living in that kind of environment. But it was coming no matter what.
+
+So I had made up my mind that I would get out as soon as possible, but I would have to serve in year in Nam. And sure enough, the orders came down assigning me to the 101st Airborne in Nam, and off we went. Or off I went. Joann went home to stay with her parents for the year, along with our Irish setter dog, who we had picked up. His name was Patrick, and when he arrived at Jo’s parents’ home, the first thing he did was defecate on their rugs, so it wasn’t a delightful first experience.
+
+Meanwhile, [President] Lyndon Baines Johnson came along, and he issued an order saying that anybody who was a Regular Army officer who accepted a Regular Army commission and therefore was committed to a three-year term, so to speak—he extended everybody for an additional 18 months. So I wound up with four and a half years before I was able to get out of the service.
+
+We skipped over Vietnam for the moment, and we certainly need to get back there because I understand the nature of your project. But let me skip to after Vietnam for a moment. When I got back, I was assigned as information officer for the Signal Center and School at Fort Monmouth [New Jersey]. And that was a very interesting assignment because it wound up preparing me for what I did in civilian life for pretty much the rest of my career, which was special communications.
+
+In any event, we probably should return back to Vietnam. In November of 1967, I gave Jo a hug and a kiss and got on the plane, stopped in Los Angeles to see my parents, and then flew off to Nam. It was actually on Veterans Day in November 1968—’67, rather, that I arrived there. And stepped off the plane there and got the typical familiarization training—you know, vaccinations, that kind of stuff, and then shipped up north to my posting with the 2nd Battalion, 11th Artillery as communications officer.
+
+Now, here I am, a signal officer, and I’m posted to an artillery outfit and I know exactly zero about artillery. But I’m the communications officer, so that’s okay. I, you know, started doing what I knew needed to be done from the communications end of things.
+
+We were first—when I first arrived with the unit, we were stationed at a place called Duc Pho, D-u-c—new word—P-h-o, up in I Corps [I is pronounced like eye], Vietnam, in the northern part of the country, and operated there for a number of months.
+
+Then as 1967 was closing and 1968 was beginning—I forget the exact timing, but there was planning for what would have been the first and only airborne drop in Vietnam. And we got detailed to transship via LST, a Navy ship, from Da Nang down to the III [pronounced three] Corps area outside of Saigon. The air drop was supposed to be to the [unintelligible] from there in an area that was notoriously hostile. Let’s put it that way.
+
+Along came the Tet Offensive. This now early 1968. And the Tet Offensive put an end to the airborne drop planning. By the way, the way I found out the Tet Offensive had started was that one night all hell broke loose, and all of a sudden, one of the communications lines that our troops had strung across the area where we were bivouacked got severed by a Viet Cong or an North Vietnamese Army [North Vietnamese Army] bullet right over my head. I had issued orders that when we strung lines, they would be positioned in a way that they would clear the tallest man in the battery. I was not the tallest, but I was among them. And bingo! All of a sudden, this line is down on my shoulders, and that’s how I found out the Tet Offensive had started.
+
+We then got reassigned to go back to the I Corps area and did a road march all the way up Route 1 [National Route 1A] in Nam from the Biên Hòa area all the way up to Camp Eagle, which was going to be the new headquarters, if you will, of the 101st Airborne Division. Phu Bai [Combat Base] is north of Da Nang and south of—a little bit south of Hué and maybe 50 miles or thereabouts south of the DMZ [Demilitarized Zone], the border with North Vietnam.
+
+We were a 155 mm towed unit; that is, to move around our trucks towed the [155 mm] Howitzers. They were not self-propelled. That was both good and bad in the sense that we were the heaviest artillery at that time that could be airlifted by helicopter. And from the infantry’s perspective, we were in hot demand because we could lay down some pretty effective artillery barrages on short order.
+
+
+
+The smaller artillery piece is a 105 mm, and the next jump-off is the 155 that we had, and the impact of them when they hit the ground is—it’s not arithmetic, it’s geometric. You know 1-5-5 sounds only slightly more powerful than 1-0-5, but it’s at least double.
+
+So we could be moved around, and were. We picked up—the Howitzers would be picked up by flying cranes, helicopters, and we would send out scouting parties who would be looking for the highest peak we could find that could be cleared, because altitude increases the range of the artillery piece. In any event, we would go from hilltop to hilltop—mountaintop, actually. The engineers would go in, clear the area with explosives or machetes or whatever. Our troops would go in.
+
+My policy was that our guys would be in bunkers the first night we got there to a new post, no matter what. It wasn’t a popular order, because they were all usually pretty exhausted by the time we got to the new place. And now they had to dig in and find bunkering material.
+
+We had some interesting forays to get bunkering material and our other supplies. We typically operated at the very end of the Army supply line, and it was sort of a bastard unit; that is, we were attached to the 101st. We were not a mechanical unit of the 101, although the unit’s home base was at Fort Campbell, Kentucky. In any event, this caused us to be scratching around for supplies of one kind or another.
+
+My favorite story is when we were operating out of Phu Bai, the Navy Seabees were rebuilding the Vietnam nation’s railroad up there in I Corps, using very nice cross ties and rails and so forth. The Seabees would go through there during the day, in daylight hours, and build or rebuild railroads. And my supply sergeant, a guy by the name of Larry Miracle—yes, M-i-r-a-c-l-e—would go out and night and disassemble what the Seabees had just built and bring it back to our unit to be used to build bunkers. And the next morning, there would be a report from the intelligence community, noting that the Viet Cong or NVA had swooped down in the middle of the night and ruined the Seabees’ railroad activities. So there came a night when our guys nearly got ambushed. [Both chuckle.] Which was no surprise. So that was the end of our thievery in that way.
+
+But being a pretty entrepreneurial group, as it turned out, we stole all kinds of stuff along the way, including a 1,000- kilowatt generator. I mentioned the LST that took us from Da Nang down to the Saigon area. There was an engineering unit on the ship as well, and they had this very attractive generator, and as we were sailing down on the overnight, my friend Miracle took a 5-ton wrecker and repositioned these various trucks and equipment, so the next morning, when we arrived in the port of Saigon, we were first off the ship, towing the engineer’s generator, which was much bigger than anything we had. But it was a curse in its way because when we got it up and operating, we couldn’t put enough load on it to make it work properly, so it usually tripped off, and the battalion commander would get on the phone and say, “Hey, Walden, you get that unit back up now!” Well, in any event, that was kind of a messed up lesson from our illegal activities.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">It remains what I regard as an interesting [chuckles]—interesting episode.</u>
+      <u who="RIDKER">Mmm. [Chuckles.]</u>
+      <u who="WALDEN">And I mention it because guys in combat need to—need to have a sense of humor, have some diversion, so to speak. We were not under constant combat conditions, but we did get ambushed from time to time, particularly when we were on road marches, and we did get shelled with mortars and 106 mm rockets. 
+
+
+
+One time, I was walking between—early evening—between the fire direction center (FDC) and the next bunker, and a 106 mm rocket landed, oh, 20 yards away from me or so. Fortunately, it turned out to be a dud, and that was one of the closest calls I had along the way. It was clearly powerful enough to do severe damage to some of us, but it proved the value of us bunkering in, you know, quickly. Not popular among the troops, but that kind of thing, when it happened, demonstrated that we were doing the right thing.
+
+Another policy was that we would—the guys would wear their flak vests whenever they were outside our perimeter wire, and that was not popular. Flak vests in those days were extremely bulky, uncomfortable, hot as hell, would retain moisture—sweat and so forth—and the guys hated wearing them, but I insisted that we would do that—you know, got a lot of criticism and feedback on that issue.
+
+But one day, one of my ammo humpers—one of the ammunition truck drivers—took a slug right in his chest on the [unintelligible], and it would have killed him had he not had his flak vest on. After that, I heard no more complaints about wearing them.
+
+The perimeter wire. Another unpopular policy was that we would—most units, when they relocated, would string up triple concertina wire—the three rolls of a barbed wire, two on the ground and one on the top. Our policy was that we would put up two rolls of triple concertina with fougasse [pronounced and often spelled foo gas]—I’ll get back to that word in a moment—and [unintelligible] along the way. Fougasse is jellied gasoline, which can be triggered in a way that it showers burning propellant on attackers.
+
+The virtue of that was that it gets fairly obvious if you had a double row of triple concertina with the kind of stuff, fougasse and Claymores [M18A1 Claymore mines]—the Viet Cong and NVA were no dummies. They were very, very good combat soldiers, and they would figure out that hey, we better maybe attack somewhere else. And that worked—that worked well. Our division area was attacked fairly frequently. We were approached, but when the enemy saw what they were looking at, they generally skirted off to either side of us.
+
+In any event, I’m not giving you these war stories to in any way portray myself or my decisions as being heroic. The heroes didn’t come back. But there came a time, after a few months in Vietnam, that my personal policy became: The last thing I want to do is write a letter back home to somebody’s parents or spouse. By the grace of God, I never had to do that, which was pretty unusual in the circumstances where we were—we were posted. But I just knew that I would not handle that very well at all.
+
+And I diverted you here, and I’m sorry, but—</u>
+      <u who="RIDKER">Do you mind—would you mind speaking a little bit more about what your experiences were like during the Tet Offensive on your road march?</u>
+      <u who="WALDEN">Say it again, Elena, please?</u>
+      <u who="WALDEN">Do you mind speaking a little bit more about your specific experiences on your road march back up to I Corps during the Tet Offensive?</u>
+      <u who="WALDEN">No, not at all. It took us about three days to get up there. We would—this was during the dry season, which was a blessing because the roads were typically washed out during the monsoon season. But, I mean, the dust was impenetrable from the heavy vehicles we were using. So it was both exhausting and enervating in a way that you could not tell what might be on the road beside you, awaiting you, so to speak.
+
+We got through it okay. We were able to call in air support in the form of Huey gunship helicopters [Bell UH-1 Iroquois helicopters] a couple of times when snipers opened up on us. And nobody got killed or wounded, but it was basically a long mental ordeal in that here, we have three, three and a half days, whatever it was of constant stress. Once we got to an area where we could fortify ourselves, we were in pretty good shape with the measures we took to protect the troops. Once again, the enemy was not stupid, and they watched very carefully who was doing what, and that dictated their tactics.
+
+Which leads me to the typhoon, if I may add—I’m trying to remember about the timing of that. That was toward the end of my tour. First of all, I think I told you that my father was involved in a typhoon in World War II. When he was—after he recovered from his wounds in England, he was transshipped to the Pacific theater and was on an LST, another common denominator between John Walden and Daniel Walden, waiting to invade Japan when the Japanese surrendered, thank God. That would have been an extraordinarily bloody operation.
+
+We’re now in September of 1968. We had—attached to my unit, we had the weather unit for I Corps, which was great in that we could get, you know, daily forecasts of oncoming weather. One day the weather guys told me that, “Hey, listen, there’s a typhoon comin’ this way, and it’s going to—it’s probably going to impact us pretty harshly.” So sure enough, that night the typhoon showed up. It wound up—one of the guys measures wind gusts of 80 miles an hour or more, and the thing dropped 20 inches of rain before it stopped. So in the middle of the night, I issued an order, “Get out of the bunkers and set up the tents.” [Laughs.] And you can imagine how popular that order was.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="WALDEN">But they did it. And the reason for doing that was the bunkers typically in heavy rain became insecure from the amount of wind. Sure enough, the unit next to us, on the fire base, had one of its bunkers—actually, several of its bunkers collapse. The one in question buried one of their troops, and we helped dig him out, but he was dead. [Pause. Clears throat.] Again, I’m not suggesting that anything I did along those lines was heroic; it was just reasonably smart, and I had the advantage of having those weather guys literally talking face to face to me, and not everybody had that advantage. By the grace of God, I got through the year without having to write a letter to anybody along the lines I feared.</u>
+      <u who="RIDKER">So you mentioned kind of the mental burden of your march during the Tet offensive and other, similar events, and I’m just wondering: How did you cope with stress and with kind of that fear?</u>
+      <u who="WALDEN">In several ways. I mentioned Larry Miracle, my supply sergeant. He was extraordinarily ingenious, and he would—every once in a while we came across captured weapons, small arms, and they were in heavy demand in the base areas. People in base areas—we called them REMFs (R-E-M-F), the first two words of which are Rear Echelon. [Transcriber’s note: M-F stands for Mother Fucker.] And it was a term of disdain, as you can imagine. Miracle would take the captured weapons and go down to the base, the Marine base at Da Nang, for example, and trade them in for stuff that we needed, including alcohol. We ran out of virtually everything in my year in Vietnam, but we never ran out of ammunition, and we never ran out of alcohol.
+
+So that was one way of dealing inappropriately with stress. Some of the troops managed to come across some marijuana along the way. My policy became “as long as it’s not—doesn’t appear to be interfering with our mission responsibilities,” I would treat it with benign neglect. So it became known that if the guys, when nothing else was going on—that is, we weren’t under attack or expecting to be attacked or had some other mission going on—if they wanted to smoke a little pot, then they wouldn’t suffer punishment from the battery commander.
+
+So there was reading—we had a unit fund that—the Army gave everybody, not just us, but a sum of money every—every month to buy our reading materials—books and hymnals and things of that nature that might improve morale. We used that money for other purposes, including rides to people who had equipment we wanted but didn’t have our own, that kind of thing.
+
+But the hidden agenda—and not so hidden agenda, I should say, since I’ve been fairly open with it—was that you do what you have to do to keep your troops supplied and alive, and that becomes the primary mission of a commander in those kinds of circumstances. The traditional Army or military policy is that the mission always comes first, and if people get killed or wounded in the process of doing that, that’s a necessary result of getting the job done.
+
+But there came a time in my thinking, as I realized that this was—a stupid proposition? Is that—yeah, I can live with that. The war was a stupid proposition. It wasn’t going anywhere. It didn’t seem as though we could win it. And the objective became get our job done but get everybody home. That became the primary objective. And, as I say, by the grace of God, that happened in my tenure as battery commander.
+
+Maybe it was in part because of the way I tended to do things, but if I look back at it, it principally was because the Deity knew what an impact it would have no me and others in the unit if we started losing people. I say that with great emotion, by the way, in case you haven’t detected that.</u>
+      <u who="RIDKER">Mmm. Did you have—you mentioned that there were no casualties in your own unit, but were there any close friends of yours that were wounded or killed in action?</u>
+      <u who="WALDEN">Yes, in—four days from now, on the 25th, that will be the anniversary of [James H.] “Hunter” Shotwell’s death. He was killed in action. This was Hunter’s second tour in Vietnam. He was a [U.S.] Military Academy [at West Point] graduate, close friend of me from—now, his wife, Jean Barker Shotwell, was the daughter of the doctor, who delivered Jo when Jo was born. And the Barker family and the North family, Jo’s family, were closely tied as friends and so forth, for generations.
+
+Hunter was killed. It took a period of a few weeks before I found out about it. Jo was reluctant to tell me, and rightly so. But my view was then, and has been ever since, that Joann had a tougher proposition dealing with the Vietnam War than I did because at least I knew what was going on, and she did not, and I wasn’t about to tell her. So Jo—Jean called Joann and let her know that Hunter had been killed.
+
+The Shotwells had a young son at that point, about three years old. Joann went over to Jean’s house, picked up their son for the Memorial Day parade. This was in Fairfield, Connecticut, their hometown. Took him to the parade, and he did a John F. Kennedy Jr. salute on the—as the parade went by, which brought the entire town to tears, or all those who were witnessing this. To this day—Jo and Jean have a birthday that’s only a couple of days apart—they get to[gether] once a year, no matter what, to celebrate their birthdays and memory of old times.
+
+So Hunter was the—that was a huge blow. He was an absolutely wonderful man and a good commander.
+
+A couple of other friends were killed along the way, notably after Vietnam, for me and for them, in a couple of road accidents, traffic accidents when they were driving at night, perhaps impaired by alcohol. Don’t know. We’ll never know. But it was—and they left children as well.
+
+I associate now with—I came back with post-traumatic stress disorder, which went undiagnosed for decades, actually, because I kept myself in a state of denial on that and other medical issues. Let me spell my given name for you: D-e-n-i-a-l. Same letters as Daniel except jumbled up. And I need to remember that because I was in denial about the Vietnam experience and other aspects of my life for a long time. My father never talked about his actual combat experiences to me or anybody else, and I followed the same policy, not because I wanted to protect somebody else but because I feared—or actually, that probably was true, that I wanted not to harm somebody else, but I wanted to protect myself.
+
+To this day, it’s not easy to disclose these experiences, the difficult ones I’ve mentioned. The funny ones are, you know, pretty easy, but—but I had to break out of denial on PTSD and other things. I mentioned we never ran out of alcohol. And by the time I got back from Vietnam, I was a daily user of alcohol. There came a time 34 years ago when Joann said to me, “If you don’t stop using alcohol now, get into Alcohol Anonymous [sic; Alcoholics Anonymous] and stay there, you’re not gonna see your kids anymore.” And this came after several attempts by me to stop drinking failed miserably.
+
+So as of June 6th, 1981—I’ve been sober since then, and I have to say, particularly when I say to Joann, “You saved my life that day.” And she did. Yet more proof that I thought she had the more difficult time dealing with the war than I did. She caught the brunt of what was going on in the country with war protests and so forth.
+
+I knew from news reports in Vietnam that a lot of this was happening, but while I was there, we couldn’t allow that to affect our—what we were doing. It was, let’s say, an annoyance and a—a—what appeared to be a disloyal, nasty attitude kind of action. That’s how I felt about it then, and to some extent I still do. We were assigned to go fight a war. Our job was to fight it as best we could, and we did. Or at least some of us. I mean, there were some outrageous activities.
+
+The Mỹ Lai Massacre, for example, had a heavy impact on veterans of all kinds, and me too. That was an act of complete disloyalty that you could not have your troops do, much less lead them into it. So that’s a remaining blot on the Army’s record in Vietnam. We were not—in my experience, we were not baby killers. We were extremely careful to avoid civilian casualties and accepted responsibility for that. Not everyone did. But everyone paid the price for that, everyone who served.
+
+The guys I hang around with now in my PTSD support group, which is sponsored by the Veterans Administration, one of the good things the VA [Department of Veterans Affairs] does—I’m not a big fan of the VA. I try to stay away from that lest I go into a huge diversion.
+
+But after getting back, you know, I just—I closed up, not being willing or able to disclose to anybody my experiences and certainly not my feelings. The feelings part of it is really the most dangerous because that influenced my behavior, and, as I mentioned a minute or so ago, my behavior, while it didn’t necessarily physically harm anybody, created a lot of mayhem in other ways. And that poor woman who suffered through the war, not knowing what was going on and probably fearing that—reading all the things that [CBS broadcast journalist] Walter Cronkite and others were reporting—probably suffered more than she should have. And I need to be thankful for her every day.
+
+[Unintelligible.]</u>
+      <u who="RIDKER">So I’m also wondering—so you mentioned that your wife Joann kind of was dealing with a lot of the stress at home, so back when you were in Vietnam, I can imagine camaraderie must have been a big aspect of kind of just, like, keeping—something that kept you going. I’m wondering if there—if you made any close friendships that stick out in your memory when you were over in Vietnam.</u>
+      <u who="WALDEN">Yes, I had an executive officer who was quite effective, and we joined arms as long as I was there. I have continued affection for some of the non-commissioned officers who served with me. My first sergeant, a man by the name of Johnny Qualls, came right out of Kentucky, and he was a hick, but he was a very, very skilled and diligent soldier and an excellent teacher and leader of troops. 
+
+Larry Miracle, who I mentioned a couple of times—Miracle was an interesting case. He—as I mentioned, we never ran out of ammunition or alcohol. Miracle would bring back all this booze from his trips to Da Nang and other supply bases, and he would get loaded up and insult the battalion commander or some other senior officer, and I would have to bust him; that is, relieve him of a stripe after a period of time. But after a few weeks or a month or so, at last I would quietly restore it to him before his next foray.
+
+When I get back—I came back Stateside before he did. I found out later where he was stationed when he came back to the States, and I happened to be traveling through that area and tried to look him up, but he had already been transferred somewhere else across the country somewhere, so I haven’t seen him.
+
+And I had my driver, for example—was a young black man out of Brooklyn, and he was—I was close to him.
+
+My battery clerk, the guy who did—secured all the records, a young Jewish man from the outskirts of New York. Was close to him.
+
+But when I got back, consciously or otherwise, I decided I was leaving all that behind me as best I could, and I’ve never succeeded in looking any of them up. Some units and some of the guys in my PTSD group go to reunions from time to time. In fact, a couple of them have even gone back to Vietnam. I have absolutely no intention of ever going to Vietnam again. It has nothing to do with the population there. I wish them a good life. But I just don’t want to come in visceral contact with that situation again.
+
+I haven’t gone to reunions. I haven’t looked up—I sometimes become a complete civilian—anybody in my old unit, and I’m comfortable with that. They haven’t looked me up, either, so, you know, it’s—</u>
+      <u who="RIDKER">[Chuckles.]
+
+</u>
+      <u who="WALDEN">—it’s the kind of feeling that—it’s fairly widespread among the veterans I know.</u>
+      <u who="RIDKER">Was there anything that you would do for good luck when you were in Vietnam?</u>
+      <u who="WALDEN">Yes. Good question. Before I flew over there, Joann and I went down to our beach in Fairfield, and we each picked up a pure white stone, round, smooth. And I carried mine in my pocket the entire time I was in Nam, and Jo carried hers consistently here. And that was—that was our physical tie during that year. 
+
+Some years later, we went to the Wall [Vietnam Veterans Memorial] in Washington, and among other things, I did a rubbing of Hunter Shotwell’s name on the Wall and presented that to his widow. And also Jo and I took the two white stones, and, as you know, I think, there’s a bronze statue of three soldiers there, and we quietly went over near the statue of the three soldiers—[He begins to weep.]—and buried the stones in the ground next to them. [He continues to weep.] Excuse me. [Pause.] And that was our tribute to all the—all the men and women whose names are on the Wall.</u>
+      <u who="RIDKER">Thanks for sharing that. That’s really nice. Have you gone back to the Memorial there since?</u>
+      <u who="WALDEN">Mm-hm. Yes.</u>
+      <u who="RIDKER">And then—did your receive any war medals for your service?</u>
+      <u who="WALDEN">Yes, I received a Bronze Star and an Army Commendation Medal, and the usual campaign ribbons.</u>
+      <u who="RIDKER">And you’ve mentioned a little bit about hearing about the antiwar movement from, like, news reports when you were in Vietnam, and I’m just wondering if you were keeping up at all with campus climate over at Dartmouth and sort of some of the protests that were happening there about the ROTC program and things of that sort.</u>
+      <u who="WALDEN">Ah, yes. When I got back, I was quite upset with the continuing agitation on campus over the ROTC programs. My experience in Nam taught me that what the Army needed was the kind of well-rounded, thinking, caring officers that Dartmouth could and did produce. So I wrote a letter to John Sloan Dickey, who then was the president of the college, expressing my views and urging that the college not abolish ROTC. After a period of time, I got a letter back from one of his minions expressing the view that I had no idea what I was talking about and that the protest movement on campus [was] a far more intelligent and valid viewpoint on the ROTC issue. That put an end to my contributions to the alumni fund [sic; Dartmouth College Fund] for a period of many years, actually.
+
+
+
+I came out of the woods a little bit a few years ago, when James [E.] Wright took over as president of the college, [unintelligible]. And he started doing some remarkable things with the soldiers and the veterans community. So that brought me back into the fold, so to speak.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="WALDEN">But I—I thought the whole ROTC episode was poisonous, that at a time when the country and the troops that the country had sent into danger were being not led as well as they should be and not cared for as properly as they should be, that the college needed to be taking a leadership role, as it had for generations. So I was—the letter I got from Dickey’s office was—it absolutely closed me down in my relationship with Dartmouth, with one exception—two exceptions: I still had friends that I was and still am in contact with and will be again in a couple of weeks in reunion, and I still had a great affinity for the outdoor programs offered by the college and continue to take advantage of the [Dartmouth] Outing Club’s cabins up in the Second College Grant and so forth. We couldn’t get there this past year because of medical considerations, but I think that was an absolutely marvelous opportunity for Dartmouth students and alumni. Oh, and I’m back in the alumni fund, by the way.</u>
+      <u who="RIDKER">There's a—</u>
+      <u who="WALDEN">I’m sorry?</u>
+      <u who="RIDKER">Sorry. There’s a cabin down at the Mooselauke Ravine Lodge being dedicated to the Class of 1965.</u>
+      <u who="WALDEN">I know, yup.</u>
+      <u who="RIDKER">Yeah, it looks great. I recently saw it, so—</u>
+      <u who="WALDEN">Oh, you did. Great! I hear it’s pretty good.</u>
+      <u who="RIDKER">Yeah, it’s great. I think it’s going to be a good one.
+
+
+
+So I guess just kind of as one more, like, reflective kind of question before we can wrap things up, I’m wondering—so I know you’ve spoken about PTSD a little bit, but I’m wondering if there’s anything else, in thinking about other ways that your military service in general, your four years and also your service in Vietnam has shaped the rest of your life or if there’s anything you’ve learned from your military service that you think has helped you along in the years since you’ve been back.</u>
+      <u who="WALDEN">I think it helped solidify, inculcate, whatever the right set of words is, a set of values for me that started from what I was taught by my parents and I continued to learn in other ways. The military experience, while it had many things about it that were unpleasant, distasteful, unfortunate, negative—it taught me the value of human life and my obligation to, if given responsibility, to safeguard that human life and to give people with whom I have any influence an opportunity to succeed. I’m thinking specifically of our children here but not necessarily only that narrow scope.
+
+I work a lot with people in—you know I went through eight and a half hours of brain surgery about 15 years ago. Every day is a gift. I’m lucky to be alive, and I need to remember those notions every day. The neurosurgeon who performed the work—I guess it’s 16 years ago now—was at the time one of three or four in the entire world who could perform the necessary procedures, and five years earlier, nobody could have done it. So when you go through an experience like that, you question some things, built on some things you’ve learned along the way in your childhood, in your education, notably included Dartmouth and its liberal arts values, in the Army and associations with other people who are in recovery from difficult medical, mental conditions. You take that as a base of a serious obligation.
+
+And the basic reason I was willing and even eager to participate in the Dartmouth Vietnam experience program [sic; The Dartmouth Vietnam Project] that you and I have discussed is the notion that it might be helpful to somebody else along the way. That is a—Dartmouth helped teach me that. It hasn’t been the only teacher, as discussed, but it has been a prominent—the values that got reinforced and parked there were then instrumental in my life, and I’m grateful for it.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="WALDEN">And, by the way, young lady, I’m very grateful for what you’ve been doing, it is a—this is a valuable relationship we have. Thank you.</u>
+      <u who="RIDKER">Mm-hm, yeah. Dan, thank you so much. Thank you, you know, for your participation in this project and your willingness to share your stories. It’s been really wonderful for me to have an opportunity to speak with you and get to know you, so thank you so much again.</u>
+      <u who="WALDEN">You’re most welcome.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

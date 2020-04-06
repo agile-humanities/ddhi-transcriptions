@@ -1,0 +1,1175 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="SPRITZLER"/>
+        <person xml:id="CONNOLLY"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="CONNOLLY">Today is August 15th.  This is Sean [P.] Connolly interviewing Mr. John Spritzler. We are in Boston, Massachusetts, and this is the first audio file of the Dartmouth Oral History Project [sic; the Dartmouth Vietnam Project of the Dartmouth College Oral History Program].</u>
+      <u who="SPRITZLER">Actually, we’re in Brookline, Massachusetts.</u>
+      <u who="CONNOLLY">Are we in Brookline? Oh, we’re in Brookline, Massachusetts. [Chuckles.] So I’m sitting down today with Mr. John Spritzler, and, John, I’m first going to kind of start this off just by asking you to—kind of start by describing your early childhood life and where you’re from and where you grew up and your family.</u>
+      <u who="SPRITZLER">Okay. Well, I was born in Los Angeles, California, 1947. My father was a cardiologist, and my mother was a housewife.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">They were both sort of non-religious Jewish. And just a little funny incident about that: When I was in elementary school, there was a Jewish holiday in September, and the Jewish kids didn’t have to go to school.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So my mother said I could stay home and play, so I stayed home and played. And then, as I was leaving the next day to—leaving the front door of the house to get the school bus, she said, “If anyone asks you what religion you are, tell them you’re Jewish,” and that’s how I found out.</u>
+      <u who="CONNOLLY">[Chuckles.] So you found out in a very nondescript way. [Chuckles.]</u>
+      <u who="SPRITZLER">So it was not a major part of our life.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">When I was 15, my mother was killed in a freak accident by a falling tree caused by the rain, and so—I don’t know, it was sort of a major part of my childhood.</u>
+      <u who="CONNOLLY">Sure, sure. Did you have any brothers or sisters?</u>
+      <u who="SPRITZLER">I have—at the time, I had one sister. I later have a half sister from my father’s future marriage. She’s three years younger than I am.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">So in high school I had a teacher in the tenth grade, in a class called Power Reading, I think it was called, in Pacific Palisades High School, [sic; Palisades Charter High School],  “Palisades High” “Pali High.”</u>
+      <u who="CONNOLLY">Yeah, “Pali High.”</u>
+      <u who="SPRITZLER">Her name was Rose Gilbert, and she died last year or even less than a year ago, but shortly before she died, she was on national TV because she was still teaching at the age of 93—</u>
+      <u who="CONNOLLY">Oh, and was she—</u>
+      <u who="SPRITZLER">She was the oldest—</u>
+      <u who="CONNOLLY">Living teacher.</u>
+      <u who="SPRITZLER">—public school teacher teaching still—</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">—in the country.  So she had this amazing class that—she taught us the methods of propaganda, and she had us doing homework that consisted of watching TV ads and identifying the methods of propaganda, so she was quite a lady. She was very—very good.</u>
+      <u who="CONNOLLY">Sure. It sounds like this class stands out to you.</u>
+      <u who="SPRITZLER">Hmm?</u>
+      <u who="CONNOLLY">It sounds like this class really stands out to you from, you know, from the middle—elementary school classes?</u>
+      <u who="SPRITZLER">No, this is high school.</u>
+      <u who="CONNOLLY">High school classes? Okay.</u>
+      <u who="SPRITZLER">So it was in that class that we were instructed to write an expository essay. That was an essay making an argument for some—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—case. And I remember that we had to write—write this essay, and what we learned is that it had to have a beginning, a middle and an end. [Chuckles.] So the first essay that I ever wrote was one in which I argued that President [John F.] Kennedy had been too soft on Russia in the Cuba Missile Crisis.</u>
+      <u who="CONNOLLY">Okay.</u>
+      <u who="SPRITZLER">I can’t believe that I’m the same person that wrote that, that article.</u>
+      <u who="CONNOLLY">What—</u>
+      <u who="SPRITZLER">That’s what I wrote?</u>
+      <u who="CONNOLLY">I guess what was some of the context that made you think that? Was it—</u>
+      <u who="SPRITZLER">Well, we had just come out of the Cuban Missile Crisis.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And we were all scared to death we were going to die. Some people had shelters—you know, nuclear bomb—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—shelters and so forth, and most, of course, didn’t. I don’t know why, but that’s what I wrote.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">I mean, you know,—</u>
+      <u who="CONNOLLY">Was it a topic you discussed with your friends, with your father?</u>
+      <u who="SPRITZLER">No, we just—no, no. We just had to write something, and that’s what I decided to write.</u>
+      <u who="CONNOLLY">Interesting</u>
+      <u who="SPRITZLER">I don’t remember a whole lot from my childhood, but I remember some things, and that’s [chuckles] one of the things that I remember.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And I also remember that—let’s see [Barry Morris] Goldwater was getting the nomination, the Republican nomination around 1964 or shortly before then. I was a Goldwater fan. I remember when Kennedy was assassinated—of course, I remember where I was and everything; I was in a [William] Shakespeare class, and the news came over a speaker at the top of the blackboard. You know, I was shocked. Of course, it was totally unexpected and everything,—</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">—but I wasn’t as hysterically upset as—I remember there were girls in my class who just went absolutely hysterical, you know, and I was sort of looking at that and wondering, you know, Why are they that hysterical? So my parents were for [Adlai Ewing] Stevenson [II], who lost the nomination, and maybe that had something to do with it. I don’t know, but—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—they were extremely moderate Democrats.</u>
+      <u who="CONNOLLY">Okay. And was—I guess—tell me—tell me kind of about some of the inner—like, were there—was politics kind of a common conversation in the home?</u>
+      <u who="SPRITZLER">Not particularly,—</u>
+      <u who="CONNOLLY">Not particularly.</u>
+      <u who="SPRITZLER">—no.</u>
+      <u who="CONNOLLY">Okay.</u>
+      <u who="SPRITZLER">No. I think—I think—the thing I admired about Goldwater was his being sort of contrarian more than the substance—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—of what he said.</u>
+      <u who="CONNOLLY">And he certainly had a following in southern California, correct?</u>
+      <u who="SPRITZLER">I guess he did. You know, he had me. [Laughs.]</u>
+      <u who="CONNOLLY">He had you.</u>
+      <u who="SPRITZLER">[Laughs.]</u>
+      <u who="CONNOLLY">I see. Was this kind of a awareness or, you know, a kind of discussion of political candidates—was that kind of common among—in your high school, among your peers?</u>
+      <u who="SPRITZLER">Well, I didn’t have a whole- —at the time, I had two very close friends.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And neither of them went to the same school as I did.</u>
+      <u who="CONNOLLY">Okay.</u>
+      <u who="SPRITZLER">And so my whole sort of social life was not really mainly with people in my high school; it was with these two good friends. We hung out—</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">—together all the time. I don’t remember having much—I don’t remember talking politics particularly. I’m sure—you know, we didn’t avoid it, but—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—it wasn’t like the focus. I was into science—</u>
+      <u who="CONNOLLY">Yeah. What were you interested in?</u>
+      <u who="SPRITZLER">Well, my best friend and I—we had ham radio licenses, and we built a Morse code translator. I mean, we spent years in the workshop that we had where I lived,—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—tinkering, and we built this Morse code translator. I remember we won I think—the Western States Science Fair—we won first place or something with it. You know, it was this amazing device. You put the speaker in front of the radio where the Morse code’s coming out of, and it would type up what the Morse code was on an electric typewriter,—</u>
+      <u who="CONNOLLY">Wow.</u>
+      <u who="SPRITZLER">—which was a big deal, having an electric typewriter back then. [Chuckles.]</u>
+      <u who="CONNOLLY">Yeah, sure, sure.</u>
+      <u who="SPRITZLER">We got our hands on an IBM something or other [sic; IBM Selectric typewriter]. I think it had a ball, you know. Do you remember those? Did you ever see one?</u>
+      <u who="CONNOLLY">No.</u>
+      <u who="SPRITZLER">[Chuckles.]</u>
+      <u who="CONNOLLY">What got you into science? Was it just a curios- —it was something that you liked early on, or—</u>
+      <u who="SPRITZLER">Yeah, yeah, it was just—I remember when I wrote my college admission—you know, the person I most admired—it was Albert Einstein. I’d read a book about his theory of relativity, and it was cool. I was interested in that. At that time—you know, we’re talking about the years, you know, leading up to 1964, when I graduated from high school.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">At that time—I do remember distinctly feeling that the United States was a wonderful country, and I was so fortunate to be living in it, and the world was my oyster, and just extremely happy to be living where I was when I was, you know, and looking forward to an exciting future.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And, you know, so I was doing okay in school and got accepted at Dartmouth, the only Ivy League that accepted me. I had to apply to all of them, right? But if I hadn’t gotten into Dartmouth, I would have gone to [University of California] Berkeley, where all my friends went, you know. So the civil rights issue was not on my mind. The war was just barely on anybody’s mind back then, certainly not particularly on my mind. And I was, you know, building gadgets and ham radio and that kind of stuff. That was the way it was.</u>
+      <u who="CONNOLLY">Just tinkering around. Yeah, that makes a lot of sense. You know, so did you live in—what part of L.A. did you live in? Was it—</u>
+      <u who="SPRITZLER">I lived in Brentwood, which is where O.J. Simpson much, much, much, much, much, much later moved to. [Laughs.] The house that I grew up in was sort of a residential street, and it was—you know, a nice part of Los Angeles.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And Los Angeles was—my father was a cardiologist and movie star patients and everything, so he was doing well financially.  </u>
+      <u who="CONNOLLY">Mm-hm. </u>
+      <u who="SPRITZLER">But when my sister and I went back, just to reminisce, to see the old house it had turned into a gated community. We couldn’t even get in, you know? It’s just crazy, you know. </u>
+      <u who="CONNOLLY">Wow.</u>
+      <u who="SPRITZLER">And that’s where O.J. Simpson was living much, much, much, much later.</u>
+      <u who="CONNOLLY">Much later. And it sounds like you enjoyed the community. You felt comfortable there.</u>
+      <u who="SPRITZLER">Enjoyed what?</u>
+      <u who="CONNOLLY">Enjoyed the community.</u>
+      <u who="SPRITZLER">Yeah, I was a Boy Scout.</u>
+      <u who="CONNOLLY">You were a Boy Scout?</u>
+      <u who="SPRITZLER">Yeah. You know, local troop, you know. Bike ride—a short bike ride to the church where they met,—</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">—and, you know, camping trips and—oh, I remember, just as a—you know, my friends and I—we’d ride our bikes everywhere. We’d ride our bikes all the way—almost—basically, almost to downtown Los Angeles to go to Army surplus stores to get electronic component and relays and stuff like that.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And just—there was no fear then, you know, of kids riding their bike anywhere—you know, miles and miles and miles away and so forth. That’s another theme, but the fear that exists in the country today about letting kids, you know, be anywhere on their own—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—is dramatically different than it was back then.</u>
+      <u who="CONNOLLY">Yeah, I guess your mom and your dad were okay with you going out in the town for something.</u>
+      <u who="SPRITZLER">Yeah. I can give you a little anecdote about that if you want to hear it.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">It was 1958. I was 12 years old. My sister was 9 years old. My grandfather was in New York City. He was a gossip columnist. So my father was taking, like, a sabbatical, and we were going to Europe, and they were—you know, my sister and I were going to be dropped off in Switzerland for about eight months while he and my mother were in London. He was doing some medical kind of sabbatical thing.
+
+So we were in New York, visiting my grandfather. And so he got us tickets for a matinee showing of How to Succeed in Business Without Really Trying, which was—have you heard of it?</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">I think it’s one of the longest-running successes—</u>
+      <u who="CONNOLLY">I’ve seen it.</u>
+      <u who="SPRITZLER">You’ve seen it? Very funny, right?</u>
+      <u who="CONNOLLY">Yeah, yeah.</u>
+      <u who="SPRITZLER">So they dropped my sister and me off at the theater.</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">And they said, “When the show’s over, walk home.” And we’d never been in New York City before. I’m 12; she’s 9. We’re not New Yorkers, right? We’re not street wise at all. And the instructions are to walk about—ah, 10 blocks, you know, back from the theater to my grandfather’s apartment.</u>
+      <u who="CONNOLLY">Uh-huh. </u>
+      <u who="SPRITZLER">So if you think about it, if parents did that today, they’d probably be arrested, but no one thought anything about it—</u>
+      <u who="CONNOLLY">Sure,—</u>
+      <u who="SPRITZLER">—back then you know?</u>
+      <u who="CONNOLLY">—sure.</u>
+      <u who="SPRITZLER">Here’s the funny part of the story. It’s not related to the—my sister and I, I believe are the only people to ever walk out in the middle of that show. And the reason is we were enjoying it and laughing and everything, and then the curtain came down, and everyone got up and walked out, so we got up and walked out and headed back to my grandfather’s. And we got there, and he said—looked at his watch and said, “What are you doing here now?” And he says, “Well, the show’s over and we came home.” We didn’t understand it was the intermission. [Laughs.] We didn’t know anything! No one told us about that. [Laughs.]</u>
+      <u who="CONNOLLY">Sure, sure. [Chuckles.] “That was nice. I’ll go now.”</u>
+      <u who="SPRITZLER">But the thing about that—the important thing about that incident is how the fear of kids walking home in New York City didn’t exist then.</u>
+      <u who="CONNOLLY">Sure, sure. Tell me about your grandfather. </u>
+      <u who="SPRITZLER">His name was Louis [pronounced LOO-ee] Sobel. He was a famous person. He was asked to host The Ed Sullivan Show, and then he turned it down because he had a big nose that he was embarrassed—and so he was okay on radio but didn’t want to be on television.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">And he was a syndicated columnist, so your grandfather would probably know his name. He wrote—it was him and Walter Winchell. Walter Winchell revealed the dirt about people. My grandfather was famous for only saying nice things about them. [Laughs.]</u>
+      <u who="CONNOLLY">Fair, fair. Was your grandfather close with your family? Was your grandfather your father’s side or your mom’s side?</u>
+      <u who="SPRITZLER">My mother’s side.</u>
+      <u who="CONNOLLY">Mother’s side. Okay. Did you see him often?</u>
+      <u who="SPRITZLER">Well,—</u>
+      <u who="CONNOLLY">[cross-talk].</u>
+      <u who="SPRITZLER">—he would come out occasionally to Los Angeles. You know, occasionally we’d see him then, and I saw him a few times.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">You know, when I was in college, I stopped there on my way to Dartmouth as a freshman and so forth. But he was mortified—he was very close friends with Senator—ah! Oh, what’s his name? One of the big senators who was I guess from New York, very pro-war. Ah, I can’t remember the senator’s name. I think it starts with a G. But he was good friends with the senator. And at Dartmouth gradu- 
+
+[Apparent recording glitch.]</u>
+      <u who="CONNOLLY">So this is the second audio file of the August 15th interview with Mr. John Spritzler. We refer to QuickTime player on my MacBook Pro as a secondary backup after the recorder was no longer able to store any additional files.
+
+So, John, if you would like to take it where we left off.</u>
+      <u who="SPRITZLER">Okay. So I was getting my diploma. After I took my diploma in hand, I said to Senator [Ernest H.] Gruening, “Hi, I’m Louis Sobel’s grandson” and extended my hand for a handshake, and he grinned and smiled, and then I said, “I think that you’re a criminal for voting for, you know, funds for the war in Vietnam,” and his face completely changed. You know, he was horrified. And my grandfather was mortified later when he found out about it, of course. So that’s—</u>
+      <u who="CONNOLLY">Gotcha.</u>
+      <u who="SPRITZLER">[Chuckles.]</u>
+      <u who="CONNOLLY">That’s the connection to your grandpa. That’s funny.
+
+So we’ve been talking about your high school. We’ve been talking about growing up in L.A. I guess—you know, and we also talked about kind of extracurriculars and hobbies and interests. So what was high school like for you—high school and middle school? We talked about some of your classes, but if you could just kind of describe what that environment was like.</u>
+      <u who="SPRITZLER">When I was in elementary school, I was, like, a C-minus student. And when I got to sixth grade, because of the changes in the borders of the schools, the L.A. schools, for the sixth grade and only for the sixth grade, I was in the same school as my best friend, David [G. Stratman].</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">And David was an A student.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">And we were in the same class, and we were best friends.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So the teacher saw that we were best friends and assumed that I must be an A student, too. So I started getting A’s. And I guess it was good thing for me because it made me think that I was smart enough to, you know, think of myself as smart instead of dumb, and so that was an important thing. A totally chance, right?</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">I didn’t change [chuckles] from one to the other. But I started hanging out with the right crowd in terms of grades. Anyway, then we were separated in different schools again because of the shifting school borders, and that was the end of elementary school, and then it was junior high school and so forth.
+
+I don’t know what to say about, you know, those years. You know, by the time I was in high school, I was in Advanced Placement classes, and, you know, working real h- —you know, they had me go to UCLA [University of California, Los Angeles] with some other students for some courses in my senior year. There was a track system. There were the kids that, you know, were in shop and that you never had anything to do with, and then there were the kids that were in Advanced Placement. It was a clear class—</u>
+      <u who="CONNOLLY">Distinction.</u>
+      <u who="SPRITZLER">—divide.</u>
+      <u who="CONNOLLY">Was there a tension ever between those groups? Any perceived—</u>
+      <u who="SPRITZLER">No, we just basically ignored each other.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">That’s my recollection.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">You did your classes; they took theirs.</u>
+      <u who="SPRITZLER">Yeah. No, there weren’t fights or anything like that.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">Just, you know, things were very undramatic. How can I—I can put it that way. [Chuckles.] It was very undramatic.</u>
+      <u who="CONNOLLY">Okay. Is that just a function of, you know, like, kind of people going about their business or—</u>
+      <u who="SPRITZLER">I guess so, yeah.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Yeah. Yeah.</u>
+      <u who="CONNOLLY">Just straightforward and—</u>
+      <u who="SPRITZLER">Life was not problematical then. As I said, I was totally optimistic about my life and happy where I was.</u>
+      <u who="CONNOLLY">But you were still paying attention to present events. I mean, you talked about your essay.</u>
+      <u who="SPRITZLER">Yeah, I guess so, but, you know, Kennedy wasn’t hard enough against the Russians. [Laughs.]</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">I mean, what I know now is that we all came near to dying because of nuclear war, but—</u>
+      <u who="CONNOLLY">Sure. Did you—what were your interactions between the family and friends during the crisis like?</u>
+      <u who="SPRITZLER">During the Missile Crisis?</u>
+      <u who="CONNOLLY">Yeah, during and just after.</u>
+      <u who="SPRITZLER">I don’t really have strong memories. We were afraid. Everyone was afraid. We just sort of waited it out, in fear. That’s my memory of it.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">I don't have—I don’t remember scenes from that time, so I can’t say too much.</u>
+      <u who="CONNOLLY">Sure, sure. Okay. And you went through your courses. You mentioned that science was kind of a standout for you. Did you take—focus on science in high school as well?</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">Yeah?</u>
+      <u who="SPRITZLER">Yeah. Well, one didn’t have too much choice in what one took. I took, you know, the math courses and chemistry and biology. I remember that they had—Russia just put Sputnik up, and so there was this panic in American education that they weren’t teaching American kids science, so the new curriculum was all—you know, this is going to catch us up with the Russians, you know? Ecology was beginning to be talked about for the very first time.</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">You know, the word had never been heard before. And I took chemistry but no physics.</u>
+      <u who="CONNOLLY">No physics.</u>
+      <u who="SPRITZLER">Yeah, chemistry—just biology and the chemistry class. That was it. It wasn’t, like, a super-scientific background.</u>
+      <u who="CONNOLLY">Okay. Any classes you were enjoying or really not enjoying? Anything that you just didn’t look forward to going to?</u>
+      <u who="SPRITZLER">Actually, there was a history course that I hated because it had an absurd teacher who—you had to write term papers. Now, this was before computers, before—maybe there was electric typewriters with—God knows what the technology was then, you know. But the term papers would be marked in the following way: He would hold the pages up to the light, and every correction, we lost one grade. [Laughs heartily.]</u>
+      <u who="CONNOLLY">That’s—</u>
+      <u who="SPRITZLER">It’s not exactly inspiring one to become a history major, right?</u>
+      <u who="CONNOLLY">Sure, sure.</u>
+      <u who="SPRITZLER">And then there was another history course that—it wasn’t crazy that way, but I remember—I think it was U.S. history, and the teacher told us that the final exam—this was to get into college. You had to get an A. You know, the pressure was intense, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">That the final exam was going to be a blue book exam, and we were going to have to write essay answers to four of the six questions, which he gave us way in advance, which was horrible! Because what that meant is that, you know, we had to form teams to basically prepare and memorize answers to all six questions. [Both chuckle.] </u>
+      <u who="CONNOLLY">Wow.</u>
+      <u who="SPRITZLER">It would have been much kinder if he just said, “I’m going to give you some questions, and you won’t know what they are until the day of the exam,” right?</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">[Chuckles.]</u>
+      <u who="CONNOLLY">Do you remember what any of the questions were?</u>
+      <u who="SPRITZLER">No.</u>
+      <u who="CONNOLLY">Or you just remember the kind of panic with that.</u>
+      <u who="SPRITZLER">[Chuckles.] But we formed teams, and we had to memorize—it was so competitive.</u>
+      <u who="CONNOLLY">Yup.</u>
+      <u who="SPRITZLER">In fact, I don’t think I’ve ever been in a more competitive situation than eleventh grade in high school.</u>
+      <u who="CONNOLLY">Really!</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">And were you competing with your peers?</u>
+      <u who="SPRITZLER">You were competing to get the grades, to get the A to get into college. In Palisades High School, which was a new school—it only opened—I was the first ninth grader in it, the first ninth grade class. But in the years ninth, tenth, eleventh and then twelfth, I think the pattern continued. Harvard [University] accepted only the class president and always the class president. In other words, if you got elected class president—</u>
+      <u who="CONNOLLY">[Chuckles.]</u>
+      <u who="SPRITZLER">—you knew you would be accepted to Harvard, and you would be the only person in the school accepted to Harvard. [Laughs.]</u>
+      <u who="CONNOLLY">[Chuckles.] Did the class president end up going to Harvard, do you remember?</u>
+      <u who="SPRITZLER">Oh, yeah. I’m pretty sure, you know. His name was [Donald M.] Pehlke. I remember his name. Yeah, you know, that’s—[Laughs.]</u>
+      <u who="CONNOLLY">Interesting, interesting. Now, so, it seems to me that college was a focus for you early on.</u>
+      <u who="SPRITZLER">Yeah. See, my parents were—you know, my mother, from New York City; my father, from Philadelphia, and education was very important, and so it was a big deal I go to an Ivy League school.</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">So that’s why I had to apply to all the Ivy League schools, and Dartmouth was the one that accepted me.</u>
+      <u who="CONNOLLY">Gotcha.</u>
+      <u who="SPRITZLER">So that’s where I went.</u>
+      <u who="CONNOLLY">Well, you know, to an extent was, like, your desire to go these schools—was it you kind of motivating yourself?</u>
+      <u who="SPRITZLER">No. It meant nothing to me.</u>
+      <u who="CONNOLLY">It meant nothing to you.</u>
+      <u who="SPRITZLER">I had no idea what Dartmouth was. Dartmouth was just a name.</u>
+      <u who="CONNOLLY">Yep. But it meant a lot to your parents.</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">Okay. And was that something talked about or brought up a lot, or was it just a kind of—</u>
+      <u who="SPRITZLER">It was just the atmosphere I grew up in.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">It was just a given, you know? It was, like,—</u>
+      <u who="CONNOLLY">Let’s see. [Whispers to himself and types.] Still got it. [Chuckles.] I just got nervous because, you know—
+
+
+
+So it was the atmosphere you grew up in, and kind of surrounded by it.</u>
+      <u who="SPRITZLER">I had no idea what to expect when I got to Dartmouth, but it was an all-male school then. And I’ll just tell you a little funny thing, but it was toward the end of my four years there. The issue was being hotly debated whether Dartmouth should go co-ed. There were—as I recall, there were two opinions and only two opinions. Opinion number one: Should not go co-ed because if it did, that would make it worse for the men. Opinion number two: It should go co-ed because if it did, that would make it better for the men. [Chuckles.]</u>
+      <u who="CONNOLLY">Interesting, interesting. 
+
+So we talked about your junior year. What was senior year like for you? You mentioned at the very end you felt very—</u>
+      <u who="SPRITZLER">Oh, in high school?</u>
+      <u who="CONNOLLY">Yeah, in high school. </u>
+      <u who="SPRITZLER">I don’t have a big recollection of the difference between the one and the other.</u>
+      <u who="CONNOLLY">Really.</u>
+      <u who="SPRITZLER">You know, a little bit easier because you’re already knew what your college—</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">—decision was.</u>
+      <u who="CONNOLLY">And you found out—when did you find out that you had gotten in to Dartmouth?</u>
+      <u who="SPRITZLER">I remember writing the application during Christmas vacation. That’s all I remember.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Somehow—</u>
+      <u who="CONNOLLY">Wrote it, sent it in, found out that spring.</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">What was it like when you first found out. and how did you find out?</u>
+      <u who="SPRITZLER">You know, you get—</u>
+      <u who="CONNOLLY">A letter.</u>
+      <u who="SPRITZLER">You get a thick letter instead of a skinny letter. </u>
+      <u who="CONNOLLY">[Chuckles.]</u>
+      <u who="SPRITZLER">[Laughs.] All the other ones were skinny letters.</u>
+      <u who="CONNOLLY">Gotcha.</u>
+      <u who="SPRITZLER">[Laughs.]</u>
+      <u who="CONNOLLY">So you knew you were going to Dartmouth.</u>
+      <u who="SPRITZLER">When I arrived at Dartmouth, freshman—it was freshman orientation week. Guess who was in charge of freshman orientation week. A freshman.</u>
+      <u who="CONNOLLY">Really.</u>
+      <u who="SPRITZLER">Guess who?</u>
+      <u who="CONNOLLY">Who?</u>
+      <u who="SPRITZLER">[Robert B.] Bob Reich, future secretary of labor—</u>
+      <u who="CONNOLLY">Wow.</u>
+      <u who="SPRITZLER">—under [President William J. (Bill)] Clinton.</u>
+      <u who="CONNOLLY">Wow.</u>
+      <u who="SPRITZLER">When I came to—I have very negative feelings towards Bob Reich, but they didn’t exist that early, but it was strange that—he was a freshman just like me, but he was in charge. [Laughs.]</u>
+      <u who="CONNOLLY">Put in charge. Okay, so did you—let’s kind of talk about your early, very early freshman year of Dartmouth.</u>
+      <u who="SPRITZLER">Well, let me tell you just some things that—you know, that I’ve been thinking about in preparation for this.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">They’re sort of interesting, I think. Of course, my chronology is a little bit blurred. You know, I say freshman year; it might have been sophomore year. I can’t be positive about those things. But in my early arrival at Dartmouth, two things I remember that stand out:
+
+[Irwin] Allen Ginsberg—do you know the poet, Allen G- —the beat poet, right?</u>
+      <u who="CONNOLLY">Mmm.</u>
+      <u who="SPRITZLER">Allen Ginsberg was invited to give a talk. It was a talk in, like,—it was, like, someone’s living room. I don’t remember exactly where it was. On the campus.</u>
+      <u who="CONNOLLY">On campus?</u>
+      <u who="SPRITZLER">Maybe it was a fraternity house. I can’t remember. But I remember it being not so much like a fraternity house but being sort of dainty. Like, maybe it was the wife of some professor that made it dainty.</u>
+      <u who="CONNOLLY">So somewhere in Hanover, but—</u>
+      <u who="SPRITZLER">No, right on the campus, right close to campus.</u>
+      <u who="CONNOLLY">Right on the campus? Okay. Close to the Green?</u>
+      <u who="SPRITZLER">Yeah, right close to the Green. Somewhere. I can’t remember exactly where. But anyway, it was an intimate kind of—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—thing. And there was Allen Ginsberg, with his boyfriend, Peter Orlovsky, and I was, like,—basically, I was, like, a freshman. I was, like, being introduced to the world of ideas and great things for the first time. What did I know? I didn’t know anything, right? So I’m sitting there, listening to the great poet, Allen Ginsberg, and he starts talking, and what s he talking about? He’s talking about the turds, the little pieces of shit that play such an interesting role to him when he is having anal intercourse with his boyfriend.</u>
+      <u who="CONNOLLY">Right off the bat. [Chuckles.]</u>
+      <u who="SPRITZLER">In graphic detail.</u>
+      <u who="CONNOLLY">[Chuckles.] How did the audience respond to this?</u>
+      <u who="SPRITZLER">I was shocked.</u>
+      <u who="CONNOLLY">You were shocked?</u>
+      <u who="SPRITZLER">I can’t remember anything else about it. That’s vignette number one.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Vignette number two: Again, maybe it was my sophomore hear. There was a speaker, a guy from New York City, who was speaking about something called apartheid in South Africa, a word I’d never heard of before. But, you know, you go to interesting events. You see them advertised—you know, you want to learn about things. That’s why you’re in college, right?</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">So I go to this talk about apartheid in South Africa, and he said the most horrible things about South Africa, unbelievable things, you know, about apartheid and everything. And I remember—you know what my reaction was? He must be lying.</u>
+      <u who="CONNOLLY">Really. What made you think that?</u>
+      <u who="SPRITZLER">It was too outrageous. And then I remember I had a friend—I forget his name—who was a little more savvy than I was about the world and things, and he showed me that actually he wasn’t lying [chuckles], and interestingly, within a year or so after that, I was a member of the organization that speaker was recruiting for,—</u>
+      <u who="CONNOLLY">Interesting. </u>
+      <u who="SPRITZLER">—which was a Communist, Marxist organization. More on that later, maybe. So I was a babe in the wood. And then there was the civil rights movement. I was learning about Jim Crow, and I remember—in my freshman year, I gave a donation of $50, which was a lot of money [chuckles] for a freshman in 1964 or ’5 to SNCC [pronounced SNICK], the Student Nonviolent Coordinating Committee, Stokely Carmichael’s group. So I was already starting to get involved with issues that I hadn’t been involved with in high school.</u>
+      <u who="CONNOLLY">Okay. All right. So—and we’ll get to that—I’m curious, you know, if you remember kind of some of the early detail, like, the very kind of first couple of weeks at Dartmouth, like your dorm—</u>
+      <u who="SPRITZLER">I had beer for the first time.</u>
+      <u who="CONNOLLY">You had beer for the first time. [Both chuckle.] Was it in a dorm? Was it in a fraternity?</u>
+      <u who="SPRITZLER">I was walking around the campus. The freshmen were getting drafted to—do they still do that? The freshmen get drafted to do work for uppercl- —</u>
+      <u who="CONNOLLY">[No audible response but apparently shakes his head no.]</u>
+      <u who="SPRITZLER">No? They don’t do that?</u>
+      <u who="CONNOLLY">Nope.</u>
+      <u who="SPRITZLER">If you were a freshman, then any upperclassman could say, “Hey, carry this rug upstairs to my, you know, to my dorm room” or fraternity room or whatever, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Somehow in the course of that, I was offered a beer and had my first beer.</u>
+      <u who="CONNOLLY">Okay. And that was walking with a group of friends, a group of upperclassmen approached you and kind of whisked you away?</u>
+      <u who="SPRITZLER">I can’t remember.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">I remember the beer. [Chuckles.]</u>
+      <u who="CONNOLLY">Gotcha. Gotcha.</u>
+      <u who="SPRITZLER">We’re talking how many years ago? This is, you know,—</u>
+      <u who="CONNOLLY">No, that is fair. Do you remember what dorm you were in?</u>
+      <u who="SPRITZLER">Yes, Cohen [Hall].</u>
+      <u who="CONNOLLY">Cohen, okay.</u>
+      <u who="SPRITZLER">302A Cohen Hall. [Laughs.] And the reason I picked Cohen—it still exists, I think. At least the last time I was there it did, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">It’s a sort of a cinderblock, ugly building compared to these gorgeous, big, you know, wooden, old buildings that were, you know, closer to the campus, right?</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">But when I was looking at the catalog and picking a dorm, because you could pick—at least you pick your first choice, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Stupid me, you know, I see this modern cinderblock building, and its modernity said: Oh, this is the good one, right? And the oldness of the other buildings said: Oh, that’s an old building. That’s no good. [Laughs.] </u>
+      <u who="CONNOLLY">Yeah, yeah.</u>
+      <u who="SPRITZLER">Little did I know they had large rooms with fireplaces and everything. [Laughs.]</u>
+      <u who="CONNOLLY">Funny. Did you have a roommate?</u>
+      <u who="SPRITZLER">No. There was a suite, and so I had a single room. I was rather shocked by the—a few of the other people were from, like, Phillips Exeter [Academy; Exeter, New Hampshire], and they had the most—they had extremely anti-women—contemptuous views of women.  I’d never experienced anything like that.</u>
+      <u who="CONNOLLY">Really? And what do you mean by that? </u>
+      <u who="SPRITZLER">The talk was about, you know, in a mix you’re grabbing a girl, put a bag over her head and fuck her, you know?  That’s pretty—pretty sharp, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And that was just, like, they were just constantly—that was the theme. And it was shocking to me, you know?</u>
+      <u who="CONNOLLY">Yeah. And I guess you never kind of heard that kind of—this talk before.</u>
+      <u who="SPRITZLER">I never talked that way. No one I knew talked that way about girls, but these kids from—they were from the private—it was a culture. It was Exeter and Phillips Andover [Phillips Academy; Andover, Massachusetts] and so forth. I don’t know where you’re from. I hope I’m not stepping on toes, but—[Laughs.]</u>
+      <u who="CONNOLLY">That’s interesting. So you lived in a suite. You were suitemates?</u>
+      <u who="SPRITZLER">Yeah, we were suitemates. Right away, you know, they rearranged the common room so it was someone’s room. I don’t know, I just mainly was in my single room. My good buddy was a Madagascar student. His name was [Tantely H.] Andriamanatenasoa. I still remember. [Chuckles.] Andriamanatenasoa. And we used to hang around a lot.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">He introduced me to [Ludwig van] Beethoven’s Ninth Symphony, things, you know, that I was not aware of. And we smoked grass together on weekends.</u>
+      <u who="CONNOLLY">That’s cool.</u>
+      <u who="SPRITZLER">And I think once we planted some marijuana seeds in President [John Sloan] Dickey’s lawn, but they didn’t germinate.</u>
+      <u who="CONNOLLY">Didn’t take. </u>
+      <u who="SPRITZLER">[Chuckles.]</u>
+      <u who="CONNOLLY">Gotcha. So what was it like translating socially into Dartmouth? Because, like, it’s a really different culture—</u>
+      <u who="SPRITZLER">Well, I found people that were not like the ones I described, you know, that became friends, and so, you know, I had some friends, and we hung out together. But it was funny. Andri, my Madagascar friend—he and I—at his instigation, we go to the grocery store and buy the makings of a gourmet meal for dinner, having no place to cook it. And then we would go to fraternities or anyone we knew with a kitchen—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—and propose the deal that we would cook a gourmet meal and share it with them if we could use their kitchen, right?</u>
+      <u who="CONNOLLY">Mmm.</u>
+      <u who="SPRITZLER">It was always successful.</u>
+      <u who="CONNOLLY">Always successful.</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">But I didn’t have much of a desire to go and get into the fraternities. I’m not sure why. Just, you know, I just didn’t. so I had my friends.</u>
+      <u who="CONNOLLY">Yeah. You guys hung out on weekends? Anything particular that you guys did—I mean, like go to the movies?</u>
+      <u who="SPRITZLER">Yeah, I’d always go to the movies. James Bond movies were always new then. You know, they were coming out then.</u>
+      <u who="CONNOLLY">Okay.</u>
+      <u who="SPRITZLER">At the theater. I assume the theater is still there, right? The Nugget theater?</u>
+      <u who="CONNOLLY">It still stands.</u>
+      <u who="SPRITZLER">And road trips occasionally, you know.</u>
+      <u who="CONNOLLY">To where?</u>
+      <u who="SPRITZLER">Girls’ schools: Saratoga and—I just remember the one in Saratoga. The guy I went with went for the main—his goal was to get drunk, which he did, and he was vomiting all over. My goal wasn’t to get drunk. I can’t remember. If we ran into some girls, it wasn’t anything to write home about.</u>
+      <u who="CONNOLLY">Yeah. Interesting. How would you describe the social scene on campus? Was it predominantly based on the fraternity system?</u>
+      <u who="SPRITZLER">All I remember—</u>
+      <u who="CONNOLLY">Just your perception of it.</u>
+      <u who="SPRITZLER">—is the bizarreness of—they would bus in girls from Colby College [sic; probably Colby-Sawyer College in New London, New Hampshire] and some other colleges, depending on when it was. And they would be bused in, and it was just extremely bizarre because they were being bused in like cattle, and, you know, to be at a so-called mixer. I basically didn’t have much—didn’t want to have much to do with it because, you know, the people that I was seeing were talking about putting bags over girls’ heads and fucking them, which wasn’t my thing.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So it was a very strange [chuckles]—it was very strange.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">You know, I lived through it. I found my niche, so to speak. But that was—I assume it’s very different today, you know?</u>
+      <u who="CONNOLLY">And any traditions that you kind of remember from the fall? Because I remember reading about there’s something—</u>
+      <u who="SPRITZLER">Wa-hoo-wa?</u>
+      <u who="CONNOLLY">Yeah. Any of those you still remember that kind of stuck out to you? Like, did you have to run the gauntlet as a freshman?</u>
+      <u who="SPRITZLER">No, I’m not sure about that. I remember, you know, a big bonfire on February or whenever. You know, after my freshman year, I was involved with organizing against the Vietnam War. I mean, me and my friends were doing that. We were going to demonstrations and, you know, organizing things, and I was hanging out with some anarchists in Vermont, one of whom was a professor—I think Ed Strauss or his wife [Dona Anschel Strauss]—I can’t remember—one of them was a professor; the other one wasn’t, I think.</u>
+      <u who="CONNOLLY">Okay. So I’m curious about the transition, and you kind of mentioned kind of Allen Ginsberg event for you. Do you remember some of your early classes at Dartmouth, the kind of professors you interacted with?</u>
+      <u who="SPRITZLER">Here is the thing about my major that relates to this: When I first arrived at Dartmouth, the plan was I was going to study and become a doctor in practice with my father. But after six months or so, I realized I didn’t want to do that, so I told him. He was a little unhappy.
+
+I decided I wanted to be a physicist because—remember Einstein?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">That was what interested me. So I took the courses. I thought of myself as a physics major, so I was—</u>
+      <u who="CONNOLLY">[Cross-talk.]</u>
+      <u who="SPRITZLER">—taking all physics courses, and I was doing great in them, you know. I remember once I—one physics quarter—do you know Richard Feynman? Does that ring a bell?</u>
+      <u who="CONNOLLY">No.</u>
+      <u who="SPRITZLER">Well, he was an amazing guy. He got the Nobel Prize in—</u>
+      <u who="CONNOLLY">Okay.</u>
+      <u who="SPRITZLER">—in physics, quantum physics and everything, and he taught at—the West Coast—Cal Tech [California Institute of Technology], I think it was. You don’t remember the Challenger explosion, do you?</u>
+      <u who="CONNOLLY">No, I do. I’m aware of it.</u>
+      <u who="SPRITZLER">Do you remember the hearings, when they were investigating it?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And there was this guy that held up ice water and put an O-ring in the ice water and it got frozen and became brittle and broke.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">That was Richard Feynman.</u>
+      <u who="CONNOLLY">Oh, wow.</u>
+      <u who="SPRITZLER">Yeah. He wrote great, humorous books about his life and everything, but he also wrote this famous three-volume set called Lectures on Physics. So when I was taking one of the first courses in physics at Dartmouth, the textbook that was assigned—I just ignored it; I just read Richard Feynman instead. I aced the course. They were great, great lectures.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So I was really into physics. But I was also—had become aware that the war in Vietnam—like everybody at the time—you know, we were reading the headlines and seeing events, like, you know, the monks immolating themselves, you know, in protest of the war. So I was becoming very, very aware that something was wrong. You know, my pro-Goldwater “life is wonderful; the United States is a great place” was developing cracks.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And the civil rights movement was one of them—you know, the more I knew about the Jim Crow laws and everything. And then the Vietnam War was another big one. And so I decided that I was going to take a course—this was a great college; this was where all knowledge was, so I wanted to know why was the United States fighting in Vietnam? So it’s a simple question. And I decided, to get the answer to that question I would take the right history course, and then, you know, that would be the end of it. I’d get the answer and continue with physics, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So I took an Asian history course.</u>
+      <u who="CONNOLLY">What time era?</u>
+      <u who="SPRITZLER">About Southeast Asia.</u>
+      <u who="CONNOLLY">Southeast Asia, yeah.</u>
+      <u who="SPRITZLER">And China, I think. Whatever. The closest I could get. I remember I didn’t—I took an Asian history course, and it was very interesting, but I realized it didn’t answer the question, so I figured, well, you know, I took the wrong Asian history course. So next semester I took a different Asian history course.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">It was the same thing: it was very interesting, but didn’t answer the question. And I did that for a while, and then it occurred to me, you know, stupid me, I should be taking a U.S. history course. The question was about why the United States was doing something, so I started—I took a U.S. history course. Same thing: Interesting but no answer. I figured I took the wrong one. Took a different one, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">I think it was my junior year I got a letter, like everyone gets, sort of a form letter, and the letter is telling every student who gets it how they stand with respect to their major requirements.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So I’m reading the letter, and it says, “Congratulations, Mr. Spritzler, you’ve completed the requirements for your major in history.” I nearly dropped to the floor. It never occurred to me that I was majoring in history. The last thing on my mind! [Laughs.]</u>
+      <u who="CONNOLLY">Interesting. Really!</u>
+      <u who="SPRITZLER">And I didn’t know it until I got the letter saying I’d finished meeting all the requirements for it. [Laughs.]</u>
+      <u who="CONNOLLY">And you’re still taking classes in physics at the same time.</u>
+      <u who="SPRITZLER">And math, yeah.</u>
+      <u who="CONNOLLY">And math. Interesting.</u>
+      <u who="SPRITZLER">Yeah, yeah. Not enough to get the major, it turns out. [Laughs.]</u>
+      <u who="CONNOLLY">Interesting. So you kind of stumbled into it. I’m curious—what was—you kind of mentioned this, like, everybody was aware of this at the time. You must have been getting, like, your news from The Daily Dartmouth [sic; The Dartmouth], other news sources.</u>
+      <u who="SPRITZLER">Yeah, I wasn’t watching television then because I didn’t have a television.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">But you know, I don’t know, magazines, radio—it’s a good question. I was just—you know, it was hard to avoid. Not everyone was anti-war because of it, but everyone knew something strange was going on.</u>
+      <u who="CONNOLLY">Sure. And did you find it kind of bubbling up more in conversation on campus?</u>
+      <u who="SPRITZLER">Well, yeah. I mean,—</u>
+      <u who="CONNOLLY">Early on, at least?</u>
+      <u who="SPRITZLER">—the years between ’64 and ’68 were years in which the entire country went from practically nobody opposing the war—by ’68, a majority of Americans opposed the war, so there was an extremely rapid period of change in general, and Dartmouth reflected that like everywhere else.</u>
+      <u who="CONNOLLY">Okay. Interesting. So you took these history courses. Was it the content or professors that really kind of led you to—</u>
+      <u who="SPRITZLER">This is the thing about history that I liked: I had to take a sociology course, Soci 101. In fact, I still have anxiety nightmares because of this course.</u>
+      <u who="CONNOLLY">Why?</u>
+      <u who="SPRITZLER">I’ll tell you why.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Okay. I’m a physics major, right?</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">And physics is physics, you know. But I had to take requirements, you know, so I took Soci 101.</u>
+      <u who="CONNOLLY">Yup.</u>
+      <u who="SPRITZLER">And one of the first things that happened in the laboratory part of the class was they gave us this big stack of, like, IBM cards, like, about five inches tall, and these cards are data cards, and the way the data is entered—this is, like, so far before your time, you can’t believe it, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">The way the data—each card was the data for a person, a person about whom information was collected about their age and their gender and their religious affiliation, et cetera, right?</u>
+      <u who="CONNOLLY">Mmm.</u>
+      <u who="SPRITZLER">And around the perimeter of the card there were locations. Each location corresponded to the yes or no answer to a question.</u>
+      <u who="SPRITZLER">Okay. </u>
+      <u who="SPRITZLER">So at a given point in the perimeter, there would be either a notch or a circle hole, and one represented a yes answer to the question that corresponded to that—like, “Are you over 40 years old? Yes or no,” right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Another location would be: “Are you over 60 years old?” Right?</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">It would narrow it down that way. “Are you a Christian? Yes or no.” “Are you a Protestant? Yes or no,” et cetera. And so the exercise required that we find out how many people were Protestants who were between 30 and 50 years old, something like that, right? So you have to—you have this long metal rod, and so you stick the rod down in the hole indicating Protestant.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Okay. And then you lift the rod up, and the ones with the notch would fall away, but the ones with a circle would cling to the rod. So you’d separate according to that yes or no question, and then the ones that were Protestant, you’d then stick the rod in through the age thing right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And so you’d end up with a stack representing the people who were—whatever you were trying to find. And so I said to the teaching assistant, I guess it was, or whoever was teaching the section, the lab section. I said, “Can we answer the question by just measuring the thickness of the stack, getting approximate thickness and figure out how many cards per inch things were instead of tediously counting, you know, hundreds of cards, right?</u>
+      <u who="CONNOLLY">Yeah, yeah.</u>
+      <u who="SPRITZLER">And he said, “No, you have to count them.” And I knew that if this was physics, you’d measure it, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Because the whole spirit of physics was, you know, you measure, you get some degree of accuracy, you live with it, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Soon as he said that, I had nothing but contempt for sociology, and I started cutting classes.</u>
+      <u who="CONNOLLY">Really.</u>
+      <u who="SPRITZLER">And I cut every class except the class where there was an exam, and at the end of the year, because I was doing that, everyone else would get their corrected exam at the next class, but not me, so at the end of the year, all my exams were still there in the professor’s hand, uncollected. [Chuckles.] So he knew that I wasn’t attending class, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">I got—I don’t know if they still have this, but there were two kinds of failure grades at Dartmouth. Do they still have this?</u>
+      <u who="CONNOLLY">Uh—</u>
+      <u who="SPRITZLER">You wouldn’t know because you haven’t failed a class yet, but there were two kinds of failures: There was an F, which meant you tried but you just didn’t make the cut, but there was also what was called a flagrant neglect. [Laughs.] I got a flagrant neglect.</u>
+      <u who="CONNOLLY">[Chuckles.]</u>
+      <u who="SPRITZLER">In the course of my academic work at Dartmouth, my grades oscillated for each trimester between all A’s and all F’s. If you looked at my record,—</u>
+      <u who="CONNOLLY">Yes.</u>
+      <u who="SPRITZLER">—you would see this bizarre, you know, A’s, F’s. And in large part, it depended upon anti-war demonstrations and the timing and what I was interested in. Either I was into school, or I wasn’t. [Chuckles.]</u>
+      <u who="CONNOLLY">Yeah. Interesting. Did it have anything to do—</u>
+      <u who="SPRITZLER">I had to explain that—</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">—to get accepted into the doctoral program at the Harvard School of Public Health for biostatistics. I had to explain that record. And they bought it. They accepted it. [Laughs.]</u>
+      <u who="CONNOLLY">They accepted it. Gotcha. Did it have to do—so did it have to do with classes, too? I mean, like, it was a history class or a physics class? Were you kind of more tuned in rather than—</u>
+      <u who="SPRITZLER">Sometimes there wasn’t. Sometimes there wasn’t. My anxiety dream, which every now and then I have—by the way, I’ve discovered that the people who teach college courses—there was a picnic at the Harvard School of Public Health, in the department. We all shared our anxiety dreams, and we all—almost all of us had something similar to this. Mine is that I wake up in the morning. I know that it’s the final exam for the sociology class, but I don’t know where the class meets. [Laughs heartily.]</u>
+      <u who="CONNOLLY">You have to figure it out. [Laughs.]</u>
+      <u who="SPRITZLER">Not a clue! [Laughs.]</u>
+      <u who="CONNOLLY">That’s funny. That’s funny. Sticks with you. Do you remember the professor’s name?</u>
+      <u who="SPRITZLER">No.</u>
+      <u who="CONNOLLY">No.</u>
+      <u who="SPRITZLER">No, no.</u>
+      <u who="CONNOLLY">Gotcha.</u>
+      <u who="SPRITZLER">Oh, here’s thing, the thing about history—this was a preface to why I liked history. What I realized about history is that unlike sociology and government and all these other social sciences, all these other social sciences had physics envy. They had envy about the numerical sophistication. History didn’t. History was about telling the story, and I really admired that. It was about telling the story, not about, you know, competing with numerical analysis to earn, you know, some kind of credit for being sophisticated or something.</u>
+      <u who="CONNOLLY">Sure, sure.</u>
+      <u who="SPRITZLER">So I’ve always that about history.</u>
+      <u who="CONNOLLY">You liked the appeal. Do you have a certain era of history that, you know, you specialized in?</u>
+      <u who="SPRITZLER">Well, U.S. history and Asian history during the—you know, that led up to—any history that seemed to offer a possibility of answering that one question. You know, I studied Japan—you know, the Meiji Restoration, and China and the Kuomintang, and Southeast Asia I guess a little bit, and U.S. history—you know. I can’t even remember now. But that was what determined my choice of history classes.</u>
+      <u who="CONNOLLY">Okay. Gotcha. So you talked about classes. I guess I’m curious—</u>
+      <u who="SPRITZLER">I never did get the answer, by the way [chuckles] in that process.</u>
+      <u who="CONNOLLY">Fair. Fair. I’m curious about kind of the moments that stand out to you when you started getting involved with activism on campus. Was it just kind of hearing it, being interested and kind of going to it or, like, say, a friend kind of pulling you in, or—was it the fact that—</u>
+      <u who="SPRITZLER">There were, you know, a number of us that talked to each other about all this stuff all the time.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">We read the magazines. Ramparts magazine was a big magazine then. You know, I had this anarchist friends in Vermont, who were older, and we talked a lot.</u>
+      <u who="CONNOLLY">How’d you get to know them?</u>
+      <u who="SPRITZLER">What?</u>
+      <u who="CONNOLLY">How did you get to know them?</u>
+      <u who="SPRITZLER">Who knows? People get to know each other.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">They find each other—these interests. So we had a core of people, you know, a handful of people that were—you know, we are anti war.</u>
+      <u who="CONNOLLY">Mmm.</u>
+      <u who="SPRITZLER">And we wanted to do something about it, and so we discovered that—is the Dartmouth Christian Union still there?</u>
+      <u who="CONNOLLY">A form of it, yes.</u>
+      <u who="SPRITZLER">I became a student board member of the Dartmouth Christian Union. Being Jewish background, it was problematic. But it relates to all the Vietnam War stuff.</u>
+      <u who="CONNOLLY">Okay.</u>
+      <u who="SPRITZLER">The head of the Dartmouth Christian Union was—the adult  person in charge was Rev. George Kalbfleisch, and he was very, very anti war and very pro civil rights, and so he made the Dartmouth Christian Union and the office and the mimeograph machine, which was very important—do you know what a mimeograph machine is? [Chuckles.]</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">I don’t think we even had Xerox machines then.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">You know, never mind printers and computers and all that, right? And there was a secretary for the office—you know, an employee. He made that available to us anti-war people. We eventually made ourselves an SDS chapter, Students for a Democratic Society, and that was our home. Do you remember the name of the building? It’s not—it’s next to Parkhurst [Hall].</u>
+      <u who="CONNOLLY">McNutt [Hall].</u>
+      <u who="SPRITZLER">What?</u>
+      <u who="CONNOLLY">McNutt?</u>
+      <u who="SPRITZLER">Maybe.</u>
+      <u who="CONNOLLY">So if you’re looking at—you’re looking at that row. Now, there was Collis, Collis Center,—</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">—there’s Robinson Hall.</u>
+      <u who="SPRITZLER">I think we were in Robinson Hall.</u>
+      <u who="CONNOLLY">Okay.  Do you remember what floor?</u>
+      <u who="SPRITZLER">The second floor, I think.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">Yeah. The ROTC [Reserve Officers’ Training Corps] building is right above us then.</u>
+      <u who="CONNOLLY">Okay. ROTC was in the same building as you guys?</u>
+      <u who="SPRITZLER">Right above us.</u>
+      <u who="CONNOLLY">Okay. Interesting. Yeah.</u>
+      <u who="SPRITZLER">So that was our home.</u>
+      <u who="CONNOLLY">All right.</u>
+      <u who="SPRITZLER">And we’d hang out—they had a lounge, a couch and stuff, you know. We’d hang out there and, you know, do our planning and everything. So we planned different things. We had—as I talk about it in that article that you read, “What Makes a Political Sea Change?” [sic; “What Causes a Political Sea Change?” published in February 2012], we had a peace sign that we stood in front of every Wednesday at noon. Maybe I shouldn’t dwell on that particular episode because you can—it’s written about. You can read about it. 
+
+
+
+And we printed anti-war leaflets, and we organized dorm discussions. You know, I can’t remember the details, but we got discussions going in dormitories, you know, to talk about the war. And we did a lot of that stuff leading up to the big teach-in.</u>
+      <u who="CONNOLLY">Yeah, yeah.</u>
+      <u who="SPRITZLER">And, you know, we organized people to go to the anti-war demonstrations in Washington, D.C., and—</u>
+      <u who="CONNOLLY">How receptive did you find campus, at least early on?</u>
+      <u who="SPRITZLER">Well, at the beginning it was very unreceptive.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And then as people on the campus, as well as the entire country became more anti war, it became more and more receptive. So there was a dramatic change in a short number of years—you know, very—those years were years of great change.</u>
+      <u who="CONNOLLY">Yep. I knew you organized dorm discussions. You organized kind of groups to get out there. Do you remember some of what was talked about in particular—in, like, say, like, a discussion? </u>
+      <u who="SPRITZLER">There was a lot of focus on the fact that the government was lying about its rationale for the war.</u>
+      <u who="CONNOLLY">Okay. What do you mean by that?</u>
+      <u who="SPRITZLER">Well, there was a history that people were not aware of. And I’m probably fuzzy now on it compared to back then. But when the French were defeated at Dien Bien Phu in 1954, I think it was, there were Geneva Accords which called for elections to take place for the new leadership of Vietnam. It was not North and South Vietnam. But there was a temporary—you know, the leaders of the people who defeated Dien Bien Phu group to the north, and more pro-French, pro-U.S. forces grouped in the south. 
+
+Anyway, there was supposed to be an election, and there’s this famous quotation from President [Dwight D.] Eisenhower, saying that if the election ever took place, Ho Chi Minh would easily get 80 percent.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So they could not allow the election to take place. The United States was determined not to allow the election to place. And so they never did allow the election to take place, and so everything that was done to support the dictators in the south was in violation of the Geneva Accords, so all the, you know, international law rationale for the war was bogus. There was complete violation of international law—</u>
+      <u who="CONNOLLY">And were—</u>
+      <u who="SPRITZLER">—in U.S. policy.</u>
+      <u who="CONNOLLY">Were you aware of this really as it happened, as the elections were announced that they were going to be held? Was that—</u>
+      <u who="SPRITZLER">—Well, there was anti-war press. You know, with Ramparts magazine and other—I can’t remember exactly. And we read them. We were educated, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">This wasn’t stuff you’d read in the newspaper.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">You’d be reading it in anti-war literature.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">But the interesting thing was that in the teach-in that I described in the article, the government invited—I made it a point to invite a government pro-war spokesman. I think his name was Dean from—he was the assistant secretary for Southeast Asian affairs. He started giving the government’s line, and—</u>
+      <u who="CONNOLLY">And this is at the teach-in?</u>
+      <u who="SPRITZLER">At the teach-in.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Yeah, which was a huge number of people in—what’s the name of the—</u>
+      <u who="CONNOLLY">Dartmouth Hall?</u>
+      <u who="SPRITZLER">No, the—oh!</u>
+      <u who="CONNOLLY">Where on campus is it?</u>
+      <u who="SPRITZLER">Right face—right on the Green, where the—there’s a big lounge, and there’s the woodshops and the music—something. It’s right next to the hotel.</u>
+      <u who="CONNOLLY">Oh, the Hop.</u>
+      <u who="SPRITZLER">Hop, the Hopkins Center [for the Arts], yeah.</u>
+      <u who="CONNOLLY">Hopkins Center. Yep.</u>
+      <u who="SPRITZLER">There’s a big lounge—</u>
+      <u who="CONNOLLY">Yup.</u>
+      <u who="SPRITZLER">—there, and that’s where the teach-in was, and we had to mics for people in the audience, and I deliberately did not have it be question and answer; it was you say whatever you want, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And there was the panelists, and there was the guy from the government. And he gave his pitch, and then there college professors, like [Ernest P.] Ernie Young and [David C.] Kubrin and others who—I forget their names—who knew the history, and they told the guy to his face, “You’re lying.” You know, they rattled it off. They knew exactly what they were talking about.
+
+I remember at one point the guy from the government said, “Well, but there’s this book by Pike that says blah, blah, blah, blah.” And the professor says, “Yeah, I know all about that book. It was commissioned by the CIA [Central Intelligence Agency] and blah, blah, blah, blah, blah, and it’s full of lies,” right? [Chuckles.] And it was like total defeat—</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">—for the guy from the government. He was just completely wiped out. And that caused this huge change in the people who came to the teach-in to see the pro-war side defeat the anti-war side. Saw the opposite, and they were—they changed. I saw their faces. You know, I could see it on their face. They changed from pro war to anti war right before my eyes.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">It was quite amazing.</u>
+      <u who="CONNOLLY">Did you notice more attendance in meetings subsequently, and more students who may have been there, attending, who you had not seen before?</u>
+      <u who="SPRITZLER">Well, we ended up planning the building takeover, and then there was a student strike. [Chuckles.] And the trustees had to fly in because the whole school was shut down by the student strike against the arrest of the people who took over Parkhurst, and the faculty then voted to abolish ROTC, and that was the demand of the takeover, and that was supported by the student strike.</u>
+      <u who="CONNOLLY">We’ll get there. [Laughs.]</u>
+      <u who="SPRITZLER">So the trustees had no choice, basically, but to abolish ROTC.</u>
+      <u who="CONNOLLY">Okay. And let’s—I recommend we take a quick break right now, and then we’ll jump more into the details of the protest and the results of that.</u>
+      <u who="SPRITZLER">Okay. </u>
+      <u who="CONNOLLY">I’m excited to get to that.</u>
+      <u who="SPRITZLER">Okay. 
+
+[Recording interruption.]</u>
+      <u who="CONNOLLY">Okay, so this is the third audio file of the interview with Mr. John Spritzler. So where are we? We were just discussing the teach-in day that was held and organized by Mr. Spritzler’s group. Can you say the name exactly again?</u>
+      <u who="SPRITZLER">The name of what?</u>
+      <u who="CONNOLLY">Your organization.</u>
+      <u who="SPRITZLER">SDS.</u>
+      <u who="CONNOLLY">SDS. Okay. Gotcha.</u>
+      <u who="SPRITZLER">This was before the split in SDS, where the Weathermen [Weather Underground Organization]—that was later, in 1969.</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">And the Weathermen were the famous group that—they were the crazies, and then the other group was the part we were part of.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Now, do you want to hear the bombshell?</u>
+      <u who="CONNOLLY">I do. Is there anything we should build up to before we get to that, though? Any more context?</u>
+      <u who="SPRITZLER">Well,—</u>
+      <u who="CONNOLLY">Because I just want to make sure we’re at the point—</u>
+      <u who="SPRITZLER">—we’re talking about the fact that there was a bunch of us, that we were organizing against the war, and we ended up having the teach-in, ended up having the building takeover. You know, we didn’t talk about the building takeover. And President Dickey’s recollection is wrong. He has me confused with someone else.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">I found it online—he was being interviewed, and he talks about Spritzler did this and Spritzler did that. It was someone else.</u>
+      <u who="CONNOLLY">It wasn’t you.</u>
+      <u who="SPRITZLER">I’m not saying—I don’t know what the other person—I’m not saying that the other person did something bad. I can’t even remember what it was. I just know it wasn’t me. [Chuckles.]</u>
+      <u who="CONNOLLY">Interesting. Interesting.</u>
+      <u who="SPRITZLER">I have the name—it was name recognition. I was associated with the anti-war movement maybe more than other people, so he just sort of grabbed onto that name.</u>
+      <u who="CONNOLLY">Grabbed on to that. Interesting.</u>
+      <u who="SPRITZLER">So here is an interesting fact: Before the building takeover, before—I don’t know if it was before or after the teach-in, but around that time,—</u>
+      <u who="CONNOLLY">And what time is this exactly?</u>
+      <u who="SPRITZLER">Well, the teach-in—let’s see. I hung around after I graduated, as an outside agitator, so the events of 1969 were events in which I had already graduated, but I was—that was the building takeover. I think that the teach-in was either late ’68—probably earlier ’69. Maybe late ’68. My memory is a little fuzzy on that.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">So around that time, in ’68—I think what I’m going to say happened in 1968, maybe early 1968. A very high-ranking administrator of Dartmouth College, whose name I will not say, came to me, gave me the key to the ROTC offices, and suggested that I burn them down.</u>
+      <u who="CONNOLLY">Really.</u>
+      <u who="SPRITZLER">Really.</u>
+      <u who="CONNOLLY">Okay. Had this administrative figure been—made his political beliefs known before? Had he ever worked with your group?</u>
+      <u who="SPRITZLER">He—</u>
+      <u who="CONNOLLY">Had a record?</u>
+      <u who="SPRITZLER">—had privately identified himself to me and my—and a select number of—one or two of my comrades as sharing our anti-war beliefs.</u>
+      <u who="CONNOLLY">Okay. And he gave you this key, and obviously you didn’t burn down the ROTC office.</u>
+      <u who="SPRITZLER">No. We talked about it, and we weighed the pros and cons. Interestingly, one of the cons that I don’t recall even considering was that we might get caught. Somehow we didn’t even consider that. But the main thing we considered is that it was politically a terrible idea. We did not want—we wanted to build a mass movement against the war; we did not want to burn the ROTC building down and then have a mass movement develop against people burning buildings down.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">So it would have been disastrous from the point of view of building a mass opposition to the war if we had done it, and that’s what we decided, so we just decided no, we’re not going to do it.</u>
+      <u who="CONNOLLY">Not going to do it. Describe the relationship between your organization and ROTC—you know, what interaction between members of your group and them were like.</u>
+      <u who="SPRITZLER">Nil.</u>
+      <u who="CONNOLLY">Nil. Okay.</u>
+      <u who="SPRITZLER">[Chuckles.] I don’t think we knew anybody who was in ROTC except perhaps just incidentally—you know, a roommate or someone might have been. But, you know, we had no—we didn’t confront them. We didn’t want to confront them. You know, we weren’t trying to make enemies of them.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">You know, it was just the principle of having the Reserve Officer [sic; Officers’] Training Corps training second lieutenants for an unjust war. It’s also interesting that—remember reading somewhere that the life expectancy of a second lieutenant in Vietnam was two weeks.</u>
+      <u who="CONNOLLY">Okay. So it was less the individuals or—as you’re describing, there weren’t individual antagonisms?</u>
+      <u who="SPRITZLER">No.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">No.</u>
+      <u who="CONNOLLY">So much as the overarching—</u>
+      <u who="SPRITZLER">And interestingly—I mean, their offices were one on the third and one on the second floor. I don’t remember ever confronting—</u>
+      <u who="CONNOLLY">Going upstairs?</u>
+      <u who="SPRITZLER">—an ROTC cadet—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—and having an incident, interestingly. [Chuckles.]</u>
+      <u who="CONNOLLY">Sure. Now, had ROTC—had that always kind of been a standout kind of point of contention for your group, or was that kind of what was settled on for the college environment?.</u>
+      <u who="SPRITZLER">ROTC was the object of student anti-war activity in colleges all around the country. That was just a standard target, for the obvious reasons. It was the most obvious way that colleges were supporting the war effort.</u>
+      <u who="CONNOLLY">Sure. So it wasn’t, like, “We’re against the war. Like, how do we protest the war?” It was more like, “This is the most—you know, this is the target.”</u>
+      <u who="SPRITZLER">Well, I mean, that just was a national organization, and we had, to a certain extent, national discussions and strategy and so forth, and fighting ROTC was something that happened at Harvard, Columbia [University], all—lots of other colleges.</u>
+      <u who="CONNOLLY">Okay. And to what extent did you looked at these other institutions when you were trying to figure out the best way to kind of spread your campaign, look at—</u>
+      <u who="SPRITZLER">We did. Columbia, I think, was the inspiration for a building takeover, and then Harvard was around the same time. I can’t remember what the chronology was exactly, but I was in touch with people in Boston because I was getting more and more involved with the Progressive Labor Party [PL], which I ended up joining, and the Progressive Labor Party was mainly focusing its attention on building SDS and abolishing ROTC with mass actions like this. So it happened at Harvard, it happened at Columbia, and then we did it at Dartmouth, and I don’t know how many other places did it.</u>
+      <u who="CONNOLLY">Okay. So, you know, there was a kind of intercommunication?</u>
+      <u who="SPRITZLER">Oh, yeah, absolutely.</u>
+      <u who="CONNOLLY">Discussions of tactics? Discussion of—you know.</u>
+      <u who="SPRITZLER">You know, when it came to tactics, we were sort of, you know, on our own. [Chuckles.] I tell the story in the article I wrote that—no, I’m not positive that I know the name of the student, but I think I do, but I won’t say it just because I don’t want to say it wrong. But what one of the students who was a year behind me, I think, in SDS but not as active as others—we had a meeting to plan for the building takeover, and there was a tactical problem because we had to gather our forces to be able to take over the building without letting the administration know too much in advance what we were going to do because we were afraid they would stop it before it even happened.
+
+So we’re having a meeting to plan this in the lounge of the Dartmouth Christian Union, and this one fellow shows up with an electric drill and a lock and hasp. And I remember being surprised at seeing that. I said to him, “What’s that all about?” And I remember him saying, “Well, if we’re gonna take over the building, we better be able to replace their lock with our lock.” And that stuck with me because that kind of concrete thinking was something we had never engaged in before.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And the only reason that it was happening now was because this was immediately after we had discovered this huge anti-war demonstration on the Green provoked by the conservatives, that we were the majority. And so, knowing that we were in the majority changed everything. It meant that you could actually start thinking about bringing an electric drill to a meeting. [Laughs.]</u>
+      <u who="CONNOLLY">And use it.</u>
+      <u who="SPRITZLER">And use it, yeah.</u>
+      <u who="CONNOLLY">Okay. Describe the protest on the Green. You know, what led up to that?</u>
+      <u who="SPRITZLER">Okay. Well, what happened was there was this conservative organization called the Dartmouth Conservative something or other. They had a newspaper that they just started. It became famous in the ’80s. It got backing from people like Ronald Reagan’s cabinet member, [William J.] Bennett, I think, and so forth. They ended up, much later, getting famous for mocking black students who were doing a protest of apartheid in South Africa, so essentially they were racist—you know, pro-establishment racist types, led by a man named William S. Lind. And William S. Lind would walk around with his nose up in the air and was sort in a sort of an arrogant attitude, and he had his little followers following him.
+
+
+
+And so they had the Dartmouth conservative paper—whatever it was called, and one issue came out that advoc- —the headline was “Splatter Warfare,” and the article explained that by that they meant that nuclear bombs should be dropped on North Vietnam. And as horrible as that was, even more horrible for us emotionally was that they announced that they were calling a pro-war demonstration for a month ahead, in advance—you know, the next month, to be exactly where our little peace sign was. It was to be on a Wednesday at noon, right exactly where we always were on a Wednesday at noon with our peace sign. You know, ten of us would be there with a peace sign.
+
+So we dreaded the approach of that day, and we anticipated being totally outnumbered by pro-war people. And as it turned out, it was the opposite, that there was about 50 people there with pro-war signs and literally 1,500 people with anti-war signs.</u>
+      <u who="CONNOLLY">Really!</u>
+      <u who="SPRITZLER">We had no idea, right, that this was going to happen. Fifteen hundred people with anti-war signs, and the line that they were in made, like, a snake going all around the Green. You know, if you had an aerial photograph, it would have looked like a snake.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And that changed everything. For the first time, we knew that—you know, there were only 3,000 students on the campus.</u>
+      <u who="CONNOLLY">It was mostly students there.</u>
+      <u who="SPRITZLER">Fifteen hundred were on the Green, with a sign. So, you know, I attribute that to some—partly to the work we had done with the teach-in, which had a dramatic effect, and also just to the general change in public feeling about the war that was happening in the country.</u>
+      <u who="CONNOLLY">Okay. And it was mostly students who were there, the 1,500?</u>
+      <u who="SPRITZLER">[No audible response.]</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Yeah. So then we started having SDS meetings to plan—we knew that they’d done it at Columbia, so the idea—we didn’t invent the idea, but now it was up to us to make a building takeover against ROTC happen. So we planned it. You know, we came up with the strategy—the tactic, I should say, of—we called it an anti-war demonstration from Parkhurst, which, you know, only certain inside people knew it would be where the announcement would be to take over the building. And we did it. I remember—</u>
+      <u who="CONNOLLY">So you planned it. I mean, what was—what was the thought process? I mean, what were—what were people proposing to do? Were there different, like, competing ideas? Like, do we take over the building?</u>
+      <u who="SPRITZLER">No, it was almost self-evident.</u>
+      <u who="CONNOLLY">Really.</u>
+      <u who="SPRITZLER">It was just: Take over the building.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">And so you take it over and, like, from the outset did you have an idea of how long you planned to be there?</u>
+      <u who="SPRITZLER">No.</u>
+      <u who="CONNOLLY">No? There was—it was—</u>
+      <u who="SPRITZLER">Take it over and let’s see what happens.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">It turns out that the college was extremely prepared, I found out later, with this woman I told you about. Might be [unintelligible], but I don’t know. The college had already been engaged with meetings with the governor. They had already planned what jails people were going to be put in, deliberately scattering them all over the state. But we didn’t know any of that at the time.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">So—</u>
+      <u who="CONNOLLY">Do you know how they—
+
+</u>
+      <u who="SPRITZLER">The only planning we had is we knew we were going to change the lock. [Chuckles.] Here’s one thing that happened: We went into the building. We told the deans, “You need to leave.” And they all did except for one. And I don’t remember which one it was, but some dean, like, on the third floor of Parkhurst. He was sitting in his chair, like a swivel chair, behind his desk, and he wouldn’t leave. And we didn’t have a plan—[Phone rings.]</u>
+      <u who="CONNOLLY">I’ll stop the recording for a second if you need to—
+
+[Recording interruption.]</u>
+      <u who="CONNOLLY">This is the fourth audio file of the interview with Mr. John Spritzler. We were just talking about the beginnings of the Parkhurst takeover, and some tactics that went into that and kind of thoughts that went behind it.</u>
+      <u who="SPRITZLER">We were on the third floor. There was, I don’t know, you know, six or seven of us, you know, around this dean in his chair, who was refusing to leave. We had no plan. Despite having no plan, we looked at each other, and it must have taken, like, two seconds—we just—without saying anything, we all grabbed the chair with the dean in it, lifted the dean and chair up, carried the dean down three flights of stairs, and set him in his chair on the grass outside.</u>
+      <u who="CONNOLLY">Did he say anything during this?</u>
+      <u who="SPRITZLER">I don’t know if he said anything. I can’t remember. And that was the most violent aspect of the building takeover. And I’ll admit it was violent. You know, we forced him to do something against his will, and I think it was justified violence. And Dickey reports, in his interview, something—sort of in the same ballpark and says it was me, but it was someone else, and maybe other people did something else that I’m not aware of, similar. I don’t know. But, you know, different people were going to different deans, I guess.</u>
+      <u who="CONNOLLY">Sure. Who were—I mean, you were a leader of the group. Who were some of your other co-leaders that helped plan—that were really involved in the planning of this?</u>
+      <u who="SPRITZLER">Well there was John Reah [pronouncing it as RAY] [sic; John C. Rhead] and [James A.] Jim Van Hoy and Guy [F.] Brandenburg and [Peter T.] Pete Muilenburg, and—those are the names that I remember.</u>
+      <u who="CONNOLLY">Okay. And you guys were kind of—yeah. Were you in a formal role within SDS?</u>
+      <u who="SPRITZLER">There was a building and grounds worker that was also involved in our group.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">And he was a campus employee?</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">Yeah. Interesting. Anyway, did you have a formal position or was there—I’m trying to get a sense of the structure of the organization on campus. Was it kind of like—</u>
+      <u who="SPRITZLER">Was it formal?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">No.</u>
+      <u who="CONNOLLY">No. Okay. You know, like, here’s a president, here’s, like—that kind of structure.</u>
+      <u who="SPRITZLER">There were no formal offices, no elections, no nothing.</u>
+      <u who="CONNOLLY">Okay. Just curious.</u>
+      <u who="SPRITZLER">It was basically you were—</u>
+      <u who="CONNOLLY">You were a member.</u>
+      <u who="SPRITZLER">You acted and participated or you didn’t. [Chuckles.]</u>
+      <u who="CONNOLLY">Sure, sure. Okay, so we’re in Parkhurst. You’ve just lifted and carried the dean out. What happened—</u>
+      <u who="SPRITZLER">There was a decision made very early on. Everyone knew that we’d get arrested—you know, that the cops would come. No one knew when or how exactly, but there was a decision made—there was a democratic decision made. It was some kind of—but I can’t remember the details, but there was a vote that two people should be designated as two people who would not get arrested, who, when the cops came, would not be in the building in order to have people outside to support, organize support for the ones who were going to be in jail.
+
+And the two people who were selected were me and John Reah [sic; Rhead]. And I never—I found out much later from someone, in talking about this, who told me that the reason I was selected was because I had already been arrested for another confrontation with Marines who were recruiting.</u>
+      <u who="CONNOLLY">Can you tell me about that?</u>
+      <u who="SPRITZLER">Yeah, I will in a second. It’s a funny story, actually.</u>
+      <u who="CONNOLLY">All right.</u>
+      <u who="SPRITZLER">And so people thought that, since it wouldn’t be a first offense for me, it would be better if I was one of the people who was not arrested. Maybe that’s true. Maybe it’s not. That’s what I was told.</u>
+      <u who="CONNOLLY">Okay.</u>
+      <u who="SPRITZLER">I actually flattered myself that it was because they thought I would be a good person to have as an organizer on the outside. [Chuckles.] So I don’t know, maybe that was involved, too. And John Rhea [sic; Rhead] was the other one.</u>
+      <u who="CONNOLLY">What year was he?</u>
+      <u who="SPRITZLER">I think he was the same year as me. Possibly different, but I think he was the same year.</u>
+      <u who="CONNOLLY">Approximately the same.</u>
+      <u who="SPRITZLER">Reah was spelled R-h-e-a [sic; R-h-e-a-d], I think. Something like that. </u>
+      <u who="CONNOLLY">Okay.</u>
+      <u who="SPRITZLER">So you want to know about my arrest?</u>
+      <u who="CONNOLLY">I do.</u>
+      <u who="SPRITZLER">Okay. </u>
+      <u who="CONNOLLY">Year, date, time.</u>
+      <u who="SPRITZLER">So just a little context: Back then, in contrast to now, corporations recruited on campus, and the joke was that they had—there was only one criterion, and it was called the mirror test, and if you passed the mirror test, then you would get a fairly high-paying, entry-level job with full benefits and a career for life. The mirror test was that if they put a mirror in front of your nostrils, it would cloud up from your breathing. So basically you had to be alive. And a Dartmouth graduate, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So in contrast today, where kids graduate from college and they have to work for free as an intern if they’re lucky, and then they barely get a job. My children have got through all of that. So anyway, getting—by the way, 1968 was a period when there was maximum equality in the United States, economic equality, and maximum job security. The difference between a CEO pay and an average worker pay was as small then as it ever was. It’s an interesting context.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So in addition to corporations recruiting, the military came and recruited, so the Marines came to recruit, and we decided to form a blockade to prevent people from going in and stop the recruiting.</u>
+      <u who="CONNOLLY">Was this a campus building?</u>
+      <u who="SPRITZLER">Yeah, in some little utility building, like—</u>
+      <u who="CONNOLLY">Here on campus?</u>
+      <u who="SPRITZLER">On campus, yeah. I forget the name of it. It was sort of—the entrance was sort of like a porch, where you go up a few stairs, sort of like a back door porch kind of entrance. It was right on the campus, near—you know. What’s the main street called?</u>
+      <u who="CONNOLLY">Main Street. [Chuckles.]</u>
+      <u who="SPRITZLER">Main Street?</u>
+      <u who="CONNOLLY">And there’s Wheelock [Street], and there’s Main.</u>
+      <u who="SPRITZLER">Well, near those. Near the part of the Green where the hotel is and everything, the part where Robinson building is. It might have been the back door to Robinson. I don’t know.</u>
+      <u who="CONNOLLY">It could be, because Robinson does actually have that porch.</u>
+      <u who="SPRITZLER">Yeah, it might have Robinson. Anyway, so we formed a blockade of it, right? And, you know, I was one of the people blocking the Marine. I forget exactly what happened, but, you know, I tried to stop him, and we tussled a little bit or something, and I think they got through anyway, but—and then the next day I was served a warrant for my arrest, for assault and battery.</u>
+      <u who="CONNOLLY">Okay. Who identified you?</u>
+      <u who="SPRITZLER">Oh, it was easy. I mean, I—you know.</u>
+      <u who="CONNOLLY">Okay. Gotcha.</u>
+      <u who="SPRITZLER">Everyone knew me, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So the trial was scheduled, right? And, you know, I got an ACLU [American Civil Liberties Union] lawyer or something, and the trial was just about ready to happen, but then they dropped the charges.</u>
+      <u who="CONNOLLY">Huh.</u>
+      <u who="SPRITZLER">Now, why did they drop the charges? It turns out that if they hadn’t dropped the charges, the Marine would have had to go on the witness stand, and assault means that you’ve frightened a person with your fist or a gun or something, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And, you know, I was sort of a skinny kid then. I’ve gained weight since then. You know, and I’m only five seven and a half. And so I was sort of a skinny five seven and a half. The Marine was a husky, six foot two guy, right?</u>
+      <u who="CONNOLLY">[Chuckles.] The guy.</u>
+      <u who="SPRITZLER">The Marine authorities told him that there was no way he was going on the witness stand and asserting under oath that he was frightened by me, so they had to drop the charges. [Laughs.]</u>
+      <u who="CONNOLLY">How did you find that out?</u>
+      <u who="SPRITZLER">I can’t remember how I found that out, but the lawyer found out or something and told me. Anyway, I found out. I couldn’t make up a story like that. [Laughs.]</u>
+      <u who="CONNOLLY">Sure, sure. No, yeah, it’s just—it’s really a funny story and the great Grafton County Superior Court.</u>
+      <u who="SPRITZLER">[Chuckles.]</u>
+      <u who="CONNOLLY">[Unintelligible] went to court there. Interesting. And was this when you’re still a student?</u>
+      <u who="SPRITZLER">Yeah, I think I was still a student, yeah.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">Gotcha.</u>
+      <u who="SPRITZLER">So that’s why I had an arrest.</u>
+      <u who="CONNOLLY">Yeah, and they decided to send you out. So how long were you in the building with the group? At what point did you leave?</u>
+      <u who="SPRITZLER">I think it was, like, two days or so. My memory is a little fuzzy, but I think we might have made it overnight one night, at least.</u>
+      <u who="CONNOLLY">Okay. And was most of that spent up or—what was going on inside the building? What were you guys talking about? What was the mood like?</u>
+      <u who="SPRITZLER">Trying to figure out when the cops would come. [Laughs.] You know, paying attention to—you know, really, to tell you the honest truth, I only have little snippets of memory, and I think I’ve told you my snippets—you know, the actual—you know how your memory works, where you get little scenes that you recall?</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And I remember, you know, we were I think sleeping on the floor. Oh, I remember we went into the president’s office and saw how gorgeous and luxurious his personal bathroom was. That was a big revelation. [Laughs.]</u>
+      <u who="CONNOLLY">You guys used it for showers? [Chuckles.]  </u>
+      <u who="SPRITZLER">No, I don’t think so. But it was just a—no one expected it, you know?</u>
+      <u who="CONNOLLY">Yeah. Interesting. And there was negotiations between—negotiations between the protesters and, you know, administrative figures and police, correct?</u>
+      <u who="SPRITZLER">No, I don’t think we had negotiations.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">Our demand was that they abolish ROTC or arrest us, you know. There was no nego- —what was there to negotiate, right?</u>
+      <u who="CONNOLLY">Okay. And so you’re in there for two days, two days, one day, approximately.  How was it—how was it covered? I mean, did you guys allow a reporter from the student newspaper in?</u>
+      <u who="SPRITZLER">I can’t remember.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">It must have been statewide news, though, I’m assuming.</u>
+      <u who="CONNOLLY">Sure. At what point did you decide to come out, or was it kind of forced by—</u>
+      <u who="SPRITZLER">Oh, it was forced. The cops came and dragged people out and arrested them.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">There was no question of resisting. You know, we weren’t equipped to resist the police, so when the police came, they basically just grabbed people and arrested them. Everyone was arrested. There was no—as I recall, no one was given a choice to leave. You know, we were all criminals according to, you know, the criminal suit.
+
+And they put people in, like, 40 different jails all over the—well, maybe not. That’s an exaggeration. I think there might have been 40 people by the time the cops came, 40 people still inside.</u>
+      <u who="CONNOLLY">Okay. And what—</u>
+      <u who="SPRITZLER">And they were distributed to jails all around the state. Deliberately, to make it as inconvenient for parents to find their child, because the parents came. One funny thing that came out of all that was I think at least students who were arrested told me that when their parents came to try to get them out of jail, and they talked to them, that they found out for the first time, from their parents, that their parents had been members of the Communist Party.</u>
+      <u who="CONNOLLY">Really.</u>
+      <u who="SPRITZLER">Yeah. </u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">Yeah. McCarthyism made them scared to even tell their own kids what they did then.
+
+The other thing that was really scuzzy is there was a fight over whether the students in jail could get books to study for their final exams, and the college was at first saying no, they couldn’t. And the reason was so that they would fail their final exams and then get drafted for failing, because that’s the way the draft was at the time, and end up being sent to Vietnam, losing their student deferment. And they relented on that finally. There was a big uproar from parents and everything about that, and the students.
+
+And so then there was a student strike, and then the faculty voted to abolish ROTC, and the trustees flew in for an emergency meeting and abolished ROTC.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">And then I was focused on organizing as many of the students as possible to go to the SDS national convention in Ann Arbor, I think it was, to fight the Weathermen, who were, you know, basically trying to destroy the anti-war movement by pretending to be the anti-war movement.</u>
+      <u who="CONNOLLY">Okay. So I guess—talking about—they went to jail. What happened immediately after the fact for yourself, for some other members of the group beyond just going to jail? Like, when you came back to campus, what—you know, what went on? Was there—</u>
+      <u who="SPRITZLER">Well, it was a victory.</u>
+      <u who="CONNOLLY">Yeah, it was a victory.</u>
+      <u who="SPRITZLER">The main thing was, it was a huge victory. ROTC was abolished for ten years. So it was huge victory, and it was sort of a celebratory kind of realization of that. There were some hardships of students in jail and, you know, having to pay lawyer costs and all that kind of stuff, but basically it was a victory.</u>
+      <u who="CONNOLLY">Did the administration take their own disciplinary action against students involved?</u>
+      <u who="SPRITZLER">You know, I don’t know. See, I was not a student at the time. I had graduated already. And I—you know, let me tell you something about—my personal story about graduation. And it must have been true for the other people involved in this. It was two weeks before my graduation. I had fulfilled all my requirements except two weeks of classes or something—whatever, you know.
+
+I call my father up. He was in Los Angeles. I tell him, “Dad, I decided to drop out of school.” Two weeks before graduation! He paid for all the tuition and everything, right?</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">I explained to him that the revolution was around the corner, college degrees, you know, were not important anymore, and I had things to do. I didn’t want to stick around, you know, for those two weeks. I had more important things to do than to graduate from college. And he yelled so loud that I joke when I tell the story to people. I tell people that I could hear him even without the telephone. [Laughs.]</u>
+      <u who="CONNOLLY">Now, now—</u>
+      <u who="SPRITZLER">And he badgered me into graduating.</u>
+      <u who="CONNOLLY">Yeah, so this is the two weeks—</u>
+      <u who="SPRITZLER">So I think other people who were involved in this takeover,— you know, discipline, graduation—I think it was low on their list of things that they cared about.</u>
+      <u who="CONNOLLY">Yeah. So it's two weeks ending your senior spring.</u>
+      <u who="SPRITZLER">I’m sorry?</u>
+      <u who="CONNOLLY">This was your senior spring.</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">Okay, that you told them this. What made you think the revolution—what—what—[Pause.] You mentioned the revolution.</u>
+      <u who="SPRITZLER">What made me think that?</u>
+      <u who="CONNOLLY">Yeah. What made you think that?</u>
+      <u who="SPRITZLER">It was 1968. It was ’69. Well, for me it was 1968. You know, 1968 was not just an ordinary year in American history. It was a year where kids were thinking about dropping out of college two weeks before graduating. It was a year—it was a year when jobs were low-hanging fruit. Anyone could get a job. You know, no one worried about being unemployed. It was very different, very different.</u>
+      <u who="CONNOLLY">Interesting. So you stuck with it. You got your degree. You mentioned at the aside about meeting the senator up on stage. And then you decided to hang around, you mentioned, as an agitator.</u>
+      <u who="SPRITZLER">Do you want to talk about what I did the years afterwards?</u>
+      <u who="CONNOLLY">Yeah, I do.</u>
+      <u who="SPRITZLER">Okay. Well, I ended up joining the Progressive Labor Party, a Marxist-Leninist spinoff of the Communist Party. And the Progressive Labor Party first sent me to Connecticut, with a handful of other people, to organize—[A tone sounds.]—I hear it, too. I don’t know what it was—to organize political support for students at the University of Connecticut, UConn, for [James M.] Jim Sober, who was an SDS leader there who had been arrested—serious felony charges—for leading a building takeover against ROTC. So I was there for about a year or so.
+
+
+
+And then I was asked to go with another married couple to Buffalo, New York, to organize an SDS chapter at UB, University of Buffalo, part of the [State] University of New York system. So the focus then was fighting racism being taught on campus, so I enrolled in Professor [John] Halstead’s history class. Not to get—I didn’t need credit or anything; I was already a college graduate, but to be able to organize students.</u>
+      <u who="CONNOLLY">Yep.</u>
+      <u who="SPRITZLER">And Professor Halstead’s class was one in which he—he was a very authoritarian, Germanic kind of a authoritarian professor, and he taught that European imperialism was good for the Africans because it civilized the savage Africans. And I made it a point of, extremely politely, you know, raising my hand, only when called upon, politely expressing disagreement, for which he accused me of disrupting his class because in his opinion, the most polite, orderly—</u>
+      <u who="CONNOLLY">Now, now, what—</u>
+      <u who="SPRITZLER">—questioning—</u>
+      <u who="CONNOLLY">Give me an example. Like, would you, like, raise your hand?</u>
+      <u who="SPRITZLER">I’d raise my hand, he’d call on me,—</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">—and I said, Professor Halstead, I think that what you’re saying is not true,” dah, dah, dah, dah, dah.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Okay. And I wasn’t, you know, like, filibustering; I was just saying it. But really the reason that he attacked me is because we were leafleting the whole campus about why what he was saying was wrong and racist. He didn’t like being made the object of a campaign, right?</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">What I didn’t know was that there had been an SDS chapter the year before I arrived, which the administration had squelched and that they were determined to nip in the bud a new one developing.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">I didn’t know that. So he accused me of disrupting the class. There was a kangaroo trial, at which I was convicted.</u>
+      <u who="CONNOLLY">And this is through a student judicial—</u>
+      <u who="SPRITZLER">Yeah, students. And so I was expelled from the university, and although the details of how it happened, I can’t remember, I do recall that I think I’m the only one to have been expelled twice from that university. [Laughs.] Anyway, as a result of that, I was not allowed to step foot on the campus. So nonetheless, I went back on the campus, and during the afternoon at the student union, which is where all the students hang out there during lunch and stuff like that, I was passing out leaflets about this. And the campus cops came and arrested me, and I was arrested for trespassing.
+
+And so I figured, you know—the trial came, and I figured I might get a fine, a few hundred dollars or something. Well, to my—and I had an ACLU lawyer, who was not a very good lawyer. The gavel came down, and I was sentenced to three months in the Erie County Penitentiary, which I served, one of the most interesting experiences in my life. Actually, I’m sort of glad it happened. [Chuckles.]</u>
+      <u who="CONNOLLY">Describe it. What makes you say that?</u>
+      <u who="SPRITZLER">Well, first of all, nothing bad happened. It was the Erie County Penitentiary. It was for people whose sentences were for two years or less, so these were not people in for life, like Attica [the 1971 prison riot at Attica Correctional Facility], which happened near that time. You know what I mean by Attica, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Yeah. So the people were mostly—almost all of them were people in for drug—you know, possession of drugs, with a couple of exceptions. Basically the routine is—I was in—we all had individual cells, so I didn’t have a cellmate. And the cells were in a row of cells, which opened to an alley during the day, so you could socialize with your other prisoners during the day. Only at night you got locked up in the cell. So during the day, there was either—either you were doing the work that you were assigned, and I was assigned to washing pots and pans in the kitchen, or you were just hanging out in the cell, which meant playing chess or reading or whatever, you know.
+
+So the bad—the really bad person was unfortunately the one that I was washing pots and pans with. He was a white guy. Most of them—it was almost all blacks, but this was a white guy. And he was in for robbing auto workers, which there used to be auto workers in Buffalo at that time, when they got their paychecks. He had a team of women on walkie-talkies that he controlled the women, and the women would stick a gun in the back of the auto worker right after they cashed their paycheck, and rob them. And this is what he did. So to me, he was disgusting.
+
+But the other people were just in for possession of drugs, and they were basically decent people, and I became fairly—you know, in the prison context, quite friendly with one in particular. And he sort of made it his job to teach me how to say—and I don’t know if I can do it now, but you had to say it exactly right in order to be really accepted, right? To say, “So wah, what happened?” or something like that. The inflection had to be exactly right, though, and he tutored me until I could do it.
+
+And everyone had nicknames, so of course I was The Professor, and there was this other guy whose nickname was The Chief because he was a Chippewa Indian. And he was in for robbing people by sticking a pencil in their back and making them think it was a gun, and that’s what he did on the outside. He showed me his rap sheet once. And he was, like, 30 years old, and half his life was behind bars, going in and out—</u>
+      <u who="CONNOLLY">Really?</u>
+      <u who="SPRITZLER">—for these robbery crimes, right? So when he was in the outside,—he’s not such a nice guy, right? Robbing people. But when he was on the inside, he was incredible because what he did is he became—he was a self-taught jailhouse lawyer specializing in habeas corpus, which means the law regarding whether they could hold you in prison or not. And he was the lawyer for the other prisoners, a tremendous, you know, help to them.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">And this is what else he did: There was a dentist for the prisoners, who was horrible. I didn’t experience it personally, but I heard stories. He had utter contempt for the prisoners, so he wouldn’t give them Novocain—you know, he’d yank out teeth. He was just bad—bad dentistry. You know, contemptuous of the prisoners and so on.
+
+So The Chief, while I was there, wrote this letter to the surgeon general, detailing all the horrible things that this guy had done over the years and saying that he should not be allowed to have his license to practice; it should be taken away.</u>
+      <u who="CONNOLLY">Check.</u>
+      <u who="SPRITZLER">And he was collecting signatures for it. He collected signatures from all the—</u>
+      <u who="CONNOLLY">All the guys.</u>
+      <u who="SPRITZLER">—patients who had been abused, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And he went to the dentist, and he showed the dentist the letter, and he said, “If you don’t improve, I’m sending this letter.” [Snaps fingers.] Things improved—</u>
+      <u who="CONNOLLY">Overnight.</u>
+      <u who="SPRITZLER">—dramatically, overnight.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">So that’s what he did. I had tremendous respect for the inside chief, not for the outside chief. [Laughs.] 
+
+Anyway, you know, life was full of little—you know, little things. They had to serve us nutritionally—you know, enough to keep us alive, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">But they would play games with us, the prison administration. You know, peanut butter and jelly sandwiches qualifies as nutritionally sound, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">So one night they would serve us the peanut butter without the jelly, and then on another day they would serve us the jelly without the peanut butter because, you know, satisfying the law but turning the screws on us, right? So people would adapt to that by storing the peanut butter until they got the jelly, right? And people would teach other tricks, how to use the radiator to heat something up and so forth. So that was life.  
+
+And I read all of—I read War and Peace and Crime and Punishment, and the prison library had all the [Fyodor] Dostoyevsky and [Leo] Tolstoy—I read all the Dostoyevsky and Tolstoy novels in my time there, and the days went by, and—</u>
+      <u who="CONNOLLY">You were out in literally three months.</u>
+      <u who="SPRITZLER">Really, it wasn’t such a bad experience. [Laughs.]</u>
+      <u who="CONNOLLY">That’s really interesting. Well, what did your dad think about your activism?</u>
+      <u who="SPRITZLER">You know, he was sort of proud of it.</u>
+      <u who="CONNOLLY">Really?</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">But in the sense that he agreed with you or—</u>
+      <u who="SPRITZLER">He was proud that I had convictions and fought for them. Yeah. He was actually against the war, himself. He told me—think it was sophomore or junior year. He told me—by the way, he fought in the Flying Tigers [1st American Volunteer Group of the Chinese Air Force, composed of U.S. military pilots] in World War II. You know, he had medals from World War II. He was a doctor in the Flying Tigers in China under Gen. [Claire L.] Chennault and so forth, so it wasn’t like he was a pacifist or anything like that. And he was as patriotic as anybody else, right?
+
+But just as an example of how public opinion was then about the war, in my junior year, I think it was, he told me—he said, “John, go to the psychiatrist, act crazy, and”—</u>
+      <u who="CONNOLLY">“Get out.”</u>
+      <u who="SPRITZLER">—“get out of the draft.” So I tried it. I could tell you my whole story with the draft. That’s another chapter. But I did that. I didn’t succeed. I don’t think I was clever enough to do it convincingly. But that was my father’s advice to do that.</u>
+      <u who="CONNOLLY">And your sister, too. Did she have any particular thoughts on, you know, you being this involved? I mean, what was her—</u>
+      <u who="SPRITZLER">She was—she is not part of the story, really at all. She was in her own world, doing her own thing, suffering her own stepmother and dealing with that. </u>
+      <u who="CONNOLLY">Fair.</u>
+      <u who="SPRITZLER">That’s just a completely unconnected story.</u>
+      <u who="CONNOLLY">Okay. Gotcha. Are you two still close?</u>
+      <u who="SPRITZLER">But I can tell you something about—talking about the home scene, one year during school year, you know, I was up to my neck in anti war—I came home. My father had dinner for me and Lee J. Cobb. Do you know Lee J. Cobb?</u>
+      <u who="CONNOLLY">No.</u>
+      <u who="SPRITZLER">Well, he was a big Hollywood actor. You know On the Waterfront? Did you ever hear of that?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Well, that’s—Lee J. Cobb was one of the main actors.</u>
+      <u who="CONNOLLY">Oh, okay.</u>
+      <u who="SPRITZLER">And Marlon Brando. I think Marlon Brando has the “I coulda been a contenda” line, and Lee J. Cobb is one of the other actors in it. He was a big-name actor, and he was known as a Communist, and during the McCarthy period he was, you know, called before the House Un-American Activities Committee. And, you know, during that time, some people were principled and other people ratted on people, and I think he ratted, although I’m not positive.</u>
+      <u who="CONNOLLY">What makes you say that?</u>
+      <u who="SPRITZLER">Somehow—just I think I heard it, you know. I’m not sure. Anyway, so I thought—and my father told me he was going to have dinner for me and Lee J. Cobb and families. So there we are, having dinner in Los Angeles. And I knew that he was a Communist, and so I figured, Well, he’s against the war. You know what? He was totally for the war.</u>
+      <u who="CONNOLLY">Really.</u>
+      <u who="SPRITZLER">Yeah. And this was when a lot of people were against it.</u>
+      <u who="CONNOLLY">What year?</u>
+      <u who="SPRITZLER">It was, like, ’67, I guess, you know. Totally for the war. Really disgusting. Just a little anecdote.</u>
+      <u who="CONNOLLY">Yeah. I’m trying to think of the right question. I mean, you described how at least on campus, student population that was supporting the war was pretty—you seemed to indicate it steadily declined. What was it like interacting with those few holdouts who were still very supportive?</u>
+      <u who="SPRITZLER">You’d argue, you know. You’d argue, sometimes scream. You know, sometimes ignore them. A big part of the pro-war, anti-war hinged around how much you knew about it. If you understood the government was lying, you tended to be anti-war because, you know, peasants were being murdered with napalm. You know, there was the picture of that girl running toward the camera, naked, with napalm. And, you know, you either were horrified by that stuff or, if you supported it, the only way to support it was by believing government lies that somehow freedom was being defended. If you know that—even Eisenhower admitted that 80 percent would have voted for Ho Chi Minh. And knew that. Which most people did not. But when you found out stuff like that, you know, it sort of takes the moral rug out from underneath your pro-war position. So we felt that we had a basis for talking to people who disagreed with us, which was to show them facts.</u>
+      <u who="CONNOLLY">And see their response?</u>
+      <u who="SPRITZLER">You know, it wasn’t like, “You’re an asshole.”</u>
+      <u who="CONNOLLY">Yeah. Yeah, yeah.</u>
+      <u who="SPRITZLER">It was like, “Did you know that…”</u>
+      <u who="CONNOLLY">Sure, sure. How often did you find professors weighing in on the debate on campus?</u>
+      <u who="SPRITZLER">How often?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Well, there were the ones that we knew that were outspoken. There must have been a lot because they ended up voting to abolish ROTC. Well, I suppose part of the vote was that people who might have felt that if they didn’t, the college couldn’t operate, because it had come to that. But there was a substantial opposition.
+
+Are you okay?</u>
+      <u who="CONNOLLY">Yeah. I’m going to take a quick break.</u>
+      <u who="SPRITZLER">Do you need some more water?
+
+[Recording interruption.]</u>
+      <u who="CONNOLLY">This is the fifth audio file of the interview with Mr. John Spritzler after a momentary pause.</u>
+      <u who="SPRITZLER">There was a dean who privately presented himself to the core of SDS as a fellow revolutionary, and in addition to giving us the key to the ROTC building and telling us to burn it down, which we decided not to do, he had me out in the woods, teaching me to shoot a rifle,—</u>
+      <u who="CONNOLLY">Really?</u>
+      <u who="SPRITZLER">—on the grounds that there was going to be shooting in the woods one day. </u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Yes. Really. You see how different ’68 was from now? [Laughs.] And he took me—I’m trying not to identify him by saying things that identify him, because I’m not sure it’s right for me to identify him. But he took me to a foreign country to meet revolutionaries.</u>
+      <u who="CONNOLLY">Which country?</u>
+      <u who="SPRITZLER">Well, I’m not going to say, because that would—[Phone rings.]—somewhat identify him.</u>
+      <u who="CONNOLLY">Went to a foreign country with him.</u>
+      <u who="SPRITZLER">So I flew to a foreign country with him and his wife and met the revolutionaries that he was involved with. And interestingly, they were in a country where there was a dictatorship and ordinary middle-class people who would ordinarily be in, like, the liberal wing of the Democratic Party, were illegal. So to be a revolutionary in this country was simply because you had been declared illegal by a dictatorship.
+
+They were doing things like teaching peasants literacy, which was illegal. So they finally—they met with me, and we were in a living room, having this organized meeting of the revolutionaries, and after, it occurred to me that our discussion was essentially no different from all the dorm discussions we’d been having at Dartmouth. [Laughs.] It was basically the same kind of discussion, you know? Trying to figure out the world and, you know, what to do and so forth.
+
+This person was not trusted at all by the Progressive Labor Party people in Boston that I was work- —</u>
+      <u who="CONNOLLY">This dean.</u>
+      <u who="SPRITZLER">—working with, yes. Not trusted at all.</u>
+      <u who="CONNOLLY">What was the reason behind that?</u>
+      <u who="SPRITZLER">What? Well, because the administrators of colleges were the enemy at this time. And you know, I might just as well have been saying that there was a revolutionary cop—you know, a revolutionary chief of police. You know, just not believable. But—so eventually, the people in PL told me and my close comrade, student to—that we had to give this guy an ultimatum. The ultimatum was: If you wanted to still be considered by us as one of us, that he had to sell the house he was living in—he had to quit his job, sell the house he was living in, give the proceeds from the sale of the house to the Progressive Labor Party, move out of state, get a job on the assembly line of an auto factory, and then he would be accepted. So obviously it was, you know, to make sure that he couldn’t do that, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Guess what happened.</u>
+      <u who="CONNOLLY">He did it.</u>
+      <u who="SPRITZLER">He quit his job, he sold his house, he gave me and my friend $10,000 in cash, which was—this was 1968 or so—we took it down to the people in the Progressive Labor Party. They were shocked. I remember to this day they were rubbing each bill, holding it to the light and examining. They couldn’t believe it wasn’t counterfeit. He moved to another state and got a job as a factory worker, on an assembly line in an automobile plant. And the people in Boston, the Progressive Labor Party, still never trusted him, but the people in this other state did. He was recruited to the Party.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">And years went by, and he left, and now—and now, you know, he’s not even close to being a revolutionary, so—he’s managing his father’s big business in the state I won’t say. So who was he? Not “Who was he? What was his name?” but what was this all about? To this day, I have no idea. He could have been—he could have been a person trying to infiltrate the Progressive Labor Party. He could have been genuinely who he said he was.</u>
+      <u who="CONNOLLY">And you traveled with this individual to another country, with his wife. I mean, it sounds like you had a fair amount of time to get to know him.</u>
+      <u who="SPRITZLER">I’ll tell you something else that happened. This is such a bizarre story. So after we come back from this country—we met this woman when we were in this country, a fellow revolutionary. She was an oral surgeon. She was 35 years old. So I’m, like, 21, right? She’s 35. So that’s a pretty big difference when you’re 21.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">And I’m not, like, a womanizer. I’m inexperienced with women, you know. So I met her. She gave us a tour of her hospital and told us about the political situation.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And we had dinner once. And then we fly home, and then six months later she comes to visit in Hanover. And so the dean and his wife and this person and me were having dinner, and the dean and his wife go into the kitchen, and all of a sudden this person is hugging me, saying she loves me and will I come back and marry her and live with her in her country. I freaked out.</u>
+      <u who="CONNOLLY">Kind of out of the blue.</u>
+      <u who="SPRITZLER">Totally out of the blue.</u>
+      <u who="CONNOLLY">And weren’t in communication with this person.</u>
+      <u who="SPRITZLER">Totally, totally, totally out of the blue.</u>
+      <u who="CONNOLLY">It’s very strange.</u>
+      <u who="SPRITZLER">And I couldn’t help but think, you know, that this dean and this woman—it’s a scheme; it’s a plan to manipulate me. I’m being used. For some reason, they wanted me to be married to her in the country. God knows why. So I pretty much cut off relations.</u>
+      <u who="CONNOLLY">Not to press it more, but was this a country that—</u>
+      <u who="SPRITZLER">Third-world country.</u>
+      <u who="CONNOLLY">—was where there was an active, you know, kind of, you know, a political movement against the established—you know.</u>
+      <u who="SPRITZLER">Yeah, yeah.</u>
+      <u who="CONNOLLY">Okay. Fair enough. That’s interesting. Was there ever any  more follow-up with the dean? Did he ever—did he ever contact the group again?</u>
+      <u who="SPRITZLER">Thirty years later—[computes to himself]—about 30 years later, he got in touch with me. We had dinner occasionally. And then—</u>
+      <u who="CONNOLLY">Long since parted with the college.</u>
+      <u who="SPRITZLER">I never trusted him, you know. You know, for some reason, one of my sons was invited to have dinner with me and this dean, and he starts talking about how he has a cabin out—</u>
+      <u who="CONNOLLY">He has what?</u>
+      <u who="SPRITZLER">A cabin out in the woods in his home state. And his wife tells me, “Yeah, but he’s got guns there. He’s got a thing about guns. He’s got an obsession about guns.” Guns, guns, guns. And he invited my son, my 14-year-old son, to go out for two weeks and spend two weeks with them in this cabin with these guns and stuff.</u>
+      <u who="CONNOLLY">And this was a guy you’d not seen—</u>
+      <u who="SPRITZLER">A guy I don’t trust.</u>
+      <u who="CONNOLLY">A guy you’d not seen for 30 years.</u>
+      <u who="SPRITZLER">Decades. And then, to my extreme annoyance, he started going around my back, communicating directly with my son to get my son to go out with him. I mean, I put the kibosh on that. I don’t trust this person.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">I did initially trust him very, very much, but, you know, that—so that was a strange—</u>
+      <u who="CONNOLLY">Yeah. Has there been any communication since?</u>
+      <u who="SPRITZLER">No. Well, actually, his wife might be on Facebook with me, but for some reason, she disagrees with me about Zionism, so I don’t have anything to do with them. [Chuckles.]</u>
+      <u who="CONNOLLY">Fair enough.</u>
+      <u who="SPRITZLER">So that’s a strange little—</u>
+      <u who="CONNOLLY">Yeah, that is—</u>
+      <u who="SPRITZLER">—story.</u>
+      <u who="CONNOLLY">And it’s hard to understand without more context. How did other—</u>
+      <u who="SPRITZLER">He had me do the stupidest thing in my whole life.</u>
+      <u who="CONNOLLY">Which was?</u>
+      <u who="SPRITZLER">Literally. As we were getting on the plane to go to this country, he tells me to join him in going into the bathroom. Tells me to sit in a stall, and he sits in the adjacent stall. He hands me a heavy object wrapped up in toilet paper and says, “Put this in your back pocket.”</u>
+      <u who="CONNOLLY">Okay. And did you?</u>
+      <u who="SPRITZLER">I did. It was a gun. And we went through—</u>
+      <u who="CONNOLLY">The security.</u>
+      <u who="SPRITZLER">—this little country Customs with a gun in my back pocket.</u>
+      <u who="CONNOLLY">Were you stopped?</u>
+      <u who="SPRITZLER">No. I wouldn't be here, probably, if I was.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">This was before metal detectors and terrorism and all that stuff, so it wasn’t as crazy as it might sound, but it was sufficiently crazy, the stupidest thing I ever did.</u>
+      <u who="CONNOLLY">Yeah. Did he ever explain why—</u>
+      <u who="SPRITZLER">The gun was to be given, along with a bunch of cash, to his revolutionaries.</u>
+      <u who="CONNOLLY">Okay. A singular gun. It’s not like you’re giving multiple—it’s one firearm, a pistol or something like that.</u>
+      <u who="SPRITZLER">Maybe he had one in his back pocket, too. I don’t know. So there you go. That was 1968. That was why I wasn’t at the Democratic Convention, protesting. I was in this other country instead.</u>
+      <u who="CONNOLLY">Okay. How long were you there?</u>
+      <u who="SPRITZLER">About a month.</u>
+      <u who="CONNOLLY">Okay. And travel and seeing the country here?</u>
+      <u who="SPRITZLER">A little bit, but—</u>
+      <u who="CONNOLLY">Mostly—</u>
+      <u who="SPRITZLER">—mainly waiting for his revolutionaries to show up.</u>
+      <u who="CONNOLLY">Did they?</u>
+      <u who="SPRITZLER">Eventually they did, but we had to wait for them. It was sort of like waiting for Godot. [Chuckles.]</u>
+      <u who="CONNOLLY">Fair. Fair. And did anything come as a result of this travel or than the—</u>
+      <u who="SPRITZLER">Except for this weird thing with the woman?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">Which didn’t result in anything, either. No, no, nothing did.</u>
+      <u who="CONNOLLY">It just occurred.</u>
+      <u who="SPRITZLER">It just happened.</u>
+      <u who="CONNOLLY">Okay. What did the other students, your peers think? [Phone rings.] </u>
+      <u who="SPRITZLER">Sorry.</u>
+      <u who="CONNOLLY">No worries. What did the other students in your group think about this?</u>
+      <u who="SPRITZLER">It was a secret.</u>
+      <u who="CONNOLLY">Secret.</u>
+      <u who="SPRITZLER">That was another weird thing. Here I was—it was me and one other person, right? And we’re building this, you know, anti-war movement and talking revolution and everything, and only me and this other student know or believe, at least, that one of these deans is a revolutionary. We can’t tell anyone. It’s a secret.</u>
+      <u who="CONNOLLY">Interesting. Was this person in a position—</u>
+      <u who="SPRITZLER">Except we told the people in the Progressive Labor Party in Boston.</u>
+      <u who="CONNOLLY">Yeah. Was this person in a position of, like, pretty—what was his ranking on the administration?</u>
+      <u who="SPRITZLER">I’m not going to tell you.</u>
+      <u who="CONNOLLY">Okay. </u>
+      <u who="SPRITZLER">It was high.</u>
+      <u who="CONNOLLY">Okay. Because that is something to consider. There’s all kinds of levels of deans, at least from my point of view now. That’s very, very interesting. Anything else like that occur? I mean, were there other attempts at people who you didn’t perceive to be part of your group that tried to join your group like that?</u>
+      <u who="SPRITZLER">No.</u>
+      <u who="CONNOLLY">No?</u>
+      <u who="SPRITZLER">No.</u>
+      <u who="CONNOLLY">Okay. So he was kind of one outlier there.</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">All right, so we can jump back to Lake Erie after you were arrested and kind of walk out what was going on for a couple of years after that.</u>
+      <u who="SPRITZLER">Well, after I got out of prison [chuckles]—I only served—I got two weeks off for good behavior, so it wasn’t the full three months.</u>
+      <u who="CONNOLLY">[Chuckles.]</u>
+      <u who="SPRITZLER">So after I got out of prison, I went to Boston. When I was in Buffalo, I was going to Canisius College. I got some teaching credentials, I did some substitute teaching, but I was blacklisted in trying to get a job as a teacher because of al the stuff—the arrest and everything.</u>
+      <u who="CONNOLLY">And when you say blacklisted, what do you mean?</u>
+      <u who="SPRITZLER">What I mean is this: I went for a job interview, and he had a folder open, and, I don’t know, he went to the bathroom or something, and I peeked into the folder, and there were the newspaper articles about my being arrested, so it was pretty clear that they had been distributed to the people who might be hiring me, to know about. 
+
+After I got out of prison, there was a split in the Progressive Labor Party, and about 150 people in the Boston Progressive Labor Party split from the national party, and those were the people I knew and, you know, trusted and was aligned with. So I went back to Boston to live in Boston and be part of that.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">Interestingly, the initial reason for the split was that the national newspaper, which was called Challenge, lied. You know, there’d be a demonstration of 50 people, and the paper would say it was 500, you know. And it just lied when it was convenient, and so the people in Boston thought: Well, that’s just wrong. So we split, and for a while we called ourselves—we tried to continue to be an organization. Called ourselves Party for Workers Power. And we started having discussions about what did we think, because we were now freed from the sort of democratic centralist kind of relationship with the Progressive Labor Party.
+
+And very quickly, we decided, you know, “We’re not really Communists.” [Chuckles.] The Progressive Labor Party was always pro-[Joseph] Stalin. Most people didn’t talk about it, didn’t care that much about it, but the leaders were—Stalin was a great guy, you know? So we decided, you know, “That’s not us,” so we decided we were not Communists.
+
+So then we started to have discussions, what did we believe. And we ended up—one of the first things that happened is we ended up expelling the leader of the Boston Progressive Labor Party because he was sleeping with other women, and we thought he’s being a jerk to his wife. So we did that. And he really was a jerk. He’s become an obvious jerk in subsequent years, but that’s another story.
+
+So then around that time, that group was heavily involved in the busing crisis that went on in Boston, which you can read about, but one of the things that it did is it had a group called Better Education Together, BET. And this group was bringing black and white parents together to fight for what most black and white parents wanted, which was better schools.
+
+The situation was that there was, like, a pincer movement to create a race war then, where both the racist chairman of the school system, Louise Day Hicks, who was an overt racist, was tacitly working with this liberal [U.S. District Court] judge, [W. Arthur] Garrity [Jr.], who was enforcing an order to integrate the schools that was designed to be so absurd in terms of logistics that it would necessarily have opposition that had nothing to do with racism. But then the opposition was channeled by the racists to have a racist framework, and it was a real—it created a race war.
+
+And Better Education Together was aware of that and was explicitly opposing it and bringing black and white parents together. One of the main people who they ended up running for school committee was a man named David Stratman. Now, David Stratman was secretly a member of the Progressive Labor Party, and David Stratman was a Marxist. Because we were still Marxists, right?</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">We had all been trained by Marxist thinking. And the training, to make a long story short, of Marxist thinking is that ordinary people are dehumanized by capitalism, have bad values, and it’s the job of a Marxist revolutionary to turn them around and make them good, because until you do that, they’re racists, and now they’re more moderate. They’re racist, they’re homophobic, they’re complicit in U.S. crimes. Bad, bad, bad, bad.
+
+And so David was trained in that same way, so he starts getting involved with parents, and the parents, black parents especially, started telling him that his Marxist view of parents was wrong and he was seeing things that were in conflict with this negative view of ordinary people. And he developed an insight which changed my life. That’s why I’m telling about this. He developed an insight, which is that most ordinary people try to shape the world, the little piece of it over which they have any real control, which is necessarily small, with positive values of supporting each other and equality and deciding things democratically—</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">—and that the job of a revolutionary is not to change people from bad to good but to help people succeed on a large scale what they’re already trying to do on a small scale. So David tried to inject this into the discussion that was going on with this breakaway party, but he was unable to succeed because he was a secret member and he couldn’t speak openly in his own name, and there was no one else who would do it for him. There was an agreement with him.
+
+
+
+And so what happened was these 150 people withered away. They all ended up going—</u>
+      <u who="CONNOLLY">Elsewhere.</u>
+      <u who="SPRITZLER">Elsewhere. Some became liberal Democrats; some, just non-political, including me, by the way. I became totally non-political in the whole decade of the ’80s. I didn’t know David. I maybe knew him to recognize his name, and that was about it. I wasn’t close to him.
+
+And David ended up writing a book called We Can Change the World [: The Real Meaning of Everyday Life], which expresses this view and sort of illustrates it and elaborates on it. And he published it in 1990 [sic; October 1991], and we still lived in the same part of Boston, Jamaica Plain, so I’d run into him occasionally at the grocery store that we shopped at.
+
+You know, one day he said, “I’ve written a book. Would you like a copy?” But this time, I’m working on my doctoral thesis for biostatistics. The last thing I need is to be diverted by anything, right? So I said, out of politeness, “Sure,” you know. So he gave me a copy, and I read the title. It says We Can Change the World, and I’m thinking to myself, What does this guy think he’s [John] Lennon or something? You know, the—you know.
+
+But I read the book, and it changed my life. I ended up agreeing with it. It was an eye opener. And that was around 1990, and so David Stratman and I and another fellow and so forth began trying to implement these ideas, so we ended up creating the web page, New Democracy World [www.newdemocracyworld.org], after—we had a newsletter first, and then—this is the period when people stopped reading newsletters because they were reading web pages, you know?
+
+And I started writing articles, you know, and so forth, and we tried to do things, and we had some successes and some failures. But my thinking evolved in this way, to what I’m doing today. David unfortunately died just last March. And so the reason that I’m politically active like I am today—my son with me, likewise, and some other people—is because when I went into political inactivity in the decade of the ‘80s, what brought me out of it was this book that presented a different basis for hope and being able to change things.</u>
+      <u who="CONNOLLY">Sure.</u>
+      <u who="SPRITZLER">And it’s on that new basis that I’m now, you know, politically active.</u>
+      <u who="CONNOLLY">Interesting.</u>
+      <u who="SPRITZLER">Yeah. Had it not been for that, I probably would be like so many of the other people that I described, just not politically involved and blending in and, you know, giving up, basically.</u>
+      <u who="CONNOLLY">Yeah. Interesting.</u>
+      <u who="SPRITZLER">So there. </u>
+      <u who="CONNOLLY">The ebb and flow of it.</u>
+      <u who="SPRITZLER">Yeah.</u>
+      <u who="CONNOLLY">Cool. I think that’s a good place to stop.</u>
+      <u who="SPRITZLER">Okay, good.</u>
+      <u who="CONNOLLY">Yeah, that’s good.</u>
+      <u who="SPRITZLER">Well, this was fun.</u>
+      <u who="CONNOLLY">Yeah.</u>
+      <u who="SPRITZLER">You know, you get some of the old memory cells firing away, and—</u>
+      <u who="CONNOLLY">And, you know, that is the goal.
+
+[End of interview.]
+
+
+
+</u>
+    </body>
+  </text>
+</TEI>

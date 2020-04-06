@@ -1,0 +1,1099 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="PEARL"/>
+        <person xml:id="STEIN"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="STEIN">Today is January 29th, 2016. My name is Joshua [G.] Pearl, and I’m interviewing Jeffry [J.] Stein for the Dartmouth Vietnam Project by phone. I am at Rauner [Special Collections] Library at Dartmouth College in Hanover, New Hampshire, and I’m interviewing Jeffry at his home in Nashville, Tennessee. Is that correct, Jeff?</u>
+      <u who="STEIN">That’s right.</u>
+      <u who="PEARL">All right. Great. So could we start out with when and where you were born?</u>
+      <u who="STEIN">When and where I was born.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">Okay. I was born September 29th, 1944, in Great Neck—well, I was at Lenox Hill Hospital in Manhattan, but my hometown was Great Neck, New York, on the north shore of Long Island, sometimes known as “West Egg” in [F. Scott] Fitzgerald’s The Great Gatsby.</u>
+      <u who="PEARL">Yeah. And can you tell me about your childhood?</u>
+      <u who="STEIN">My childhood. Great Neck was largely a Jewish town, although my mother was not Jewish. My father was. I was not raised in the temple in any way, but most of my friends were Jewish. I played football, and probably three-quarters of the football team were Jewish, but there were also Christians on the team. But religion was never an issue for me. I never even thought about religion until—I would go to temple with my girlfriends on High Holy Days and have questions about it and then questions, of course, further on as life—as I got into college.
+
+When my Jewish friends kept telling me I was Jewish, I would say, “I’m a human being. That’s all I want to be.” Even when I rushed fraternities and I went to Pi Lamb [Pi Lambda Phi], I think it was, and they wanted me to be there, they said, “Face it, you’re Jewish,” and that really turned me off because I said, “I’m a human being. That’s as limited as I want to be labeled.” 	I mean, it wasn’t that I was against Judaism or any other religion, it was that I just didn’t want to be labeled because I wasn’t part of it.
+
+My childhood. Interestingly enough, I guess I had a—a—a wonderful childhood because I feel very privileged. I remember once, early on in my fraternity, which was DU [Delta Upsilon] in my sophomore year, there was a senior who was a kind of a alternative poet, and I—and I never knew him very much, but I did have this one encounter with him in the—by a stairwell. And I said, “Well, you know, we all had wonderful childhoods.” And he looked at me [chuckles], and he said, “What planet did you come from?”
+
+And so that was—that was a kind of an enlightening thing because I just had—you know, when you’re young, you grow up with all sorts of assumptions. So I had a very—I had a wonderful childhood. I was always a bit of a thinker, I suppose. I played four sports. I had girlfriends. I was always—I was always with—I don’t know if I would say I was in the popular crowd, but I was probably closer to the popular crowd, but I would say it even represented, even then, my category through life, which I’ve always been kind of on the fringe. Of everything.
+
+So I don’t know if that’s answering your questions in any way.</u>
+      <u who="PEARL">Yeah. We’ll go deeper into it. So can you tell me more about Great Neck, about the town, itself? </u>
+      <u who="STEIN">Great Neck.</u>
+      <u who="PEARL">You know, what kind of socioeconomic background and that sort of thing?</u>
+      <u who="STEIN">Oh, Great Neck was—Great Neck, as I said, was—my parents moved there before I was born. And so they were kind of considered the older old-timers, but a lot of Jewish people from Brooklyn migrated to Great Neck when they developed a certain affluence, so it was definitely an affluent town.
+
+And it was a commuter town for people that—that generally worked in the city [in Manhattan]. My father worked—had a paper distribution company called Yorkville Paper Company that was on East 77th Street in Manhattan. My father grew up an inveterate New Yorker. My mother grew up very poor in southern California.
+
+So I don’t—the Great Neck High School—the Great Neck North High School [now John L. Miller Great Neck High School], was considered—I remember even then, to be considered among the top three public high schools in the country for the quality of its education.</u>
+      <u who="PEARL">And can you tell me more about your family?</u>
+      <u who="STEIN">I had a brother and a sister, both. My brother, eight years older; my sister, five years older. I had always a strange relationship with my brother, and it continues to be that way. In fact, there is no relationship with my brother. My sister tolerated me, I think, as I was the baby in the family, and the last born is usually seen by the older ones as getting all the favors when in fact the older ones don’t remember the favors they got, so—but my sister and I are good friends now. 
+
+And my mother was—she was a chorus girl. She was younger than my father, and my father was a man about town in New York, and she—my mother—he met her at the plane at LaGuardia [Airport], knowing that a bevy of chorus girls were—dancers were flying in from California. It was something like 1933 or something like that. And so—and my mother—so that was it.
+
+I don’t know if that answers your question. It was a—it was growing up in a very privileged environment. I would call it upper middle class. And certainly the people that lived on the Point [Kings Point, a section of Great Neck] that were—were upper—upper-upper class, I suppose. But we—I would probably classify us, if you go by any socioeconomic background, as upper middle class.</u>
+      <u who="PEARL">Okay.  And what were your parents’ and siblings’ names?</u>
+      <u who="STEIN">My brother went by “Andy,” but his name was Anthony Charles Stein. My sister is Nancy Stein, and they had to get—she had never had a middle initial, but they eventually, for some reason, had to have one, so she’s Nancy E. Stein.</u>
+      <u who="PEARL">And your parents?</u>
+      <u who="STEIN">My parents. My parents—was Martha Stein. She actually went by “Gay” because her—her stage—her dancing—chorus girl/dancing/stage name was Gay Faust [pronounced FOST], F-a-u-s-t. And she generally thought Martha was a little old fashioned, so she went by Gay all of her life, previous to the name Gay becoming associated with one single kind of concept, just G-a-y.
+
+And my father was Arthur Howard Stein. And he—he basically—neither of them went to college. My mother—it’s—there is a question whether my mother ever got a GED [General Educational Development]. She insisted she did, but I don’t think she said. So—and my father didn’t go to college. He graduated from high school in New York City.
+
+My mother—my father was very much—knew—knew a lot of history and facts and stuff, but my mother was much deeper the thinker, which is interesting, which—she did not have any long degree of formal education. She was always reading, and she was very artistic. My father was—was very business and money oriented, and my mother was very artsy, artistic and anti-money oriented. [Laughs.] Although she certainly enjoyed—you know, had to—I’m guessing she appreciated—without recognizing her appreciation for the comfortable life she achieved after her very poor background. That should kind of do it.</u>
+      <u who="PEARL">Uh-huh. Yeah.
+
+And you mentioned religion. How was religion discussed in your family?</u>
+      <u who="STEIN">Well, that’s very interesting. My mother escaped what I think is probably called Missouri Synod Lutheranism [sic; Lutheran Church-Missouri Synod] in southern California, which is sometimes referred to as Misery Lutheranism. She—she had eight brothers and sisters, and several—several of them became preachers and holy rollers, and she wanted nothing to do with that and escaped that.
+
+And my father was Bar Mitzvahed in New York. And by the time I was growing up and most of my friends were going to Hebrew school in the afternoon, I said to my mother—because—and I think my brother—they belonged to a temple early on, when my brother and sister were growing up, in their, you know, preteen areas, but they stopped going. They didn’t want to go to temple, so they stopped going. Neither—neither of them were Bar Mitzvahed or Bat Mitzvahed.
+
+And I remember saying to my mother at one point, “Well, all my friends are going to Hebrew school.” She said, “You wanna go?” [Chuckles.] She didn’t actually say it that way, because she didn’t speak any kind of a—she had a southern California accent, if anything. But she said—she said, “Do you want to go? You can go. You know, if you go, there’s going to be two to three afternoons a week that you can’t play ball.” I said, “No, I don’t wanna go.” [Laughs.]</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">So I didn’t go. When I finally asked her—I asked my father, “What do you believe?” Because he would—he would—he would pray—he would do a “Now I lay me down to sleep” kind of prayer, I think, every night. But he believed in God, and he believed—and he definitely believed he was Jewish.
+
+But I can’t remember him giving me any education whatsoever about Judaism. So I learned—and my mother—even though she—another thing: She asserted that she had converted, but I don’t think she did. There’s no record of her ever doing that. Because she lives so much in a town that was—and all of their friends were—were Jewish, so I think she just—it was just the way that it kind of fit in.
+
+But when I finally asked her, “What do you believe?” she said, “I’m a pantheist.” And I said—people don’t seem—a lot of people don’t know the difference between paganism and pantheism because there’s a very big different. And pantheism is the concept that God is in everything. I am God. You’re God. This phone is God. The world is God. The rocks are God. It is—the whole existence. It’s just one great mystery or wonder. And so it all should be cherished. Except for those things [chuckles] that shouldn’t be cherished. [Laughs heartily.] I’m sorry. That’s funny. She would probably say that, too. But she had—she didn’t have much truck with religion.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">And it was not an issue. It was not an issue so much that when I—when I was courting my first wife in Tucson, Arizona—and she came from a Nazarene background, which she was also—she was only still in high school, but she was—I can’t say courting my first wife. When I first started dating her, met her and dating her, it was Christmas time, and I remember walking around Tucson, Arizona, saying, Wow, isn’t it just wonderful that all these people get together and go out and buy gifts for each other and everything else on this wonderful day or time, and that they think of each—I wonder how that all started. 
+
+And she looked at me and said, “You go to Dartmouth??” [Laughs.]  I said, “Well, oh.” And then I realized. See, Christianity was never, ever in my consciousness at that time, so not probably till I took Religion I at Dartmouth.</u>
+      <u who="PEARL">Did your family celebrate any holidays?</u>
+      <u who="STEIN">I did—I did eventually—I did eventually recognize—right?—that, “Oh, yeah, yeah, right. This is when they say Christ was born” or “This is a celebration of Christ’s birth,” you know. Before I later learned that that was not true, either. But anyway—so go ahead.</u>
+      <u who="PEARL">So did your family celebrate any holidays at all, or was it—</u>
+      <u who="STEIN">Oh, yes, yes! Oh, absolutely! We didn’t cel- —we didn’t celebrate Chanukah, but we did celebrate Christmas, but as a kind of a secular celebration of the year: how Christmas was, like, the favorite—you know, when I was preteen, it was the favorite time of my life, and my mother made a lot of effort about—there was always the day for decorating the tree and having family members over for decorating the tree, and then the Christmas dinner and the Christmas mornings of opening presents and stuff. That was a very big deal. And so—but never, never associated with—with anything religious.
+
+Same, too: The other big holiday that we really celebrated was Easter, and we always went out on a—you know, on an Easter picnic somewhere, played ball or hiked in woods and stuff like that and took big picnic stuff, and there was never any mention of anything religious on it; it was just a day to celebrate.
+
+As I said, with my girlfriends that were Jewish, I would sometimes go to temple with them on High—on what are called High Holidays. What’s your background?</u>
+      <u who="PEARL">I’m also Jewish.</u>
+      <u who="STEIN">Okay. I hope I’m not offending you in any way.</u>
+      <u who="PEARL">Oh, no. But continue.</u>
+      <u who="STEIN">Okay. So the High Holidays. And—and I would listen to—it was a Reform temple, and I would listen to the—the—I was very interested in the sermons. I was not interested—I was always surprised—or I tended to respond negatively to the rituals that caused you to repeat things that were not—you know, repeat things in the—in the book or repeat things that were being said that were not— for my mind, it was just—just rote repeating, and it didn’t seem to be genuine to me, personally.
+
+But I always went, mostly curiously, to see what it was all about. And I would go to Passover dinners at—at especially one friend’s house. His wife—his mother was a caterer, so it was just a big feast. And interestingly enough, it was so—it was so—even thought it was—truly, it was a celebration of Passover, they were—I’ve been to Seders since then here—I mean, I go to a Unitarian Church now, at which—I really enjoy the whole surroundings.
+
+And part of that is encompassing—it’s the best of all religions in terms of celebrating human beings. But—but we have Seders because there’s a large portion that are called “Jewditarians.” And we also have “Buddhitarianisms”—not isms, “Budditarianists” and “Jewditarianism” [sic].
+
+So—and we have a Seder. And it was at that Seder that I—that I saw how elaborate it can be and how religious it could be. And then my—my daughter, who went to Dartmouth and was encouraged by a friend to do a birthright trip, which she felt she was inappropriate for doing, but they convinced her to do it—and she came back a Chabad for four—four months. And she held a Seder—not a Seder, a Shabbat  [Sabbath] dinner at our house when she came home. And very, very elaborate. [Laughs.] I found it—
+
+But the most—the best part of it is—she’s not a hugger; she’s a shoulder hugger, and when she came back, she gave me a Shabbat dinner hug or something, and I said, “Look, if you had—if you wanna be a—if being Jewish is gonna get me hugs like that, please be Jewish. I love the hug.”</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">[Laughs.] 
+
+
+
+So anyways—I know that I tend to ramble all over the place, so I don’t know if that—</u>
+      <u who="PEARL">Oh, no, it’s perfectly fine.</u>
+      <u who="STEIN">So religion—religion—I mean, we can go into a long issue with me and religion because I have—I have gen- —I have general feelings that—that religion has caused more divisiveness than it has solved human problems, so I am—even though—I mean, I—you know, I’m a member, as I say, of the Unitarian Church here, I—it’s a church that embraces all beliefs.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">And as long as—as long as those beliefs do not cause divisiveness.</u>
+      <u who="PEARL">Yeah. We can go into your thoughts about religion more when we—when we get closer to discussing Vietnam.</u>
+      <u who="STEIN">Right.</u>
+      <u who="PEARL">For now, I’d like for you to tell me about schooling in Great Neck, about going to elementary school, middle school, then high school.</u>
+      <u who="STEIN">Elementary—you want me to go through schools?</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">Okay. </u>
+      <u who="PEARL">Tell me about how school was for you.</u>
+      <u who="STEIN">All right. They were all public schools. They were all close to—you know, within two miles of where I lived. My—I was a—in many respects, I think I was more—I was an innocent in—in—in lots of ways. So I—I—it seemed—I seemed to have grown up—I wasn’t bullied, by any means. I was not necessarily—in elementary school, I had friends. I had girlfriends always. I always—even—I seem to be interested in women from [chuckles]—from kindergarten. [Laughs.] 
+
+So I have lot- —I had girlfriends almost—even—even through elementary school, and I didn’t—I did not—I—I had trouble in elementary school, apparently, and my mother told me that—that she—the teacher said that I was somewhat—I don’t know, slow, I suppose. [Chuckles.] They may have used “retarded” at the time.
+
+I remember in sixth grade, I had a teacher—I had a fifth grade teacher, Miss Fluharty, who—I liked my teachers. And Miss Fluharty, though, did—she—she—I’m color blind, and I remember—I don’t have a lot of—some people have such keen memories of their—of their childhood and their—and other parts of their lives. I don’t. But there are little snippets. Miss Fluharty wanted me to—wanted us to color Canada brown and the United States green, and I did it the other way around, and she thought I was just a wise ass and blew her top at me and sent me to the nurse.
+
+The color dot—the colorblind pages—I don’t know if you’ve ever looked at those, but they had just come out at that time, and I think the nurse had never used them before. [Laughs.] And she—she thought I was lying to her when I couldn’t see the numbers or I saw different numbers than—than were actually there. And that’s when they determined that I was actually color anomalous, but—you know, very color weak. And so that—that was the reason I—I couldn’t tell between brown and green.
+
+And I sixth grade, I remember—I was also a little pudgy, I think, through much of—of grade school. In sixth grade, I started to sprout taller and lose the pudginess, and I also started to—I really—I always worked hard, and I guess I was a little bit plodding, but the sixth grade teacher—I think his name—his name was Mr. Albright. He—he really encouraged me, and he also gave me a lot of good feedback about how well I was doing and what improvement.
+
+And then in—[Chuckles.] You know, I did—I did well through middle school. I had girlfriends again. I did well, but I didn’t do—I didn’t necessarily excel. And here’s an example of my innocence, and here it goes back to my lack of some kind of possibly religious education?
+
+Do you like anecdotes and funny stories?</u>
+      <u who="PEARL">Yes.</u>
+      <u who="STEIN">Okay. So seventh—seventh grade English teacher, seventh grade English teacher wanted us to use the prefix “circum” as a vocabulary exercise, so we were to go home and come in with—with words that started with “circum,” like circumlocution and—and even circuit, but more with circumstances and stuff like that. And so I thought I—I’m looking through the—the dictionary, and I come to cross [sic] this word. I wanted to come up with a really neat word that nobody else would come up with. And I come up—across this word—this is talking about how innocent I am—I was, and how lack of—my lack of understanding. And I come across this word, circumcision. Never seen it before. Never heard it before. And I—I—and I’m reading—I’m reading what it says, and I don’t really understand because it just— [Chuckles.] I mean, it’s amazing. I grew up in a Jewish town!
+
+Anyway, so i—I—we get to class—and her name was Miss Fink, and so—she goes—you know, “Andrea, what’s your word?” And she comes up with circumlocution and stuff like that. “And okay, Jeff, what’s your word?” “It’s circumcision.” You know, and she’s writing the words on the wall [laughs]—on the blackboard. And she—she stops with the “circum” part.
+
+And she says, “I”—she says, “Uhhhh, okay, next.” And she goes on to Fred. I said, “Wait a second! You didn’t write it all on the board! And, you know, I don’t really understand what it means. Would you explain it?” [Both chuckle.] And she just—again, people thought that I was a wise ass so often, and I really didn’t turn into a wise ass until later in my life.
+
+So—so I was just—I really didn’t know! [Laughs.] I find that—anyway, it was funny.
+
+My eighth grade English teacher, Miss. Weiner, I think her name was—I credit her with—she, again, was just a kind of dowdy old matron, but she was the perf- —I was not really—my grammar and my—my—I needed work on my sentence structure but particularly my grammar and punctuation. I never, never did memorize the rules and apply the rules.
+
+
+
+And—and she—she was—instead of just giving me bad grades, she—she gave me two grades and encouraged me. She said, “You know, you have lots of really good ideas, and the ideas come through in what you’re writing, but you just need to learn—you just need to work on the grammar.”
+
+And so she’d give me something like a 98 over 75, and it made me focus on—on actually loving to write. And also during that is where I started to love to read, in eighth grade. Even though I read very slowly, interesting that. You know, I was an English major. I—my life has been words and writing, but I read so slowly. (And I write slowly, too.) [Laughs.]</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">So it—it was good. I played—I played sports.  I played—my middle school went through ninth grade, so I played—you know, started on the football team as an end, and I played basketball. I was, I don’t know, maybe sixth man in the team, because I was taller at that time. I really wasn’t particularly good at it, but I was better than some at that point. And I played baseball. 
+
+And then I got into high school, and I—I played basketball, baseball. I played football again all the way through high school. I played baseball for three years. I swam for two years. Basketball stopped in tenth grade when it became clear that other people were better than I was, so—had to do with hand-eye coordination, which I’ve only discovered recently the cause of it, because my two eyes don’t look at the same place at the same time. [Chuckles.] So if you’d ever meet me, please don’t think that I’m looking at you funny. I’m just looking at you. [Laughs.]</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">So, okay. Did that answer that? In high school, I—</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">Oh, here’s—here’s the big thing that happened in high school, okay? Apparently, the reason that they thought—I just didn’t do well on the—and IQ [intelligence quotient] tests were really big during—when I was growing up. And I didn’t do well on them. And then in tenth grade, I took one, and apparently it jumped 20 points. And it’s like, “Oh, that’s an anomaly.” Then took it again in eleventh grade. It jumped another 20 points. 
+
+And at that point, it—it was—it—it—my mother felt verified, she said later on in life, that—that what they’d been telling her all—all—all my life was not true, that I was just way over-performing. So—and similarly, I do have—I do have a real hole in my head when it comes to word problems, so chemistry and physics and calculus were really difficult for me.
+
+And I remember going in in eleventh grade and dropping chemistry, with the counselor, going in and asking the counselor a week before the midterm, the fall midterm, that I wanted to drop, and I guess he looked at the past record and said, “Sure, fine. Drop it,” thinking that I was not college material or something. I don’t know.
+
+And then a week later, after the midterm, he called me in, furious at me. And he said, “Why did you do that? What did you drop—why did you let me drop it?” I said, “What’s the problem?” He said, “You have the top grade on the midterm.” I said, “I don’t care. I don’t understand it. I’m just going—I’m just memorizing.” He said, “That’s what it is.” [Laughs.]
+
+I don’t know. So—it—it was—those are the kinds of things that I suppose that happened in high—in high school. I struggled a little bit. I struggled with physics the next year, with supposedly the best teacher in the school. That was senior year. But I did well in—in—I did—you know, I graduated in the top 10 percent. I wasn’t, like, valedictorian or anything like that.
+
+Had a—had a wonderful social life and good friends, so—so much so—so much so in terms of the innocence that—where people start to apply to colleges, you know, ahead of time? I was really late in applying. I—I ended up ultimately—probably only applied to six or seven colleges, and probably three of them late. [Laughs.]
+
+And the reason I applied to Dartmouth was because, even though my father didn’t go to college, he had lots of friends who went to Dartmouth, including our family doctor, so—</u>
+      <u who="PEARL">Mm-hm.</u>
+      <u who="STEIN">—he said, “Apply to Dartmouth.” [Chuckles.]
+
+Yes?</u>
+      <u who="PEARL">And can you tell me about growing up as a kid in the Cold War?</u>
+      <u who="STEIN">Growing up in the Cold War. My fam- —my father—my mother didn’t talk politics very much at all. My father was a Republican. And, as I said, my mother was a thinker; my father just seems—“I’m a Republican.” I think he—he—he—it seems to have persisted from maybe FDR’s [President Franklin D. Roosevelt’s] time on, that—that—Repub- —the people who are Republicans think that means it’s better for their money.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">I don’t think history has proved that in any way, but I think that’s what was his concept: Republican. Money. Republican. Money. So I remember even talking to him when there was the debates between FDR and—not FDR, [John F.] Kennedy, Jack Kennedy and [Richard M.] Nixon, and my watching the debates there, and Nixon seeming to have so much more sense, in some respects, and why my dad wouldn't even consider him. He would just say, “’Cause he’s not—because Nixon is Republican.” 
+
+And it was just dawning of me then that there was some significant problems that I saw politically. I was not able to vote yet. They hadn’t changed to 18. I was, again, so in a bubble that it wasn’t—it wasn’t until later—
+
+I had a wonderful tenth—I had good history teachers. I always loved history. History was story to me. And, you know, story is what I live on. History was so—I loved history, and I had a really good tenth grade and eleventh grade teachers.
+
+And the tenth grade teacher I think opened my eyes, in a way. I was—there were—there were a number of—of people in Great Neck that were very liberal, a number of students that were liberal, but not—the majority were probably still much of the, you know, infor- —when we’re kids, we’re so much informed by our environment and what our parents tell us and stuff.
+
+So—but so there were clearly some students that were—whose parents were going to vote for Adlai [E.] Stevenson [II] against [Dwight D.] Eisenhower, even. And I was already curious about that, and I was always interested in it and surprised by it and listened to it, but I was not—I was not a strong advocate at that particular time—I didn’t really start to truly struggle with a lot of my identity until I got to freshman year at—at Dartmouth.
+
+And then one of the things that got me particularly about the Cold War that—again, I was sitting—I was in—in the TV room of the fraternity, DU, in my sophomore year, because you can’t—I think you still can’t rush till sophomore year, but—and I was watching You Are There, and nobody else was in the room. And I’m watching You Are There, and it’s about the Japanese internment.
+
+And I’m watching this, and I’m saying, What? WHAT? No way! No, we—we—we couldn’t possi- —we didn’t do—this—and it was like—I had all these years of history in high school. I love history. I was never taught that. I was never taught that we did that to the Japanese-Americans. How could I—how could I have gotten through history and not know at this point that we did that?
+
+And it was the sense of being lied to, you know, or being told so selectively what the truth was or what the alternatives were that it really struck me. So my consciousness during growing up, of the Cold War—I suppose there was a sense of conformism from my father. He definitely was not an activist or not confronting in any way. He was a businessman. And I don’t know that my mother brought up the issues that much. So I—I didn’t become conscious until my freshman year in—in—at Dartmouth, with my roommate, who was so different from me, and just learning history that I had not learned before, and starting to question things.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">Did that answer that part?</u>
+      <u who="PEARL">Yeah. And was there ever—was there ever a fear of communism in your household or community?</u>
+      <u who="STEIN">Was there communism? Well, there was the—there was—</u>
+      <u who="PEARL">A fear of communism.</u>
+      <u who="STEIN">Ah. There—there—I—no. I—there—I don’t recall it ever being raised significantly. My father was significantly older, so even during World War II he was too old to be in the service, so he was in the auxiliary [U.S.] Coast Guard, using [chuckles]—they would go—I had his—I had his Coast Guard sweater for years, but he wasn’t—you know, he was the auxiliary. And they would go out on the yachts to patrol Long Island Sound, on the yachts, you know, because it was all a coastal community and there were lots of yachts, and so they would go out on the yachts and—you know.
+
+So my big—if I got any history, which was very little, from my father, it was that there—they were protecting against Nazi submarines coming. So I—I—I definitely—there was a sense that—that the—you know, they were very capitalistic. But they did not talk politics much.
+
+
+
+There were some—I have vague memories of there being discussions among the more liberal students in high school that—I was not in their crowd. I wasn’t opposed to—I mean, I would rub shoulders with them in classes and—and—and issues about communism. But, again, it didn’t—not until college. Not until college.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">I have to say that I—I grew up in a bit of a bubble.</u>
+      <u who="PEARL">Yup. 
+
+And how did you come to the decision to attend college? Did any of your siblings go off to university or college?</u>
+      <u who="STEIN">My—my brother went to Boston College, which is very curious, considering it was very much a Jesuit college at the time. Still is, but, I mean—you know, I think it was even more so. He—he—he did not do particularly well in school, and so Boston College was a good—ended up, I guess, being a good fit for him, in some ways made him his monastic self.
+
+And my dau- —my sister—again, my father—my brother was a—was [chuckles]—in Great Neck, which was not a particularly gang-y town—he—he was kind of a hood in the leather jacket and hanging out on street corners. So he—he ran in what would have been called the rougher crowd. I don’t know—I never had much of a relationship with my brother.
+
+My sister also seemed to not—not be in the pop- —she was very pretty, and she—she was a swimmer, and she ran for Miss Rheingold, which was a big beauty contest at the time. Rheingold Beer held these beauty contests. But she was under age when she got to the quarter finals, so she—but she was not—by the time she got to high school, I think she stopped doing—she went to Green Mountain [Junior College] for a year, which was a junior college. It’s now a full four-year, coeducational college, but at the time, it was a junior college.
+
+So she went there for a year. I think the iss- —I mean, Great Neck High School—everybody went to college. I mean, so—I mean, it was assumed. And I think my father and mother—I don’t ever remember—I think—my sense is, “You just go to college.” It was not—I never got the senses, “Because I didn’t go, you’re gonna go.” I never go the sense—I just got the sense that we—99 percent of the people in Great Neck went to college.</u>
+      <u who="PEARL">Mm-hm. </u>
+      <u who="STEIN">So—and I remember—interestingly enough, I remember the counselor trying to encourage me to apply to less rigorous colleges, or less name colleges than the ones that I applied to. You know, you kept try- —suggesting some other colleges. And I just didn’t—I didn’t do it, so—[Chuckles.] I was trying to think the other day: What was my safety school? And I didn’t get into everywhere I applied to, but—but I did get into some of them, you know? [Laughs.]
+
+
+
+But I ended up—I ended up going to Dartmouth probably because of the emphasis—because that was—again—and my father, you know, had this—Dartmouth on his mind, for some reason. But I never knew, you know—I never—I never got in any detail about it.
+
+I mean, we did look at—we did look at Brown [University] and Haverford [College] and—and—and Stanford [University] and—and I eventually applied to Cornell [University] late, so I had to apply to the architectural school because that was still—it was still open for applications. [Chuckles.] And I got in. [Laughs.]</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">Anyway,—</u>
+      <u who="PEARL">And so did you know anything about Dartmouth before you got to campus?</u>
+      <u who="STEIN">Yes, I think just a little bit that my father told me, and then we went up there to visit it, you know, junior summer—high school junior summer. We went up to visit and interview. And, of course, when you go in the summertime, wow! What a nice place! [Laughs.] So it just seemed like, Wow! It seems great—good to me!
+
+I—I—I—I wasn’t ready to get out of high school, to tell you the truth. [Chuckles.] So—and then—but, but when I—when I did finally—you know,  Oh, I’ll go to Dartmouth. It’s an all-male school. Enough of this social life. It’s time for me to crack down and get serious about academics. You know, I’m goin’ up there to study. I don’t care if it’s a frozen—frozen wasteland. I’m there to hit those books. The very first weekend, I was on a road trip to Smith [College].</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">[Laughs.] So—yep.</u>
+      <u who="PEARL">So could you tell me about your first semester on campus?</u>
+      <u who="STEIN">First semester on campus?</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">Yeah. The first semester on campus. Okay. My brother was in ROTC [pronouncing it ROT-cee; Reserve Officers’ Training Corps], ROTC [spelling out the letters] at Boston College, and then he went into the service as a second lieutenant, and he—he was between Korea [the Korean War] and Vietnam [the Vietnam War], so he never had to serve, and he had—but it was just assumed that I would, you know, basically go in the service, too, because—that you supported your country, and I wanted to support the country, so—he had been in ROTC, so I joined ROTC in freshman year.
+
+And then I saw that ROTC had this special unit called Mountain and Winter Warfare [Training], and that seemed romantic, so I joined that unit. I also took—I didn’t realize, again, that the biology course that they ordered—that they had freshman year, first term, first quarter’s term freshman year was—was for the pre-meds. I had no idea, pre-meds or not pre-meds. They are, like, 250, 300 people in the class.
+
+And I took—I took that class, and I think I was—out of the 200, 300 people, I think I was, like, number four in the class? And then they told me that this was the pre-med group, and so I said, “Whoa! Well, maybe I should be a pre-med!” And I took English. And I spent a lot—I also joined crew, freshman year. And the reason I joined crew is I went to—you know, I was not—you know, I’m a middling athlete, at best, and—but I had played football all through high school. [Chuckles.] I didn’t get any kind of athletic scholarship. I did get it at Haverford, but I didn’t get it at—at Dartmouth. And—and—because Haverford didn’t—their football team was—you know, a tiny school. I think they let me into the school because of the football.
+
+But—so I—I went out to the first day of football—you know, gathering or something on the campus. [Laughs.] I remember seeing all these huge guys around me, and I remember the coach saying, “You know, football for you in high school may have been a fun social game, but here’s it a business. If you’re a left tackle, you’re hit with your right shoulder. You hit with your right shoulder for four years. That’s what you do.”
+
+And I looked at this guys, and I said, Ooohh, I don’t think this is for me. And then I remember—I’m not—I’m not a—I was the smallest guy on my football team, and I’m not a big guy, but I always seemed to do all right, but these guys? And I remember there was [Jonathan C.] Colby [Class of 1966], who was—who is—who was on the team, and he was in my dorm. And I remember somehow getting—right on—early on, like, first couple of days that I started, you know, bantering with them, and then it got into, you know, a little wrestling.
+
+And he—he locked me down. He was so strong that he locked me in a—in a lock in which I couldn’t even move my eyelids. And I realized, Football—football at this level. He was so strong, I said, “I never”—so I didn’t go out for football.
+
+And I—and I went out for crew. And I—I had a wonderful time with the crew, but [chuckles] it was also something—you know, going—rowing up the river and, you know, rowing up the river in November and the freezing and everything else—it didn’t bother me except for the fact that I didn’t want to be—I really loved to crew, but I didn’t conceive of doing it for four years because it just seemed [chuckles] rather monotonous. A lot of people get some kind of Zen peace out of it, but I—I just felt that it would be too monotonous for me, so—
+
+
+
+And I wanted to study. So I—I did spend a lot of time—as I said, since I read so slowly, I would have to study a lot. The trouble—over all, the most significant part of the first term my freshman year was the impact of my roommate. We lived 411 Middle Mass[achusetts Hall]. We were the lucky ones because Middle Mass was the only—only dormitory that actually had bathrooms in the room at that time. So we were on the top floor of Middle Massachusetts.
+
+
+
+And he was—came from a very patrician family from Darien, Connecticut. He had his numeral, number IV, after his name. His father and brother had gone to Dartmouth, and he had rejected all of it. He had taken a gap year in Lausanne, Switzerland, studying French, and he came back very much of a Francophile and very much—in many respects, anti-American, anti-militarism, -imperialism.
+
+And he—and he was quite a fellow of the world, and I was quite a fellow of the bubble—you know, still of this kind of Republican background, not thinking too much about it. I was very much into hygiene, and he was not very much into hygiene. [Chuckles.]
+
+And yet we would have these discu- —he—he—you know, I—he would lis- —he would listen to music. I—I was never that much in—I didn’t know, follow all the—the musicians at the time, so—“I Want to Hold Your Hand” was on the radio in our room, and he says, “That’s the Beatles.” I said, “Who are the Beatles?” And it was early on in the Beatles—it was their f- —one of their first songs. And he said, “I saw them in Europe, and they’re gonna be the biggest thing that ever hit.”
+
+But mainly we—we got—that’s when we started talking politics, and he—he started giving me a consciousness of politics. And that persisted throughout. He was very—very—he—he accused me of being wishy-washy, often. He accused me—and the problem—the problem was that he so absolutely saw what he saw, thought was what—the way, and I—he brought be a long way toward his thinking but not all the way, because I could see both sides. And that even ended up a critical problem, even in 1980, when he visited me in California, and we haven’t talked since. [Chuckles.] I can go into that if you want, at some point.
+
+But the—the—the biggest issue, I would say—that often—as different as we were, we talked and listened, and—and it was those talks—we roomed together for two years, and then I went—I lived in the fraternity my junior year, but my senior year—it was very difficult—I don’t know if it still Is, difficult to live off campus, and if you lived off campus, you couldn’t live in your own apartment like my daughter did when she went there. You had to live in—in a place where there as—you only had access to—to your room—to a—a house of some sort.
+
+
+
+So we lived in—in a—in a house that a old woman—“old woman”!—an elderly women owned above Occom Pond, and, again, this was senior year, and probably some of the best things that occurred to me at Dartmouth was—was the long hours of discussion we would have. We lived in separate rooms in that house, but—but we would talk and talk.
+
+He played rugby, and he was very, very—he even had me—for the first couple of years, he had me going to the Dartmouth Christian Union [sic; Christian Union at Dartmouth]. There was a-the guy who ran the Dartmouth Christian Union was a—he was the—the least Christian. [Chuckles.] He was—I think he was a Episcopal priest of some sort. I don’t know, because I was never very tuned in on that, identifying denominations.
+
+But he—there was not all this Jesus, Jesus, Jesus. That was not part of it. It was humanity. It was what—what people could do to be good. And—and—and—and he was very much opposed [sic] to seizing the day, even if it had to do with seeing a woman on the street that you wanted to talk to. I mean, “What are you going to lose if you try and you fail?” you know? I mean, the priest was really good.
+
+But I didn’t go there too often, but I went sometimes with him. And it gave me a good sense of—of if that’s what Christianity is, great because it was not Christianity [chuckles]; it was just a talking group.
+
+And, as I said in my written stuff, I did do the Mountain and Winter Warfare. You’d get up in the morning and—and put on your fatigues and your—your Army boots and run down that—what’s the—cob- —what’s the street that crosses Main Street down to the River?</u>
+      <u who="PEARL">Wheelock Street?</u>
+      <u who="STEIN">Wheelock. You’d run down Wheelock Street, run across the—is it Norwich Bridge?—is it the bridge to Norwich, anyway. And then you run up the [chuckles]—you’d run up—this is, like, six o’clock in the morning, and—and you’d run up the other side of the river, on whatever road ran along the river there on the Vermont side, to a place called I think the Ledges. And—and then we’d go up and climb up on top of the Ledges and—and they laid down off the Ledges, with the—not harnesses, but the old-fashioned just wrapping ropes around yourself—and I was—had agora- —acrophobia. Not acrophobia. Is it—what is it? Fear of heights. And—and it terrified the hell out of me.
+
+But it was still—it was also a challenge. I actually didn’t mind that. That was okay. And Sgt. [William S. “Sarge”] Brown, who was the head of that unit—he was an okay guy. He was— he was okay.
+
+I just need to remember, though, that—that being in the ROTC classes—that—I have some vague memory of my response to it being—it was one of the places that—that it didn’t allow for a lot of questioning. It was just information, so—</u>
+      <u who="PEARL">Yep.
+
+And—</u>
+      <u who="STEIN">Yeah?</u>
+      <u who="PEARL">What were you going to say? I didn’t want to cut you off there.</u>
+      <u who="STEIN">Oh. So that—that was freshman year. As I said, I did very well in biology, but I had—I just—I was panicked about calculus. I did not get it at all. I thought I was going to fail. The only drug I ever took in college was speed, for the final of calculus. And because I had never taken it before—somebody gave it—it was some kind of upper. It was not a full speed bill—pill. But I—I remember I was [chuckles]—it sent me into such a—a tizzy that I couldn’t even think. 
+
+I did go to—during that period, I did go to help classes with [unintelligible]. The teacher was [Selznick? 55:27]. I ran in—at my 40th reunion, I ran into a guy, old guy sitting in the Collis [Center for Student Involvement] dining area there, who I thought was part of the 50th reunion, but it turned out that he had been a math teacher when I was at Dartmouth. And I told—I got to talking with him, telling you [sic] about—you know, how I was freaking out about calculus. You know, I didn’t understand it. [Chuckles.] And he said, “Well, who was your teacher?” And I said, [“Selznick.” ? 55:54] He said, “That guy couldn’t teach his way out of a brown bag.” [Laughter.]
+
+I don’t know. All I remember is—is going to the after-class, you know, help sessions with him and—and him—he’s trying to tell me something, and my telling him I couldn't get it, and him looking at me like I was—I was, you know, some kind of a monkey or something, some kind of ignoramus, I guess. So I really panicked about—about calculus. But I got a C-minus.
+
+And—</u>
+      <u who="PEARL">Yep. And what was your—</u>
+      <u who="STEIN">What was my what?</u>
+      <u who="PEARL">I was going to ask what your roommate’s name was, because you mentioned him earlier.</u>
+      <u who="STEIN">His name was Richard Austin Francis Bathrick IV [Class of 1966].</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">He went by “Dick” Bathrick.
+
+</u>
+      <u who="PEARL">And going back to ROTC [spelling it out], you said that you joined because you had a sense of duty, that it was the right thing to do. I guess where did that—that sense that you had to join ROTC [pronounced it ROT-cc] come from if your family wasn’t very political?</u>
+      <u who="STEIN">It was not—it was not a—it was not a profound, driving sense; it was just part of the ethology of, you know, you serve your country. You know, you serve in the military. This is what you do. There was—there was no thought—there was no passion behind it. It was: This is what you do. I mean, that’s—America is the greatest place in the world, and you—you—you do your part.</u>
+      <u who="PEARL">Did you agree with that?</u>
+      <u who="STEIN">You know, there was no—there was no critical, analytical application of thought.</u>
+      <u who="PEARL">And did you agree with that idea that America was the greatest and that you just had to do your part?</u>
+      <u who="STEIN">So I knew at that time. As I suggested in things I’ve written, I came to—I came to espouse the idea that what made America great was to—if you feel that they were doing—doing things that were bad or negative, your objective was to stand up for [sic] that. I had a large argument with—I worked at a—I directed for a TV station in Monterey when I was just out of graduate school, and the emcee of the—our show that we did was a Korea War vet. And we would get into really heated, angry and acrimonious discussions because his whole belief was “my country, right or wrong.”
+
+And my belief was, “If your country is wrong, you’re—you—you believe it’s wrong, you have an obligation to try to make it right, and that means you do not follow what is wrong.” And he could not understand that, and he would get so angry at me. So—
+
+But at the time we’re talking about, when I first got into college, I—I—I had not—I had not—I came out of—I grew up in the best—the most wonderful country in the world. I grew up in a wonderful place. I had a happy childhood. Everything is great. And—and—and it—I didn’t have a real—even though I loved history and the story of history, I didn’t apply it—I didn’t start applying some of the circumspection until peo- —until my roommate and then—and then other things that I started to learn, that I hadn’t learned, entered my consciousness.</u>
+      <u who="PEARL">Yup.</u>
+      <u who="STEIN">So—</u>
+      <u who="PEARL">And you mentioned that you found ROTC not to be very questioning and very informationist.</u>
+      <u who="STEIN">I think—I think that’s—I started to question a lot of stuff, and I started to question militarism. And—and it’s not that I’m against the military. I spent—it’s against some of the decisions and often the decisions that come from the top, so it start- —and it—it—I think my biggest question was—was having to do with hierarchical structures and—and the—and the fact that I have grown up with such privilege that I have had the ability to say “fuck you” to hierarchical structures.
+
+I don’t know whether you have to edit that out or not.
+
+The—the—the—and, really, that’s a product of the privilege that I’ve grown up with, and—and—and I think what happened is that in those—those sessions—and when it came to having to follow orders you did not believe in, because that’s what you do and that’s what has to be done for the unit to work—I started to feel that this was not a good fit for me and—and that that wouldn't work , and I needed—it—it—I couldn’t go through four years of it.</u>
+      <u who="PEARL">Mm-hm. And when—</u>
+      <u who="STEIN">I have—I have to admit that something that added to that was the fact that the winter of ’63 was truly one of—whatever that song is, the coldest winter in 40 years. I mean, it hit 40 below several times during that—that January and early February, and during the daytime, 18, 19, 20, 20 below. And I’m up on Oak Hill, learning how to ski with Mountain and Winter Warfare—you know, standing in line in that freezing cold, learning—you know, with—with somebody training us how to ski, that I’m just—by freezing my—my—my feet were just going dead, and [chuckles]—I think—I think part of it was having to stand there and do that and suffer that, and I said, It ain’t for me. [Chuckles.]</u>
+      <u who="PEARL">[Chuckles.] So what did you do besides—.</u>
+      <u who="STEIN">I mean, really, truly a frigid, frigid—you can go back and look at the records—a frigid winter, a frigid winter. Oh, yeah.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">I know that there—there are—Dartmouth has cold winters, but that one was the worst of the four years I was there, by a long shot.</u>
+      <u who="PEARL">So when did you decide to leave ROTC?</u>
+      <u who="STEIN">It was—I believe it was that—during winter term, winter session. And Sgt. Brown was very unhappy with me. You know, he—he—he who had been a nice guy [laughs] wasn’t—wasn’t nice about my dropping out of ROTC. So—but I did.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="PEARL">And—and part of it, too—I have not—there’s probably—I don’t remember anything specific, but I can’t believe part of it wasn’t the discussions I was having with my roommate about American imperialism, so—and my starting to question things like that. But I—I—I tend to think it was—it was my innate reaction to hierarchical structures, which has been a problem with me all my life.</u>
+      <u who="PEARL">Yep. And you mentioned you had these discussions with your roommate.</u>
+      <u who="STEIN">Yes.</u>
+      <u who="PEARL">Did you have of these discussions in the classroom or elsewhere on campus?</u>
+      <u who="STEIN">Certainly I did throughout my college career, but freshman year, I can’t—I can’t specifically remem- —I took biology, I took calculus and I took, I guess, freshman English, so I don’t remember discussions there.
+
+I think that a lot of stuff started to come through in terms of the things that I was reading, and I remember freshman year staying up all night—again, because I read so slowly—The Education—The Education—oh, I can’t think the book. I’d love to tell you the book. It was—it was by an English—a classic English novel, I think by George Eliot. I’m not sure. And the fact that I can’t remember it now upsets me.
+
+But it was about a—a—a young man brought up in the cloistered atmosphere of an English estate in which the father controlled his every—every move and every education. In some respects, it probably was—as I’m thinking about it now—modeled on the Buddha story. But the fact is that the son finally escaped this kind of cloistered environment and went out into the world and found a very different world than the one he had been educated about.
+
+And that had a lot of impact, I think, on me. I loved the book. And it’s—it’s terrible, but there are so many things that I love that I can’t remember specifically anymore. But I think that—literature became, in many respects, my spiritual education. And that was certainly important during my freshman year.  I think that book just really had an impact on me.</u>
+      <u who="PEARL">Yeah.
+
+And was there any discussion on campus about the civil rights movement at the time?</u>
+      <u who="STEIN">Well, I—I think more—again, there—Dartmouth was so—because I tend to live in a bubble and because things always seemed so distant for me, I think the whole issue of knowing—of learning European history and a lot of the—a lot of, you know, medieval hist- —and all the horrible things people did—I—I always put that out there as something that happened “out there.” And that’s why when I saw that thing about the Japanese internment, I said, You know, that’s not out there. That’s here. But it’s still “over there.” 
+
+So I was aware of the civil rights movement. I was—I—I certainly was always supportive of it in my own heart, and—and—and actually admired those putting themselves on the line, but early on, it was “down in the South, and we’re way up in the North,” you know? And I was not an activist that I’m going to get in a car and go there.
+
+In 19- —it wasn’t till my sophomore year that things started to become more critical. The march—there was the March on Washington, which some people from Dartmouth went to. Not a lot, but some did. I didn’t. You know, [the Rev. Dr. Martin Luther King’s [Jr.’s] speech and everything else.
+
+I had a friend from—who went from Illinois to—to the march, but I think he went because it was an event to be at. The typi- —because of, again, my insularity, I think, whether it was the March on Washington or it was going to Woodstock [Music &amp;amp; Art Fair], I didn’t go to big-crowd events. I didn’t do those things.
+
+And so—but certainly the—the discussions became more—I particularly remember [Alabama Governor] George [C.] Wallace [Jr.] coming to campus to—when he was running for president. And I—I remember there being a big brouhaha about even letting him come to speak. And I remember going to hear him speak. I remember being—I remember—and my Democratic feeling is that you always allow even those you—you terribly disagree with to speak. So I was not ag- —I was against barring him from coming to campus, and I did go to it, and I listened.
+
+He at the time I think was transitioning out of his horrible segregrationism. I think he may possibly have been developing a little human empathy. But it was still—it wasn’t, by any means,—it didn’t occur near as much as after he had been shot. But he was a ba- —I remember thinking he was a bad man. And he was totally anathema to everything that I espoused, but I wasn’t actively engaged.
+
+And I would say it appeared to me that there—there were always people on campus that are actively engaged and—and are out there. At the moment, I measure myself a little bit against my fraternity brother, who I didn’t know very much because he was two years younger than me, Robert [B.] Reich [Class of 1968]. Do you know Robert Reich?</u>
+      <u who="PEARL">No.</u>
+      <u who="STEIN">You don’t? Well, you should—</u>
+      <u who="PEARL">As in Secretary of Labor?</u>
+      <u who="STEIN">Yes. And he’s very, very much out on the forefront of—of liberal issues right now. And—and so—incredible guy. And I mentioned my—I come up—interestingly enough, he’s very short, but I come up very short in comparison with him.</u>
+      <u who="PEARL">Mm-hm. </u>
+      <u who="STEIN">So I was not—I was not particular- —I wasn’t an activist, by any means. I was always—always balancing, always, you know, trying—always trying to see both sides of the story, always thinking that ultimately, through writing, I would communicate the—the ideas that are—were conducive—that I thought would—would eventually be embraced for the betterment of humanity. [Chuckles.] That was my idealism, you know, the power of the pen, I guess, at the time.
+
+
+
+So—so civil right was there. There was—but, again, I would suppose that I didn’t get even more actively involved or at all, you know. Whatever activism I had probably started to flower—really flowered at graduate school, not on the campus of Dartmouth, other than my—my progressive and slow movement away from and—and disaffection with our—with what the Southern bigots were doing.
+
+But particularly, I suppose, it was more focused on the issues of Vietnam and how—how our leadership was absolutely being—trying to blind the public with this whole domino principle [sic; domino theory] idea. And how our incursion into Vietnam was just a mess.
+
+And—and that was a progressive consciousness that rose and, again, really came to the fore when I was in graduate school.</u>
+      <u who="PEARL">Yeah. So was there any Vietnam activism on campus while you were there? Or were you involved in any?</u>
+      <u who="STEIN">No, I—I—there was a—a—I remember there was a—again, there was civil rights activism, and there was—there was—there was more and more—you know, since I graduated, at the point when we were just beginning to get fully engaged in Vietnam, the—all of it had been kind of under the table, and the history of it—I had learned a little bit about [the Battle of] Điện Biên Phủ in a history class and how the French—you know, we had basically taken over from the French, and we had—we had basically caused the assassination of Điện and all of that.
+
+I learned the history, and it all—it all started to become circumspect for me in terms of what we had—had done and how we—we tend to—our covert operations have come from a particular perspective that end of basically biting us in the butt.
+
+But I don’t recall there being any fervent reactions on  campus at the time. Have you gotten a different perspective from anybody else from my era?</u>
+      <u who="PEARL">From some people that were in the more later ’60s, but also some people around your era spoke about the Gulf of Tonkin incident in 1964, about discussions on campus and in classrooms.</u>
+      <u who="STEIN">Right. I mean, even—even in ’64, my memory is that I believed that the Gulf of Tonkin—the way that the—the government had lied about it—I think at that point, the lies were believed. And—and so it—it—my response—you know, I felt that there was—there was obviously an overreaction, and I think I was beginning to have a consciousness that it was being used for the same reasons that—that, you know, [Adolf] Hitler went into—into the Sudetenland and into Poland, by—by manufacturing an event that didn’t occur or at least magnifying it way out of proportion.
+
+So it—and it’s amazing how we continue to do that, but—so, no, I don’t—I was not part of any group that was activist. I was not an activist at Dartmouth, by any means.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">I wrote a couple of letters—letters to the editor about something. I forget. To The Dartmouth about something in response to some other letter. But I was not—I was not an activist.</u>
+      <u who="PEARL">Okay. So—</u>
+      <u who="STEIN">But my roommate—as I said, my roommate was very much—I mean, he was—he was—he was always help- —he was always stretching my consciousness and pulling me toward his—his—his area, although he—he also seemed to me—he seemed to be—from everything I could look at history and studying communism at that particular time, that—that as much as communism as a theory is a good idea, in practice it’s as totalitarian as any other system, you know, and that American democracy was still the attempt to be, you know, as best and—and—as well as progressive a European social democracy.
+
+
+
+But—but—so—but the—the issue of—so he never pulled me all the way, but the thinking was—you know, he—he made me think a lot and made me basically be critical of all systems, including our system, and try to look at it. And even with him being as fervent as he was, I don’t remember him as being—you know, going out and protesting or doing anything like that.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">But he did reject—I mean, he—I—I eventually—although very, very— at first—he was all against fraternities, so he—he never joined a fraternity. His—his fraternity was basically the rugby for him, I guess. And—and I alm- —and I was going through this period of trying to figure out could I be a really social animal? You know, I was never really a party guy, and so I—I—Chi Phi wanted me to be in their fraternity, and it was the party house. It was a real Animal House. It was—you know the whole basement was covered with—with mattresses and stunk of beer. And, you know, they had the—they—they touted the fact that they had had the history of a keg being on tap longer than any other fraternity in the country. And, you know, I thought, Oh, I need that because I need—I need to really break out and be—be a party guy.	
+
+And the alternative was DU, which was the—the joke was that on Homecoming they cracked a six pack. And ultimately, I—during rush, I realized that I couldn’t go to Chi Phi, and I had not accepted—I’d been offered but had not accepted DU. And I drove up into the country, and I talked to a cow up north, in Lyme or something. I remember going up on this hill and climbing over a fence and talking to a cow, to try to resolved my conflicts about who I was and what I was. And then I drove back and knocked on the door of DU at 11 o’clock at night, when they were already making their pledge decisions, and I wasn’t supposed to do that. And I said, “If you want me, I want you.”
+
+And—and so DU was basically a fraternity of people who were very active elsewhere on the campus, in the radio, in The Dartmouth—in The D and [the Dartmouth] Jack-O-Lantern. And—and so it—it was a house of engaged people in—but they weren’t engaged—and we would talk politics, and we would talk a lot of stuff. We talked philosophy and sociology. And so particularly the year I lived there was a wonderful time of—of engagement and ideas. And so I think that also added to my—to—a lot to my—my thought processes. And so—
+
+
+
+There was something else about DU that was—oh. DU was so—was considered so responsible by the administration that they allowed us, for two Green Key Weekends—my sophomore and junior year—to have Moosilauke [Ravine Lodge], the lodge, the entire Moosilauke area, for us to celebrate Green Key, which I made—you know, my attachment to Moosilauke is—is based on. I love Moosilauke.
+
+And—and—and then the other fraternities started to be very upset that: Why is DU getting Moosilauke? Well, the reason we got Moosilauke is because they knew we wouldn’t destroy anything. They knew that we were moderates. [Chuckles.] They knew that we were, quote—we would not be “animals.” [Laughs.]</u>
+      <u who="PEARL">[Chuckles.]
+
+So could you tell me more about social life on—</u>
+      <u who="STEIN">Some of the biggest—you know, we talk about actimism [sic] or—or arguments on campus, is that they were—you know, there was a whole—you know, 49 percent of us that wanted to go co-ed, and there was the—the others that were—you know, wanted—that truly, truly espoused and loved the animal tradition of—of—of Dartmouth and the whole concept of the animals coming down out of the hills and descending on the women’s schools and stuff like that.
+
+And—and—and in some encourageable [sic] behavior. The joke [chuckles—the dean of the school used to make a joke with—I think he told this joke every Winter Carnival—about the girls that would come up for Winter Carnival. And he said, “If you lay—if you laid all the girls that came to Winter Carnival end to end (and I think they were).” [Chuckles.] And that was the—that was the kind of animal atmosphere.</u>
+      <u who="PEARL">Yeah. And can you tell me more about social life on campus?</u>
+      <u who="STEIN">Social life? </u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">Well, as I said, there were—there were very definite—it was a very—fraternities were, I guess, they just—well, the freshman year, there were the mixers. I don’t—since it was an all-male school, there were mixers. I’d never heard of the term “mixer” before. And so whether it was with Colby Junior [College, now Colby Sawyer College] or Green Mountain Junior or—or Smith or even Bennington [College]—I met some girls from all over, because they would hold these mixers, where they—like, the girls would be bused in., and you’d have dances, really.
+
+There were parietals [dormitory rules governing visits from members of the opposite sex], which—I mean, if you had a girl in your room on—on a weeknight, which was rare because there were not girls—many to have in the room, but whenever you had a girl in your room, you had to put a towel over the door to the room so that the door could not be closed. And—and they had to be about by 10 or 11 o’clock on weeknights and by, at the last one o’clock on—on weekends, Saturday nights.
+
+I mean, it was so bad that my—my—my girlfriend that I had developed—in Tucson—came to Winter Carnival on my freshman year, and, again, it was a cold winter, and she couldn’t stay in my room, and she—so she did have a place to stay, but since she had come all the way from Tucson, Arizona, and, you know, we only have 48 hours together, we wanted to spend as much time together as we could. We still were both virgins. But because of the parietals, there was only one place we could go, and it was—it was in Collis.
+
+At the time, Collis was not an eating area up on the top there. There was just one little kind of—I don't know what you’d call it. It was a social room. It wasn’t a social room. It was a room. And if you wanted to—to be with your female companion during Winter Carnival after midnight or one o’clock, you couldn’t be in the fraternity with her, you couldn’t be in your room with her; you had to be in that room. And so you sat there, and it was pretty cold [chuckles] in that room. And you sat there and looked at each other, you know. It was really weird.</u>
+      <u who="PEARL">How’d you meet this girl from Tucson, Arizona, if you were from Great Neck and you went to Dartmouth now?</u>
+      <u who="STEIN">My mother—my parents—my mother did not want to live—she had this—they usually took vacation places, and she fell in love with Tucson, and she told my father—actually, in my junior year they moved out of the house into an apartment because she was—she said, “I’m leaving as soon as Jeff graduates. I’m leaving, and I’m goin’ to Tucson.” And [chuckles] I don’t really know whether she wanted my father to follow her, but he eventually sold his building—he sold his business my senior year, and they bought a property in Tucson. 
+
+
+
+And so the summer of my—between freshman and junior [sic] year, I drove out to Tucson. And a friend of mine just told me recently—he said, “I love how you met Connie.” I said, “Well, how did I meet Connie?” [Chuckles.] People remember things that I don’t remember. He said, “Well, she worked—she worked in the drugstore. She was a junior in high school, and she worked in the drugstore, right?” And I said, “Oh, yeah, that’s right. She worked across from the tennis courts.” There were the public tennis courts I played in when I visit [sic] my mom that summer.
+
+And he said, “And you went in there, and you saw her, and you thought she was pretty.” I said, “Yeah, yeah, I remember that.” He said, “What did you do then?” I said, “I don’t know. What did I do?” He said, “You went to the back”—[Chuckles.] “You went to the back of the drugstore to look for some product back there, and then you went back up to her and said, ‘Can you help me find this product?’—which she then walked to the back of the drugstore [chuckles] with you, and that’s where you asked her out.”
+
+So that’s how I—my parents ultimately moved to Tucson, and interestingly enough, there was a—a congressman from Tucson that came to Dartmouth during my freshman—was it—yes, it was my freshman year. He came to Dartmouth, and Dartmouth was looking for people at Dartmouth from Arizona, and my address was now Arizona. I had never been to Arizona. [Chuckles.] Because I didn’t go there until summer of my—after freshman year. But my address was Arizona.
+
+And the other guy was from Prescott, Arizona, and so we—he and I [laughs] had breakfast at Lou’s [Restaurant &amp;amp; Bakery], I think it was, with the congressman. No, it was a the Hanover Inn, with the congressman from Arizona. And I had [laughs] to—I had to basically ask about Arizona, you  know? And the other guy, from Prescott—he dropped out after freshman year. [Laughs.]
+
+That’s how I got to Arizona, and—</u>
+      <u who="PEARL">All right.</u>
+      <u who="STEIN">—that’s how I ended up marrying the woman who eventually, after much—much dithering, became my first wife.</u>
+      <u who="PEARL">And what do you think of the school going co-ed? Was there any talk on campus about that?</u>
+      <u who="STEIN">Oh, yeah. I said that, that there were—there were—certainly among my DU people and most of the people that I hung out with, we—we absolutely believed that it was—it was—going co-ed was the only smart thing to do. But there was a—a huge contention [sic] of peo- —of those who believed that the animal nature of the male was—would be somehow mitigated if it went co-ed, and in fact animal nature was a nature to be espoused. [Chuckles.] So there were—there were definitely people who were against it going—a lot of people against it going co-ed, and there were us that were—five years—five, six, seven years ahead of the—the spectrum.
+
+I dated—for a while, I dated a Hanover High School girl who ended up becoming—I think she is the first female graduate of Dartmouth, even though she had to fight to be recognized as a graduate. She went to Bryn Mawr [College] but then she kept taking classes and classes and classes at Dartmouth, and I think she has a 1969 degree from Dartmouth. But it was way before it actually went co-ed.</u>
+      <u who="PEARL">Mm-hm. </u>
+      <u who="STEIN">And I also dated a nurse, because that was another—the only other women on—I did a lot of dating, even though I had this girlfriend, too, since we were so far apart.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">Social life? I—the fraterni- —even though our fraternity was more moderate than others, I remember that we had good times, really good times, fun times, and times that I—I remember very funny anecdotes about, so I had a—I had a lovely time. 
+
+And I also did a lot of road trips, a lot of road trips. There was a—one of the people that ended up being my continuing friends after Dartmouth was a—a Dutch fellow, from Dutch heritage, from Santa Monica, California. Ended up running his political campaigns to become mayor of Santa Monica. But he was a—he was—if there was—if I was an innocent, he was—he—he made me look like I was degenerate, because he was so innocent about women because of his—his Dutch—what was it?—Dutch Episcopal background—that—that he had—he had a lot of sexual issues that had been—sexual restraint issues that had been impounded [sic] into him. He loved women, but then when he was around them, he didn’t know what to do.
+
+But he always wanted—since I had a car and he didn’t, he always wanted to go on a road trip, and he—he’d get me to go to Boston or to Smith or to Wellesley or wherever else and, you know, all with this excitement of going to find—there was a term, and I don’t know if you can look this up or whatever. I’ve asked people. The Dartmouth word for women, which I didn’t use but heard all the time was chone, c-h-o-n-e, chone, sort of like chum, like bait or whatever. I don’t know what it was, but it was—it was a term that was  used, and he was—“Let’s go down to—let’s go down to Smith and find us some chone.” You know?
+
+And I always looked at him weirdly, but I was always for a road trip, but we’d get there, and he’d—we’d get there, and he’d want to turn around and come back because he—he totally freaked out. He didn’t know what to do.</u>
+      <u who="PEARL">Mm-hm.</u>
+      <u who="STEIN">So that was weird. Uh—</u>
+      <u who="PEARL">Can you tell me more about—sorry, I cut you off there.</u>
+      <u who="STEIN">No, go ahead.</u>
+      <u who="PEARL">So let me here more about your junior and senior years at Dartmouth.</u>
+      <u who="STEIN">Junior year, junior year, junior year. Ai, God!. Junior year, I lived in the fraternity. Fraternities—one of the things—one of the good things, I think, about Dartmouth fraternities is that they never—never—Dartmouth always arranged so that they were not the center of your activity. You didn't have meals—there was no formal meals in—in—in the fraternity, and—and there was a limited amount of sleeping.
+
+So I—I developed a—a particularly good relationship with—with a fellow from Florida, who—who would—played the guitar. And he and I—there was just a tiny little kitchen, and he and I were always on—even though I came from an affluent background, I also came from a father who was very, very parsimonious, and—and so I was always on a very limited budget. And instead of going to eat—we didn’t—you know, I didn’t have—didn’t want to continue eating at Thayer [Dining Hall, now Class of 1953 Commons], so I didn’t have a Thayer ticket, and eating out at any of the town—at any of the restaurants downtown was too expensive.
+
+So he and I were a couple of—the only people who used the little kitchen to cook our meals, and—and so we would have fun cooking our meals together. And—and I remember one time we bought octopus, and I said to him, “I think we have to take the skin off these tentacles.” “Oh, no, no. [Laughs.] You don’t have to.” And then, you know, we tried to fry up the octopus tentacles with this—with their very rubber skin on, and then tried to eat it. And truly it was trying to eat a tennis shoe.
+
+But—so I developed a good friendship with him. I—the—there was a—just a bunkroom in the attic, and then there were a number on the—on the second floor, there were a number of—of different rooms that we were—kind of our--our study rooms and our—we were assigned—we—we got to choose them, but we were assigned them in some respect that we had to have a room, and that room would be with three or four other people.
+
+And I remember the brother—older fraternity brother, who was into sociology. I remember discussions with him. And—and, of course, we would talk [with] other people. I had a great time in that—in that fraternity. But I didn’t want to stay there my senior year.
+
+The sleeping issue was—[Laughs.] I had—one fraternity brother was doing—doing a sleep study on himself, so he would set an alarm in this bunkroom. He would set an alarm to wake himself up every hour to see what kind of an effect that would have on him. [Laughs.] And he did that for something like a week, and it had a very deleterious effect on him. [Laughs.] And the rest of us as well.
+
+So it was a—I had—I had a good time. And we had good parties. So—l learned to—I was never into alcohol very much. Again, it’s so fascinating to—when you encounter people—I mean, my very first day freshmen year, very first day—on the fourth floor of Middle Mass, going into the room next to my own dorm room, and that’s where—there was a sophomore in there, and—and the very first thing he said to me is, “Do you want to get shitfaced?” I didn’t know what that meant. And I said, “What’s that mean?” He said, “Well, you know, classes haven’t started yet, and, you know, we can get so drunk we throw up and then throw it up and drink some more.” I said, “Why would I do that?” [Chuckles.]
+
+You know, it was, like— that was an encounter of a consciousness, from a fellow from Lancaster, Pennsylvania, who also would talk about Lancaster like it was the center of the uni- —universe. And I said, “Well, wait a second, New York’s the center of the universe. Lancaster? Where the hell is that?” So—but that—that was that.</u>
+      <u who="PEARL">Did you have—</u>
+      <u who="STEIN">Junior year. Junior year, I was—I was more focused on—on English. I had finally, after many efforts of going to be pre-med and then taking—going to take a biology course—
+
+Oh, I did go back to take vertebrate morphogenesis to see, once again, whether I could be pre-med, because what would happen is I’d take biology courses and do exceptionally well, and then I’d take chemistry and I [chuckles]—I’d just go through the floor again, and then I’d drop it.
+
+And so I went back and forth, so I was still struggling to—to—to determine a major. I tried sociology, I tried anthropology, I tried psychology and pre-med again, and all the while I was taking English classes, so I finally confirmed it, that I was going to be an English major, which is usually—often a fallback position for people who don’t have any other [chuckles]—any other options or drives or whatever else.
+
+And so for—for a while, I thought I would to on to, you know, graduate school in English, to be a—with an aim to be an English professor, because I had—my—I truly—James Melville Cox was American literature professor at the time, and he—he was—he was—I’m not a hero worshiper, but that guy was some—some guy. He had such energy. His—[Mark] Twain was his focus, and I love Mark Twain. Twain’s consciousness is—is—has been a great education to me. And his—this professor had such joy in his teaching and such [chuckles]—I never—I’d come out of his lectures and have no clue what he said but just know that I had such pleasure in those lectures, that he would just laugh voluminously [sic], hilariously at his own—at the things he was saying.
+
+So I thought I would become an English professor at that point.</u>
+      <u who="PEARL">And what did you do after graduation?</u>
+      <u who="STEIN">Well, by my—by my senior year—I took a [Geoffrey] Chaucer course my senior year, and I realized that if I wanted to be an English professor, I—it—it wasn’t what I thought it was. And so I said, I’m gonna try to do what they try to ask me to do, because what I do—what I normally did was to creatively respond to the essay assignments, rather [chuckles] than to do what they wanted me to do. And I was always able to get by because as this Cox told me at one point, especially when I took his American Biography course, which I did not particularly—it—it didn’t—it didn’t inspire me. Not that he didn’t, but the—the subject matter didn’t inspire me at that time. It has since, but at that time—
+
+So I remember writing this one paper and knowing that I had written a very, very well-written paper that said absolutely nothing. And I guess a TA [teaching assistant] graded it first and gave me an A. And then he looked at it and gave me a B at best, and called me in. And he said to me—and I really respected him for that—he said, “The problem here is you write so well that you can write in a way that makes people think you’re saying something when you’re not saying anything at all.” And I said, “You’re absolutely right.” [Chuckles.] I had no opinion. I had nothing that I cared about [chuckles] in writing this paper. And—and I—you know, “Thank you.”
+
+So I took the Chaucer course, and there was a—it was taught by two professors, and one of them was not a tenured professor yet and had not quite finished his Ph.D. at Harvard [University] but he was on—on the—he was doing his dissertation. He was on the faculty.
+
+And so it was the only time that I did a—a—I wrote my papers exactly as he wanted to, which was basically you—you—you took a—you had a thesis, you read everything—everything that every critic—every critic wrote about that thesis, and then you had to refer to those, and then you also had to come up and show where you thinking was different from their thinking and support your thesis.
+
+And I did it! And I did it very well, and I got a—this was my only citation for academic achievement that I got at Dartmouth. And I said, This is not something I want to do with my life. So I found myself, by the end of my first term senior year, floundering about what to do, and facing Vietnam.
+
+So that—thanks for bringing that up. So that really brought in, What am I going to do about Vietnam? So I—</u>
+      <u who="PEARL">Can you tell me more about Vietnam?</u>
+      <u who="STEIN">Well, the problem was, is I was—I was going to be drafted, okay? And I was already starting to recognize that I was opposed to the war, that I did not want to support the war, so what was I going to do to not be drafted? And I do not exactly remember the chronology here, but I know that one of the things I started to think about is: Could I do alternative service? I had not yet gone to my draft board with information because they—until I had graduated, I wasn’t subject to the draft.
+
+But I started to think about: I like English. I like teaching English. Maybe I’ll teach English. Maybe I can do that, get a job teaching English in—in a high school somewhere, and—and—and get them to look at that as alternative service. I was, again, living in a bubble. And I was living in a bubble because practically—I said, So all right. Where will I apply to teach English? I know: I’ll apply to Hawaii, and I’ll apply to the American Virgin Islands. Beach towns. [Laughs heartily.]
+
+So I—I started to do that. There was one place that I didn’t—I also made an application—researched and made an application to Barrow, Alaska—Point Barrow, Alaska. This was before the oil industry, even, was just starting up there. And I thought, Oh, going up to the Arctic. That should be interesting. It was all, you know, What’s an adventure?
+
+Of course, that was—was a totally, I don’t know, fantasy. That was fantasy. All of it. So I was really in a quandary about what I was going to do, and I didn’t know what I was going to do because I finally determined: I’m not applying tot grad- —I didn’t apply to graduate school for—for English. And—and here again, serendipity, or luck or whatever occurs to buffet one’s life.
+
+There had—during—is there a term on campus, “a gut class”? A g-u-t? Is that still on campus? Does that ring a bell with you at all?</u>
+      <u who="PEARL">No.</u>
+      <u who="STEIN">All right. “Gut” meant you take this class because it’s a—it’s a breeze. It’s easy. It—it—it costs you no effort whatsoever. And many of the education classes were considered gut classes, and I never took one. I didn’t even know that we had an apartment [sic]. But there’s Dartmouth Hall—if you look straight up at Dartmouth Hall, the hall to the left of Dartmouth Hall is—what—what hall is that?</u>
+      <u who="PEARL">I don’t know the name, but I know what you’re talking about.</u>
+      <u who="STEIN">The white building. Anyway, for some reason—now is—it is I think early spring, and for some reason, I—I decide, Geez, what is in that building? You know, I don’t know that I’ve ever been in that building. [Laughs.] So I go in the building, and I go down to the basement of the building, and there’s—there’s a door, and it says Education Department.
+
+And it—and it’s glass window. And I said to myself, I don’t even know there was an education—but I knock on the door, and the—and the—and I go in, and there’s a secretary sitting there. And I say, “What—is this a fully department?” She said, “Yeah! It’s a full department. What do you mean?” I said, “Oh, I just didn’t even know it was here. I’m looking around.” She said, “Are you here to see the guy from Stanford?” I said, “No.” She said, “Well, he’s not seeing anybody right now. Do you want to see him?” And I said, “Sure!” [Laughs.]
+
+And I went in and sat down, and he was from the Stanford [Graduate] School of Education, and they had a—they had a particularly wonderful program called the step program. You got an M.A. in education, in the field of your major, and you also taught school! It was a 12-month program, and during the summer you had intensive, micro-teaching workshops, and then they placed you in a school, not as an intern but as a teacher.
+
+And he said, “Well, if you want to go, I think we have a place for”— because I—you know, we talked about my background and everything else. “I think we might—might have a place for you. “ And that’s how I ended up in Stanford.</u>
+      <u who="PEARL">And when did you receive your draft card?</u>
+      <u who="STEIN">No, I—I got my master’s in education there, and my wife—my girlfriend from—from Tucson came to graduation and traveled with me across country after graduation. We camped across country. I had to get right from graduation to Stanford because Stanford started in middle June. In fact, I was three or four days late for the start of the classes at Stanford. And then she got—she got a job at the Stanford library, and I started my classes there.
+
+What was your question?</u>
+      <u who="PEARL">I asked when you received your draft card.</u>
+      <u who="STEIN">Oh. I thought you asked if I got a Ph.- —a doctorate. You asked—</u>
+      <u who="PEARL">No.</u>
+      <u who="STEIN">—when [chuckles] did I get my draft card? Oh, I got my draft card when I grad- —when I turned 18. My father, I think, took me down to the draft board. I had to get a draft card right away when you turned 18. So I had a draft card the whole time. But at the time, if you continued to advance in education, that was a way to stay out of the draft.</u>
+      <u who="PEARL">Yup.</u>
+      <u who="STEIN">So because I was going for a master’s, I was still a student that was progressing in education, and the lottery hadn’t started, and so I—I got my—I taught that year of high school. I got my master’s in education, and then I was faced with it again. So at that particular time, I was—I was really, really focused on—I mean, becoming ever more disaffected with what we were doing in Vietnam. 
+
+And so I—I—I did go—I did have—between college—at some point, I had to go back to New York, to Great Neck, to my draft board, in which I started to—and this is the first time I met with them. And I started to talk to them about the fact that I was a conscientious objector and that I’m opposed to the war and that I would like to do—I would like them to consider my doing alternative service, anywhere. And they basically said, “No way.”
+
+So I was still able to stay out by going to—to college, to do this. And so then—and, of course, my consciousness is continually being raised. And then, after that year, I was truly facing them, and I—I—I had a pre-induction physical. At first, I had the pre-induction physical in New York. I don’t remember when that was, but I had it—I know I had a pre-induction physical in New York. But I was able to stay out because of the college.
+
+So now that I had finished the master’s in education, I was truly subject to the draft. And by this time, I had determined that I—no way was I going to do it. I had—since I had been living with my—I didn’t—hadn’t married my wife yet. We’d been living together. I had—I had investigated the Peace Corps. And because we were going to get married, I—I made all application to the Peace Corps, in hopes that that would be alternative service, and it was accepted at the time.
+
+But she—she refused—[Chuckles.] Here’s another thing about my privilege and my bubble. They would ask you on the application to the Peace Corps, “Where in the world do you not want to go?” Well, of course, that’s a trick question, but to me—you know, my naiveté—I said, “You know, I think I’d rather—I’d rather not at this particular time go to Africa.” So, of course, I was accepted to go into the Peace Corps, in Lesotho, Africa.</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">And—and Connie, my—she was—and you could go as a couple, but she wasn’t going to go with me. And I think I used that as an excuse not to do that.  
+
+And I’d already had—even though I was in love with her and had no question that I would marry her—for some reason [chuckles], I’ve had trouble making decisions in my life. And there were—there were two—by that time, there were two marriage dates that somehow I had postponed. So she got fed up and left me and went to Europe. She had dropped out. She had gone to Antioch [University] for a year, and then she had not finished her college education. She had gotten herself into UC, Santa Barbara [University of California, Santa Barbara], and she was—she was fed up. She left me, and she went to Europe.
+
+And—and I [chuckles]—that su- —it was the summer after my—I finished my—that year of teaching, and—and—and I did—oh! What happened is, during the—during the—the spring of—of that—of the year that I was also—getting the master’s—</u>
+      <u who="PEARL">What year is this?</u>
+      <u who="STEIN">And I didn’t tell you—huh? At Stanford, during the spring of—what I didn’t tell you at Dartmouth—this is—this becomes important, I guess—is during my junior year at Dartmouth, the Dartmouth Film Society had—actually, prior to my junior year, they had—they had decided that it was time to—this is before they had a film program or anything  else; they just had a film society. So they wanted to start film courses. And they decided that one of the ways to do that was to bring in some big honcho from Hollywood to teach a film business course.
+
+So in their eminent wisdom, the people in the film society—I wasn’t in at the time—I don’t think I ever was in it, but I—so—so in their eminent wisdom, they sent the letter to Metro-Gold- —to Louis [pronouncing it LOO-ee] B. Mayer at Metro-Goldwyn-Mayer [Studios, Inc.], inviting him to come to Dartmouth to teach in the spring term. That would have been the spring term of my junior year, I believe.
+
+And—and, of course, what they didn’t realize is that Louis B. Mayer had been dead for ten years. So the letter bounced around Hollywood until it landed on the desk of a fellow named Arthur Mayer, which they assumed “it must be for Arthur Mayer.” Arthur Mayer had done a lot of—he was never the kind of studio boss that Louis Mayer was, but he had done a lot of different kind of work at Holly- —in the business side of Hollywood, from importing foreign films, like The Bicycle Thief and—and working in PR and other stuff.
+
+And—and—and this letter lands on his desk. He’s at the time—I think he’s at the time 78 years old. And he accepts the position. [Laughs.] And he comes with his wife to Dartmouth to teach junior year. And I’ve heard about the fact that he was teaching at—
+
+So senior year, I took the—he came back senior year! Dynamo! The guy is, like, five-foot-two; his wife is, like, four-foot nine, and they are both dynamos. I mean, if you want to have images of how you want to be when you’re in your 80s, they are it. And, in fact, I’ll tell you, there actually was a—a nominated documentary made about them by some of my Stanford film school cohorts.
+
+
+
+So—so—so I end up taking—in the—when I’m trying to figure out what to do with myself, I end up taking his film course, his film business course, in senior year. And, again, I do my—I do my—my typical “don’t answer the essay; write the essay you want to do,” and so I—I had a wonderful engagement with him, but mostly I just loved the way he was.
+
+He was this—this—you know, octogenarian by that time, and with his wife, and he as just so vibrant and so alive and so funny and so liberal. And so—he loved doing it so much that he—he would end up spending—he then got a position to teach the winter term at Stanford, and then he would teach—teach the spring term at University of Indiana in Bloomington—for the next ten years!
+
+So I’m at Stanford in the—in the education department at the end of—you know, in the spring, wondering, Okay. Again, what am I gonna do after—after this? I had determined that I didn’t want to go on and be an English teacher. I loved teaching, but I didn’t want to be an English teacher. It—it was clear that that was—teaching subject—I wanted to—I wanted to be the creator, not the teacher of it.
+
+So—and I—and Dartmouth had a film school! Not—Stanford had a film school! And I heard that Arthur Mayer was teaching there winter term! Arthur Mayer!! My God, he was at Dartmouth!!
+
+So by—here again, it’s another example of—of serendipity. I wa- —I walked over to the school in the spring of—of the year, and it was on the fringe on campus; it wasn’t in the center of campus like the education school was. And I walk in, and I go and talk to the chairman of the department (a really stuffy fellow).
+
+And I said, “I’d like to go here.” He said, “Applications closed a month ago.” I said, “You don’t know how important it would be. I mean, this is really what I want to do with my life.” And, you know, “I had Arthur Mayer. I had him at Dartmouth” and everything else. And he said, “Go home and write me a letter.”
+
+And so I went—I went—that night, I wrote him—I poured out my heart in this letter, and he accepted me in the film school. So it was another serendipity in some respect. But the problem was it was another master’s degree. And it being another master’s degree, the film school—the draft board wouldn’t accept it. It wasn’t a progressive education. It wasn’t progressing into higher and higher levels; it was going horizontally, and somehow in the rules, that didn’t work.
+
+And at this time, as I said, Connie got fed up with me, and at the end of the—end of the year, she went to—she went to Europe. She ran away to Europe. Started backpacking across Europe and was going to go to Santa Barbara after that. And I’m facing the draft board. I have to go for another pre-induction physical.
+
+And then I went to—I’m trying to decide, What am I going to do about it all? And I decide—I go down—my parents were spending the summer in Carmel[-by-the-Sea], and so I went and stayed with them, thinking I was going to write during the summer.
+
+And by the time—by this time, I am writing my draft board poetry. I’m writing them essays. I’m writing them everything to convince them about my—my true conscientious objection. And, of course, one of the questions they always ask you is, “What would you have done in World War II?” And that’s a tough one. That’s really a tough one, because I still believe that if it had been World War II, I would have served, because that was a—that was a difference. That was being attacked, you know? That wasn’t some political concept that was being promoted about the fall of the world and apocalypse.
+
+So—so I—I set myself all up that summer, where my parents were staying—I basically looked at it, and I said, I’m gonna become an expat. And I—I got myself a ticket on Atlantic Airlines and just left my parents [chuckles] with everything there, including my car. I told my dad, “Sell the car. You keep the money. Well, it was your—you bought it in the first place, so you keep the money.”
+
+And I ran off to Europe after—after Connie and traced her down, tracked her down. And I—interestingly enough, I said, “Well, I’m gonna live in Europe, and I’m gonna—I’m gonna teach English in Europe. Where can I get teaching?”
+
+So one of the, where I tracked them down was in Madrid, and near Madrid was the Torrejón Air Force Base [sic; Torrejón Air Base]. And—U.S. Air Force Base. And so I went—tried to get on the base to try to tell them, “I’d like to teach English here,” so it—it wasn’t, again, that I was opposed to—to a military. I was opposed to what we were doing with it.
+
+So then I—then, of course, I had—I had all sorts of con- —what was going on in my mind now is I am running away, and if I’m going to really face my convictions, I’ve got to face my convictions. But I’m not gonna serve. But I’m not gonna have my country force me to run away. And I convinced—so I’m gonna go back [chuckles]—and I conceived this idea—I’m going to go back to the United States, and I’m going to—because my parents live in Tucson and because Connie’s parents live in Tucson, I’m going to get—I can get back there just in time to start a Ph.D. in education at the University of Tucson [sic; probably University of Arizona, Tucson].
+
+So I got back, and I—and I say to Connie also—I say to Connie, “Look, I’m gonna go back there. I know your ticket is—I’ve got a ticket now that’s, like, two weeks before your ticket back, but when you get back to Tucson, I will—I will be in a Ph.D. program because I’ll get myself in, one way or the other, and we will get married as soon as you get back to Tucson.”
+
+So I fly back to Tucson, I get myself in the Ph.D. program, and before it even starts, I said, This is not what I want to do. See, this is the privilege that I’d grown up with. I had had the privilege to say, This is not what I want to do. There are so many people that went into—into the service that didn’t have that privilege, and I feel—I feel so much for them! All the people that got killed and maimed because either they were brainwashed that this is what they should do or because in—in so much of a large part, they were—they had no alternative. And—and I—so I never was any—any part of those that—that felt any kind of derogatory feelings about those who went in. I just felt sad.
+
+So—so what happened is, my father was in New York, doing some business, and he had a Volkswagen Bug in the carport in Tucson, where they lived. I got in the car. I stole the car. I  mean, I let them know that I was taking it, I guess. I’d let my mother know. My father was in New York. I got into the Bug, and I—with this—with this rationale: He had bought me the Volvo that I had in college, and I told him to sell it and keep the money. Now [chuckles]—now I bought—I bought the Bug, you know?
+
+So I got into the Bug, and I drove from Tucson to Stanford, and I went immediately into the—into the administration building at Stanford, because I was still—I still had been accepted into the—in the film program that was going to start that—that fall, that September. So I was still in that. So I was in two schools.
+
+And I went into the—to that—to—to the administration building. I said, “Look, here’s the situation: My draft board is gonna get me if they see this as just another master’s. So what I need you to do”—[chuckles]—“is I need you to say that I am going—I need this because I—I am doing a combined program toward a document—a doctorate in educational communication.” Because the film school actually was in the communication schools. And they said, “Fine.”
+
+So that bought me another two years.</u>
+      <u who="PEARL">What year is it now?</u>
+      <u who="STEIN">This now is ’66, ’67—this is ’68 and ’9.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">All right? So during this period is when really things became—started—the whole mythologies that we live by really started to—to come home to me. Besides getting an education or the beginnings of education in film study,—
+
+Oh, what happens is, is on top of the reading I’d done—this is the period where independent films and foreign films and documentaries—and, actually, the—the—the film program at Stanford was focused on documentaries, although my emphasis was always narrative. Documentaries were big. It’s where I saw The War Game, and it’s where, you know, we’re watching all these—these foreign films from—from Japan and India and—and—and Europe, with such a different perspective and—and bringing these ideas in.
+
+And it—it just—it just became categorical to me that I could not in any way support this war. So at the time—I eventually [chuckles]—Connie got back to Tucson, and I wasn’t there. I was at Stanford. So she said, “He’s fucking—He’s—he’s bowing out of another marriage.” And she was furious, but I convinced her to come back to Stanford, and we—we went up to—we eventually got—it’s a long stor- —a long, funny story about how we finally got married in Zephyr Cove, Nevada.
+
+But—but—so we got married, and—and—and very alternatively—our whole concept of marriage was alternative, and—and—and then we come back, and we settle down in—in a nice little bungalow outside—on the edge of the Stanford campus, and I—I am going, you know, to these classes and taking these classes, and everything is—you know, I’m really working hard at it, and I’m watching this stuff, and I’m clear—I really know that the draft board is breathing down my neck, and I, again, keep writing them.
+
+And so the first year, I finish all my core stuff. The second year, I’m focused on doing my master’s thesis film. And by that time, I haven’t paid enough attention to Connie, and—and she’s truly—she was truly a beautiful woman, and she also loved male attention, and she was getting a lot of it from other people. And so we end up—she ended up wanting—wanting her independence.
+
+And that threw me into a tizzy, and that’s where I dropped out and went down to live—again, whenever I run away, I—you know, I really decide I want to really punish myself, so I went to Carmel[-by-the-Sea], and I got myself a little—it was a little garage, converted garage two miles from—have you ever been to Carmel?</u>
+      <u who="PEARL">No. Where is it?</u>
+      <u who="STEIN">It’s—it’s on the Monterey Peninsula of California.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">Where are you from?</u>
+      <u who="PEARL">Long Island, New York. </u>
+      <u who="STEIN">Long Island.</u>
+      <u who="PEARL">Yep.</u>
+      <u who="STEIN">Where in Long island?</u>
+      <u who="PEARL">The Five Towns. We could talk about my background after the interview.</u>
+      <u who="STEIN">All right! Okay. So—so Carmel is—is—[Clinton] “Clint” Eastwood [Jr.] ended up being mayor of Carmel for a while. It’s—it’s really quite a nice little town. But it’s also—again, it was a very hippie town. I was—I was a fringe hip- —like I said, I was a fringe this, fringe that. I was a fringe hippie. I was not a full-on hippie by any means. And I—I settled into the bungalow to—to mourn my separation from Connie. 
+
+And I did production management for the dinner theater in the town for a little while, and then this TV station opened up, and I went and applied to the TV station because of my communications background, and I ended up going from being a flag raiser to director of the show, where, I told you, I had this—these acrimonious—not-friendly discussions with the alcoholic emcee of the show, who was a Korean vet.
+
+And—and during this period, I’m also, again, having to face what I’m going to do about the—the draft. So I’m able to convince Stanford to say that this—that my—my working at the TV station, KMSG-TV in Monterey—was an internship, which—in fact, part of the master’s program was that you had to do internships.
+
+So—so—so they accepted it as an internship. And at—at the end of the internship, my father met some woman that worked in Hollywood, that did some independent films in Hollywood, and so I—I—I then went down to Hollywood for six months to—where I truly learned the trade as doing everything in film, much more than I learned in the film school.
+
+And then I ended up going back to—to Stanford and finishing my master’s thesis. But by that time, I absolutely knew that the draft board was going to get me, and I absolutely knew that I wasn’t going to go. So the question is, What am I gonna do?
+
+Oh, while I—while I lived in that little converted garage in Carmel, I read War and Peace. And I think I—as I wrote in the thing—I mean—and—and I started to study a little bit of [Leo] Tolstoy, which I’ve later learned much more, ever since—much more than I knew during that period. But I read War and Peace, and it became clear to me that—that wars would not occur if the people that they send to war say, “No,” that wars occur because of the people at the top of the heap, who, for whatever reason or power, decide that—that they should send the poor little peo- —poor little young men, the cannon fodder, to war. And the cannon fodder feels that they have no—they’ve either been brainwashed with patriotism or they—or they have no other alternative but to do that bidding.
+
+And—and the Tolstoyan view became very significant to my whole spiritual background. Since then—if you don’t know that Tolstoy was read by [Mahatma] Gandhi, and Gandhi actually started a Tolstoy farm in South Africa before he went to India and started to apply Tolstoyan pacifism to—both in South Africa and India. And Martin Luther King Jr. learned from both Tolstoy and—and Gandhi.
+
+And so Tolstoy—a profound, profound effect on—on the whole idea that there’s an alternative to militant imperialism. It still struggles with the fact that what happens if you are attacked? What happens? What do you do? Is defense—is military defense and “just war” a reasonable approach? And in my own particular way of balancing things, i—I haven’t answered that question. I do believe that there is a balance to be struck. I just believe that we don’t strike it very often, and we certainly haven’t struck it since World War II.
+
+So I read War and Peace during that period. I saw The War Game, which is how—how—how nuclear [which he pronounces as NUKE-you-ler] war—it’s a wonderful documentary about how nuclear war—how a—how a small incursion could lead to a nuclear war. And it—it uses a whole town in England to see the results of it—of an actual nuclear [struggles but does pronounce it NUKE-lee-er] detonation 20 miles from this English town. And it’s—it’s—it’s devastating. Much like [the atomic bombing by the U.S. of] Hiroshima, I suppose.
+
+So I then engage a—a lawyer, and I go to this lawyer, and I don’t have a lot of money. Now I’m on my own, basically, and, you know, my father, as I said—he has never—he was never—he always—he was always there, but he was not—he was not one who was, “Here, here’s money, here’s money.” He wasn’t that way. I had to earn a living everywhere I went. I even worked at Dartmouth.
+
+So—so I get this lawyer, and I go in and talk to him about how—what he could do, and he—he is a specialist now in fighting to keep people out of—out of Vietnam.
+
+I think I have to backtrack, too. There was—there was another program besides the Peace Corps, Accion [International], to go to South America, and there was another program to go and help communities in the United States—I think it was also called Action or something—that I applied to—</u>
+      <u who="PEARL">I believe it was the uh.</u>
+      <u who="STEIN">the American—.</u>
+      <u who="STEIN">So I applied to those—huh?</u>
+      <u who="PEARL">the VISTA program?.</u>
+      <u who="STEIN">It was—yes, it was VISTA [Volunteers in Service to America, now AmeriCorps]. I guess it was VISTA. So I applied to those, too. And the draft board was not particularly going to accept those, but I thought I could—I could work that, but, again [chuckles], they asked, “Where do you not want to go?” And I hadn’t learned my lesson. So I had said, “You know, I’m not particularly interested in the Midwest,” okay?
+
+So they sent me—they—they—I got in, and they were going to send me to Rockford, Illinois. So—but, again, by that time, I was married, and so I was trying to convince Connie to go with me, and I think this was [laughs] part of the reason she didn’t want to—she didn’t want to leave, and she didn’t—and we were always—so I used that as an excuse for not accepting that.
+
+So I go to this lawyer. And I tell him about everything I’ve written, about my fervent beliefs about how I can categorize and—you know, I’ve written reams of stuff about my—my objections and my belief in the country and my belief that—that if you disagree with what your country is doing, the best thing you can do for it is to stand by those beliefs, because you want it to be a better country.
+
+
+
+So—and—and—I love this country, but I don’t love what it’s doing. So he said, “That’s all well and good, but all of those avenues have been closed. There’s no way—all of those avenues have already gone to the Supreme Court, and they have never—nobody has won. So the only way you can—you’re going to get out is—how are your teeth?”
+
+I said, “What do you mean, how are my teeth?” He said, “I think you need braces.” I said, “I had braces.” He says, “No, you need braces.” I said, “What do you mean?” He said, “If you have braces, you—they won’t take you.” I said, “I’m not puttin’ braces back on! Number one, I don’t want braces back on. And number two, that’s gonna cost me a fortune. I don’t have that money.”
+
+I had made an agreement with him for a thousand dollars to—to—you know, to help me get out. He said, “Well,” he said, “the only way you’re gonna get out is on a technicality.” And I said, “But that defies my whole moral compass here.” He said, “Well, do you want me to help you or do you want—not want me to help you?”
+
+So he said, “You got hay fever.” No, he says, “Do you have asthma?” I said, “No. I have allergies. I have”—I guess I had—I had a lot of—I used to get injections when I was young for allergies. I’d had severe allergies, hay fever I guess you’d call it. He said, “You got asthma?” I said [chuckles], “No.” He said, “Go and get yourself tested again. Go find yourself a doctor.”
+
+So I went up to San Francisco to an allergist, and I had all the tests done in my arm, and—and he—he comes back with exactly what I knew from the tests I had when it was earlier. He says, “You’re allergic to this, this, this and this, and you have hay fever.” And I said, “Do I have asthma?” He said, “No, you don’t have asthma.” I said [chuckles], “I need to have asthma.” He says, “Well, I can’t write you that.”
+
+So I go back to the lawyer, and I says, “Well, that’s not it.” He says, “Well, we got a real problem here.” So at this point, I had graduated from Stanford—from the film school. I’m estranged from my wife. I’m living up in Mill Valley. And—no, I’m living up in—I’m living up in San Francisco, right on the edge of Haight-Ashbury, which was, again, a big hippie—I always lived on the fringe, right? I’m a fringe person.
+
+And—and a fellow that I went to film school with—not film school, the School of Education with, is living several blocks down the street. Now, he—he has a lot of—of medical disabilities, so he didn’t have to deal at all with the—the problem of going in.
+
+So I am faced now—the lottery. The lottery has started. I have a low number, and I’ve been called up, and I’m called up for the—the induction physical. Not pre-induction but induction physical, in which you go to the physical. If you pass the physical, they take you. You have to be ready to be tak- —put on a bus and taken.
+
+So I—as I say, I’m living in San Francisco, in the heart of hippie area, or on the fringe of hippie area, where a lot of hippies are living. And I have a friend that—a fellow that lives in the flat down beneath me is a full, full, hard-core hippie. And he knows a doctor, a hippie doctor. And so I—I go to the—to him with this stuff from the allergist, and I say, “I need—can you write me a letter saying I have asthma?” And he does.
+
+
+
+So interestingly enough—this is—this is, like, the night before my induction physical. So I—I get the letter, and even though the lawyer’s office was in Palo Alto—30 miles from Palo Alto is where I’m living, in San Francisco—and the lawyer happens to live also two blocks from me, in San Francisco, up on one—we live up on these hills, and it’s—it’s a windy area, and so I call him up at home, and I go over to him with the letter.
+
+And so it’s—I don’t know, it’s, like, eight o’clock at night, and he reads the letter, and he says, “This’ll do it.” And I say to him, “Great!” And I said to him also, “You know, I don’t have a lot of money. I spent the money [chuckles] on the allergist, and I gave you five hundred dollars in advance. Would you accept the five hundred dollars without me doing anything more? Because really all you did was tell me to get asthma or put on braces.”
+
+Well, he went batshit, and we were up on the upper floor of the—of the kind of townhouse, and he went out on the—out on the—the deck into the wind, and he tore the letter up. Shredded it in pieces and threw it out into the San Francisco wind. My letter that’s going to get me out.
+
+So I am freaked, and he then recomposes himself, realizing what he’s done, and he says, “I’ll drive down to Palo Alto and get a copy of the letter.” I said, “What copy?” I brought it to you here the first time. He sends his wife down into the little back yard area a bit—I mean, the pieces went over the fence and all sorts of places, but he just tried to piece it together so that we know what it said. And then he said to me, “Go home. Remember what the doctor wrote, and you rewrite the letter and get him to sign it.”
+
+Well, the doctor had already, you know, basically created—you know, put himself out on a limb to do this, and so if I called him at eleven o’clock at night, saying, “I’ve rewritten the letter. This is what’s happened. Will you sign it again?”—he was not happy. But he signed the letter.
+
+Am I relating to you a history that is suggesting I’m—I’m not following the rules the way the government would suggest I should be following the rules? Anyway—
+
+That was my direct question to you, not to the doctor.</u>
+      <u who="PEARL">Oh.</u>
+      <u who="STEIN">So he rewrites the letter. He rewrites the letter. And I’m still very circumspect—the fact that maybe I should just get into my van—remember, I’m a fringe hippie, so I have a van. [Clears his throat.] Excuse me. Starting to get hoarse here.</u>
+      <u who="PEARL">If you’d like, we can take a break so you can get some water.</u>
+      <u who="STEIN">No, I’m fine. I’m fine.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">So I get in the van. But I didn’t get in the van. I—I—I have the letter. I convey to the lawyer that I have the letter back. He says, “Good. Use it tomorrow. But I’m saying, at your induction physical, it’ll—it’ll work.” But I’m still feeling, This is not the way I want to get out. I want to get out by asserting what I believe. And I go down to talk to my friend, who is at that point in graduate school at San Francisco State [University], and it’s now, like, one o’clock in the morning. 
+
+And he looks at me, and he says, “Jeff, do you realize what you’re doing?” And I said, “What am I doing?” He said, “You are trying to be moral with an immoral system. And if you run to Canada that’s because they forced you to do that, when you have this way out, and if you go to jail, like you also suggested you’re willing to do, you know what’s going to happen to you in jail, don’t you? You know what’s going to happen to you in jail, don’t you?” And I said, “I can—I’ve heard the stories, yes.”
+
+So it was with what he said to me, that I was trying to be moral with an immoral system, that I took my letter to the draft board. I go through the physical, the physical part of the physical. Pass it with flying colors. So at the end of the physical physical, you go to the doctor at the end that signs you off. And I present to him this letter that says I have asthma. He looks at the letter and says, “Bullshit” and said, “You’re in, man. You’re in.”
+
+I said, “Wait a second. You need to—you need to honor that letter.” He said, “No, I don’t.” I said, “Then I want to see—I want to see the psychologist.” Now, this goes back to stories  that I’ve heard from many people about psychologists. At the physicals. I have one friend that got out because he asked to see the psychologist. And he got out because when he was at his physical, and he was at the end of his physical. Another fellow from high school had come out of seeing the psychologist, who told them—he said, “Ken, what you gotta do: You gotta ask to see the psychologist.” He says, “Well, what do I—what do I say to the psychologist?” He said, “You go in there, and you urinate on the floor.” [Chuckles.]
+
+So he got to go in and see the psychologist. The guy got out because he actually urinate- —the other guy got out because he actually urinated on the floor. He was “unstable.” He was “not acceptable material for the military.”
+
+So Ken goes in there. He can’t urinate on the floor, but he is an actor. He’s a thespian. And he just—just comes up with this improv that gets himself out.
+
+And I’ve been told that you have a right to see the psychologist. You have a right at that particular point, all right? So I say to the doctor—I said—you know, the induction doctor. I say, “I want to see the psychologist.” He said, “What for?” I said, “I got a problem.” He said, “What’s your problem?” I said, “I’m incapable of taking orders.” He said, “Join the club.” [Chuckles.] And he wouldn’t let me see—he wouldn’t let me see the therapist—the—the psychologist.
+
+So he signs the paper. The last thing that you go through is that you have—you see a sergeant, who makes you sign these other papers that say you are not a member of any of these, quote, “dissident organizations”—or—or “conspiratorial organizations, communist organizations.” And even though I—I had signed this way back at 18 years old, at my pre-induction physical that I had taken at 18 years old in Great Neck—that was in Brooklyn at that time, but now I’m in Oakland.
+
+I said, “I’m not signing them.” I had no idea what it was when I signed it—you know, this is now almost six years, eight years before. At this point, I knew what it was. But I also said, “I’m not signing it,” because first of all, I knew that so many of the organizations that they put on—on there—some of them were actually—actually not good organizations, but so many of them were categorized as not good just because they were against the war.
+
+So I said, “I’m not signing it.” “You gotta sign it.” “I’m not signing it.” “You gotta sign it or I’m gonna call Virginia.” I said, “Call Mable. I don’t care. Who’s Virginia?” “Arlington, Virginia.” The FBI, CIA, whatever. I said, “Call ’em.” “Well, you gotta come back here tomorrow. You be here at 6 a.m. tomorrow morning.” I said, “All right, but I’m not signing it.”
+
+So they didn’t put me on the bus. I got to go home. But I had to go back. I called the lawyer. I say to the lawyer, “The doctor didn’t accept the letter.” And the lawyer said, “Now I’m going to earn my money.”</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">“When you go back there tomorrow morning, I am going to be on the phone to the surgeon general’s office.” And he was. And they had to change their mind and accept that letter. And that’s how I got out.
+
+And—I—</u>
+      <u who="PEARL">And didn’t you—</u>
+      <u who="STEIN">I always—you know, I always felt like I got out on a technicality, and I have—I don’t know whether it’s a rationalization or reasonable, but I do believe—for instance, there are people who are asking [Edward J.] Snowden right now to be moral with what I consider an immoral system. And I do not—and they say, “Well, he should suffer the consequences.” And my response is, “If he comes back here, he won’t get legitimate consequences. He won’t have his day in court. He—he will be shut up just like Chelsea [E.] Manning was.”
+
+And—and—and so there’s a question of—people try to suggest that the system is moral and will act morally and justly when I believe it doesn’t. And—and so I—as I said in that letter that I wrote, even though I got out on a technicality and not on my moral grounds, I believe it was a moral decision that—that basically said: I will not go in. I will not serve to do something, not because I’m afraid of getting killed or afraid of doing something—I will not do what I believe is wrong.
+
+And there was a time—I didn't tell you that during this period, I—at my transition, while I was still at Stanford, I went to—to a [U.S.] Air Force recruiting and said, “I’m looking to serve my country. They won’t allow me to do alternative service. I would—I would like—I’m in the communications department. My ability to use communications is effective. I will not be in a combatant role. Can you assure me that I would get to be an information officer?” And, luckily, the recruiter was an honest guy, and he said, “There is no way that I can assure you that. As a matter of fact, the odds are very much against it.” So—</u>
+      <u who="PEARL">And when was this?</u>
+      <u who="STEIN">Huh?</u>
+      <u who="PEARL">When was this that you went to the recruiter?</u>
+      <u who="STEIN">Did I what?</u>
+      <u who="PEARL">When did you go to the recruiter?</u>
+      <u who="STEIN">This was at some point when I was at Stanford, in between—I think I was in the film—yeah, it had to have been in the communications department at the time, because I—I—I touted my—you know, the fact that I could serve my country in—in using my ability in communications. So I would have guessed that would have been—I was—considering the time that I dropped out and went back and got—finished my master’s thesis film, I was in—in the film school from sixty- —sixty- —it would have been the fall of ’67 through January of ’72. But this probably would have been more in the period of, like, ’69.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">Okay?</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">So then after—after that—if you want me to continue on or do you have any other questions?</u>
+      <u who="PEARL">Yeah, I was wondering if you ever seriously considered going to Canada or to jail?</u>
+      <u who="STEIN">Oh, yes. I did. As I told you, when I went to—when I was talking to my friend in San Francisco the next before the induction physical, I—I—well, at first, as I told you, I went to Europe, thinking I may stay there, okay? And then when I came back, I was—I absolutely said that, standing on my moral principles, I will go to jail. I—I—I did consider going to Canada, but I never made any specific plans. It was, like, you know, If I have to, I’m gonna get in my van tonight and drive to Canada. So—but I had nowhere to go in Canada. 
+
+And—and—and, you know, there was a point at which I felt by going to jail, I was really making a statement, and he—he—he basically said, “Yeah, the statement is gonna be in your butt.” (If you get my meaning.)</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">So I—you know, i—that was—that was the consideration of it.  He—he—he really [chuckles]—he gave me an effective argument that I was being a fool if I thought that that was going to mean something and that the only—only person that was going to be effectively affected by that was going to be myself, negatively.</u>
+      <u who="PEARL">Yeah. And were you engaged in any activism or Vietnam anti-activism [sic] at Stanford while you were there?</u>
+      <u who="STEIN">At Stanford?</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">At Stanford, I did—I did peripherally—I was on the edge of the some of the antiwar activities. I did go up to Berkeley a couple of times to see what was going on, and at Stanford I—I remember being on the edge of a crowd that was—I don’t know what it was—closing down the administration building, and there were—they were—they were behaving violently. You know, they were behaving raucously, and some people threw some—some bricks, and I—you know, I truly was—I truly had become a believer in nonviolence. And even to this day, I’m in this group called Nonviolent Communication that I’m part of.
+
+So I—I did not—I did not agree with their behavior. And—and so I would have arguments with that behavior, and so it be- —it was fascinating because I would talk to people who were being—who were being—who were activists that were being vandalists [sic], and I would talk about how I felt not—not only that that was counterproductive but that wasn’t what it was all about. And they—they were students that respond to me, and they called me a fascist pig.
+
+And then I go—at the time, I was still together with Connie, and I remember traveling back to Tucson for—Christmas time and ending up talking to one of her brothers about—at that time, I guess Hungary was going—was going through its throes of trying to become a progressive communist country before it did, and—and trying to break away a little—break away from Russia, but also was—was still communist.
+
+And I was trying to tell him that communism is not a ma- —is not monolithic; it’s not just one big evil. These are just—they’re people, like all sorts of other people, struggling in systems, and that some of them are trying to do it better than others. And he called me—he called me a “commie pinko leftie fag” or something like that, you know? I don’t think he used “fag,” but he might have, just because he convoluted everything together.
+
+So it was—I found myself, as I said,—because I’d look at different sides—I found myself, from those who were extremely activists on one side, being looked a circumspectly, and then those who were reactively right wing on the other side, being looked at like I—I was the enemy. So it was very interesting.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">I’ve become very involved in environmental stuff in my later life, and I can remember some very extreme environmentalists talking about more moderate environmentalists like they were the enemy. And, you know, once they start talking that way, they lose me, even though I appreciate how they’re stretching the envelope.</u>
+      <u who="PEARL">Yeah. And what did your family and Connie think about you, in trying to evade the draft or you going to Vietnam?</u>
+      <u who="STEIN">Ah! That’s a very g- —well, I think Connie was supportive—well, we had broken up. I think she was against the war, and, you know, I think she had—she listened to me talking a lot about it. I don’t know that she was engaged at that—I mean mentally engaged in it as deeply as I was—and, of course, because women were not in the draft. But I think she was—she was definitely supportive of the view.
+
+My father didn’t—didn’t understand it, but he wasn’t—he—he wasn’t a military right winger. He was definitely a Republican, no matter what, and he was probably against all the activism that I—that I supported, at least intellectually and—and verbally supported. So we didn’t have much discussion with it.
+
+I think my mother was—she was unhappy with me for a number of things, but with regard to that, I think she was totally supportive, and so she—she was unhappy with me just because I was a—a son that didn’t give her enough—you know, pay enough attention or—but I thought I was—I thought that I—that I had lived life so much and she didn’t give credit to the fact that the older generation had also lived their own child [sic], so it was—it was—she was—I had a—I had a good relationship with my mother, but—but she was not withholding of her criticisms when she felt justified. And—and I respected her for that. She was—I truly respected her for that.
+
+But I don’t know—remember having really deep discussions with them about it. I was not—you know, they were in Tucson during most of that time, and then they had moved to Lighthouse Point, Florida, which was even that much further away. So I did not have a—even—even when I—when I went to Carmel that time to stay with them before I ran after Connie, most of my mother’s disaffection with what I was doing my inconsistency about my relationship with Connie and her—her unhappiness with how that was all going. It was not [chuckles] so much about the war [chuckles], as I remember, although she was against the war.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">So—but I was certainly surrounded by—</u>
+      <u who="PEARL">So—so what happened—</u>
+      <u who="STEIN">—a lot of people who were definitely—did not agree with my point of view and, as I said, had arguments with them. I—interestingly enough, as I was moving through my film career in the ’70s, I—as I told you, first was that time at KMSG-TV in Monterey, where I this argument with the—continuing argument with the host of the show I was directing. 
+
+I had—later on, I worked for Northrop Corporation [now part of Northrop Grumman Corporation] for six months, and—and—here’s it’s curious: A lot of the stuff—when I was working my way up, I worked through doing industrial films and—and educational films and promotional films. And the thing that I worked—when I worked for Northrop, I was making a film, a training film on—for pilots about checking out the F-5E [Northrop F-5E Tiger II] attack jet plane.
+
+And so we—I would go from Hawthorne, California, get in this little private plane, fly up to—to [Naval Air Weapons Station] China Lake, in the middle of the California desert, where this—the tech crew—at that time, video was a—a huge operation. I mean, they had to have a—a—a bus full of equipment, the size—like the buses that musicians travel on? And—and full of equipment, and get everything right. And—and the technical director wasn’t—I mean, I was—it was clear to me the guy was a Nazi. I mean, his—his vision of what the United States should be doing was “bomb them back to the Stone Age.”
+
+And, again, I got myself—since I was the writer-director of this training film and he was the technical director, who was in charge of all of the—making sure all the equipment was working properly—we had to coordinate with each other, and it became—it became very, very harsh. Very harsh. The guy—I have no question that he was a Nazi. He just wasn’t—he looked like a Nazi, and he—and he talked like a Nazi, and he talked like America should be Nazis in the Vietnam War. And it was—it was a very stressful time.</u>
+      <u who="PEARL">Yeah. And what did you do after you got your exemption?</u>
+      <u who="STEIN">What was the exemption?</u>
+      <u who="PEARL">No, after you got your exemption, after your lawyer spoke to the surgeon general and you got your—your exemption, what did you do after that? What happened?</u>
+      <u who="STEIN">I—I finished—I got my—I finished my master’s thesis film and graduated Stanford in—in January. No—no—no walking down the—with the paths or anything; it was just a pro forma graduation. And I—I—I got into my van, trying to decide whether I wanted to go and teach film somewhere in the East if I could find myself a position or whether I was going to go to Hollywood. And I didn’t know—typical of myself, never knowing what I’m doing next. 
+
+
+
+And so the only option that I could figure out in order to—to  figure out what I was going to do was to get in my van and drive to Aspen, Colorado. And I did. And I lived in Aspen, Colorado—well, first I—first I went—let me see. Right after graduation. Right after—because I didn’t go to Aspen until September. I graduated in—and I lived there. Wow! I’m missing six months. I do not know what I’m doing—what I did between that six months, between that graduation—
+
+Oh, oh, oh! I don’t know. I’ll have to go back and figure it out. I think maybe—</u>
+      <u who="PEARL">That’s all right.</u>
+      <u who="STEIN">—I got the degree—I got the degree—the degree actually came through in—in—in January, but I finished in the summer. That’s what happened. I finished my—the film in the summer, but because it was summer session, the degree didn’t come until Ja- —until January of ’72. 
+
+So—so it was in September that I finished it, and I—I got into my van, equipped it again, built in all the stuff to be the writer living in the van, and drove to Aspen, Colorado. [Chuckles.] And lived in my van for about two or three weeks before I finished out that that was not going to be something that’s going to work out during the winter, and I got my job cooking in a restaurant, and I got a little apartment in Aspen, and so I spent all of the fall season and much of the winter season in—in—in Aspen, cooking and skiing. And partying. There were also great bands.
+
+And—and there was the Wheeler Opera House that showed a different movie every night, somewhat like the—like the Nugget did when I was a Dartmouth. They—every night or every other night at Dartmouth. The movies that they brought in were great movies, and they were, like, a dollar—for a dollar. And they were still that way at the Wheeler Opera House in—in—in Aspen.
+
+So I—and I saw this one movie. I think it was called Mephisto. No great history, no great movie, but I saw it and I loved it. I loved the way it was made, and I said, I gotta go to Hollywood. And so I—in the middle of I think February, the middle or end of February, I got back in my van and I drove to Hollywood and started applying—
+
+I found a friend that I had—that I had knew [sic] from—from working at the TV station in Monterey and for the six months that I went to—went down to Hollywood during the time I was estranged from my wife, and had roomed with him in Topanga Canyon. I found him again. We got a—a—house together in the Hollywood Hills , and I started, you know, hitting the boards, trying to get work and worked my way up.
+
+And during that period also was the period that I learned that—that every dollar of your telephone tax went to support the Vietnam War. And so I—every month, I wrote a letter with my—sending in my check to pay the bill, and just taking off that tax and writing a letter saying, “I am not paying this tax because it supports the war.” And I wrote about it in a letter there.
+
+About a year later, something—a knock on the door. And it’s a guy that—and my van was essential for me to carry equipment and people around for the films I was making and stuff. And he—he—I think I was still paying off the van somewhere. Even if I wasn’t paying it off—I don’t remember that detail. He said, “We’re gonna”—you know, “We’re gonna basically either repossess”—“We’re gonna possess your van.”
+
+I said, “Wait a second. You’re gonna take my van away?” And he said, “Yes.” He said, “You know, I’m sympathetic with your point of view, but this is what—this is what we will do. If you don’t pay your back taxes plus the interest on them, we’re gonna take your van away.” I said, “And do what?” “We’re gonna sell it.” I said, “And what you sell it for, whatever is in excess of what I owe, you’ll give me.” He said, “No. We will sell it for exactly what you owe.”
+
+And I said, “Well, that’s like—I don’t know, $180.” He said, “That’s what we’ll sell it for.” “You can’t do that!” He said, “Of you don’t give me the money”—[Chuckles.]—“if you don’t pay the money, your van won’t be there tomorrow.”
+
+And I paid. So it was another—it was another moral compromise, I suppose, because it didn’t make any sense to me to lose my ability to make a living. [Laughs.] And I also was making my statement, I suppose, one way or another.
+
+And, as I said, I have gone through my life hopefully educating people about—I mean, I—I--film deals—a lot—structural—the structure of narrative film deals a lot with mythologies, and once you learn about mythological structure, through Joseph [J.] Campbell, Carol [S.] Pearson, other people, it becomes so clear to you what rings the human psyche’s bells.
+
+And so I—once I left Hollywood and really got into teaching film and teaching film—writing and film structure and everything else, and then going through my own somewhat midlife re-education, where I’ve gotten deeply involved in mythological theory—it’s become clear to me—and so I educate- —hopefully, when I’m out there is basically educating people that we all live by mythologies, with the idea is to become conscious of the mythologies that are—are—are moving you in ways that you don’t want to be move and to choose those that move you in the way that you—you believe are more satisfactory to your existence and to the world’s existence.
+
+
+
+So—so I—I have not—as I said in my letters, I have not been a “pound on the door, beat the bush” activist. I have been a letter writer. I have been an educator. I have been a vocal—a person who has never been sparing in my beliefs. And i—I basically will take on the mythologies of any side.
+
+I think I told you about the fact that my college roommate came out to visit. He had—he had a conference in—in  California in 1980, at the time that I was doing the writing of—an adaptation of a film called—William Bradford Huie’s In the Hours of the Night about the developing and use of the atomic bomb, in which Huie descries the circumstances of the decision to use the bomb.
+
+And although I am horrified by the fact that we used the bomb, I was telling my ex-roommate how I understand why the decision was made, and I could see if I had been in the position at the time, I may have made the decision. And I wanted to go into all of the reason- —all of the circumstances and reasoning and—and—and the fact that it was not a black-and-white issue. 	He basically got up and left my house—</u>
+      <u who="PEARL">Mm-hm. </u>
+      <u who="STEIN">—and—and—and left. So—so the point being is that he definitely—I mean, the horror of—of dropping the bomb on Hiroshima was—there could be no—no excuse for it, none whatsoever, and that anybody that could even try to discuss the issue was apostate, was excommunicate right there.</u>
+      <u who="PEARL">Yeah. So, Jeff, we’re coming up on our three hours, and we could definitely schedule a second part of the interview to finish it, but I’d like to ask one last, final question before—</u>
+      <u who="STEIN">There’s one last thing—</u>
+      <u who="PEARL">—I run out of time.</u>
+      <u who="STEIN">There’s one last anecdote I’d like to tell, and that which I mentioned in that letter.</u>
+      <u who="PEARL">Of course.</u>
+      <u who="STEIN">It is I realized how—how impacted—how much a significant—my—my change of moral compass was and how emotional it was for me. As I said, when I was sitting in the movie theater in 1970 watching Coming Home—and I really recommend seeing the movie—and I was sitting with the woman—at that point, I was living with another woman, and she’s sitting next to me, and she is seeing me bawl my eyes out, crying, uncontrollably crying. And the crying was not—was because I identified with the—the—with the characters, particularly one of the characters in the film, who—who discovered finally that everything he had been living had been a lie or that he had—he had so—so strongly accepted the—the patriotic belief system, without any critical analysis, and then had—had—had found himself being attacked on all sides, and him own self doing things that he hated because he had followed that.
+
+And—and what I realized is that my own transformation of consciousness had really impacted me, and my crying was not—was—was for that transformation of consciousness, I believe. It was this—this feeling of—of being lied to, I think. And—and also coming out on the other side, which meets—which is part of my whole arc of a hero and everything else, about having to go through a death point. And that—you know, that was a resurrection for me, really, out of a death point in terms of confirming my beliefs, so—
+
+What’s your final question?</u>
+      <u who="PEARL">Final question for this part of the interview we can probably pick it up in the second part, the rest of your story, but how did you feel in 1973 when the U.S. left Vietnam?</u>
+      <u who="STEIN">I was—[Chuckles.] Well, we actually—we left—evacuation was horrendous, but the fact the decision to get out—
+
+[Apparent recording interruption.]</u>
+      <u who="PEARL">Yeah. So could you start with the beginning of your answer again?</u>
+      <u who="STEIN">Yes. You said how do I feel about us getting out of Vietnam—</u>
+      <u who="PEARL">Yes.</u>
+      <u who="STEIN">—in ’73. I think the decision to get out was in ’73. The final evacuation, the horrendous evacuation—you know, our—our—was in ’75, you know, on the top of the [American] Embassy, which was outrageous. But the decision to get out? Came way to late, too long. It—it—I believe that—that the decision to get out was a result of many things, including the Pentagon Papers ["Report of the Office of the Secretary of Defense Vietnam Task Force"] and the fact that—that Nixon had—had done such egregious things in terms of lying and—and bombing in Cambodia. 
+
+The—the fact that we had supported not only—all of the history through the Pentagon Papers was bringing out the history of how we had—how we put in place—how the CIA [Central Intelligence Agency] had put in place the regime back in—in ’62 and—and—and the whole build-up, and the falseness of the Gulf of Tonkin. All of these things were happening, and—and—and the fact that media—it was the first war—and they tried to control it during the Iraq incur- —Iraq and Afghanistan [wars]. You didn’t see the body bags coming home. You did see the—the—the caskets and all the people and the numbers and the slaughter that you saw. Luckily, the media was showing us just the horrendous slaughter.
+
+[The] Mỹ Lai [Massacre], the way that the—the way our own troops were act- —were acting. This—all of this finally catalyzed and overcame the right wing, hawkish, “bomb them back to the Stone Age” kind of concept. I mean, the firebombing, the chemicals we used, and the fact that we had no business being there! It was all based on this domino principle, which was absurd, which is an outgrowth of this whole concept of terrorism that they’re reinstituting now—I mean, of communism, which they—they just substitute—they need to substitute “liberals” or they substitute “terrorism” for—not that there isn’t an issue to be concerned with! But the way we respond is counterproductive.
+
+So how did I feel about us getting out? Sad. I felt sad that it hadn’t occurred—that it occurred after the death of so many people and the maiming of so many people, not only American people but Vietnamese people. They’re people! And—and—and that all of it was so unnecessary. And thankful that we were finally getting out, but at such a cost.
+
+And—and—and what’s turned out is we have not learned our lesson. I’m sorry. You’re starting to get me a little heated here about it all. But—but—so that’s how I felt. And I felt—I felt—you know, I felt—here, we had the assassination of Martin Luther King and [Robert F.] “Bobby” Kennedy after JFK [President John F. Kennedy] and then Nixon and the Watergate situation. And—and—and our whole behavior in Vietnam and—and—[FBI director] J. Edgar Hoover and his—his egregious acts against Martin Luther King and the civil rights movement.
+
+And you say, This is the country I want to believe in! This is the country—what are we doing? We are behaving—we—we are as dastardly as anybody on Earth. And we want to hold ourselves up as a model??
+
+So it was a very bad period. It was a very bad period. And hopefully—at least—you know, there was a hope coming out of it that—that the movement against—against the war and the movement for civil rights was going to move us into becoming a better country.
+
+[Recording interruption.]</u>
+      <u who="STEIN">You missed my drama. All of it. </u>
+      <u who="PEARL">I’ve a—</u>
+      <u who="STEIN">I was becoming an activist. [Laughs.]</u>
+      <u who="PEARL">I just started the recording again.</u>
+      <u who="STEIN">Oh, you want me to—to go—where do you want me to begin? Where do you want me to begin?</u>
+      <u who="PEARL">Just finish your thoughts on what you were saying right when we got cut off. I’m very sorry about that.</u>
+      <u who="STEIN">Where did we get cut off?</u>
+      <u who="PEARL">You were—</u>
+      <u who="STEIN">Do you want me to start with the question, “What did I feel about ’73, when we got out?” Do you want me to start there?</u>
+      <u who="PEARL">No. No, we got cut off about 20 seconds ago, when you were talking about—Huh?</u>
+      <u who="STEIN">Around 25th—</u>
+      <u who="PEARL">Yeah, I got most of the answer, just about all of it.</u>
+      <u who="STEIN">So I said at the end—you know, that I hope we—I said at the end that—did you hear about JFK, RFK, MLK and Watergate? Did you hear all that part?</u>
+      <u who="PEARL">Yeah, you had just mentioned it.</u>
+      <u who="STEIN">So that got recorded?</u>
+      <u who="PEARL">Yes.</u>
+      <u who="STEIN">Okay. So you asked me—and—and did you hear the part that here—here we—and J. Edgar Hoover and all of the egregious things he did against the—the—civil rights movement and—and—the African-Americans and anybody who was supporting the civil rights movement, all of the terrible things that he did?</u>
+      <u who="PEARL">Yes.</u>
+      <u who="STEIN">And—and all of the terrible things we did in Vietnam? All based on just lies! Promoting lies! </u>
+      <u who="PEARL">Yes.</u>
+      <u who="STEIN">And Nixon and his lies! And-and the assassinations! It was a terrible period!  And so with us getting out of Vietnam—we finally got—why did we eventually get out of Vietnam? It took so long? But it was because of the Pentagon Papers and because of the promotion of the lies. It was because of the activists. It was because of the people that were trying to save people, people who were not for war, people who were for human rights and—and—and people for our country being a good country, the country we wanted to believe in, not the country that was doing things we couldn’t believe in, countries that were [sic] doing things that were as bad as anywhere else.
+
+So how did I feel? I felt sad! I felt angry! I felt glad that we were getting out. I felt hopeful that maybe, maybe we would look at this and look at what we’ve done in so many ways, and the people that had—that had—had precipitated it and led us and never follow that route again. And that’s the fantasy that I suppose I ultimately had in my hopefulness.</u>
+      <u who="PEARL">Yeah. Well, thank you, Jeff. On behalf of myself and the Dartmouth Vietnam Project project, I really appreciate it, that you taking the time to talk to us today.</u>
+      <u who="STEIN">Thank you.</u>
+      <u who="PEARL">And we will—we will schedule a second part to finish up your interview, if that’s all right with you.</u>
+      <u who="STEIN">That’s fine, yes, okay. </u>
+      <u who="PEARL">All right.</u>
+      <u who="STEIN">Maybe we can talk a little bit about your background and interests at that time.</u>
+      <u who="PEARL">Yep, and I am going to stop the recording right now.
+
+[Recording interruption]</u>
+      <u who="PEARL">Today is February 5th, 2016. My name is Josh Pearl, and I’m interviewing Jeffry Stein for the Dartmouth Vietnam Project. I’m conducting a phone interview from Rauner Library at Dartmouth College in Hanover, New Hampshire, and Jeffry is at his home in Nashville, Tennessee. Is that correct, Jeffry?</u>
+      <u who="STEIN">That’s correct.</u>
+      <u who="PEARL">So when we last left off, you gave us your final thoughts on the U.S. leaving Vietnam. I was hoping you could tell me if you knew anyone who served in Vietnam or who was drafted.</u>
+      <u who="STEIN">I had—not that was draf- —I knew people who were drafted, but I don’t have any specific memories of them. I had a fraternity brother who enlisted in the Air Force and—and got his pilot’s license, and I remember asking him—because he was—he was not a particularly militaristic individual; he just loved flying. And I remember asking him why he enlisted and—and what his feelings were about strafing and dropping bombs should he come to do that in Vietnam.
+
+And as with a number of issues, when I asked him questions like that, I did not get a good answer. I—I—when I say “a good answer,” I didn’t get any specific answer. It was more like, “I like to fly,” you know. So—and—so I was curious about his—his viewpoint about participating in the war, because he didn’t strike me as the kind of fellow that—that was supportive of the war, so—
+
+I don’t know if that answers your question. Do I know other people? I know a lot of people who did not go in. I have—there were some fraternity brothers who I did not follow after college, who went into the Marines. But since I didn’t follow them, I—I didn’t have any specific responses to them</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">I can remember—okay?</u>
+      <u who="PEARL">Keep going. I didn’t mean to interrupt you.</u>
+      <u who="STEIN">I can remember one encounter just outside of Central Park, on Central Park South [a portion of 59th Street forming the southern boundary of Central Park in the New York City borough of Manhattan], where I was accosted by a—a person who claimed to be a vet, who was looking for money. And when I went through my usual dithering as to whether giving people who ask for money on the street—to give them something or not something—and I guess I decided not to; t that point, he—he started to berate me about how I was not supporting the vets and the war and how—how I was just another one of those—those activists who were—and I had not even gotten into anything other than maybe asking some questions, but I don’t remember that specifically, either.</u>
+      <u who="PEARL">Okay. 
+
+
+
+And how did you feel about your friends or your classmates joining the war effort or enlisted or being drafted?</u>
+      <u who="STEIN">I—my—my general feeling, as it generally usually is, is I suppose there was a part of me that said, Don’t they understand that they’re supporting a—a—a terrible—something is not only counterproductive for—for the Vietnamese; it was counterproductive for the United States and that it is—it’s just—you know, they’re putting themselves in jeopardy for no—for no—for a bad reason. But I also have to respect every person’s decision in terms of doing it. I don’t think they were being bad people. And so I just disagreed with them.</u>
+      <u who="PEARL">Mm-hm.</u>
+      <u who="STEIN">But I don’t—I don’t recall having any out-and-out conversations with people who did enlist or did get drafted other than, you know, what they were doing to get out if they didn’t want to be drafted. 
+
+I mean, you know, with regard to other people in the situation of having the draft breathing down my neck and either going in or not going in, I—I don’t remember having any really arguments with anybody who went in. I have—I remember having some questions, as I did with my fraternity brother, who went into the Naval Air Force. But I did not have any kind of a confrontation, as I discussed with you, I had with  my roommate years later because he—you know, me being a liberal and him being an extreme liberal, that confrontation [chuckles] was—was much more heated. I did not pin anybody to the wall or basically, you know, get angry at them. So—</u>
+      <u who="PEARL">Yeah. 	And what was your fraternity brother’s name who joined the Navy?</u>
+      <u who="STEIN">He was Pieter [pronounced like Peter] [C.] van den Steenhoven.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">And he has—he died in 1980.</u>
+      <u who="PEARL">Oh. All right.
+
+So let’s move on to 1975. What did you—what’s that?</u>
+      <u who="STEIN">Yes, 1975, the evacuation?</u>
+      <u who="PEARL">Yeah. What did you think of the evacuation and the fall of Saigon and the takeover of South Vietnam?</u>
+      <u who="STEIN">I thought it was pathetic. On the one hand, it makes for great history, and it makes—and I’ve written, you know, many times—in my own writings, I’ve referred to it, but in terms of events that not only—I expect that we’re going to have the fall of Kaball—Kabul [Afghanistan], you know? Just like we’re seeing what’s ever going on in Iraq now when we—when we make such incursions that—where we think we can—we can force upon another group of people our will by military force. History has proved it just doesn’t work.
+
+So I felt sad for the—for the people who didn’t get out. I felt sad for the people who basically trusted us that we could help them got out. I’m glad we helped the ones that we did help get out. It—it certainly—the imagery on top of the embassy, with the helicopter leaving, was—I mean, it’s an extraordinary testament as to why [chuckles]—why these are fools’ errands, so that’s, I suppose—
+
+And, of course, like everybody else at the time, we were watching it raptly and feeling—I can’t imagine anybody—I—there are those who claim victory could be had by stoning—by bombing them back to the Stone Age (which is absurd), so I can’t ima- —whether you were for the war or against the war, I would guess that emotions were similar about the evacuation. It’s that it was—
+
+But my—my ultimate point is, of course—now in terms of what had—what had happened, it proved that there is no domino—there was no domino effect. There was no monolithic communism. And it proved that—that we shouldn’t have been there in the first place, so—</u>
+      <u who="PEARL">Mm-hm. </u>
+      <u who="STEIN">—and that we killed a lot of people for no good reason, as well as polluting the planet with Agent Orange and stuff, which—the incursions [sic] are still happening today: people having health- —health-related issues still today with regard to it.</u>
+      <u who="PEARL">Yeah.
+
+
+
+And after the war ended, did you continue your antiwar activism at all, or civil rights activism or any other type of activism?</u>
+      <u who="STEIN">Well, as I told you, I—I—one place I worked was Northrop Corporation, which built military airplanes, okay? And I told you that I had very much of an argument with the technical director. I was the director. He was the technical director for video productions, and I had ar- —I told you that I had arguments when I was directing for a TV station in the Monterey Peninsula, with the host of a show I was directing.
+
+So I—I was always speaking up. I still speak up. I’m still very much opposed to our—to—I—I believe our problem with ISIS [Islamic State of Iraq and Syria; also known as ISIL, Islamic State of Iraq and the Levant] is the result of our invasion of Iraq and that that was a totally misguided—again, that the “weapons of mass destruction” were—were another Gulf of Tonkin kind of excuse, and—and it has—we have just created a mess over there. And we don’t learn.
+
+So I—I keep speaking up about that. But I don’t—I don’t go out and pound the pavement. I write—I basically write my congressmen to not support these kind of things. Sign petitions. Talk about the mythology of patriotism and nationalism in—in—along with all sorts of other mythologies that—that drive our lives, in my coursework and presentations. But those—those are not the focus of my presentations; they are examples of—of what I talk about when I talk about how—how we are all driven by mythologies. It’s a matter of being conscious of them and choosing the ones we—rather than having them choose us.</u>
+      <u who="PEARL">Okay. 
+
+And can you talk about your roommate in 1980—the visit, the discussion, what happened after?</u>
+      <u who="STEIN">Yeah. I don’t know whether he would appreciate this going on, especially with his name. It’s—it’s—I’m a little ner- —uncomfortable with that, if that is published with his name.</u>
+      <u who="PEARL">You can talk about as much or as—as little as you want. It’s up to your discretion. We could skip this question if you’d prefer.</u>
+      <u who="STEIN">Yeah. I mean, I like the guy. I’m sorry that it happened. It blows my mind that it happened, and—but I—I—you know, I do not want to cast any negative shadow or—I don’t want him to have any—like, I’m finding fault with him, because I like the guy, and I respect his—his passion. So I’m sor- —I’m just sorry that it caused a breach of communication. That’s all.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">I think I talked about it before enough.</u>
+      <u who="PEARL">Yeah, you did.</u>
+      <u who="STEIN">In that—that—in that case, it wasn’t about Vietnam; it was about dropping—dropping the bomb on Hiroshima, and—and—and the project that I was working on for, developing for a mini-series, from a book by—In the Hours of [the] Night, by William Bradford Huie, which dealt with the whole issue of to drop or not to drop. I found it a little more complicated than he did.</u>
+      <u who="PEARL">Okay. 
+
+So how did your life evolve 1980 onwards?</u>
+      <u who="STEIN">How did my life evolve? Well, from 1980—well, by—by the early ’70s I was in Hollywood, trying to build a—a film career, and that film career was—as I say, interestingly enough, it started out doing industrial and educationals and promotionals, and in a number of cases it was for the people—the companies I worked for were doing things for the Department of Defense. So I found myself on aircraft carriers, and I—which is a testament that I don’t—it’s not that I think we don’t need a military. I do think we need a military. I think we need leaders who will use it in the most judicious ways, particularly for defense, not for offense, unless—unless that is absolutely required.
+
+And I—so I’m circumspect about our—our leadership decisions, often. But nevertheless, I—I believe it was necessary to have a military. I was on aircraft carriers, making—working with the company that I worked with to make film about a—a jet torpedo—a jet plane torpedo tracker, a submarine tracker.
+
+And I was out at China Lake, in the middle of the California desert, with regard—at Northrop, with regard to a jet—the training of pilots checking out F-5E airplanes. Another—another proposal was for a project to—about missiles. But I also did a lot of other industrials, as well, so—
+
+But I think with regard to that, I—I did not feel any—any hypocritical or—or any hypocrisy because, as I say, I—I feel—I feel that there—I can’t say that the military is unnecessary; it is necessary. It’s just the way it’s been—leaders misused it. And I also believe we—we put way too much of our budget into it. Instead of—you know, national—national security is not only military; it’s how we deal with our people here at home. And I believe that’s a national security factor that is always forgotten.
+
+So that was all through the ’70s, and then by the end of the ’70s I was—had moved into feature production and management of feature production. And I would say that—and I was always writing screenplays because even though I ended up in—in the business and—and management side, I was more interested ultimately in trying to get my own screenplays produced, which—and often those—in one way or another whether they were comedies or whether they were more—I don’t know, say, moralistically attuned, they—they always hinged on these issues of the lies that we are told and—and how individuals try to do the—to escape often what is their economic motivation to—to do what is their—their spiritual, inner guide tells them. And that—that’s basically the hero stories, part of the hero’s journey that is very mythological.
+
+And so many of the issues that I lived through with—couldn’t help but, one way or another, be referenced not directly but as a—as source material in my writing.</u>
+      <u who="PEARL">And did any of your writing or screenplays ever get produced or published?</u>
+      <u who="STEIN">Well, I have—I have two novels, a book of short stories and an entire book on—if you look at my e-mails, you can click on some of the stuff. There’s a book on movies called Life, Myth, and the American Family Unreeling: The Spiritual Significance of Movies for the 20th Century, which I consider my—I supposed my opus—my—my—I’m very proud of that work. 
+
+And I—and I’ve had—I had a lot of—I’ve written screenplays for hire that were in development, and I’ve had screenplays auctioned, but I haven’t had any—any produced.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="STEIN">To my—to my—[Chuckles.] Which I can’t say at this late date in my life—it’s like: Damn they should have been produced, and I feel—I feel that I was not fully discovered. [Chuckles.] You know, sour grapes, I suppose, but I wish—I wish some had been. I believe they were good. So—</u>
+      <u who="PEARL">Mm-hm. </u>
+      <u who="STEIN">And I’m in the midst of writing another novel now, so—</u>
+      <u who="PEARL">Okay. 
+
+And can you tell me about your—your life in the ’80s?</u>
+      <u who="STEIN">Well, my life in the ’80s. From ’80 to ’87, I worked for a number of companies that were involved in independent feature film production, and I was in charge—I was vice president in charge of production for one of the companies. I was in charge of production for another of the companies. Several—several films were made under the—under that—while I was at those companies: The Beastmaster, Evil Speak, Fade to Black, several others.
+
+And then come around ’87, I decided—I was now 40, 41 years old, and I was wanting to get out of Hollywood and—and really get away from the management and just write, and as a result of that and as a result of my business relationships, I was able—I was actually moving to the Colorado mountains. I was just going to go into the mountains to write.
+
+And a woman from the Tennessee Film and Tape Commission [sic; Tennessee Film, Tape and Music Commission; now Tennessee Film, Entertainment and Music Commission], who had often come to Hollywood to get me and my company to bring our productions—to produce them here in Tennessee. She said she was leaving the administration and creating a film studio or another deal in Tennessee, and so she coaxed me to come to Tennessee instead, where I would have a job, as opposed to not have a job. And she paid for the move, which I wouldn’t have had paid to Colorado.
+
+At that time, I also met the woman—during that time, I met the woman who became my wife and decided that a family would be good, and so that’s how I ended up in Tennessee. That deal—the film studio fell apart, as often films—film deals do, and I ended up teaching at Tennessee State University and then Watkins College of Film—College of Art and Design Film School [sic; Watkins College of Art, Design &amp;amp; Film]. I was a founding faculty member of that for ten years. I’ve also taught at Vanderbilt [University] and Middle Tennessee State University, up until recently, where I basically said, I don’t want to teach anymore.
+
+And I guess I’m 71 years old, and maybe I’ll just now focus on writing, if I still have a brain to do it.</u>
+      <u who="PEARL">And what did you end up teaching?</u>
+      <u who="STEIN">What did I—I ended up—I was—I was—taught screenwriting, film production, film directing, production management, and independent producing. So all sorts of topics that were very much involved in creating film.</u>
+      <u who="PEARL">Yeah. 
+
+And how’d you feel in 1989 and 1991, when the Soviet Union collapsed and I guess the Cold War ended?</u>
+      <u who="STEIN">Well, the Cold War—the Cold War. It was a product of both sides. It was a fa- —it’s a fascinating period of time. It—it proves—and I suspect that eventually it’s going to prove to this country that any major power that—that puts all of its resources into its military and that wants to totally—totally control its population is—it may take a while, but it’s ultimately doomed.
+
+But there’s always been resurgence of it, as is happening now in Russia and as—we can see whether China will be able to maintain its closed society as the world opens up.
+
+So, I mean, it was glad that it—it happened. In retrospect—there’s a very interesting concept called MAD. You probably know what MAD is. It’s mutually assured destruction. And that even though we developed nuclear weapons that can basically wipe off life—life off the Earth, except for cockroaches—the—at least there was a presence of mind on both sides that there was—that we should not use these things. And so that mad- —that madness created a sensibility while you had Russia and the United States facing each other.
+
+
+
+But now there are people, I believe, who want to have that technology and capability, who don’t understand the madness of it. And it’s scarier, in some respects, today than it was then. On the other hand, I’m—I’m very happy for all the people who were, in many respects, liberated from the totalitarianism they were under and—and as a result of that have been able to have a great decision in the course of their own lives.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="PEARL">It’s very interesting, in—you know, it let the vacuum—you know, if you look at history, there is the whole issue of power politics, and—and—and there always have been these—these kind of dual-—these dualistic systems, where there is one power balancing another power. And for a while, the United States was the only power there, and as a result, there were people that I think developed ideas that they could control the world and basically beat everybody else into submission. And that’s how we got into Vi- —into Iraq.</u>
+      <u who="PEARL">Mm-hm. 
+
+And let’s move on to your daughter attending Dartmouth, I guess. What did you think of your daughter coming back to Dartmouth, and what you thought of that.</u>
+      <u who="STEIN">Well, she graduated in 2011. I found it to be rather surreal. When she was in tenth grade, there was a—I got the impression that anything I did, she didn’t want to do. And when she went to—when we went to the search process, we actually visited, with her, 25 campuses. And she started out wanting a very liberal, very rural college, and Dartmouth was not on the list. And by the end of the process, Dartmouth was high on the list.
+
+Part of it was because—and—and it had to do with—with the con- —you know, a synchronous constellation of events. The summer of her junior—junior—between junior and senior year, which is the summer of looking at campuses, was also the summer of my 40th reunion at Dartmouth. I probably wouldn’t have gone to that reunion had it not been for her—for us doing a New Engl- —a Northeast search of colleges.
+
+And so it—it—it seemed to work while we were up there; let’s go to reunion. Well, we went to reunion. She had—she really liked it. When it came down to her final decision, she actually really loved Oberlin [College], too, and Oberlin was a very liberal school, and she—she very much—it appealed to her. But she made—this was—ultimately made the decision because she said, “You know, I need to go [to] a place where I’m gonna be challenged by more—by a variety of different perspectives, rather than going to a place in which everybody’s in the same choir.”
+
+And the second part of it was that she chose it because she felt that its facilities and its student body and everything else were—there was more—more to offer there, a—greater opportunities to offer.
+
+She has—you know, I hate to speak for her, but the best feedback I can get is that she came away from Dartmouth—I think she’s slowly start doing appeal—to appreciate what it has given her, in many respects, but she felt that she was—that many people at Dartmouth are—are—are, you know, headed from Dartmouth to Wall Street [the term used to represent the financial district of New York City] or to—to—you know, their whole focus is how to make money. And her focus has never been that. And so her first—she—she went into organic gardening when she came out, and—but now she’s teaching high school. [Chuckles.] English. Yeah.
+
+So I think—I think, on balance, she likes Dartmouth, but she had a lot of—she has a lot of—she’s very analytical and has—you know, she’s not gung-ho by any means. She follows her father. Her father is not a gung-ho individual. I—I really am glad I went to Dartmouth. I liked Dartmouth. I think it was good that I went there. I can’t say—having not gone anywhere else, I can’t say it would have been any—any better than anywhere else.
+
+And I am, right at the moment, for instance, trying to decide whether I’m going to go to my 50th this June. You know, there’s a whole block of people who always go and are gung-ho, and I’m always, Well, what’s the point? [Laughs.]</u>
+      <u who="PEARL">[Chuckles.]</u>
+      <u who="STEIN">I don’t know.
+
+And several of the people that were—that were my friends—well, my college roommate—he never—never went. I’ve gone to a number of reunions. He never went. Another friend that I still have, somewhat, from college—I don’t believe that he’s ever gone. Two other good friends, including the one that was the pilot—they’re dead. So I don’t have any real strong connections.
+
+And interestingly, when we were there for my 40th, when [Jessica L.] “Jessie”—when my daughter was checking out the school, she says—before we got there, she says, “So who do you know? And who knows you?” And I said, “Nobody.” And then when we were there, you know, all sorts of people came up and said, “Hi, Jeff. What’s goin’ on with you now?” So she was—she said, “Well, people do know you!” And I said, “Oh, that is nice to know that people know me, and I have some idea of who they are.” [Laughs.]
+
+
+
+And our class newsletter, the ’66 Class—the people that do the newsletter do a terrific job, so that keeps me somewhat up to date.
+
+Did that answer your question about my daughter?</u>
+      <u who="PEARL">Yeah, it did. I guess also: What were some of the big differences that you saw on campus now than when you were there?</u>
+      <u who="STEIN">Well, it’s continually building out. I did go to look for my old fraternity, which is no longer there. I think it’s a sorority now. In fact, it is a sorority now. it was DU. And a sorority. That was the 40th.
+
+My—my wife was most interested going and playing Beer Pong, and so she, being totally uninhibited, knocked on another fraternity’s door and—and somehow got us all down into the basement to play Beer Pong with them.
+
+My daughter lived—one of the differences: My daughter joined a—the co-ed fraternity, which, of course, wasn’t there when I was—well, we didn’t even have women. But it was a co-ed fraternity, and then she lived off campus for the last two years, on Wheelock Street [in Hanover], in an old flat above a lower flat that was condemned. And so we—we were not able to do that when I was there.
+
+Of course, there was a lot—a lot of buildings that had been built out, and when I was there, the Hopkins Center [for the Arts] was just opened, and now there’s all the—all the connections to it that have proliferated.
+
+But, you know, in many respects, it’s still—Hanover still seems very much—very much the same. And the ‘66es have supported the building of the [Class of 1966] Bunkhouse at Moosilauke [Ravine Lodge], and if there’s anything that I particularly love, it’s Moosilauke. When we came up for my daughter’s graduation and I—I wanted to have a little vacation, and everybody else wanted to get home or do this or something, I said, “The one place we’re going is we’re gonna spend the night at Moosilauke and hike—hike the mountain.” And we did.
+
+So—and there is—part of the reunion a hike and a reception for the opening of our Bunkhouse that we supported. So that’s an encouragement for me to go to reunion. I really—
+
+I think I told you that part of the reason is—is that our fraternity had a special arrangement with the—with the college, and we got it for Green Key Weekend, two Green Key Weekends in a row while I was there. And those are some of the most memorable events I have of being at the college.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">So I suppose that—that’s a lot of the difference. Of course, it costs so much more.</u>
+      <u who="PEARL">[Chuckles.] Yep.</u>
+      <u who="STEIN">And I had to deal with that with my daughter going there.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="STEIN">Both of us are not particularly focused on money making. [Laughs.]</u>
+      <u who="PEARL">And—</u>
+      <u who="STEIN">Yes?</u>
+      <u who="PEARL">I don’t want to interrupt you there.</u>
+      <u who="STEIN">No, that—I—that was—done.</u>
+      <u who="PEARL">All right. So—
+
+</u>
+      <u who="STEIN">But I still—I mean, today—today I am still—I still speak out against—you know, ISIS is now—we’ve created ISIS, in my mind, and we’ve created a problem we have to do deal with, but I’m absolutely appalled at the fact that ISIS didn’t have to happen. And so I continue to be a moderator—you know, to speak out for diplomacy and every kind of action that—that can be used other than military. But I—I recognize that in some cases, military needs to be used.
+
+I know that with regard to—I do not believe [Israeli Prime Minister Benjamin “Bibi”] Netanyahu has been helpful in—in—in solving Middle East problems. I believe [former Israeli Prime Minister Yitzhak] Rabin was incredib- —I really—another issue is—I just wonder had he not been assassinated, where we’d be today.</u>
+      <u who="PEARL">Yeah.
+
+And you—you spoke a lot about Iraq and Afghanistan and the U.S.’s role today, but what did you think the U.S.’s role should have been in—during Vietnam in 1970, 1969?</u>
+      <u who="STEIN">We should have let—well, first of all, we shouldn’t have deposed Diệm in the first place, through CIA connections, and we should learn from [the] French in the ’50s that we had no business there. And—and there’s a whole promotion, you know, coming—you know, the whole mania from the end of World War II: the House Un-American Activities Committee, McCarthyism [policies of Sen. Joseph McCarthy] and—and communism being this incredibly monolithic threat that we had to confront everywhere, in every jungle and everywhere. And the domino principle was—even during that period, it made no sense to me. If you understand human nature, it just didn't make sense.
+
+So what did I think? We shouldn’t have been there. We should never have gone in in the first place, and—and the people that were—were provided and distorting information, because of their own agendas or limited perspectives or militaristic feelings that that’s the solution to every problem—they—they took us in there, and they ended up killing you know what: 50,000 Americans and—and untold numbers of other people, not to speak of all of the wounded and—and people that ended up with the diseases that followed. I mean, it’s just—it was madness.</u>
+      <u who="PEARL">Mm-hm. </u>
+      <u who="STEIN">So—</u>
+      <u who="PEARL">Yeah.
+
+And very early on in the interview last week, you mentioned that religion causes problems. I was wondering if you could explain that more, how that applied to Vietnam or I guess today, even, a little bit.</u>
+      <u who="STEIN">Well, how it applies to Vietnam—that’s a very interesting perspective. I mean, in many cases, if you look at—whether it’s the Crusades or—or whether it’s ISIS doing what it’s doing, it—the whole idea that people segregate- —hate other people because of their religion or because they feel they have to force their religion on somebody else’s because in order to certify they’re going to heaven—
+
+But with regard to—the interesting thing with regard to communism and the American response is that very much of the American—the people pushing it was the idea that communism was godless and, as it being godless, must therefore have no morality, must have no verisimilitude, and therefore not only—and I think this was a subtext. I don’t think this—this was a—a—a, you know, a constant surface pronouncement, but I think it was a subtext pushing that—that was used for political reasons to push our incursions—is that we were not only protecting capitalism and democracy from this great communist monster that was going to take over the world, but that it was also godless. And—and as a result, we had to protect our God- —our God-fearing society or [chuckles]—truly God-fearing society from the godless monster that—that wanted to take over our—our capitalistic and democratic system. So, yeah, that’s the way I think it—it probably played into the Vietnam political equation.</u>
+      <u who="PEARL">All right. At this point, I don’t have any further questions for you. Do you have any final thoughts or topics of discussion you’d like to bring up?</u>
+      <u who="STEIN">I—I don’t think so. I mean, I—I—I—you know, I don’t know whether—whether my—this interview is—was as exciting as people who were either involved in the—in the conflict that—personally, or those who were so actively involved in—in activism against it, whereas I’ve said I’ve always been a kind of a moderate, and I’m not much of a joiner, and so I—I just did it on my own. And I don’t know if that will be as exciting for people to listen to. [Laughs.]</u>
+      <u who="PEARL">All right, Jeff. Well, on behalf of myself and the Dartmouth Vietnam Project, Rauner Library and the Dartmouth history department, I’d like to thank you very much for your time and your effort for helping us conduct this research interview.
+
+[End of interview.]
+
+
+
+
+
+
+
+
+
+</u>
+    </body>
+  </text>
+</TEI>

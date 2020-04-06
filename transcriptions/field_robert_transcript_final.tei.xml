@@ -1,0 +1,710 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="GOLFER"/>
+        <person xml:id="FIELD"/>
+        <person xml:id="DANYOW"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="DANYOW">Today is August 2nd, 2014. This is Paul F. Danyow interviewing Robert Field. We are at the North Hampton Country Club.</u>
+      <u who="FIELD">Abenaqui [pronounced AB-uh-nak-ee] Country Club.</u>
+      <u who="DANYOW">Abenaqui Country Club, in North Hampton, New Hampshire.</u>
+      <u who="FIELD">In Rye Beach, New Hampshire.</u>
+      <u who="DANYOW">Rye Beach, New Hampshire. Okay, Mr. Field, thank you very much for being here today.</u>
+      <u who="FIELD">It’s my pleasure.</u>
+      <u who="DANYOW">If you could just start off with some basic background: Can you tell me when and where you were born?</u>
+      <u who="FIELD">Yes, I was born in 1943 in San Francisco, California.</u>
+      <u who="DANYOW">Okay, and what were your parents’ names?</u>
+      <u who="FIELD">Robert and Jean [Field].</u>
+      <u who="DANYOW">And what did they do for a living?</u>
+      <u who="FIELD">My father was a naval officer at the time, in World War II, and my mother has always been a homemaker and volunteer.</u>
+      <u who="DANYOW">Where did you grow up? Did you grow up in San Francisco or somewhere else?</u>
+      <u who="FIELD">No, we moved from San Francisco at the end of the war, and I grew up back here in New England, in Massachusetts, in Brockton, where my family had been in the shoe business.</u>
+      <u who="DANYOW">Okay. What was your childhood like? What sort of things did you do as a child?</u>
+      <u who="FIELD">Well, much like every child, I guess, developed, played. We did have the opportunity to go to Cape Cod in the summers, so I became familiar with the sea and the oceans and sailing, so forth. I went off to boarding school when I was in the ninth grade—no, tenth grade, and from there I graduated and went to Dartmouth [College] and was a member of the Class of 1964.</u>
+      <u who="DANYOW">Okay. And which boarding school was it that you went to?</u>
+      <u who="FIELD">Berkshire School.</u>
+      <u who="DANYOW">Berkshire School.</u>
+      <u who="FIELD">In Sheffield, Massachusetts.</u>
+      <u who="DANYOW">Okay. What was your experience like in high school? Were you a good student? What sort of extracurriculars did you do? Did you play sports?</u>
+      <u who="FIELD">Yes, I played all sports. I was—football, basketball and track. I was there a year ahead of myself. I was advanced, so I was always behind the eight ball as far as my maturity and level of learning and was there—I would say I reached my, started reaching my potential in late junior and senior year. By senior year, I had pretty much equalized with the other guys. And that was true both athletically and academically. So my academics was strong enough to gain me admission to Dartmouth, but I probably in hindsight could have done something better.</u>
+      <u who="DANYOW">Okay. Was there any figure that was a particularly important influence for you in those years, a teacher, perhaps, or someone like that?</u>
+      <u who="FIELD">Well, It’s funny you asked. There were two. One was a young fellow by the name of Jim Durham, who had come from Kenyan College, and he was in his first year of teaching, and I had him as an English teacher. And he, the very first day of class, told us that this was his first year, that he was going to learn as much as we did, and it impressed me that he was able to integrate himself with a class with honesty, and the guys really liked him.
+
+There was another teacher, by the name of [C.] Twiggs Myers, who had been at the school for several years. He was a history teacher, and he was revered. He was a bachelor, and he stayed with the school until he just recently died at somewhere around 92 years old. So his love for Berkshire School, for the profession impressed me.
+
+And then there were obviously many others that I’ve met and been influenced by, but those are two from the school that I might single out.</u>
+      <u who="DANYOW">Okay. Cool. So why Dartmouth, essentially? Why was that your choice of college? Was it your first choice—</u>
+      <u who="FIELD">Well,—</u>
+      <u who="DANYOW">—or did you prefer one or the other?</u>
+      <u who="FIELD">—I guess you’d say it was my first choice, although it became a default choice, in a way. I was interested in one point in the [United States] Naval Academy, and my mother had had a father who went to Bowdoin [College], and she always wanted me to go there. My father went to Dartmouth, Class of ’39, and I was influenced by that, and ultimately I think Dartmouth was the strongest choice, although the headmaster, John [E.] Godman, had some thoughts about Yale [University] for me. I don’t think I would have been happy at Yale, and they might not have been happy with me.</u>
+      <u who="DANYOW">Can you elaborate a little bit on that, why you don’t think you would have been happy at Yale and what made Dartmouth kind of the clear choice?</u>
+      <u who="FIELD">I think that Dartmouth to me at that time, with my level of sophistication, seemed to be more open to individualism, whereas Yale I think was more programmed and more socially aware. I was not a socially elite person. I came from a shoemaking town. My family had been in shoemaking all their lives. And so it just seemed like it was a better fit. Plus Berkshire School, where I went to school, was very similar to Dartmouth. It was among the mountains. I enjoy the mountains. And it just seemed the right fit for me.</u>
+      <u who="DANYOW">Okay. Can you talk a little bit about your experience at Dartmouth, in college? What did you study? Were you in a fraternity? Were there any other activities that were particularly important to you?</u>
+      <u who="FIELD">Sure, and you can stop me when I’ve gone on too long.</u>
+      <u who="DANYOW">[Chuckles.]</u>
+      <u who="FIELD">My freshman year was—I got—if I remember right, I selected a room in the Choate dorms, thinking that that was a great deal, and then I found myself somewhere in the outer fringes of the campus,—</u>
+      <u who="DANYOW">[Chuckles.]</u>
+      <u who="FIELD">—and it wasn’t so hot a deal. But I managed to make my way through that, and then sophomore year I lived in Middle Mass [in Massachusetts Row]. My major turned out to be sociology. That’s what I got my degree in. But the alternative concentration or other concentrations were in art history and geography. I have a passion for what you call geography and the movement of goods and services and labor, and so economic geography and Professor [Al] Carlson were real influences on my life. Professor Carlson was the one who wrote a recommendation for law school, and he was a good friend of mine there.
+
+
+
+I’ve always found that even in the law, the factors involved in analytical geography, I guess you’d call it, are important in understanding almost anything in the day-to-day world, and so that was really important to me.
+
+I started off a little slowly academically my first year. I think I was invited to visit with the dean on a few occasions, but I came back strong, and by the end, I had a pretty good average.
+
+From there, I decided I did not want to continue on in school, so at that point in time—with a lot of others in my class—Vietnam [the Vietnam War] was popping up and becoming a real item to be concerned with, and that’s when I chose, or applied for and was accepted in the officer candidate program [Officer Candidate School (OCS)] in Newport, Rhode Island, the Navy.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">Is that close enough?</u>
+      <u who="DANYOW">Yeah, that’s great. Well, I’ll just go on to say I enjoyed Dartmouth for its sociability We had a darn good time. We made our own activities. We didn’t have any deans of extracurricular activities. I was in a fraternity. I was a member of Sigma Nu Delta. I think it may have a different title now, and enjoyed that. And I was a member of the crew. My sophomore year was always a highlight of crew, when we rowed in the nationals and had a very successful season.</u>
+      <u who="DANYOW">Awesome. Okay. 
+
+If I can just go back for one second to this interest in geography you were talking about? Is that something that you think developed through your coursework at Dartmouth, or was it something you sort of already arrived at Dartmouth interested in?</u>
+      <u who="FIELD">That’s an interesting question. No, I was already, I think, interested in maps and where we’re going and why places are located, such as waterfalls or harbors, rivers and so forth, so I’d already always had that interest, but Dartmouth, as I recall—maybe you can tell me—in Baker Library there was some place called the Map Room [now the Evans Map Room]?</u>
+      <u who="DANYOW">I think that’s still there. I’m not positive.</u>
+      <u who="FIELD">Well, it might not be, but, now, that always was a place I would choose to study. Just being in there, I felt like I was maybe communicating better with the world from there, the wider world.</u>
+      <u who="DANYOW">That makes sense. So you already sort of alluded to this a little bit—to what degree was Vietnam kind of on your mind as a student in college in the early ’60s? I would imagine it would have become more important as the ‘60s progressed, but, you know, to what extent were you thinking about Vietnam as a college student?</u>
+      <u who="FIELD">Well, you’ve got to remember, when you think back to that period, there was another incident that was equally important: That was Bay of Pigs in Cuba. So in I think it was 1963, we became very conscious of the possibility of service in the military based upon the threats that the Cuban embargo and the Bay of Pigs presented. So I guess we became aware in the house and other places that the world was not always copasetic. 
+
+
+
+And by the time we were—oh, I guess the summer of my senior year, it became apparent that there was going to be some more problems with Vietnam, and I really didn’t want graduate school. I didn’t think I could maximize the potential of it, although I did take my law boards and that type of thing, business boards. But I decided that the Navy would be a good place to go. My father agreed. He always respected the Navy and loved his service in it.
+
+And so the Navy was good, and I would say that maybe four or five guys from my fraternity house, as well as many others in the class, all went to Newport. And when I was down there in Newport, my class cycle was such that there were probably three guys in my class cycle from a fraternity.</u>
+      <u who="DANYOW">Interesting. Okay.</u>
+      <u who="FIELD">I like boats. I also like boats and everything about the sea, navigation, [unintelligible].</u>
+      <u who="DANYOW">That makes sense. So you mentioned your father’s naval service as a strong influence on you a couple of times, and you mentioned he was in World War II. Can you elaborate a little bit on what service he saw in that conflict?</u>
+      <u who="FIELD">I can. He graduated from Dartmouth and did a couple of things to occupy his time, and then he, too, enrolled in what was called the V-12 program, at the time out at Northwestern University, and received his commission as an officer. And then he was assigned to a new ship that was just going through its sea trials, the USS North Carolina, which is one of several ships that was waiting to be built because of the constraints on the construction of warships at the end of World War II—excuse me, at the end of World War I, created between Europe, Germany, England and the United States as part of the settlement, the armistice.
+
+And so he was assigned to the North Carolina, and he went to—first of all, he married my mother, who was working in the Dean’s Office at Dartmouth. And after they were married in June of 1941, he was assigned to the ship, and lo and behold, in December of ’41 the ship was ready to go to war.
+
+Now, just as an aside for you in speaking about the historical ramifications of service, the North Carolina is—not in service, but it’s a memorial, a monument down in Wilmington, North Carolina. And curiously enough, two years ago my brother moved down there, and I went down and visited the North Carolina, just to see what it was like after hearing a lifetime of stories about it.
+
+And I saw my father’s cabin, which had been below decks, which had been hit by a torpedo, and some other things. he was a signal officer, and I got up to the signal bridge and the bridge and all that. But afterwards, in going through the gift shop, I bought a book. It was the history of the North Carolina. And then I happened to be with my children, sitting at Thanksgiving about six months later, and these were going to be Christmas presents, and I said, “Well, all of you are here. Let’s open up these books right now and see what’s happening in them.”
+
+And in it, we were going through one of those books. We came to a page that clearly showed my father sitting at the wardroom table. I handed it to the kids. I said, “Do you see anything familiar about this picture, or unfamiliar, or interesting?” And immediately they had no question in identifying it had been their grandfather. So that was a small piece of history that, oh, sixty years later I could be looking at a book about the North Carolina, which had a very distinguished battle service in the South Pacific, and that’s a coincidence I don’t think can happen very often.</u>
+      <u who="DANYOW">Yeah. That’s very interesting. I’ve actually been on the North Carolina. </u>
+      <u who="FIELD">You have?</u>
+      <u who="DANYOW">Yeah. I’ve been to that memorial.</u>
+      <u who="FIELD">Well, it was eerie seeing his name listed on the—I guess the plank owners. They have a list of officers who were servicing on the—so you’ve been on board.</u>
+      <u who="DANYOW">I have.</u>
+      <u who="FIELD">It’s a great ship.</u>
+      <u who="DANYOW">Yeah, it is. Very well preserved, too.
+
+Okay, so if I can go back now to your senior year at Dartmouth. Vietnam is on your mind. You have your father’s, you know, naval service as an influence. Can you talk about what the actual application process was like to join the Navy? Was it, you know, particularly selective or was it fairly easy to get in at that point?</u>
+      <u who="FIELD">I’d say it was a combination of the two. I think the military or the Navy was anticipating a need because of Vietnam for a lot of young junior officers, so they were—I wasn’t recruited to go in, but I went down to Boston and went to the 1st Naval District and signed up. And then you have a physical, or see if you qualify, physically qualify. I did that at the Chelsea Naval Hospital and then sat around and waited. 
+
+And they assign you to a class to begin in Newport. My class began at the end of August in 1964, so that summer I painted houses, which was a lot of fun, and I had a few beers at the same time,—</u>
+      <u who="DANYOW">[Chuckles.]</u>
+      <u who="FIELD">—in the good old Dartmouth tradition,—</u>
+      <u who="DANYOW">Of course.</u>
+      <u who="FIELD">—and then went off to Newport one day in August, the end of August, like August 27th. Arrived down there just absolutely scared, not knowing what was going to happen. Worried about and anticipating the worst. And they got a group of us together, and it was a hot day, and they ran us through the induction or the—I guess it was the induction. And we got our uniforms, and the last place we stopped was the barbershop. And then everyone was just stripped right down to the skull from hair.
+
+
+
+And then we were all on a level basis at that point in time, and then we were assigned to our company, and we had a chief petty officer and a regular line officer in the Navy, who were in charge of those.
+
+And in Newport at that time, they were sort of converting from the old OCS to the new, and they had built some new buildings, and one of them was the King Building, and it was a beautiful dorm. It was probably the equal of anything at Dartmouth. I happened to get that, whereas other fellows ended up in old barracks. I think most of those old barracks are gone now.
+
+But it was an intense, 16-week experience, but something I had never realized, that it was a cumulative grading, and if you really did well for about half your training, you’d end up not having to pass another test or do anything else. So they called it “cumed out.” Myself and a lot of other guys were cumed out fairly early.
+
+
+
+But the material was quite interesting, so there was no lack of interest in completing the course, but once you cumed out, you knew you wouldn’t bilge out, which meant that you were removed from the officer candidacy, going into fleet for two years of fleet duty. And the Officer Candidate School was one in which you agreed to three years of service.
+
+And I got out in December. My first duty station was in Brunswick, Georgia. And a little story here. These are all funny little things that occur. In my class at OCS was a fellow by the name of—well, I’ll think of his name in a minute. Jake somebody. And he lived in Jacksonville, Florida, so he said, “C’mon down.” Brunswick is about 50 miles from Jacksonville, so I flew down to Jacksonville and got in on the afternoon of December 31st. My orders said to report on the 31st. So I guess we went down on the 30th.
+
+Well, he showed me around Jacksonville, and we had dinner and all that sort of stuff on the night of the 31st, which is Gator Bowl time, so it was all fun and games. And then I took my orders literally, and I got a late bus, like the 10 o’clock bus from Jacksonville to Brunswick. Hardly anyone on the bus. It was heading up to Savannah. So I get out of the bus, and it lets me off on the road just outside of the gates of the base, and I get out of that and trudge in with my suitcase and my bag to the guard.
+
+And he says, “Well, I have to have the chief on duty come meet you to see what’s going to happen.” I said, “Well, I’ll wait for him.” So I came in, and the chief was irritated that I took him away from the football game. He said, “Oh, my God! What are you doing here tonight? This is New Year’s Eve.” I said, “Well, the orders say I have to be here on the 31st.” He said, “Yeah, but nobody would have cared.” And I said—well, that was my first introduction to how the Navy can be strict and just interpreted by people, and also just how important naval chief petty officers are. They make the rules.</u>
+      <u who="DANYOW">Mm-hm.</u>
+      <u who="FIELD">And then he took me over to the BOQ [Bachelor Officer Quarters], and I mustered in there, and no one else was around. Everyone was watching football or whatever. So I’m there, and I go down to the bar and have a drink, and there were a few people in there, and that’s how my Navy career started.</u>
+      <u who="DANYOW">Okay. Cool.
+
+If I can just back up again for a second to when you were at OCS?</u>
+      <u who="FIELD">Yep.</u>
+      <u who="DANYOW">It sounds like, obviously, the academic component of it wasn’t too difficult for you because you were able to, you know, cume out, as you put it. Was there anything that was particularly difficult, maybe physical training or anything you found, you know, particularly tough about the process?</u>
+      <u who="FIELD">The toughest thing was military discipline. Coming from Dartmouth, you’re more of an individual than the Navy would like you to be, and so some of that stuff wasn’t tough intellectually; it was just tough adjusting to it. But I don’t want to say that it wasn’t difficult, but for a lot of people it was difficult. A lot of people were really struggling to get through OCS, particularly navigation and some of the technical—navigation is probably the most difficult; the rest is just reading books and being prepared every day because there’s pretty much a test every day.
+
+
+
+But the chiefs there—they don’t want you to fail or not do well, so they’re pretty clear on what’s going to be on the test, and they tell you, “Now, really understand this very much.” And so the schooling is—it’s rigorous. When you come out of there, you’re prepared to—I think you’re prepared to learn. You’re very into the Navy then, and you start to—you know what you have to start to learn in the Navy. And then you get your duty station, and it becomes very selective, very identified to the function that you’re performing.
+
+In that period of time in Georgia, I was stationed for training at a naval air station, and I was also being taught what was called NTDS, Naval Tactical Data System. And, by the way, I haven’t told you that I got—I wanted orders to the Boston, USS Boston, out of Boston, but that was an old cruiser, and I thought it would keep me in the region, in New England, where all my friends were. But I didn’t get that.
+
+But I got assigned to the USS Long Beach, which at that time was about four or five years old. Had been built in Quincy, Massachusetts, by Bethlehem Steel [Corporation], and it was a one-off boat. It had experimental radar. They had missile systems that were experimental, navigational systems that were experimental, radio and so forth. It was really a wild ship, just an unbelievable opportunity with a lot of computers.
+
+
+
+I mean, today—we have rooms and rooms of computers. Today it would probably fit on your watch. But back then, it was really unique to see the transformation of a Navy to a computer navy. And so I was taught in NTDS in Georgia, which is the console that controls battle awareness.
+
+That was followed by AIC school, which is Air Intercepts Controls [Air Intercept Controller] school. By doing that, you learned how to operate or work a computer and how to control naval aircraft as it was going to intercept a bogey, which is a hostile aircraft.
+
+
+
+My mind goes back to Jake. It was Jake Ingram. And so what we would do is we would train and go to school in the morning, and particularly in the spring we went for what are called tropical hours, where the workday begins at maybe five thirty or six, and then by two o’clock in the afternoon, you’re through. You go have lunch, and time—time off. But that enabled me—they did have some of the AIC training in the afternoon, especially for the RIOs or radar intercept officers who were going to fly aircraft.
+
+
+
+And so lots of times, many times I had the opportunity to go up and fly the target patterns with the pilots who were helping to train. It was, I’m sure, boring to them, but it was exciting in all get-out for me to ride and actually fly one of these planes at the time. And the planes that we used were, like, Sabreliners [North American F-86 Sabre, sometimes called the Sabrejet]. They were essentially planes built by North American [Aviation]. They were F-86, but they were in—not in civilian mode but in a training mode.</u>
+      <u who="DANYOW">Sure.</u>
+      <u who="FIELD">They were re-equipped inside for four people training and then the pilot and copilot and maybe an instructor. So it was fun to do that, and that was all part of it.
+
+And then recreationally, I had the opportunity to meet people and to stay in a house for a while out at Sea Island, Georgia, and commute in to work. So it was a very good time. And one of my roommates turned out to be one of the—a very influential anthropologist, who is interested in New Mexican—and the Indians down there. And I guess that’s an example of you never know who you’re going to be with or what their real career is going to be. He’s become quite a successful anthropologist in New Mexico, University of New Mexico.</u>
+      <u who="DANYOW">Wow. Cool. So these advanced training schools that you’ve talked about—were these something that you proceeded to before you knew your ship assignment, or were these specifically because you had been assigned to the Long Beach, which was particularly advanced for that time?</u>
+      <u who="FIELD">That’s a perceptive question. When you graduate from OCS, you know what your duty assignment is going to be. And, as I indicated in my article there, we’d go into OCS, and the linebacker of the Navy is like being on a destroyer. That’s the real Navy. And so you’re all there saying, “Well, we’re not going Naval Air, but, boy, I can’t wait to get my destroyer. I really want to have a destroyer.”
+
+And destroyers were reserved for some of the better students. But in the Navy’s wisdom, I got assigned to—I don’t know where the aptitude was, because I was absolutely horrid in sciences out of Dartmouth. I got assigned to the USS Long Beach, and that was out of Norfolk at the time. So when I went to Georgia, they knew that I was going to have to be trained on NTDS and AIC.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">But the interesting thing I’ll just add, in quotes—not quotes but—when I was at Georgia, there were a couple of guys from the Long Beach, who had not gotten the training pre-assignment to Long Beach, and so I got to know a couple of the officers on the ship long before I got there.</u>
+      <u who="DANYOW">Okay. Cool. The Long Beach was nuclear powered, wasn’t it? That was also one of the things that made it—</u>
+      <u who="FIELD">Very clever. Yeah, yeah, it was nuclear, uh-huh. It was one of three ships that were nuclear: the [USS] Enterprise, which is the aircraft carrier,—</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">I think it was CVS-59. And then the [USS] Bainbridge, which was a frigate or a little bit smaller than we were, and then there was the Long Beach. And if you know anything about the Navy, there was a very famous picture taken of those three ships when they wanted to demonstrate the power of nuclear power by going around the world unsupported, and it shows the carrier deck of the Enterprise, with the sailors lined up in whites: E = mc2, which is—it’s a famous picture. I still have one on one of my walls somewhere.</u>
+      <u who="DANYOW">Yeah, I think I have seen that before, actually. That sounds familiar.</u>
+      <u who="FIELD">Yep.</u>
+      <u who="DANYOW">Okay, great.
+
+So can you talk a little bit about, you know, what happened when you—you know, the process from finishing up at these training schools and how you transitioned then to the actual ship and what that was like?</u>
+      <u who="FIELD">[Chuckles.] Abrupt. You finish, and you have—usually, depending upon the distance you have to go, you have three to six days to get there. And I have no idea how I got from Brunswick to Norfolk. Probably airline. And you arrive, you take a taxi to the wharf or to the Navy base, and you’re at the bottom of a large gangplank—not plank but gangway coming from the ship. And you’re fresh in your uniform. Everything is just pressed and all that. You want to look your best.
+
+And you walk up, and you ask, “Permission to come aboard, sir.” And once you come aboard, you’re greeted by usually a warrant officer or, at least on the Long Beach, a warrant officer, who is really the ship’s personnel officer. And he checks you in, and you sign the necessary papers, and he assigns you to a quarters or a cabin. And the first cabin is the kindergarten cabin. That’s because there are four junior officers who occupy it, and they’re all [unintelligible].
+
+My first cabin had—well, I know there was a guy from Cornell [University], a guy from Harvard [University], Roger Sullivan from Harvard. There was an amalgamation of all Ivy League schools. Yale [University] I think was in there, too.</u>
+      <u who="DANYOW">Cool.</u>
+      <u who="FIELD">And they were all bright guys and interesting guys to be with, and all with various interests, really wildly interesting. And all with different backgrounds, or most with different—or very different backgrounds.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">If I’m not saying enough or if I’m saying too much, tell me.</u>
+      <u who="DANYOW">No, it’s fine. I’m just pausing to kind of think of where I want to go next. What was your initial division assignment? What was your role on the ship that you were assigned to when you got there?</u>
+      <u who="FIELD">Well, you’re pretty smart there, asking about divisional assignments, because that’s what they call them on a ship. They are divisions. I was assigned to operations and, more specifically, I had CIC, Combat Information Center. And our role was down in the bowels of the ship, verifying everything the bridge was doing way up on the tower. If we were in real war, that’s where the war would be run from, the boards, the information boards, the computers. The captain wouldn’t be down there, but he’d have the operations officer was down there, and a lot of activity goes on when you’re actually busy doing something like that, incoming hostiles, outgoing flights. It’s a busy place.</u>
+      <u who="DANYOW">Okay. And can you describe, maybe in a little more detail, what your specific role was within the CIC in terms of—I mean, as an officer, did you have enlisted men you were managing in the CIC, or were you playing a more direct role, yourself?</u>
+      <u who="FIELD">I had a division. I was the division officer. There were probably about 20 sailors in the division. They were all—again, mostly—fairly—not fairly; they were very technically competent and all very bright. Most of them hadn’t gone to college, but there were a couple of boys from the South that I really wanted to see—they were bright men. They were African-American and obviously had limited opportunity. But you could see the potential in them, and I would encourage them to go to college.
+
+But I was a CIC officer for my day job, and then, in addition to that, I was qualified for Officer of the Deck, which means that I would stand watch down in CIC and then have my regular bridge watches, which was a very exciting thing because if you think of how long ago—the ship was built for something like $450 million, and over 50 years, whatever it’s been, the dollar value I guess is really eight or nine times that, so probably it was a three-and-a-half-, four-billion-dollar piece of equipment that was placed in your charge for eight hours a day. [Chuckles.] I can’t believe that.
+
+
+
+But you learned a lot. You learned fast, and I happened to have good captains, one of whom—well, both captains became admirals, and one of my XOs [executive officers] became chief of naval operations, so I had—and the senior officers appointed to the ship or assigned to the ship were also pretty high quality.
+
+
+
+I worked for Admiral Zumwalt [Elmo R. Zumwalt Jr.] at one time. I have met Admiral McCain [John S. McCain Jr.] and dealt with Admiral Rickover, Hyman [G.] Rickover, the nuclear guy. And then CINCLANTFLT [Commander-in-Chief Atlantic Fleet]—I’m trying to think. Moorer, Tom Moorer [Thomas H. Moorer]. So I had a chance to see senior officers, who were going to advance to the most senior positions, in operation and see how they made decisions and how they acted. And that was always very helpful.</u>
+      <u who="DANYOW">When you were the Officer of the Deck, kind of, on your bridge watch, were you responsible for maneuvering the ship, or were you more kind of watching over everyone else? What was your exact role when you were the Officer of the Deck?</u>
+      <u who="FIELD">Well, it’s a good question. You have an Officer of the Deck for steaming, and you have an Officer of the Deck for General Quarters.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">And they’re two different functions. The General Quarters Officer of the Deck is somebody who is very senior, very experienced. An example of that is when the [USS] Kitty Hawk, I think, had a fire. And I have a cousin—[unintelligible] has a cousin who was Officer of the Deck, and he stayed during the whole crisis. He was there for about 20 hours. He did not relinquish his—well, they went to General Quarters, so that’s why he stayed there.
+
+The Officer of the Deck is delegated that responsibility by the captain. You have to go through a qualification process, and on the Long Beach that entailed also becoming qualified for nuclear emergencies, which were important to understand.
+
+As a steaming officer, you have instructions from the captain and the navigator as to what time you make a turn and where you make a turn. You’re plotting your course, or the navigator, assistant navigator or one of his men, quartermasters are plotting the course all the time. You keep the log. You don’t have—if you were going to hit something, I mean, you would have authority to change course and all that, but otherwise you follow your instructions.
+
+And there are Standing Orders, and then there are Orders of the Day, and so the Standard Orders, like, might be—an example would be if you were going to come to closest point of approach with any other ship, there’s going to be less than 2,500 yards, notify the captain. That would be a Standing Order. “Steam course 337 until 18:30, and then come to another course.” That would be the Order of the Day.
+
+And the captain, during the night, had a steaming cabin, and he would be right up there, just off the bridge in the cabin, and if you had any questions or had to alert him, you would do so. Your Standing Orders generally were the ones that you would cause him to be awakened. And if you said, “We’re going to come within 2,400 yards of a ship that is proceeding along our course at” some speed, and then he’d say, “So you’re both going in the same direction?” “Yes.” “Do you have any problems with it?” “No.” “Okay, very well. Thank you. You told me.” And then if it was closing on us, he might get up and look out and just check the situation.
+
+So I guess that’s the way it works. And then some of the exciting times are up there when you’re replenishing at sea, and that is not a General Quarters. I’ve done that. You go along. You come within touching distances with another ship, and that’s pretty impressive to try to do that.
+
+And then when you have—if your weapons are being used, you’re generally at General Quarters for weapon—and the missile firings. I’ve seen those. And then we can get to the job that the ship did in Vietnam, but it’s all part of the process of learning to, as I say operate a $5 million, $5 billion piece of machinery.</u>
+      <u who="DANYOW">Sure. Yeah. I mean, the ship was, it sounds like, very much at the cutting edge—</u>
+      <u who="FIELD">Yeah.</u>
+      <u who="DANYOW">—in those days.</u>
+      <u who="FIELD">Yeah.</u>
+      <u who="DANYOW">Cool. Okay. So obviously the Long Beach eventually ended up in the Tonkin Gulf [Gulf of Tonkin] with you on it, but it had been stationed at Norfolk. Can you kind of fill in what the ship had done in the period between that?</u>
+      <u who="FIELD">Yes. The ship—after I joined the ship—</u>
+      <u who="DANYOW">Yeah.</u>
+      <u who="FIELD">—from OCS, it had one more sort of—</u>
+      <u who="GOLFER">FORE!</u>
+      <u who="FIELD">We’re at golf club here, folks [chuckles], if you hear that. But it’s beautiful.
+
+We had an assignment to go down to Puerto Rico and fire some missiles, just to see—get that training in. So we went down to a place called Roosevelt Roads [Naval Station] in Puerto Rico, the eastern end of Puerto Rico. And there were two islands, Culebra and Vieques, which were big arsenals, and the Navy would drop bombs there, and it was just a shooting range. And also they had the missile range down there.
+
+Well, that was really exciting to have an opportunity to do that right off the bat. It was, like, three days after I got to Norfolk we set out for that trip. And you go through your first experience in seasickness and being at sea and how that can be routine with moments of excitement.
+
+And came back, and then the ship was scheduled to go into the Newport News Shipyard for refueling, and nuclear refueling is about a six-month process, and we got new equipment, and all this time, as you alluded to earlier, in 1964, the situation in Vietnam was becoming more acute. It was now well into 1965, and the advisers are in Vietnam, and it was starting to get messy. And daily the carriers out there were beginning to take on a very specific role in assisting what was going on.
+
+So we went into the shipyard, and during that period of six months in the shipyard, I went to, it seemed like, every conceivable school the Navy had. Most of them were out at a place called Dam Neck, Virginia, which is right out near Virginia Beach. The interesting thing about Dam Neck, Virginia, is, I’m told, although I’m not sure I can personally verify this, that that was where Osama bin Laden’s—not fortress but where his compound was reconstructed and where the SEALs did all their training for the Osama bin Laden attack.</u>
+      <u who="DANYOW">Huh! Oh, wow!</u>
+      <u who="FIELD">I’m not surprised it was out there, but at the time I was there, it was really a school for the fleet, and there were no SEALs—there weren’t any SEALs then. They were UDT [underwater demolition team]. And nearby to Dam Neck was Oceana Naval Air Station, and the lust for Naval Air became very clear to me. I could just imagine, having had my time down at Georgia, and then coming up to see the F-4s [McDonnell Douglas F-4 Phantom IIs]—I guess the F-4 was a hot plane, and the [F-]86s taking off from Oceana, and I became very lustful.
+
+The Norfolk Naval Station had Norfolk Naval Air Station, too, and the planes—they did a lot of repair work on planes there. But the Navy really got hold of me. It grasped me, and that experience.
+
+And then when we left the shipyard—it’s during the winter. I can remember the James River iced up. Oh, and one of the other interesting stories is before going into the shipyard, we had all of—our weapons had to be offloaded before we went in the shipyard, and we went up to Yorktown, Virginia, and Yorktown is a naval weapons station, and I can’t confirm or deny—or I can deny but I can’t confirm anything about nuclear weapons,—</u>
+      <u who="DANYOW">[Laughs.]</u>
+      <u who="FIELD">—but we had a lot of Marines on board, who were very concerned about the severity of some of our weaponry. And we went into Yorktown, and I oftentimes tell the story that we had the first satellite navigation system, which was called an SRN-9, and there were three of them in the fleet, and we were one of them. And we went in there, and at eight o’clock every morning you’re supposed to report your position to the Department of the Navy. Every ship in the Navy does this. So people worry about that, taking the star sights and all that. But we had the SRN-9, and I tell people it didn’t just put us on the East Coast, it put us in Yorktown’ not only in Yorktown but at the pier; not only at the pier but the right side of the pier at the proper end. It was that accurate—</u>
+      <u who="DANYOW">Wow.</u>
+      <u who="FIELD">—even back then. But it didn’t work so well, as well when we were in motion. It hadn’t done all the computations for that. But it was sort of interesting that we could plot our position right to the very point on the dock.
+
+Well, anyway, we went into the shipyard, came out, and then we had to go through fleet readiness on the East Coast, and then we were assigned to go to the West Coast, to change home ports. We were switched or altered from Norfolk to Long Beach, California, the name of the ship. And so we prepared for that trip.
+
+And then at the schools I had been to, I had gotten to know a lot of Australian naval officers, who were training, and so I got to know the guys from the HMAS, Her Majesty’s Australian Ship, Hobart. And they were hot tickets, a lot of fun. And we sort of—as ships, they had bought—this is one of three ships they bought from the United States, and they were just learning how to operate some of the systems.
+
+Well, we went through the Panama Canal together and to the West Coast, and they went up to Long Beach, and during that time I had the opportunity to work with the Hobart and some of the guys that I had met before, teaching them some of the system.
+
+So going south, going through the Caribbean, going through this Panama Canal and up to Long Beach was really a very interesting experience, pretty straightforward but interesting nevertheless. And the Panama Canal is an experience going through. It’s quite an engineering feat.</u>
+      <u who="DANYOW">Yeah. Yeah. Definitely.</u>
+      <u who="FIELD">So I wandered a little bit on that answer.</u>
+      <u who="DANYOW">No, that’s okay. One thing that you mentioned, which I thought was particularly interesting, that I wanted to go back to is this—you called it the lust for Naval Aviation that you developed—</u>
+      <u who="FIELD">Yeah.</u>
+      <u who="DANYOW">—when you saw the jets at Oceana. Had an interest in Naval Aviation ever been on your radar before that? No pun intended, but had you ever thought about it during OCS, or was it really just then that it sort of occurred to you?</u>
+      <u who="FIELD">Well, I guess you think about it, because there are some guys selected and going into it, making a choice, but when you get to the school like down at Brunswick, Georgia, at [Naval Air Station] Glynco, you run into guys from the Academy, the Naval Academy, and other who have made a conscious decision to either go Black Shoe or the aviation with green—the aviation greens. And so they have already been selected or been through the process, because a lot of the Academy boys go to Naval Air, to Pensacola, and go in Naval Air right away.
+
+So at Dartmouth I never thought of Naval Air, and during the summer of 1964, I never thought of it. I did start thinking more about it at OCS and certainly down in Brunswick, flying around with the pilots, and being friends with pilots I thought about it. But I had pretty good duty on the Long Beach. I mean, by that time, I was in a two-man stateroom, and aside from a cracking bulkhead, which any motion of the ship would snap this metal sheet—you don't want that.</u>
+      <u who="DANYOW">Yes.</u>
+      <u who="FIELD">In storms it was just like every five seconds you’d get a whack, whack, whack.</u>
+      <u who="DANYOW">Uh!</u>
+      <u who="FIELD">But we had good food, good wardroom, good duty, good people, and so I didn’t think Naval Air too much, but I knew it was always—something I thought about possibly doing at some time.</u>
+      <u who="DANYOW">Okay. Fair enough.
+
+Can you take me now through the transition from being home-ported in Long Beach and how the ship ultimately deployed to Vietnam and what occurred in that process?</u>
+      <u who="FIELD">I can. The first thing is you change girlfriends if you’re not married. Girlfriends don’t fly from coast to coast very easily.</u>
+      <u who="DANYOW">[Laughs.]</u>
+      <u who="FIELD">So I found new girlfriends, and [unintelligible] more training and more training down at San Diego, so there’s a lot of training going on. What I think I can tell you, and what I say in my Dartmouth essay or my Vietnam essay is there is a level of awareness that you’re at war that accelerates as you went west. The East Coast, you had an occasional carrier coming back and an occasional destroyer that would have gone to the—but that was very much the exception. The Mediterranean influences—that was the Atlantic Fleet. It was not really a 7th Fleet, Pacific focus. Only the carriers, basically. 
+
+And then you get to the West Coast, and you have your surface ships, and a lot of the training for the swift boats and the river warfare starts to take place. Ships are coming, going from Vietnam all the time, and there’s much more awareness there.
+
+And then with our ship, we were there—oh, it seems like we were there probably about four months, four or five months going from the East to the West Coast and training, because we left for Vietnam in November or December of ’65, I guess.</u>
+      <u who="DANYOW">Mm-hm. </u>
+      <u who="FIELD">Yeah, that would be about it. If I’m off a year, I’m off a year, but—and we went via Hawaii, Pearl Harbor. And that was—getting back to the Officer of the Deck, that was a particular thrill. Our height of the bridge on the Long Beach was extraordinary. It was 110 feet above sea level.</u>
+      <u who="DANYOW">Wow.</u>
+      <u who="FIELD">And there was a real tower, and it rolled laterally because of the heavy weight of the radar that was built into the tower, and the Long Beach and the Enterprise had the same radar systems, and if you’ve seen either of the ships, you know those are the only two that actually came out looking like that.</u>
+      <u who="DANYOW">Yes.</u>
+      <u who="FIELD">So you’re really up there. And coming into Pearl, you go through—you navigate through the reef, heading to Ford Island, and then there’s several turns you have to make to get to the berthing area of the harbor. 
+
+Well, one of the exciting moments of my life was happening to be up there as Officer of the Deck, taking the Long Beach in through the reef that you go through to get into the harbor, and you wind up on a range, and—ranges are two markers separated by distance and height, and you try to keep in line. And if you spray either side of it, the two markers are going to start to separate and you want to get it back into conformance.
+
+Well, there are, as I recall, about six ranges that you have to operate with when you’re on the bridge, going into Ford Island, to the mooring area. And going through the coral reef is really something because you think you’ve just got about two feet on either side of you from that height, but really you probably have about a hundred feet to the side.</u>
+      <u who="DANYOW">Hmm.</u>
+      <u who="FIELD">Maybe not that much. But it’s still an exciting moment.</u>
+      <u who="DANYOW">Yeah.</u>
+      <u who="FIELD">And you asked me—where are we now? You’ll have to bring me back to—</u>
+      <u who="DANYOW">Sure. Well, actually,—</u>
+      <u who="FIELD">I’m reminiscing now.</u>
+      <u who="DANYOW">Before that—now another question just occurred to me. These arranges you’re talking about—are they—</u>
+      <u who="FIELD">Range.</u>
+      <u who="DANYOW">Range, yeah. Is that an instrument on the bridge or is it some sort of buoy?</u>
+      <u who="FIELD">No, it’s no shore.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">It’s on shore, and at night there are two lights, and on shore they are usually two wooden, large wooden panels. And what you do is you have one down here, and if you see it starting to move relative to the panel up here, to the right, it means you’re getting off course, and so you want to bring it back so that they line right up with each other.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">Follow me?</u>
+      <u who="DANYOW">Yeah. That makes sense.</u>
+      <u who="FIELD">Essentially there are a couple of places down around the island we go to in the summer that has little ranges developed for their getting in and out of some tricky little harbors, and Portsmouth, New Hampshire, has a big range. It’s over on the Kittery side, so if you’re lining up to come into Portsmouth, you line up ranges and then make your turns.</u>
+      <u who="DANYOW">Oh. Okay. Cool.
+
+So were you at Pearl Harbor for any period of time or was it a rapid transition?</u>
+      <u who="FIELD">Short period. I knew where I was taking you. It was a progression of combat awareness.</u>
+      <u who="DANYOW">Yeah.</u>
+      <u who="FIELD">Pearl—we had a ship that was originally supposed to be a  surface Polaris launching vehicle, which is really crazy, when you think about it, or at least now it would be crazy because it’s so vulnerable. So what we did is we didn’t really have any self-defense mechanism on our ship for the threat we were going to face, which was—we thought we were going to face, which was high-speed surface craft, which was the [USS] Maddox and the [USS] Turner Joy experience that they had, or allegedly had.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">So we had high-speed—we couldn’t defend ourselves against that, but we had the Talos missile, which was a missile that was effective out to 115 miles, and then Talos, which was, like, 40 to 60 miles. We did not have Tartar, which was the short-range missile, and those were the three missile systems at the time.</u>
+      <u who="DANYOW">Okay.</u>
+      <u who="FIELD">Talos, Terrier and Tartar.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">So what we had to do at Pearl, and where we really started to become conscious we were going to go to war, is they started affixing 50-millimeter machine guns [.50-caliber machine guns] all over the ship, putting in these machine gun posts. And we said, “Oh! Wow, that’s really pretty interesting.” And we got about maybe six emplacements of those. And those are the—and we did have five-inch guns, but they were ineffective. They were amidships, and they were limited, their range that they could go, although you could turn the ship, but they weren’t, like, on a swivel where they could fire at all positions.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">And they were certainly not maneuverable to fire at a fast boat or something, a PT [patrol torpedo boat] from the enemy. And so we got those. 
+
+We also then—oh, yeah, okay. In Pearl we got those—we’re still talking. And then from there—we left after getting those. And then we went over to Philippines, to Subic Bay. In Subic Bay, the uniform—we even changed—basically changed uniforms. You go to fatigues, and we went to khakis almost all the time. No more blues, no more whites, for the most part.
+
+And at Subic Bay the UDT, or the pre-SEALs types of teams, were all training in the mountains and the hills there and  doing all sorts of stuff. So you got to meet them. And also, because of the nature of what task we were going to have, I also spent a lot of time with [Naval] Aviators because our job was going to be to monitor all the launches that went from the Navy ships that went in over North Vietnam.
+
+
+
+And by this time, we were—there was a lot of activity. We were bombing, and things were happening. [Lyndon B.] Johnson was president then, and he accelerated, as you know, from your course—[President John F.] Kennedy was mostly advisers, whereas Johnson started to put feet on the ground and accelerate the war and wanted to win it.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">And so our job—I’ll switch to—maybe you’re coming to this, but our job was to be up near North Vietnam, near Haiphong, which was the port of Hanoi, and then the carriers were 110, 150 miles further down in the gulf, and they were generally—it was called Yankee Station. And Yankee Station was divided into three quadrants, which was a little bit like a peace symbol [chuckles], and the ships operated within those quadrants, but those quadrants were 50 miles or so. They were big areas.</u>
+      <u who="DANYOW">Okay.</u>
+      <u who="FIELD">But getting now back to why we had machine guns placed on board, we didn’t have any defensive capability, and so we had to have assigned to us, to defend us, a destroyer. And so we were the first ship out there that had an escort like that. The ship that preceded us, which was first PIRAZ, was a frigate, and it didn’t need that sort of a protection.
+
+
+
+And when I was—the PIRAZ—I think, if I ever mentioned it, was Positive Identification Radar Advisory Zone, but PIRAZ was in the records. I’ve looked them up online, and there’s a discussion about this era in Vietnam and this particular function. And Navy carriers launch maybe 40 to 50 planes at times, and maybe that’s a larger number than—well, no, there were probably three or four squadrons. And these planes were striking North Vietnam.
+
+</u>
+      <u who="DANYOW">Mm-hm. </u>
+      <u who="FIELD">The same thing that John McCain—when he was shot down. They were A-4s and F-4s, primarily, with intelligence planes, photographic planes and so forth flying with them, and tankers. And our job was to keep track of them after they had launched, take them into Vietnam, north Vietnam and then record them coming out, making sure there are no hostile aircraft with them. </u>
+      <u who="DANYOW">Mm-hm.</u>
+      <u who="FIELD">And making sure they were comfortable with their load of fuel, and if they needed fuel, we would take them to a fueler. And this is why the AIC training, because, although I wasn’t, at that point in time, too much involved in linking them onto enemy aircraft, they did have to link up with tankers. 
+
+And you may find it interesting. The Navy method of tanking or taking on fuel differs from the Air Force. The Navy has a long cord, the large cord tube, with a funnel at the end. And the Navy plane has a probe that’s set on the plane, itself, to fly the probe into the cup, and you suck out the pounds of fuel and then fly away.</u>
+      <u who="DANYOW">Mm-hm. </u>
+      <u who="FIELD">And the Air Force does it exactly the opposite. They have a receptor on the plane, which is fueled by a big arm that comes out of an Air Force plane, and that arm has an operator in the Air Force tanker, and he sets that, flies the arm into the receptor on the aircraft. It’s too bad I can’t—well, maybe I could. I could find out. But they have a base here in Portsmouth, which used to be Pease Air Force Base; now it’s Pease International tradeport. They have a squadron or a flight wing there of refuelers. They do the trans-Atlantic flying.</u>
+      <u who="DANYOW">Oh, okay.</u>
+      <u who="FIELD">And I’ve been up with them a dozen times, doing refueling, and it’s really an exciting moment. And these guys and gals who operate the booms are amazing. And you have eye contact with the pilots right below you, maybe 25 feet. You’re both flying at 300 knots, and when you look at one of those B-52 or C-5, these huge, huge planes, you just can’t believe it.
+
+
+
+Well, anyway, we used to refuel the Navy guys coming off station, and making sure they weren’t being chased. When they were chased, which happened on occa- —I’ll get to that—then they’d go back under control of the carrier, and they get out and land, and do it again in the afternoon or the next day.
+
+There were times where, out of Haiphong, which was the—excuse me, it was not Haiphong, it was up around Hanoi. The North Vietnamese had an airbase, and they would chase our returning aircraft, and they’d go chase them really hot for about 50 miles, and we’d have to get prepared: “Oh, here it comes. This is gonna be it.” Then all of a sudden they’d turn, turn off and then fly back.
+
+
+
+Now that I think about it, we had a group on board—we called them spooks, and they were very highly secret radio operators, and they had all their equipment. They had a private part of the ship, where they were allowed in. They didn’t eat in our wardroom or anything like that.</u>
+      <u who="DANYOW">Hmmph.</u>
+      <u who="FIELD">And it’s probable that those guys were listening to the air controllers on those planes and knew exactly when and where they were going to turn off, because we never—we didn’t enter into a combat situation at any time with them, although there were occasions where we took down some flights going down the coast or little bombers, but—and the Long Beach was the first ship to take down a hostile aircraft with a missile, but after us. I wasn’t on board then.</u>
+      <u who="DANYOW">Okay. Just one more question I have before we break for lunch, I think?</u>
+      <u who="FIELD">Mm-hm.</u>
+      <u who="DANYOW">So in this kind of process—you were talking about this kind of growing awareness of war as you transited from the East Coast to the West Coast.</u>
+      <u who="FIELD">East to West and Pearl—</u>
+      <u who="DANYOW">And then west to Pearl.</u>
+      <u who="FIELD">—the Philippines, and then into the Tonkin Gulf.</u>
+      <u who="DANYOW">Exactly. I mean, during that process, is there any question in your mind—obviously, you’re an officer. You have to obey your orders to go and, you know, then serve on the ship there. Were you at all kind of questioning the veracity or the justness of the war at this point, or were you just thinking, you know, we have to—</u>
+      <u who="FIELD">No, quite to the contrary. I was—what they used to say—you know, we were all Nav, all Navy. And we believed in our cause. No, there was no question at all about the legitimacy.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">The Turner Joy and the Maddox really hadn’t been explained well, but—and I think that continued up till around the Tet Offensive, and then there was a major change with Tet, because you knew at that point in time this was not a win it type of thing. It was really political. All other forces and dynamics going on around you, and we were puppets on a stage.</u>
+      <u who="DANYOW">Okay. Cool.
+
+[Recording interruption.]</u>
+      <u who="DANYOW">Mr. Field, you mentioned during lunch how the television program, Victory at Sea, had been a particularly strong influence on your interest in the Navy at an early age. Could you speak a little bit more to that?</u>
+      <u who="FIELD">Sure. My father served in World War II at the [unintelligible]. He was called back from Korea to Washington, D.C., at which time the series, Victory at Sea, was being produced, and Richard Rodgers had created this great music to accompany it, and on Sundays the family would all gather together, and we’d watch that because those, along with other films that my father was able to procure from the Department of Naval Research [Office of Naval Research], really sort of entertained us at home. So I guess a small boy’s entry into the world of the Navy and fighting ships and combat at sea.</u>
+      <u who="DANYOW">And would you say that was kind of another one of the influences that played into your decision to consider the Navy when you were pursuing military service after Dartmouth?</u>
+      <u who="FIELD">Oh, subliminally. I mean, it was long past that time, but I wouldn’t have had that [unintelligible] in mind.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">But it did, as I think I had mentioned—little boys play Army; they don’t play Navy. At least we didn’t.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">And the concept of the Navy was just brought together in those Victory at Sea films.</u>
+      <u who="DANYOW">Okay. Great. Thanks.
+
+So when we broke for lunch, we had talked about how you and the USS Long Beach had transited across the Pacific. From California you went to Pearl Harbor, then to the Philippines and then finally on station to the Gulf of Tonkin. So if we could go back now to when the Long Beach was in the Tonkin Gulf, could you take me through what a typical day for you might look like when you were deployed in the Tonkin Gulf?</u>
+      <u who="FIELD">Well, there’s an expression in Mister Roberts of flying between apathy and tedium with short trips to monotony. Being in naval service at sea,—even at time of war, there’s a lot of monotony and a lot of time where nothing is happening. And the military really exists as an entity that responds to crisis, and you have to have a strong military in training and Navy in training just for the occasional time that you have the crisis to address. In war, obviously, crisis happens more frequently.
+
+So what I would say is being on station, the day would be—well, first of all, there is no day. The day is 24 hours, so you have watch sections that you serve. Usually when you’re not in a high level of watch state, like General Quarters, you have two watches a day, and then there is—they’re broken up as you go—you have four watch sections: two watches a day, and they are four hours each.
+
+And then they have what they call the last watch of the morning, which is two hours, which causes a rotation of your four-hour cycles, [unintelligible] each time you have that watch—I’ll think of it in a minute, the name of it. I can’t think—
+
+
+
+So generally the day would start with reveille or six thirty, quarter of seven. If you were on watch, it was just like any other day; if you weren’t, you’d wake up, shower, shave and then go to the officers’ wardroom. The wardroom is the eating facility for naval officers, and it was attended to by generally Filipino individuals, who were there—what am I thinking of? Filipinos—well, they would care for you—stewards, Filipino stewards.</u>
+      <u who="DANYOW">Okay, yeah.</u>
+      <u who="FIELD">And they would serve the meals, and they’d be cooked in the wardroom, and then they would also take care of your quarters and take your clothing to the cleaners and so forth. What they didn’t do anymore at that time was shine shoes, and today they don’t exist anymore, from what I understand except for the most senior officers. But that was a very elegant way of living in the Navy.
+
+And the Navy was always viewed as a very sort of sophisticated branch of the armed services. To be a naval officer, you had to be a college graduate for a long while, or nearly, with very few exceptions. Had to be a college graduate. And it was, in its way—because its function—a diplomatic force. So the ships would go around the world, and the Navy ships would represent the United States in various theaters, countries and so forth.
+
+
+
+We had that duty on a couple of occasions, once in Australia and other places—you know, Hong Kong and so forth. But anyway, you’d wake up, and you’d go to breakfast, and then you’d go to what you would call your primary duty station, and that was CIC, so I’d stand my CIC watch from, oh, eight o’clock until noon. You’d have lunch again in the wardroom, and after that you would have your further watch or your primary duties.
+
+And then mixed into that were always watches on the bridge. You were serving one and four, if you were the bridge officer, and the Officer of the Deck. And constantly repeated, day after day, with movies. We didn’t have videos or anything like that. We had movies in the evening in the wardroom, which would start about 19:00, or seven o’clock, maybe 20:00, eight o’clock.
+
+
+
+I used to really enjoy one part of the day, is after we’d have dinner in the wardroom, this other fellow and I would really like to just—to clear our minds, go outside, get on one of the gun decks or the missile decks, and just, as we were proceeding at, like, 20 knots, 25 knots, just soak up the evening sun, the sunset. And you’d watch it from the ship, and it was really quite head-clearing to get out there and just enjoy the ocean. And the ocean is quite a beautiful place to be, except for when you’re in storms.</u>
+      <u who="DANYOW">Hmm. That makes sense. Okay.
+
+
+
+So you mentioned, I think, briefly kind of this idea of the Navy as a diplomatic force and of putting into ports. Can you talk a little bit about—I mean, I’m assuming you weren’t constantly on station. You would have gone to liberty ports during that Pacific cruise? Can you talk a little bit about that?</u>
+      <u who="FIELD">Well, when we were in the West Pacific, WESTPAC, we were stationed primarily in Subic Bay, which is in the Philippines, which is a mountain range away from Manila. And the Philippines is very much of a third-world country. It’s not a real nice place to be. But the Navy base was pretty nice, with swimming pools and residential units for people who stayed on the base, and repair facilities, and there was an aviation air base in the Philippines, at Subic, called Cubi, Cubi Air Station [Naval Air Station Cubi Point]. 
+
+And the pilots would be in there—most of the planes that came into the port were all flown to the shore base from the area, before the carrier came in, so they wouldn’t have a lot of aircraft on board an aircraft carrier, primarily, I suppose, to—if there was an attack—not an attack but just for safety and security purposes, keep them separate.</u>
+      <u who="DANYOW">Yeah.</u>
+      <u who="FIELD">And we would—I think at Subic Bay there were four officers clubs that you had a chance to go around. And Subic Bay wasn’t what I would say an opportunity to conduct much diplomacy. It was pretty tough, pretty rough.</u>
+      <u who="DANYOW">Were there any other ports you visited in the western Pacific, like Australia?</u>
+      <u who="FIELD">Yeah. We did get to do that. We had two sort of non-Subic ports in that deployment. One was to Sydney, Australia, and the other was to Hong Kong. In Sydney we went in there, and the harbor at Sydney—getting back to geography—is much like San Francisco. It opened into a large body bay, to a huge—I think it’s body bay—a huge interior area of water, of harbor.
+
+You go past Sydney Heads, which is like going through the Golden Gate [Bridge], although they have no bridge there. Big city bridges further in town. And I can remember distinctly. We were going through there, and they had one of the Australian bands was up on one of the cliffs, playing “Waltzing Matilda” and all the songs that you’d expect to hear.
+
+And we went in, and were, again, nuclear power, so we were limited sometimes where we could go. But we went in and moored off and were there for about four or five days, and it was sheer enjoyment. Got a chance to go to see an Australian rules football. The usual nightclubs and parties.
+
+But one of the interesting things was going down to Subic from the Philippines is about, maybe a four-day trip in itself, and the only reason we went down there is we didn’t have to be refueled, so it didn’t require a refueler to be out there. We weren’t using assets for ourselves that wouldn’t have benefited other people.
+
+So on the way down, the commanding officer, Capt. [K. C.] Wallace, decided that the officers of his wardroom would each prepare a lecture on the military or the naval war, World War II, going down through the slot,  past New Guinea and all of the islands going down toward Guadalcanal. We had a very solemn cemetery [ceremony] at the Iron Bottom Bay [Iron Bottom Sound], which we—Savo; I think it was Savo Island. And we laid a wreath and the whole crew came up on deck, and we were in dress uniforms, honoring the several thousand men who lost their lives there in Guadalcanal, which, incidentally, if you ever read a book, try the naval history of Guadalcanal.
+
+It begins pre-radar almost, when they had these small destroyers, who—Richmond [K.] Turner and some of the other great admirals, who—Arleigh [A.] Burke—took these tin buckets against the biggest ships the Japs had,—</u>
+      <u who="DANYOW">Mm-hm.</u>
+      <u who="FIELD">—Japanese had. Probably shouldn’t be using Japs, but the Japanese had these big Yamato [Yamato class of battleships], and we realized how close we were to losing the war right at that point.
+
+But anyway, we then went down through the Coral Sea to Sydney, and the thing I remember about going through the Coral Sea, near the coast, Brisbane and all those others, was the luminescence of night lights, of the signal lights, light houses, light towers. And you’d just use your charts and try to measure when you should be coming into eyesight of one. And we used to play a game as how close we could come to when we would actually see the light as you’re coming up over the horizon. And we got pretty good at it. It’s all measured. You can, it’s on charts, the height of the light, the power of the light, the frequency of the light. And you pretty soon can determine how soon—how you’re going to get there and when you’re going to get there.
+
+And we got down there to Sydney, went through Sydney into the harbor. The biggest incident that happened in Sydney was—we did have a diplomatic sort of mission there, where my commanding officer and I traveled up to Canberra for a meeting. He was checking in with the American Embassy, and we went up there on an overnight to pay our respects to the people we were supposed to, as well as paying respects to people in Sydney. So, being blessed with his favor, I got a chance to do a little bit of that with him.</u>
+      <u who="DANYOW">Cool.</u>
+      <u who="FIELD">And then the really odd thing that happened in Sydney is we had tours off the ship on two days, and on the last day, a young Australian female decided she was going to stay and take the trip back with us, so she went up to the admiral’s quarters. He wasn’t on board, but she found herself in a stateroom up there and wasn’t discovered until we were back at sea.</u>
+      <u who="DANYOW">What did they do with her? Did they ship her to shore somehow?</u>
+      <u who="FIELD">Yes, the helicopter came out.</u>
+      <u who="DANYOW">[Chuckles.] Okay.</u>
+      <u who="FIELD">She was taken off.</u>
+      <u who="DANYOW">You mentioned when you had been in the Guadalcanal area, you each had to prepare a lecture, each of the officers. Do you remember what your lecture was on in terms of the World War II?</u>
+      <u who="FIELD">I don’t, but it would have been involved in the American conquest back up the slot to the northwest, island hopping it was at the time.</u>
+      <u who="DANYOW">Yep.</u>
+      <u who="FIELD">But one of the interesting things about island hopping is, of course, we didn’t know how much of the code had been broken by then, and we thought that [Gen. Douglas] MacArthur was just brilliant in what he was doing. But when you read today and think of it with today’s knowledge, Gen. MacArthur was a great tactician and general, but he had an awful lot of information available to him that we now know that we didn’t know back then.</u>
+      <u who="DANYOW">Sure.</u>
+      <u who="FIELD">So his island hopping was island selection, based on information.</u>
+      <u who="DANYOW">Yeah. In that kind of same vein of, like, information, when you were at these liberty ports and especially when, it sounds like, tours of the ship were being given, was there any specific tension, given that the ship is nuclear powered? Because, I mean, I know even in the modern day, I don’t think New Zealand allows American carriers into port there because they’re very anti-nuclear power. So, I mean, was there any sort of tension like that? </u>
+      <u who="FIELD">I’m not positive of New Zealand. I accept your statement. But in Japan, nuclear ships, at least when I was there, were not going to Japan.</u>
+      <u who="DANYOW">Okay.</u>
+      <u who="FIELD">The one other spot we went into was Hong Kong on an R&amp;amp;R [rest and recuperation], which was very close to Subic Bay—not Subic but to the Tonkin Gulf. You go travel past Hainan [Province, China] and up past Macau to Hong Kong.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">Well, some of the things I remember about Hong Kong was— we went there once, and when we were entering, coming in through the New Territories on Hong Kong Island, the Communist Chinese managed to have an execution on shore as we were going by one of their stations—</u>
+      <u who="DANYOW">Jeez.</u>
+      <u who="FIELD">—or bases. And I think that was—maybe it was not real, but it was there to get our attention, certainly. And we got into Hong Kong, and it was just a fabulous place to be. I’ve recently read a book about the Hong Kong, [unintelligible] Hong Kong, which is the business enterprises, and now, 40 or 50 years later, and I can still remember parts of Hong Kong that coincided with that information, and that was a lot of fun.	
+
+And the story I have there, which I tell all the time to people, is while on the ship—it was Admiral [James D.] Watkins—not Admiral Watkins. It was Commander Watkins at the time—was the executive officer who later became CNO [Chief of Naval Operations]. And he and I had, let’s say, a difference of opinion on a matter, and so he was going to get back at me for—somehow he’d exercise his will.
+
+And what he did is he assigned me to the first shore patrol, the first officer who had shore patrol duty in Hong Kong. So I went ashore to the British garrison and met an old, crusty British sergeant and in there, and he says, “What are ya doin’ in here? You’re in uniform.” And I said, “Yeah, well, aren’t I supposed to be?” He says, “No, you’re supposed to have civvies in here. Didn’t you get the word?” So he said, “We’ll send back out and get civvies for you.” And I said, “Well, what am I doing in civvies? Don’t I need to be in uniform?” He said, “No, you’re gonna be the shore patrol officer at the Hong Kong Hilton.” And I said, “Oooh! That sounds interesting.” He said, “Yes, it’s a nice job. You’ll like it.”
+
+And so I went to the Hong Kong Hilton with him or with one of his people, checked in, met the assistant manager. He gave me a room. First thing he said: “Whatever it is, don’t say anything in the room because it’s all bugged. They’re all bugged.” So then again, that was my second experience with the Chinese Communists at the time.
+
+
+
+And then later he said, “Go up and take a nap, and meet the manager at six o’clock.” So that was in the dining room. So I went up to the 28th floor, to the dining room at six o’clock and ran into the assistant manager, and we had dinner, and I excused myself to go to the rest room, and there in a line, waiting for the next show, stage show was my captain and XO. And they said, “What are you doing here?” I said, “I’m being punished.”</u>
+      <u who="DANYOW">[Chuckles.]</u>
+      <u who="FIELD">I went into the rest room and then came out. They said, “Do you think you could get us in?” And I said, “Well, I’ll try, of course.” So I went in and asked the manager, and the manager’s comment was, “Do you want ’em?” [Laughter.] So, yeah, they got in, and that was fun. But to show you how the tables can turn very quickly. </u>
+      <u who="DANYOW">Sure. Yeah. And when you said the room was bugged, that was the Communist Chinese?</u>
+      <u who="FIELD">Yeah.</u>
+      <u who="DANYOW">They had bugged the rooms?</u>
+      <u who="FIELD">Well, presumably. It was some member of the government.</u>
+      <u who="DANYOW">Okay, hoping to overhear chatter between American naval guys?</u>
+      <u who="FIELD">Well, a lot of Americans went in. Yeah.</u>
+      <u who="DANYOW">Yeah, that makes sense. Okay.
+
+So if we can go now back to when the ship is actually in the Gulf of Tonkin. You mentioned earlier about how there’s kind of a lot of monotony. Were there any times when the ship was actually involved in any sort of combat action while you were on? I know you mentioned the ship later shot down a few planes but that that was after your tour.</u>
+      <u who="FIELD">It was apprehensive at times because of the—we had hundreds, if not thousands of junks floating around us, and any one of those could have had an explosive in it, as in Yemen, when they blew up the [USS] Cole.</u>
+      <u who="DANYOW">Right, I was just thinking—</u>
+      <u who="FIELD">So we were always alert to that, and we had a stand-off zone of 2,000 yards, which is roughly a mile. That’s a nautical mile. And anything came inside that, the 50-millimeters were used on it. You know, there were no warnings. So I think we took out one, and the others stayed away from it after that, or we fired on one of them, at least.</u>
+      <u who="DANYOW">Yeah.</u>
+      <u who="FIELD">Then we had the aircraft, and I happened to be controlling that intercept to take down, but it was just a little, sort of like. It wasn’t a transport aircraft, but it was a reconnaissance aircraft, an old aircraft. I think it might have even been propeller driven, and I used an F-4 to get it, which was no [unintelligible].</u>
+      <u who="DANYOW">Yeah.</u>
+      <u who="FIELD">But combat—the closest we got into combat was when we’d go up and try to rescue a flyer, and we sometimes got in fairly close to the beach, because in my story I tell, [unintelligible] of the experiences, the Air Force guys and Navy pilots—Navy pilots want to get to the ocean; the Air Force guys want to get to the mountains.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">They were saved or rescued by the “Jolly Green Giant” [Sikorsky HH-3E helicopter] up in the mountains. Navy guys were rescued by—well, we carried a helicopter for this purpose—[unintelligible] if they could get a couple of hundreds yards off the beach, they’d be pretty safe.
+
+And we had, at the beginning, a lot of guys went down from SAMs, surface-to-air missiles, because they didn’t know how to tactically deal with them. And in time they learned that—and as surprising as it is—that instead of flying away from ’em, they’re going to get you, you fly toward them, and then go into a sharp turn, as sharp a turn as you can, and the speed and the momentum of the missile self-destructs because it can’t turn as tightly as the aircraft.</u>
+      <u who="DANYOW">Hmm.</u>
+      <u who="FIELD">So that was one of the tactical devices that our guys learned, and probably about—when we got over there in November or December, there were—one night we had eight or nine planes go down, and by the time we got to March, very few were going down. There was just as hazardous flying, but they weren’t—the SAM issue had been somewhat resolved.</u>
+      <u who="DANYOW">Okay. You mentioned this experience when you vectored an F-4 Phantom onto some sort of North Vietnamese aircraft to shoot it down?</u>
+      <u who="FIELD">Yeah.</u>
+      <u who="DANYOW">Can you talk about, like, maybe in a little more detail how that worked, what the actual procedure would have been for doing that?</u>
+      <u who="FIELD">Well, when you have strikes going on, you have what are called CAP, and CAP are combat air patrol, and flying in these zones on the coast of North Vietnamese were CAP. And there was one plane that for some reason found its way out over the ocean or over the gulf, and it looked like it could be coming—arguably coming towards either us or heading out toward the aircraft carriers.
+
+And so we—we probably knew that it wasn’t a jet or any big threat, but we wanted to be careful at the same time, and I just happened to be on duty when the situation came up. And I had the CAP aircraft under my command or under my direction, and I called them down and just planted them on the plane, and his radar and all that took over, and the plane was gone in a short while.</u>
+      <u who="DANYOW">Okay. Interesting.
+
+Were there any other, you know, moments like that that you found particularly notable moments for you while you were deployed in the gulf there?</u>
+      <u who="FIELD">The first—one of the first attacks after we got out there, big air strikes on North Vietnam and the SAM threat was real, and I passed over this in my conversation with this fellow that was—one of the squadrons off one of the carriers. And he was going in, and he saw himself being fired on, and he said, “Oh, I got one comin’ at me. Take good care of [unintelligible].” And he wasn’t talking to me necessarily; he was talking to his squadron on the ship. But the fact was, he was gone a few seconds later. And that was a rude introduction or—not a rude introduction but an acute introduction to what war was like, that people do get killed, people do lose their lives in planes, and lose them with probably children and wives at home. They were going to be without their father or husband.
+
+Other than that, on board the ship—you probably know this but the Navy doesn’t like to have guys out at sea on ships for more than 60 days except for the submariners, who are specially selected for it, because tensions get exacerbated, and 60 days seems to be the human limit. And if you’re out 60 days, people get sharp with each other, 50, 60 days. And little things like backgammon in the wardroom and little things like that can irritate people. But everyone’s being irritated by that time. So that goes on, and you have to be aware of it and be conscious of it and be careful not to get yourself lost in emotions or controversies.
+
+And each day is—it does become the same as the former day. You go through your routine, but every—all the time there’s something new coming up that you have to deal with. And during the war, there was a lot of information and radiograms or radio information coming through that you’d find out what was going on and you started to learn more about what’s going on with the forces, the Navy forces down in Cam Ranh Bay and on the delta, and then the Army and Marine Corps. We had all the—especially being a CIC, we got all the radio traffic going through there. There was some traffic, I guess, that I didn’t get my eyes on, that was going to the captain, but I by and large knew most everything.</u>
+      <u who="DANYOW">Okay. All right. 
+
+So another thing I was wondering about is—I mean, obviously, this period, the mid ’60s, late ’60s, was a period of major social change in the United States.</u>
+      <u who="FIELD">Yes. This was mid ’60s.</u>
+      <u who="DANYOW">Right, mid ’60s, where we are.</u>
+      <u who="FIELD">Sixty-five, ’66.</u>
+      <u who="DANYOW">Right. I mean, obviously, I know that the Navy was not immune to that in terms of, you know, racial issues, and drugs were on some ships in the Vietnam period. Did you have any encounters with any of that sort of stuff, any sort of racial tensions?</u>
+      <u who="FIELD">To my knowledge, we didn’t have drugs or racial tensions on our ship. It was a little bit before it. Zumwalt, I know, had to address some of that.</u>
+      <u who="DANYOW">Okay, so that was—</u>
+      <u who="FIELD">Zumwalt would have been five years later.</u>
+      <u who="DANYOW">Okay, so that was really more later in Vietnam.</u>
+      <u who="FIELD">Later ’60s and ’70s.</u>
+      <u who="DANYOW">Okay. Fair enough.</u>
+      <u who="FIELD">And I saw no evidence of drugs at all.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">But, again, we were different than the land forces. At the same time, there were tons of drug problems on land.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">But we were relatively highly selected individuals. As our medical officer said, “The worst place I can be is a doctor on board this ship because everyone’s healthy.”</u>
+      <u who="DANYOW">[Chuckles.] Fair enough.
+
+So can you kind of take me now towards the final days of your deployment in terms of—you know, was there, you know, obviously anticipation building in terms of going home, and then take me through the actual transition back to the West Coast.</u>
+      <u who="FIELD">Well, we’ve had our R&amp;amp;R in Australia. We’ve had our R&amp;amp;R in Hong Kong. Everyone has bought their music equipment and audio and suits and shirts and so forth. And then in Australia we had just fun. Fun, fun, fun.
+
+So now we’re on station. In the Navy, they call them short-timers, and short-timers, sailors especially, if they’re getting out of the Navy, have beads, a belt and beads or a little collection of beads, and you pull off a bead every day to indicate how many days left they have. Well, it’s not quite that when you’re in my position on the ship, but you do start to think about going home and getting back.
+
+Again, you know, it comes down to just familiarity with things I told you about. Going from East Coast to West Coast, you change girlfriends. Going up to the WESTPAC, you’re away from friends and family and your girlfriends and all that, and so it gets to be a little tiring at times, so you really do want to get home.
+
+And then on our ship, we had the capacity to go home alone. We didn’t have to go with any oilers or anything or meet up with oilers on the way home.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">So we got back to the Philippines. We checked in there, and we were there for about 24 hours, and then we went back to sea, the start of the long—I think in the Philippines they might have taken off some of the 50-millimeters. They probably did, because we were going straight back to California. They didn’t want ’em on. So they took off the 50-millimeter guns, or 50-caliber guns. </u>
+      <u who="DANYOW">Mm-hm. </u>
+      <u who="FIELD">And then we started I think what turned out to be about an 11-day trip back to Long Beach. What our ship did is—that’s about—well, it would be about 11 time zones. And rather than upset everybody over and over again every day by a time zone, you go about nine days without changing, and then you make a big, abrupt change, and then you change incrementally into the time zone you want to finally be in. 
+
+So it’s a long trip. We went back. We rested. Didn’t really have—
+
+Oh, I forgot—yeah. That was fine. The reason we went back to the Philippines before we left to come back home— otherwise we would have just started home—was because the Seven-Day War [Six-Day War] occurred in Israel at the same time, or at least the Suez Canal, one of them was shut down. I don’t remember clearly. And there was some thought that we were going to be sent there,—</u>
+      <u who="DANYOW">Oh, wow.</u>
+      <u who="FIELD">—on our way home. And that was the last place I wanted to be, on a ship in the Suez Canal. [Chuckles.] Very dangerous.</u>
+      <u who="DANYOW">Yeah.</u>
+      <u who="FIELD">So we went to the Philippines just to make sure that that wasn’t going to be our assignment, and then they determined that they were not going to put us there, so we went all the way back to California. And once again, I was lucky enough to have the bridge watch going into Long Beach.
+
+And when we arrived off of Long Beach, the Trans Pac Sailing Race [Transpacific Yacht Race] was being started, and there were about 150 little boats all going all over the place. And the captain says, “Remember, we’re bigger than they are. They’ll get out of our way.” So we plodded along a course. We weren’t at high speed, but it was harrowing because in theory a sailboat has the right-of-way, even over a naval vessel.</u>
+      <u who="DANYOW">Hmm.</u>
+      <u who="FIELD">So we got in there, and then the pilot came out, and one of the nicest things Capt. Wallace ever said to me in our long—well, our year-and-a-half, two-year relationship—the pilot said, “Well, Captain, do you want me to take over from your officers now going into port?” And he said, “No, my men know how to drive the ship.” And he really, in today’s vernacular, “had your back.”</u>
+      <u who="DANYOW">Yeah.</u>
+      <u who="FIELD">And then we got back into port, and families there waiting for you, and your girlfriend’s waiting for you, friends waiting for you, and you debark, and—well, I guess that gets us back to the port, to Long Beach.</u>
+      <u who="DANYOW">Yeah. And so when you arrived back in Long Beach, was your term of service with the Navy up, or were you still in for a period after that, and if so, what were you doing?</u>
+      <u who="FIELD">Okay, yeah. We arrived back in July, I think, June or July, and during the—out in WESTPAC I had applied to law schools. I had told you earlier in this interview that I took my law boards at Dartmouth.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">I did reasonably well. Like, I was probably in the middle of the pack of those who took it at Dartmouth but better than many, many others in the country.</u>
+      <u who="DANYOW">Mm-hm. </u>
+      <u who="FIELD">And so I then applied to law school from the ship. I applied to Harvard, Cornell, BU [Boston University]—seems to me there was one other law school—and to Harvard Business School, because two of the other guys I was with on the ship were going to Harvard Business School, and they were good friends of mine. I said, “Well, if I get into Harvard Business School, I’ll go to Harvard Business School. Otherwise, I want to go to law school.”</u>
+      <u who="DANYOW">Mm-hm. </u>
+      <u who="FIELD">So that was before we made the trip down to Australia, that we had to submit applications. And when I was in Australia, we got—or on the way in, we got cables—wire—radio. And one of them was an acceptance from Cornell and an acceptance from BU, and I decided that—you were talking about things going on at home. It occurred to me that I’d really like to be back in the Boston area, going to school, and not out in the middle of New York state, so I picked BU, went to BU.
+
+That, of course, began in September, and if you recall, I graduated from OCS in December, which was—my obligation was three years from the end of December. Well, lo and behold, I managed to petition the commanding off- —we were going to go into the shipyard when we got back, so the commanding officer and the XO—I spoke to them about it, what is called an early out. And because they didn’t have anything particular for me to do and had to retrain somebody new, they decided that I would be let out, and I was let out around the first of September, and then law school began a week later.</u>
+      <u who="DANYOW">Was it a difficult transition for you in any way, back to civilian life, or was there anything notable for you about making that transition and becoming a law student after being aboard ship?</u>
+      <u who="FIELD">You got to remember, that was a trouble time, 1967. All the bad things that you were talking about were happening.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">And BU was a very liberal environment to be in, and it was—a lot of things were shocking to me, at least, and to others who got back at the same time. First of all, the relationship—the birth control bill had come in, so the male-female relationships were entirely different at that time.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">There was the war issue. There were drugs. And if you were in law school and you were caught with drugs at that time, you probably wouldn’t get your admission to the bar. So there were all sorts of things that created an artificial environment, I think, for returning law school students. 
+
+In my class at law school, there were probably 30 guys who had been in the service: Marines, Navy, Air Force, Army. And we hung around a lot together, supported each other with war stories, sea tales. Yeah, it was difficult. People automatically presumed that you had had a bad experience. Any conversation began with, “How awful.” If you said anything about how good it was, you know, people wouldn’t believe you. And there were a lot of good things about being in the Navy, a lot of them, especially if you’re 22 to 24 years old, a lot of good stuff.</u>
+      <u who="DANYOW">Sure.</u>
+      <u who="FIELD">But there was a whole revolution going on in the United States. Hair, I remember, was a big show, Broadway show at the time, and the “Dawning of Aquarius” [“This is the dawning of the age of Aquarius,” a line from the song “Aquarius” from Hair] and—what’s that—up in New York State? Woodstock, I think, came along about the same time.</u>
+      <u who="DANYOW">Yeah, that’s right.</u>
+      <u who="FIELD">So all this was happening. It really was alien to somebody who came from a military environment. Some guys adapted better than others. But we had the law school issue, where we couldn’t just let it all hang out. We had to maintain that discipline. So yes, indeed, there was a big adjustment to be made. And usually you’d end up just not talking about it, usual to not talk about it.
+
+There were some people who were pretty mean. You know, some guys were spit at. Girls really didn’t know how to act, even the ones you knew back in college. Like, a lot of my friends who went to college, in Dartmouth and the girl schools were working in Boston, and you really were in aberration in society, being back there.</u>
+      <u who="DANYOW">Hmm.</u>
+      <u who="FIELD">But at least people are being treated a little bit better today than they were back then. It was miserable. The country should be embarrassed the way it treated some of the people who fought for it.</u>
+      <u who="DANYOW">Certainly, yeah.</u>
+      <u who="FIELD">Not me, necessarily. I was no hero. But other people.</u>
+      <u who="DANYOW">Well, your service is important nonetheless. But did you ever personally face an instances of harassment or anything like that, you know, based on your status as a veteran in those days?</u>
+      <u who="FIELD">I can remember I was at one party, and marijuana, weed, drugs, whatever—they were being introduced, and I just—I got up, and my date and I—she said, “How come we’re leaving?” I said, “I can’t be here.” So I left. But, no, there was no real, I would say, personal threatening of it.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">It was subtle. A lot of it was subtle.</u>
+      <u who="DANYOW">Yeah, yeah, that’s understandable.
+
+So I guess kind of my final area I wanted to discuss is kind of just reflections you have today, kind of looking back on those experiences in the Navy and kind of, sort of what they mean in kind of the larger context of your life, now that you have some perspective.</u>
+      <u who="FIELD">Well, being in the Navy is sort of like three years of consulting. You grow up. What you want to do—I know it’s a very good goal to have for yourself, but it’s an immense—really an opportunity to grow up on somebody else’s ticket and have immense responsibility placed on you fairly quickly, because a bad decision as Officer of the Deck on a ship—you could kill 1,600 people or, you know, something really bad could happen.</u>
+      <u who="DANYOW">Mm-hm.</u>
+      <u who="FIELD">And so you really learned responsibility and learned discipline and timing. You’re not late to an appointment in the Navy. If you’re late, you’re in trouble. A lot of things like that. You learn punctuality, dealing with tedium, being very, very tenuous. You learn to be a diplomat in the sense of working with other people, work with people who are coming to judge you from the various inspection forces. Learning to deal with  a command structure with somebody who is absolutely in command of you and make life poor, miserable or good for you. You learn—so those lessons were there. I think it’s really a maturation process while you’re in the service. 
+
+Then what has come after Vietnam—I mentioned earlier this morning that I think it was probably around the Tet Offensive, we realized on the ship that this is war. This isn’t the war that my father fought. This isn’t the Korean War. It’s not war in Europe. I don’t think there were supposed to be winners. Politically there weren’t supposed to be winners. And I can always think of Professor [Edward G.] Miller’s little piece on Johnson and [Robert S.] McNamara. He’s probably played it for you.</u>
+      <u who="DANYOW">Yep.</u>
+      <u who="FIELD">You know, he says, “Well, Bob, Bob, we gotta do better. We gotta win. We gotta, you know, find the right numbers for us. Do better. That’s good, Bob. I know you will, Bob.” He said, “Yes, Mr. President.” But that didn’t happen. [Both chuckle.] Well, I’m sure you just—you think about it. I think there wasn’t supposed to be a winner. There was supposed to be a political winner but not a winner in the sense of land, minerals, resources, hearts and minds. Maybe a little bit of hearts and minds. But the definition of “win” was unclear. We didn’t know what it was—I guess I didn’t know what it was  that we were fighting for. You know, a lot of people were dying, 55,000 at the end. 
+
+So I think about war—what I said on the stage up at Dartmouth is I think you have to have a really, really clear purpose of why war is the alternative you’re choosing. You have to pursue it unrelentlessly or relentlessly, and you got to have an end in mind. You got to know what it is, what’s going to end it.
+
+And I think another thing is you got to let the public know. Such a—to change this here to Iraq and Afghanistan—</u>
+      <u who="DANYOW">Sure.</u>
+      <u who="FIELD">I think that if the public had known, which I think it was, a war for resources or oil, protection of oil supply, they might not have liked it if they would have known why we were there. That was a national security interest, oil. And as I say, you may not like it, but that’s just a reason. Some people may like it. And I don’t think we ever really knew why we were in Vietnam except this domino theory that was espoused, I guess, originally by the Dulles, which is incidentally, a good book to read. It’s called The Brothers, if you haven’t read it, Allen and [John] Foster Dulles.</u>
+      <u who="DANYOW">Okay. 
+
+One other thing that just occurred to me there that you’re talking about—can you just speak a little bit more about this kind of idea of during the Tet Offensive and kind of the realization that it was going to be, in a sense, an impossible war to win? Can you just talk a little bit more about what that was like as kind of a recent veteran of the conflict?</u>
+      <u who="FIELD">Not too recent. Fifty years.</u>
+      <u who="DANYOW">I know, but I’m saying—</u>
+      <u who="FIELD">You mean at the time?</u>
+      <u who="DANYOW">Yeah. At the time, you would have been, you know, very recent.</u>
+      <u who="FIELD">Well, I think it came down to knowing where we were striking and not striking. I mean, we had—they call it now—what is it?—surgical strikes now, we have?</u>
+      <u who="DANYOW">Sure.</u>
+      <u who="FIELD">We were doing surgical strikes then, not this concept of war of dominance. I mean, in South Vietnam, the B-52s would come in and just knock down miles upon miles—that was a different—but in the air war over North Vietnam, it was surgical. We were going after—well, Haiphong Harbor was one where—we really didn’t attack anything in Haiphong Harbor because there might be a Chinese vessel there.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">So, you know, if you’re in a war, the Chinese shouldn't be there. You know, it’s like, God bless them, the Israelis. You know, they’d say, “We’re coming in. Do something about yourself. Protect yourselves because this is war.” And I think our population just doesn’t understand that war is absolute. It’s bad. For everybody. But it’s supposed to achieve a clear objective. And without that clear objective, problem.</u>
+      <u who="DANYOW">Okay. And one other thing I thought of is you briefly mentioned how you think we’re doing a much or at least a somewhat better job in modern days in terms of the way we deal with veterans returning from overseas. Can you talk a little more about that?</u>
+      <u who="FIELD">Yeah, I think I can. You’ve got Vietnam veterans who are now the age I am, and its been going on for ten years, so they’re now ten years younger. We know what it was like, and I think we’ve had an opportunity to educate or influence the thinking of our population. 
+
+For example, I work with a group in New Hampshire called Employer Support of the Guard and Reserve, or the Committee for the Employer Support of the Guard and Reserve, and it’s the Department of Defense, an organization designed to protect the interests of servicemen and –women when they come back because their jobs, their service time is not supposed to be reflected in any diminution in pay, in seniority, in manner of being dealt with, it's supposed to be as it was when they left. And that’s tough on small employers, so you have a friction going on all the time with that, although it’s better even now. It’s gotten better in the five years, recent five years, a long time ahead of this push to employ the veterans that the Obama administration has been promoting.
+
+So I think we learned our lesson in Vietnam. I think Vietnam was the singular—the singular most damaging thing to the country in my lifetime because you created a whole ethos of questioning—you know, this question of authority and all that. Well, I think a democracy has got to have some authority, and you have to have—you have to admire some people. I’ve often said I wanted to write a book about the ’20s and ’30s, and call it either A Time for Heroes or They Need Heroes. They manufactured heroes in those days: Babe Ruth, even horses, Seabiscuit and all these things.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">That was the way people lived. They lived for the written word, the published word, and some items, icons not worthy of being heroes were made into heroes.</u>
+      <u who="DANYOW">Mm-hm.</u>
+      <u who="FIELD">But we’ve got to have, I think, a much more positive approach to our life, in our country.</u>
+      <u who="DANYOW">Okay. 
+
+And one more thing I wanted to ask is, you know, thinking back—that does a really good job of putting your kind of—or kind of everyone’s Vietnam experience in kind of the larger context. In terms of yours specifically—I had meant to ask this earlier, but what effect did being deployed in the Gulf of Tonkin have on kind of your personal relationships? How easy was it to stay in touch with, you know, family, a girlfriend, if you had one specifically at the time, you know, just friends from home?</u>
+      <u who="FIELD">Well, to show you what the time was, they had—and I’m now showing you a circle of my fingers about maybe two and a half inches across, in diameter. The little tapes. And we would send tapes back and forth to each other. A little awkward speaking on tape that way.</u>
+      <u who="DANYOW">Huh!</u>
+      <u who="FIELD">And mail service from the United States to the ship could be as short as two days.</u>
+      <u who="DANYOW">Wow.</u>
+      <u who="FIELD">I mean, it was really unbelievable how they could get that mail—but the whole postal system must work to make that efficient, because mail is such a morale builder that they look at it—so it was mail. I told you I once had communication by radio about my acceptance to law school.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">Well, we got Christmas presents. We got presents on birthdays. But I always felt that when you’re at sea, there are no holidays. It’s everything—it’s the same, becomes the same. 
+
+One of the things I forgot to tell you is going down to Australia, we had what is called a smoker, and I was the master of ceremonies for the smoker on board the ship. And that was a whole lot of fun, getting boxing matches, karate matches, music and that sort of stuff out in the fantail. And that was a nice evening in the Coral Sea, and the stars.
+
+I guess—yeah, you’d report the situation, what’s happening. We didn’t have the censorships they had during World War II. I can look at some of my father’s letters, and lines would be expurgated from them.</u>
+      <u who="DANYOW">Sure.</u>
+      <u who="FIELD">I don’t know of anything being censored by either the United States or by the ship, going out. There wasn’t a lot of communication. 
+
+Arriving back, I had an unusual experience because I knew that I wanted to go on to graduate school, and so I wasn’t arriving back to marriage intentions or anything like that, but—so some guys would come back, and they would—that would be on their mind. I guess with a couple of guys in Hong Kong, who bought engagement rings from the Lane Crawford, I think, is the company in Hong Kong.</u>
+      <u who="DANYOW">Mm-hm. </u>
+      <u who="FIELD">But coming back, I knew I had another part to my life that was not going to involve friendships that I necessarily had on the West Coast. And I don’t think that was easy on anybody, certainly not women in that situation, even though they may know what was coming. Having somebody gone for six or seven months and then having the relationship sort of end by the time at law school or something like that was different. So, yeah, sure there was a lot of pressure that way. There was pressure on husband and wives over that period of time because the wife puts up with a lot in raising a family with the absence of military people.</u>
+      <u who="DANYOW">Okay, great. Thanks for elaborating on that.
+
+Is there anything you can think you’d like to add at this point?</u>
+      <u who="FIELD">Oh, Lord, you’ve asked me so much. Something that I haven’t really thought about.</u>
+      <u who="DANYOW">Well, no, just in case there’s anything I’ve missed.</u>
+      <u who="FIELD">Yeah. There was one thing I have in my book.</u>
+      <u who="DANYOW">Sure.</u>
+      <u who="FIELD">And that is the strength of the Navy and its command structure I think were the junior officers and the senior officers, very senior officers, high level officers. They’re high quality, and generally the junior officers are pretty much high quality. It’s the middle range of officers who are worried about career—rightfully so—worried about everything that become very much inclined to not be individualistic, that they will not present themselves, becomes institutional all the time, with career advancement the foremost thing. Sometimes the decision making gets really warped and strange under those circumstances. So I think that’s an observation that I would like to make, that the pressure on advancement in the service sometimes compromises decision making.</u>
+      <u who="DANYOW">And that actually reminds me of something you mentioned in your essay. I wonder if you could speak a little bit more about kind of the relative strengths of junior officers, some of whom would be coming from a military academy background versus some coming from a liberal arts, kind of Ivy League background, like yourself, and how those two kind of complemented each other.</u>
+      <u who="FIELD">Well, certainly the Academy guys were much more Navy. They had Naval commissions. I had a U.S. Naval Reserve commission. And so they were very much Navy, very well trained in Navy and Navy discipline and military bearing. The guys from Dartmouth and Harvard and Yale and all that really were much broader intellects in the sense of interests and where they had come from, and I think it reflected itself in being—[Pause.]—just better reasoners, better—more interesting to be with. The Academy guys were fun, but they really didn’t add the quality of intellect to it that—and I think we only had some of—some of probably the bright guys were someplace else or even some on the ship, because the senior officers were mostly Academy guys at that time.</u>
+      <u who="DANYOW">Okay. </u>
+      <u who="FIELD">You struck a chord in my mind. Oh, one thing I talked a lot about [unintelligible]: During the decision period of applying for an early app to law school, you have a period of time in which the services—they want to keep you—have discussions with you, through the command structure, about what they call augmenting for a Reserve commission, to a Navy commission and then doing something else, U.S. Navy commission and U.S. Naval Reserve.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">And that is when a decision to go Navy Air has to be made if you’re going to make it, or usually if you’re going to make it because you’re getting old by that time, and you’re getting too old to go to pilot training.</u>
+      <u who="DANYOW">Sure.</u>
+      <u who="FIELD">That’s a long, arduous training investment.</u>
+      <u who="DANYOW">Right.</u>
+      <u who="FIELD">And so I was thinking about going Navy Air, having worked for two and a half, three years with aviators, and they are great guys. There’s nothing like a naval aviator. Nobody like them. Wonderful. Just great guys to be with. They’re party boys. And for a young man, you just think it’s the top drawer. But I said to my father—I said, “You know, I’m thinking of going naval air.” He said, “Well, I thought you wanted to go to law school.” And I said, “Yeah, that’s the other alternative.” He said, “Well, my advice to you is really determine whether there’s anything else you want to do with your life other than Navy Air, and if there is, don’t go to Navy Air.”</u>
+      <u who="DANYOW">Hmm.</u>
+      <u who="FIELD">And that’s a reflection on the dangers of just—between the Pacific Fleet, which was engaged in war, and the Atlantic Fleet, which was engaged in regular, routine patrols in the Mediterranean and Europe, there are accidents. And even with all the shoot-downs in the Navy, in the Pacific, in the war zone, there were just as many accidents as being—well, actually, there were fewer accidents being in a high degree of operations. But it’s just an inherently dangerous business to be in.</u>
+      <u who="DANYOW">Yeah, absolutely.</u>
+      <u who="FIELD">As I said, I was laying on the carrier at night, in the middle of the storm, with no [chuckles]—no one considers good times.</u>
+      <u who="DANYOW">Okay. Is there anything else you can think that you want to—</u>
+      <u who="FIELD">No, I think that does it.</u>
+      <u who="DANYOW">Well, thanks very much for your time. I appreciate it.</u>
+      <u who="FIELD">Well, I’ve enjoyed it very much, sitting here, and we had a good lunch, we had a good conversation, and I hope your class goes well,—</u>
+      <u who="DANYOW">Thanks very much.</u>
+      <u who="FIELD">—and your project.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

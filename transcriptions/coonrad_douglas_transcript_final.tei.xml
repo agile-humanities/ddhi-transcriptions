@@ -1,0 +1,1111 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="RIDKER"/>
+        <person xml:id="COONRAD"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="RIDKER">Today is Tuesday, May 12th. I am interviewing Douglas Coonrad, Dartmouth ’67. This is Elena Ridker, and I’m sitting in Rauner [Special Collections] Library. It’s about 3 p.m., and I have Mr. Coonrad on the other line, on a phone interview.
+
+So first of all, thank you so much, Douglas, for doing this. It’s a really awesome opportunity for me to have a chance to interview you.</u>
+      <u who="COONRAD">You’re welcome, and you can go ahead and call me Doug.</u>
+      <u who="RIDKER">Doug, all right. That’s great.</u>
+      <u who="COONRAD">Just add “the great Class of ’67.” That’s a plug for the class.</u>
+      <u who="RIDKER">Best class ever, right?
+
+All right, so just to get started, start out with some biographical questions, so just wondering where you were born and what your parents’ names were.</u>
+      <u who="COONRAD">I was born to Robert and Charlotte Coonrad in Troy, New York. I have two older siblings that were two years and four years older than me. And stayed there all the way through high school.</u>
+      <u who="RIDKER">And what was your childhood like? Do you mind talking about that a little bit?</u>
+      <u who="COONRAD">I think fine. I’m not sure. There’s things in the past memory that I don’t remember quite vividly. I had a normal childhood. The family had a lot of kids in it. We put on little circuses and played a lot of outdoor games. Boys and girls played together without any recognition that there were differences. It was overall a good, wholesome time.</u>
+      <u who="RIDKER">Mm-hm. Were you close with your parents and your siblings?</u>
+      <u who="COONRAD">My brother and I were not close because I was a more outdoors-y type person, and he was a technical guy that liked ham radio, and he became an electrical engineer ultimately and designed the subway switching system for Washington, D.C., when he worked for Siemens. He built an oscilloscope and a TV when he was, like, 7 or 8 years old or something and far surpassed my efforts in those aspects of life.
+
+And my sister and I got along, but my best memories are just a whole group of kids playing and then ultimately, as I got into—I was in Scouts; my brother was not. Went through Cub Scouts and Boy Scouts, camping trips, Camporees. And when I was age 9 or 10, another kid and I took up horseback riding and did that and rode Western—I’m sorry, rode mostly English. And about that same time—in fact, I was 11—I had an aunt that was a schoolteacher, one of my mother’s sisters, and bought a cabin on a lake nearby, and we ultimately had a waterski boat. She was a gym teacher, and she taught me to downhill ski when I was 11. I think I first waterskied at 12, and those have been lifelong passions of mine that I’ve shared with the next two generations. Our family presently gets together, three generations, and skis together.
+
+My mother throughout my high school years and straight on into college started developing Alzheimer’s [disease] early, in her 50s, and that had a drastic impact on—I have different memories of my mother than my siblings do because of that, because she was failing and would forget things, and also they were moving on to college years while I was still in high school.
+
+The last major thing, I guess, was Scouting evolved—and it definitely ties into Dartmouth—into an Explorer Scout group, which was in name only. I grew up in Troy, New York, as I said, and RPI, Rensselaer Polytechnic Institute, is a college there for engineers, largely. And they had an outing club, and one of the members of the outing club was a graduate student, and sorta a lot of graduate students were involved. Took us under wing. We did an awful lot of hiking, rock climbing, spelunking (which is caving), somewhere mountaineering in my high school years.
+
+And by the time I had graduated from high school, I had hiked all but four of the 46 4,000-foot peaks in the Adirondacks [Adirondack Mountains], six of which did not at that time have trails. And also hiked and completed the Long Trail from Massachusetts to Canada through Vermont. And fortunately had also done some hiking in the White Mountains in New Hampshire.
+
+So those were very instrumental, as was—we had a high school which was kind of neat—it’s sort of like the program they had at Dartmouth with the townies of skiing. We had a guy that was a phys ed instructor—he’s recently passed—nicknamed Jigs—that took busloads of kids up to Vermont to go skiing on Saturdays several times during the winter. And that was a fun thing to do with classmates.
+
+Activity wise in high school, I was involved with the school newspaper. I was manager and timekeeper for the basketball team. I was involved with the Dardanian, the yearbook we had, and also was heavily involved in the photography club and, from that, was a photographer for our newspaper as well as a school editor and photographer for the city newspaper. I stayed rather busy, but it was a fun time.</u>
+      <u who="RIDKER">And so how did you end up at Dartmouth after that? Did your interests in hiking and skiing kind of lead you there?</u>
+      <u who="COONRAD">The guy that took us most of our hiking trips on weekends, doing the Long Trail in Vermont, which is part of that—the lower part of it is part of the Appalachian Trail system, as is a large part of the Dartmouth Outing Club trail system—he was familiar—he was from Boston area and was more familiar with the lights and the Appalachian Mountain Club and the cabins that they have and just suggested, “Aw, jeez, a bunch of Dartmouth guys.” Worked for the [Mount Washington] Cog Railway and the hut masters and involved in that. He liked the outdoors. He liked skiing. Dartmouth’s got a ski area, as did Middlebury [College] at the time, and still does—which, by the way, I’ve learned I guess those are the only two schools that still have a ski area.
+
+It was just kind of a natural fit. He said, “Why don’t you consider going there?” I wasn’t sure I could. I had a Latin teacher that didn’t like me and said I was the stupidest one and might never get into college, and I guess I proved him wrong. But I applied to Dartmouth, and the interview there—I’m still convinced I’m not a valedictorian or a salutatorian. I may have been in the top 8 percent of the class of 300-something. But I interviewed with [R.] Jay Evans [Class of 1949], who at the time was a director of admissions and the Olympic kayak coach. He’d just gotten back from climbing the [Eiger] Mountain in Europe.
+
+I’d earlier interviewed at Hamilton College, a boys’ school in New York, and they would not allow my dad in to the interview and, further, were kind of snooty as they showed us around town, around the campus. And I was interviewed by an assistant interviewer whose first question was what was my SAT score. “Around 750-something. I don’t know.” You know. “You mean you don’t know your score?” And I said, “No. it was one day of a test and not important.” He got that information.
+
+
+
+“Well, what was your grade point average?” Again I didn’t know. So he was frustrated I didn’t know numbers, until I finally asked what his college could do for me and I could do for them, and in fact that interview didn’t last much longer beyond that.
+
+Dartmouth’s interview was different. Jay Evans had done his homework, and he’d read and was familiar with the fact that I’d done hiking, including in the White Mountains. And it took me years to really reflect on what he did during the interview, realize my fate of whether I went to Dartmouth or not was probably in his hands.
+
+
+
+But we started talking about hiking, and he would just name a hut or just name a mountain, and he said, “Well, after this one”—then he would name the next one, and he was wrong. And he did that to me twice, and both times I corrected him. After that, we were still interviewing and talking like friends about the outdoors when a secretary told us we had to end because the next applicant was at the door to be interviewed.
+
+And as I reflect on it, one was whether I was giving them a line of garbage and had just read a book about places I’d been, but more importantly, I think, and it goes under Dartmouth’s heritage, whether or not I would stick up to somebody or have the courage and the fortitude to hold my own. And so I think it was probably a defining moment of my being accepted.</u>
+      <u who="RIDKER">And how did you spend much of your time at Dartmouth? What kind of activities did you do?</u>
+      <u who="COONRAD">Well, initially, at that time there was no pledging till your sophomore year. Pretty well. I don’t even think undergraduates were allowed or freshmen were allowed in fraternities. But I gravitated to the Outing Club, the [Dartmouth] Mountaineering Club because I’d done rock climbing. I was a rock climbing instructor my freshman year and actually went back to the 25th reunion, and a gentleman came up to me and said, “Do you remember me?” And I said, “No.” He’d remembered me because I’d been a rock climbing instructor.
+
+I also tried to do some, kind of, instruct in a ski school. I wanted to be into everything. It was just a fun time, where I’d been involved in too many activities in high school and thought I could continue that. I went out for crew the fall of the freshman year, rode freshman crew for that semester. You know, it was just one of those things of just being involved and overwhelmed and welcomed into a variety of activities, several of which I had not done before.
+
+That became a bit of a downfall. I come from a family of engineers. I mentioned my brother, but I’ve got an uncle that was a nuclear engineer and designed a reactor for the [USS] Savannah, the first nuclear ship.
+
+I found quickly that I don’t think abstractly, and also I was at a disadvantage in that my high school never offered calculus. Took Calculus I. Got a D. Struggled. Did a lot of late-night studying, [unintelligible] other people that went on and became—they actually did become engineers and designed great things in their lives. Tried to help me through calculus, to no avail.
+
+The problem was I had a counselor that was a Romance language professor that was new. It was his first year at the college. And at that time, Dartmouth was embarking on the five-point system, using a curve, and they actually used it, where a C-minus was 2, a C-plus was 3, so you could be in the middle of the class and get either a 2 or 3. A 2 wasn’t so good. A 1 was even worse, and so was the zero I got. So I flunked a course my winter semester. He told me after I got the D that—I said I wanted to go on, and he discouraged me from taking the second course. And I probably got three out of—I think I completed about three of the formulas out of ten during the final exam, and I just couldn’t think abstractly.
+
+Interestingly, I took physics at the same time, and Francis [W.] Sears was there, who designed some things for Ford Motor Company and got a bunch of money, but he had some good assistants, TAs. And I’d never really—as I told you, I had trouble thinking abstractly and thinking of things I can’t see. And I liked physics. I can understand a lot of physics, but I had trouble with magnetism and electricity until I walked into class one day, a lecture room. All these strings were strung around the lecture hall, letting you see it.
+
+At the same time I was having a problem with calculus, I was able to figure out the surface area of a toroid, which is a doughnut shape, and it’s not the same as a cylinder, where you just take a diameter times the length. And it was kind of funny, but it was something I could see.
+
+Likewise, I was there in the days when we started time sharing at the big UNIVAC computers. And John [G.] Kemeny and [Thomas E.] Kurtz were running a program. And they had terminals around the campus, and we had to design programs to do things. I just remember getting—I come from—again, my brother did computers, and I have a brother-in-law that did computers for their careers. And I just wanted it to do the job for me, I didn’t want to know how it works. But I had trouble programming a loop where it counted to 100 by two, and I could never get out of the loop and get it to stop counting. It started counting over again.
+
+But there were little things like that, or kind of intriguing, but it became pretty obvious that I needed to go into a different field. I was an economics major. Probably shouldn’t have done that. Wasn’t really thinking of law school, wasn’t thinking I’d be a lawyer and didn’t know what would happen.
+
+ROTC [Reserve Officers’ Training Corps], contract ROTC initially. I had tried for a scholarship out of high school. Was an alternate, but because Dartmouth is expensive, they only gave scholarships to the colleges, where [if] it’s a state school [they] would get twice that many. And I was an alternate, but everybody took theirs, all the principals, so I did not get one the first year and marched around campus and took the courses without the benefit of a scholarship other than a small stipend.
+
+I tried again at the end of the freshman year. Again was an alternate, and so I did not have a scholarship for my second year, either. As I’d not done particularly well in the winter term, Dartmouth then offered me a scholarship, and I was very relieved, because I was ready to start the fall semester, to receive a scholarship that let me finish. Otherwise, I would have run out of money sometime at the end of the second year.
+
+But at the time, Dartmouth was a good experience. I got to meet people from all over. Freshman trip was particularly meaningful to me. My freshman trip was a great way to meet people before you start classes, and still today I know two people that are up there now that are students and just recently—a sophomore and a freshman that went.
+
+Everybody shows up, and a bunch of smart kids all over the world that don’t know how they’re going to fit in, and then you start classes. Then really, the other kids, they’re all—</u>
+      <u who="RIDKER">Do you mind speaking a little bit—sir?</u>
+      <u who="COONRAD">Go ahead.</u>
+      <u who="RIDKER">I’m sorry. I thought I lost connection. Do you mind speaking a little bit more about your experiences in ROTC and what those classes were like?</u>
+      <u who="COONRAD">Well, some of the classes were recognizing ships and aircraft and things like that or classes in navigation. Every Wednesday we’d dress up in uniforms and march around campus for our marching drills. 
+
+One course I remember in particular was celestial navigation, where you navigate by the stars. And there’s a chart you get into or books that tell you want you’re doing. I ended up in the wrong hemisphere, which would have been fine if I’d been in the right hemisphere, but the ship was in the wrong ocean. But it was interesting and strange to think that here we are, navigating basically not with a sextant but very similar to that in the ’60s, compared to today’s day of what we’ve had for navigation today with satellites and everything. GPS [Global Positioning System] is a wonderful thing, and the world’s changed, but back then it was something that was a required course. I’m not sure if it was getting kind of antiquated, and I’m not really sure why we learned it, because I never had to do it on the midshipman cruises I went on.
+
+
+
+Which I guess takes me off on another tangent: I didn’t do the first one, but I did that between sophomore and junior year, and that was on a destroyed, the [USS] Forrest Sherman, which was a 733 [sic; DDG-98], the first of its class. Got on the ship and the port and went around. It was getting ready to go in the Boston Navy Yard, and we didn’t really go much of anyplace; we went around Cape Cod on one engine and got into the Boston Navy Yard. Stayed there with the rats and stayed there for the rest of the time while it was getting fixed.
+
+The enlisted people—it was their chance to get even with a prospective officer, and we spent a lot of time down in the bilges on the ship, under the boiler, chipping paint, and I probably was exposed to asbestos and everything else.
+
+Between junior and senior years, I got to do two cruises, and those were each six weeks, also it basically shot my  summer. And the first one was to go to Little Creek in Virginia [the Naval Amphibious Base, Little Creek] and to learn what marines do. And you did amphibious work and stuff. And instead of being on a ship, we assaulted the beach and jumped out a landing craft and learned all that kind of stuff. Quickly decided I didn’t want to do that.
+
+And I did learn something about leadership because we were firing blanks out of the guns, and after I got shot in the butt, I kind of decided it was better to lead from the back than the front.
+
+But—oh, on that cruise, I had a cruise that I’ve relived a couple of times because I’ve been to Europe a couple of times. But that cruise, we flew into Rota, Spain. In Rota we met our ship in Palermo, Sicily, and I was on a guided missile cruiser, the USS Chicago. The top deck was ten stories up, with an elevator. We went from Palermo, Sicily—we saw beautiful mosaics there at the cathedral. Went from there to Taranto, the boot at the bottom of Italy. Had some time with a bunch of midshipmen with people from Duke [University] and some from the [U.S.] Naval Academy, other places.
+
+We took a train ride up to Rome and spent I think three, four days in Rome. The Panthenon [sic; Pantheon] in Rome is my favorite building, and I went back there about a year and a half ago. But it was fascinating to go through the museum, see things and deal with things of antiquity.
+
+After that, still in the same six weeks, we went to the Aegean Sea, [unintelligible] beautiful, middle of the sea. Went to the west coast of Greece: Argostoli Bay [sic; Argostoli]. Up at Athens during wine fest. And flew home. That’s not a bad vacation for a college kid.</u>
+      <u who="RIDKER">[Chuckles.] Yeah.
+
+So what got you interested specifically in flying, in aviation, when you were in the ROTC?</u>
+      <u who="COONRAD">Oh. Yeah. Well, I did learn, when I was on the Forrest Sherman, I wasn’t real happy about ships, and I knew I didn’t want to be running landing craft and stuff. And even on the guided missile cruiser, short of where we went, it wasn’t my gig being ship-bound, basically. I’d had an interest in aviation. I think I took a ride in somebody’s plane when I was 13 or 14. My dad had a friend. And several of us—I think there were about seven or eight of us in the ROTC program at that time that wanted to go into aviation, expressed an interest in it.
+
+The government, rather than spending a bunch of money having us start their expensive program and go through it, paid for forty hours of private flight lessons in our senior year to see whether or not we still had the aptitude and desire to fly. And I’d had a geography teacher, or geology teacher that [unintelligible] in Vermont. It was a little grass strip at the time with a little comm [communications] station, which is not much for navigation. You call in, and somebody might be there or not.
+
+One side of the runway was a bridge, and the other side was—basically the downwinds were always on the one side, so if you called in and nobody was there to tell you what traffic there was, you looked at the wind sock and you landed into the wind. But there were times when I’d be flying downwind and nobody answered, and I’m flying closer to the runway as a single-engine plane. There would be a twin-engine Beechcraft going in the other direction. It was kind of unnerving.
+
+Also when I first flew there, it was a 1947 Luscombe, which I think was canvas covered, but it had, more importantly, manual flaps to come down a notch, and the plane kind of balloons, as opposed to electric flaps or pneumatic flaps. Flaps allow the plane to fly at a slower speed. It changes the angle of the wing.
+
+One thing about the Luscombe was—two things. One was as we came in, there was somebody across the way from the approach end of the runway on one end, at the other end, the airport had a giant tree there. Head for the tree, halfway in the middle of tree, and just before you got to it, lower the flaps and we’d get blown over the tree and come out on the final.
+
+The other thing about the Luscombe is I’ve never flown any other aircraft that I’ve been able to do what’s known as cross-controlling. And what that is, is a slip is where the aircraft is flying straight but one wing is down and you’re riding the rudder to keep it on a straight line. Like corners on the fields. And I could slip that thing at sixty-degrees bank and still—the wing down and still go straight.</u>
+      <u who="RIDKER">Hmm. So were you thinking about having a naval career at this time, or was this kind of just a hobby?</u>
+      <u who="COONRAD">Oh, at that time—yeah, by my senior—well, the war was—let me go back to the war. I had some fraternity brothers that came back. I joined a fraternity. It was an Alpha Chi Alpha. It was the big green house across from the president’s house. And people came back that had been on the ground, Army guys that were coming back to college, and the news wasn’t good at night. The reports were not good. The films were not good, which we saw on the national news. It was pretty obvious to me I didn’t want to be on the ground, either. [Chuckles.] Forget it, a ship’s better than the ground, but being in the air is a lot more fun.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="COONRAD">It was just a question of—you know, you die faster on the ground, I think, and it’s more personal. You just didn’t feel [unintelligible].
+
+Flying was just a whole different way of looking at things, but we knew that the war wasn’t winding down, and the draft was important. There were people being drafted. And I was going in service, and I knew I was going to do something. I knew I was going to end up in Vietnam, and quite honestly, I knew I was going to die. I saw 40 people die in five years of flying. Praise to God, I’m not one of them.
+
+But it was a time on campus of several things happened. We were in the midst of the ’60s. I was there ’63 to ’67. [President John F.] Kennedy was assassinated as I was on a bus with the band, going through Connecticut on the way down to play a Princeton [University] football game on Saturday and [he was] assassinated Friday afternoon. We saw the flags being lowered to half mast. Somebody on the bus found out what was going on and told us. We did go and complete the trip, spent the night in New York City. It was one of the most solemn New York Citys I’ve ever seen. Just no activity at all.
+
+I had forgotten until many, many years later, about 20 years later, I’m at a funeral service for this particular man I had described earlier. I had, a second cousin had been at Juilliard [School] at the time, and I said, “I don’t remember when I last saw you.” And she says, “I do.” She says, “The day Kennedy was assassinated.” I went up to Juilliard to see her.
+
+But the assassination of the president, the civil rights thing. My senior year, I believe, George [C.] Wallace [Jr.] came, the president [sic; governor] of Alabama, to speak at Rauner but, well, Webster Hall. And not me, but students overturned his car that spring and basically ran him out of town, which wasn’t a particularly polite thing to do.
+
+I had to drive through Alabama with a Dartmouth sticker on my car as I went to flight training in Mississippi. I was afraid the cops were going to pull me over and give me a bunch of garbage for that.
+
+
+
+But it also was a time of unrest over the war. It didn’t start that way first—probably freshman, sophomore years. But I don’t know if it was junior year or senior year there was a sit-in in the president’s office protesting—and I always thought it was a bit of a double standard—students protesting investments, college funds in Dow Chemical [Company] because of napalm.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="COONRAD">Finally escorted from the president’s office. It bothered me a little bit, and still does. I understand it’s the way you get things moved. That’s how you protest the war. Civil unrest works. The same students that were benefiting the endowment were critical of the way the endowment was invested, I thought was a big strange. 
+
+But [unintelligible], I had a roommate whose dad was a Navy captain. He interviewed me before I went to Dartmouth and got selected for the scholarship. This lad went in, did one tour and it just wasn’t for him. He decided, I think as he was graduating from Dartmouth, that the war was wrong.</u>
+      <u who="RIDKER">I guess what was it like to be a member of ROTC at this time, when campus climate about the war was picking up and more protests and—</u>
+      <u who="COONRAD">ROTC was not abandoned until the ’70s, sometime in the early ’70s. I was upset by that because—I’ll come back and answer [your] question in the second, but I believe that—and I still believe that it’s important that people in the service predominantly be people who are not intending to make it a career, people who have a liberal arts education and can bring that to the table. And I’m not in favor of people that—I understand, have made friends that had been to military academies, but I think the mindset’s different. I like the citizen-soldier idea. I like the idea that people are not there getting hardened to it. They know that it’s an opportunity to serve their country.
+
+I was raised that way. I was raised in the era of [President Dwight D.] Eisenhower and [German chancellor Konrad] Adenauer, great statesmen. You just had people that you admired for their courage and what they did.
+
+And being on ROTC on campus, really we were not ostracized. We were not criticized. There were no protests to us as we were marching. We were fellow students. They were just in a different program. I do not remember any great deal of unrest toward us. It was unrest toward the government programs, unrest toward what was going on, and through the years, I share that in that I don’t trust political wars. And politicians—you know, just as an example, I don’t think that this country ever again would go to gas rationing and food rationing as they did in World War II. I don’t think we’d get the wives to go to work in an armament, armory to make munitions. I don’t think they would serve as WAC [Women’s Army Corps] officers or WAVE [sic; WAVES Women Accepted for Volunteer Emergency Service] officers.
+
+It’s a different aura today and largely because the field commanders that see and recognize things are not listened to. An example of that was—and I’ll talk about what I did, flying, but I was in Nam when President [Lyndon B.] Johnson called a stop to bombing the Hồ Chí Minh trail. That was the most demoralizing thing that ever happened. We had the trail shut down. Pilots on the aircraft carriers were getting three hours a month of flight time because they weren’t able to do anything. “Don’t hit this target,” “Don’t go there.” They weren’t flying.
+
+At the same time, I was in a squadron that provided target service to them, and among the things we did is pretend we were submarine missile shots, and they had to get lock on it with their missiles so they could arguably shoot us down before we got to the carrier groups. We also pretended we were MiGs [Russian aircraft] and snuck up on them, and they had to scramble the F-8s and the -4s on us before we got to the carrier task force.
+
+But just in providing readiness training, I was getting 80 hours a month, where guys that were fighting the war were getting three. Didn’t make sense. A lot of things about a war that's fought politically don’t make sense. Since then, I have great distaste for [actress and antiwar activist] Jane Fonda standing on the dikes. I understand it, as most veterans do of that era.
+
+
+
+[Secretary of Defense Robert S.] “Bob” McNamara, who later came back and headed Ford Motor Company and everything—but as the secretary of defense, he knew people were being killed. He knew they were being slaughtered. He knew how bad it was. Figures were cooked, that information was being given to the press back home was cooked, false. And the war was just horribly, horribly fought.
+
+
+
+Do I think we should have been there? As I’ve grown older, I have some reflection on it, and just like Afghanistan, you go in someplace that had been subject to foreign occupation before, their people had been unsuccessful, and quite honestly, I think that what we’ve done in Herzegovina and Bosnia and other places—the populations and their being occupied—as did the French when the Germans came in—they’re not able to fight back, and they basically—whoever is occupying them they’ll go along with because they have to.
+
+
+
+And I think there’s a lot of truth to that, and World War II may have started some of that. You know, we pressed it and we finished that war. The Korean conflict we don’t even call a war. What happened in Vietnam is since then we’ve been unable to really finish the job. Not politicize or talk too much about what I think should have happened or what happened. You know, the Iraq wars I was enthralled when the smart bombs were—I had a ball game that night, and I didn’t go for a while. I showed up late because I stayed home and watched the news and was just amazed what we were able to do with the new technology.
+
+Anyway, let’s go back to Dartmouth again. In senior year, I was an economics major, and I had taken courses that I think were somewhat instrumental. They had just started similar to what President Hanlon is doing now of identifying world issues and things and doing more team teaching among departments and trying to use the graduate schools. I think it’s wonderful.
+
+
+
+We had started some team teaching among different disciplines. I remember taking courses in urban sociology, urban economics, urban geography, and it was at the time the mill factories were failing in Concord and Manchester and they were moving out and going down south.
+
+What we learned was a sociologist looks at where the different social groups are and the different groups are. This ethnic group goes here, and that ethnic group goes there, and the rich people live in big houses, and then you got a buffer of smaller houses, and then condos, and then you got the apartment dwellers.
+
+The economist looks at how you’re going to get people in and out. It’s no wonder that we started this country building on rivers, and then we went where railroads are, and towns developed according to transportation and industry.
+
+The geographer is looking at where the mountains are and where the hills are and the topography.
+
+And so everybody would take a blank slate and draw a different utopia. It would be different. And as I’ve traveled the country—I’ve been in—grew up in the Northeast. Dartmouth is in the Northeast. But I went through flight training in Florida, Mississippi, Texas, California, overseas in the Philippines, Vietnam, back to the States—I’ve lived in Massachusetts. New England is still home to me, and New Hampshire is still God’s country. Unfortunately, they let people from Massachusetts in, but as a hiker and an outdoorsman, it’s gorgeous. Midwest people are very much like the relaxed people in Vermont, New Hampshire and Maine.
+
+But I think that you travel and you experience different cultures and different people and different places, different climates, and I’m better able to get along in the world and better work. I advise many young people, “Go where you’re happy. Have the sports you want, the climate you want. If home is like the oceans and a scuba diver, as I am, go someplace where you can at least do that. Go someplace where you can ski.” I’m out here because my wife’s home- —her family came out here in the 1800s. Fifteen years, 20 years difference between the parents. And a privilege of helping my parents when I was on the East coast in law school and her parents out here.
+
+Anyway, that team teaching was a good thing, I think, and I applaud what’s going on now. I’m ready to graduate as an economics major and finding out that I really liked all these other things. It’s too late to change majors. They announced that year, and I think it was college wide—it was the last year they were doing comprehensive exams, where you took an exam, all the courses in a major. Most of the core courses I took in my sophomore year and no longer remembered them.
+
+
+
+So I took off, and instead of studying for comps, I went out and skied Tucks [Tuckerman Ravine].</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="COONRAD">Big-time memory. Hike in three and a half miles. You carry your skis up between the rocks, fortify yourself with—if you’re lucky, you get four runs in in a day. You end up in corn snow and everything else you scraped up as you fall. You’d be skiing in shorts. It was a hoot.
+
+Anyway, after I got the D—and there were two of us got D’s, and I met the guy that had the other D at our 25th reunion. It still kind of galls me. I don’t know which one got the lowest grade.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="COONRAD">After I got a D in economics—and, by the way, I did get out of the gentleman a C-plus, but I didn’t study for the economics exam. One of the professors came up and said, “Doug,” he says, “you know, I’m disappointed in you.” [Unintelligible] wanted to do it within the next two years. If I don’t die, I’ll stay in touch, but I won’t remember my grade.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="COONRAD">I’d make that same decision today. There’s absolutely no doubt about it. The life before—it was kind of—it’s sort of like the moment when I interviewed with Jay. Just kind of, what are your values? What do you have? The values were to live for today and not worry about it, do what you can to get life’s experiences. Interestingly, there was a National Geographic adventure magazine that came out. I believe it has stopped publishing now, but they had a bucket list, and so I think I’ve done 37 of them, about.</u>
+      <u who="RIDKER">Oh! [Chuckles.]</u>
+      <u who="COONRAD">I keep adding to my bucket list, by the way, but I’ve been very fortunate in life to be able to race cars and fly the jets and scuba dive, and I have a daughter that did shark research, and I’ve got pictures of sharks in my office that I took. It’s been fun to enjoy different things.</u>
+      <u who="RIDKER">Mhmm.</u>
+      <u who="COONRAD">And part of that—I guess I’ll come back—I just got back from London and France, and [unintelligible] going to Italy last year, refreshed something. There was a course at Dartmouth called Darkness at Noon. It was one of the things we took for—it was a Art I type of thing. It showed you slides and things. Had to learn about the painters. And I used that in the pictures I took and used it again, and it really brought back a lot of memories. 
+
+
+
+When I was in France, we went to—[Claude] Monet is an Impressionist painter. We went up to his home. At first I wondered why I was taking pictures of daffodils and tulips because we got those back in my yard. He had a reflective pond, and I used to take pictures and photography, a lot of pictures of Occom Pond, the reflection of the trees in the fall, pictures on the mountains in the wintertime, above timberline. Did a lot of nature photography close-ups of trilliums or things of that sort.
+
+[Unintelligible] Ansel Adams pictures out in Yosemite [National Park]. The world, I mean, there’s things, if you open your eyes to [unintelligible]—I can’t paint. I told you I don’t think abstractly, and yet on this trip I developed a goal, I thought when I retire, I wanna start painting.</u>
+      <u who="RIDKER">Oh, that’s cool.</u>
+      <u who="COONRAD">One of those things that comes back if you had the exposure to them as a youth. Those are kind of things that—you know, life is a journey, and you pick up tidbits from people that cross paths with you.
+
+Another example is my freshman year I reached out in freshman English. Ended up in a class of 23 or 27 students with [Richard C.] “Dick” Eberhart sitting in a room that has a palladium window overlooking Tuck Drive and the library. It was a poetry course. Dick was a poet laureate in Library of Congress. He had been a personal friend of Robert Frost. Sophomore year, Dick actually did a book of poetry and had a poem he’d written and invited me to the house and read this poem. It was called “A Light Meter.” Get the double entendre? You know, I didn’t have the guts to tell my professor I thought it was kind of corny. But the bottom line was I don’t like poetry necessarily better, but I understand why Dick does. It was a side benefit that his wife Gretchen was an excellent cook and that’s you’d go to their household and she’d be cooking a [unintelligible] on a pot-belly stove.
+
+Those kind of memories, particularly to a small school like Dartmouth, you don’t get them at a big university. You don’t get people like Sears who taught physics or Eberhart to teach a freshman English course. But it’s a treasure, it’s a special thing.</u>
+      <u who="RIDKER">Yeah.
+
+[Recording interruption.]</u>
+      <u who="COONRAD">Okay?</u>
+      <u who="RIDKER">But, yeah, just to continue. So you mentioned that you knew that you were going to end up in Vietnam. Like, you just had that feeling. And I’m just wondering what that felt like and also what your plan was after graduation.</u>
+      <u who="COONRAD">It doesn’t feel good, but, you know, after—well, I guess there were good and bad, and it goes to what happened my first day of flight school, is we started—you don’t start flying. You go through a whole bunch of other stuff first, ground school, and you learn a lot of things about aerodynamics and about how the engines run and everything. But I’m a retired captain, which is like a colonel in the other forces.
+
+And the first day of flight training—I’m eternally grateful for this, and it wraps up to—I’ve had the privilege of counseling other people for post-traumatic stress [disorder]—we were in a room, and it was before Top Gun and An Officer and a Gentleman movies, but “How many love their country?” “Oh, yeah, America is a great place.” And “How many like to fly?” “Oh, yeah, God, I’d like to fly. That’s neat.” “How many want to do this?” “How many want to do that?” “Be the best pilots in the world, be able to land on a carrier.” “How many want to fly jets and be the ‘zoomies’?” And “how many want to—”
+
+
+
+I mean, the idea of using a carrier as—it’s like a floating runway that can go all over the world. Somebody thought of that. That’s neat stuff. And to use the aircraft as a weapons platform is neat stuff. And he drilled us into a frenzy, just like Top Gun. Boy, we just couldn’t wait.
+
+
+
+And he got to his last question, and I’m eternally grateful that he did, and I will precede this by telling you I never did kill anybody that I know of. I was not dropping bombs and things over there. But his last question was, “How many of you are willing to be a paid mercenary and kill people?” What’s this guy talkin’ about? You could have heard a pin drop. He said, “Because that’s what your country hires you to do.” And I tell you right now that the people I counsel for post-traumatic stress were not prepared to do what they did.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="COONRAD">They’re having a lot of problems with it. I think that preparation—I’m eternally grateful that we heard that kind of speech.</u>
+      <u who="RIDKER">Mm-hm. Um,—</u>
+      <u who="COONRAD">Go ahead.</u>
+      <u who="RIDKER">I’m sorry. Continue.</u>
+      <u who="COONRAD">Referencing the two movies, I do think that both Officer and a Gentleman and Top Gun mean a lot to me. Officer and a Gentleman—basically, it’s a teamwork of getting the fat guy over the wall. You did things where you belly-crawled underneath barbed wire to running through sand, which is difficult, to climbing a wall, scaling a wall with a rope and pulling yourself over. All kinds of stuff. And it’s the weakest link in a team—and I kind of go back to the high school years. I was on some winter mountaineering trips and ice climbing trips. We had people frostbit their toes and things. And it surprised me and shocked me as a high school kid, 17—16, 17 years old—that every group faced an adversity. It doesn’t matter what it is. It takes two kinds of leadership. And one is the strong leader physically, and the other is the mental leader that keeps the spirits up. And no one person can break trail all the time in snowshoes or whatever you’re doing and be the leader all the time physically, and no one person can do the other. 
+
+But at times they had these big strong guys that were graduate students in their mid 20s, late 20s, that would break down and cry because they had cramps or things were going on. And I ended up fulfilling the leadership role. That just astounded me. But I saw that over and over and over again in the military and everything else, is you take turns and you help each other.
+
+I saw that on a trip I was just on. It was a bunch of old people on a riverboat, and we had a couple 91 years old, and the rest of the people shepherded them because—you know, part of it’s selfish. If they’re holding the group up and we’re not going to see what we want to see, we want to keep moving. And you just take turns helping each other. And I think that, again, is an important leadership issue and an important issue in terms of how you get along in the world.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="COONRAD">The Top Gun is the cockiness aspect of it. You would never fly a military jet if you didn’t have a cocky attitude that you’re invincible. You just wouldn’t do it. The odds are against you. Very much so. I crashed one once, and I can talk about that, but there are too many things that happen that are going to get you. It’s a kind of thing where you have to be convinced you’re the best. 
+
+And we were lousy dates. We’d date girls. Your hands are going—“I was doing this. I came in behind this guy and we’re dogfighting” and what you did.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="COONRAD">But to have that—and every time somebody crashed, the question always has to be, “What did the pilot do wrong? We’re not going to accept that the aircraft has a maintenance problem. You’re not going to accept that it’s a fickle finger of fate.” It has to be the pilot. I’m convinced that whether on the ground, fighting, or your tank or you’re on a ship or whatever you’re doing, I think that same mindset has to be there, that you’re invincible. That you have to be. 
+
+
+
+As to my missteps, went through flight training. We started with a prop-driven [propeller-driven] aircraft. Wasn’t long in that because of the flight indoctrination program and moved us on out of that.
+
+
+
+My first day of jet flight training, I [unintelligible] in Mississippi. The first day, I was ready to fly and nobody flew on the base that day because they were having a memorial service for a student who spun in from 15,000 and left a hole in the ground.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="COONRAD">That was my first experience with an aviation jet, and you sit there, a body—it's sobering.</u>
+      <u who="RIDKER">Sorry, Doug?</u>
+      <u who="COONRAD">Pardon?</u>
+      <u who="RIDKER">Sorry, I just lost—the connection is a little bad. </u>
+      <u who="COONRAD">It was sobering, the experience, when you’re ready to go, to find out you can’t go because somebody died. After that, we got off the ground. We were flying a T-2A Buckeye, straight wing, simple jet, one engine. Learned to fly that. You know, went through things where you just flew the aircraft to learning instrument flight, learning navigation, learning formation flight. Once you learned all those things, they shipped you off to Pensacola, Florida, where we did target practice. And they did that over the sea rather than the land, so you’re not shooting up people on the ground, but I won a bottle of liquor from getting more hits on the target that’s towed behind another aircraft than did my instructor shooting a 20mm machine gun from the aircraft. 
+
+You drop bombs on a target that’s out in the target range, and then you go to land on the carrier. Before you land on the carrier, you take training where you do field carrier practices out in the country, and we were in Escambia Bay west of Pensacola, doing that, and back to the ships again.
+
+
+
+But one of the interesting things: We’d already done formation flying, and I do remember three cars traveling abreast about 90 miles an hour, doing lead changes and shifting positions in formation as we went down the road. It was a stupid thing to do, but it was fun.
+
+Going back to the carrier. I had a problem the week before—I had my parents coming down to Pensacola as I was—to be with me the week after I was supposed to land on the carrier. And somehow I got—the week before, as I was practicing, in the last week, I started drifting to the right just before landing, and that’s bad because on a ship, that’s where the island is where the superstructure is, fly into it.
+
+I don’t know if it was a vision problem, a nerve problem or what, but they didn’t let me go that week, and they gave me a plane and they just says, “Go out and fly and come back. Do a bunch of touch-and-go landings,” and I went out and watched the Blue Angels fly over Pensacola Beach, and  screwed around, did some acrobatics and came back and did touch-and-go’s.” The problem went away.
+
+The fortuitous thing of that—it’s amazing in how many things are just fortuitous in life—was the next week, they had a—for the [USS] Lexington, the ship we landed on—had a dependents cruise—dependents, the people who were ship-borne, and I got my parents on board and had 8mm movies of my first carrier landing and the first catapult shots, which is pretty rare.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="COONRAD">In my group also was [Randall H. “Duke”] “Randy” Cunningham. “Duke” Cunningham was on wings a lot as a Congressman. Was a Congressman in San Diego that went to prison for taking kickbacks from defense contractors. But Randy was a brilliant man. Graduated from—was a year older than we were, going through flight training. He graduated from a college that was aviation oriented. And he was the first—well, first of all, before he was CO [commanding officer] of TOPGUN [United States Navy Strike Fighter Tactics Instructor program], he was the only Navy guy that got five MiGs in Vietnam. He lost his aircraft twice but always got rescued. And another Air Force guy also got five MiGs. And Randy was instrumental in getting the F-14 [Grumman F-14 Tomcat] approved because the F-4 [McDonnell Douglas F-4 Phantom II] was not effective against the MiGs. That was kind of an interesting aside.
+
+But after I did the things at Pensacola, I landed on a ship, and I want to describe that a little bit because when I race cars—people racing cars—I wanted to learn how to race the car and, you know, keep it steady and go around the track at 170 miles an hour. They wanted to know, “How about landing on carriers?” And so I made them tell me their story first.
+
+But the carrier landings. You stop in a space about three, four hundred feet. And you come in, and there’s a four-wire or three-wire, two-wire and one as you go from the back to the front. And on a jet, the engine will not wind up fast and get you out of trouble unless you’ve got about 83 percent of thrust on it when you come in to land, so most military jets that are landing like that on a carrier—they have speed brakes that come out for drag. A big door comes out on the side and creates drag on the aircraft, so you keep the engine up.
+
+
+
+The other thing that we do that the Air Force and other people, civilian pilots don’t do is that we dump fuel. We dumped our ordnance and then you come in light because you don’t want to arrest—you know, tear off your arresting gear or break the wire. You got enough to make about three—well, you got enough to make four or five passes on the ship. Then you’re in trouble, and you got to find land someplace or leave the aircraft.
+
+And basically as you come in, it’s a 500-foot-a-minute sink rate, which is pretty fast, and you’ve got a datum light on the ship where it’s got a sun and it’s got green lights go out at nine o’clock and three o’clock positions. And to get a three-wire, basically, the sun is supposed to go out nine o’clock position and, you know, catch the three-wire. But something that’s very, very unusual and the only place in the world you do it is your runway is always moving away from you sideways because the ship’s going in a particular direction about 30 knots, so you’re landing on an angled deck because there’s other aircraft launching in front of you or stored in front of you on the main deck, and so you land on a runway that’s cocked 20 degrees off of the same heading the ship’s going. So as you’re coming in, you got to keep dropping your right wing, and you got to keep that meatball in the middle, which is your glide slope.
+
+The other thing we do is, because the plane takes off at 23,000 pounds and lands at 11,000—we lose that much fuel and everything—we don’t land by air speed; we land by angle of attack. And if you take any wing, depending on the design of the wing, the airflow over the wing stalls and the plane falls out of the sky in a particular angle of attack. Ours was 17 degrees, you’d stall. We landed at 15 degrees. So you’re constantly doing that. If you’re low on glide slope, you have a little power. As you come up to it, you’d start turning the power off, lower your nose. Likewise the other way.
+
+What’s more important is, is what’s happening in close. If the ball starts dropping real in close, you’re going to get a ramp strike and hit the back of the ship. And they did show us movies of a plane hitting the back of the ship and splitting in half, people ejecting and—you know, bad stuff.
+
+I aborted takeoff—was after I’d landed on the ship in Pensacola, I went to a squadron down in Beeville, Texas, which was during the HemisFair [1968 World’s Fair] in San Antonio and just north of San Antonio, Corpus Christi.
+
+
+
+But we were flying F9[F] Panther—or [F-9] Cougar, which was a Korean War leftover plane that had some strange features to it. It was a single engine. Took up a lot of runway. Inadequate thrust, probably, for the plane. But you had to strap in your legs with a restraint that if you ejected, they’d slam your legs back because if your legs went out forward, they’d be severed as you went out through the canopy. The cockpit would take them off. And they found that out the hard way, I guess, and made people use these leg restraints.
+
+And also to put the tail hook down. Instead of just pushing a lever and it goes down, you had to ratchet it out by constantly ratcheting.
+
+They never taught—they really didn’t teach much about aborted takeoffs. We had procedures of power back or power off, and I screwed that up a little bit, but I’d been landing and coming in in planes and landing and knew that I’d get on my brakes and how to do it, but I was only 11, 12,000 pounds. Didn’t take into consideration weighing more than twice that.
+
+Anyway, I got up to 100 knots, about 120 miles an hour going down the runway. The person before me had been pulled off. There’s arresting gear at the end of the runway, too, just like there is on a ship, but there’s just one wire there and you get the tail down and abort into that if you have to.
+
+Anyway, I got on the brakes. The adrenaline was rushing. I instantly blew both tires, lost directional control, and the ground wheel drums halfway down, and they found I was cocked 30 degrees from my heading as I slid almost a half a mile down the runway to the arresting gear. I was quite shocked that I didn’t get an arrest and went on in the weeds at the end of the runway.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="COONRAD">Anyway, they blamed pilot error that I didn’t bring the engine—shut it all the way down. I brought it back to idle, but I still had some thrust pushing it down. But quite honestly, the blown tires kind of screwed it up. Had the landing gear collapsed, I would have not been able to get out of the plane because the envelope on the ejection seat was if you didn’t have 100 knots of forward speed, it wouldn’t open before you hit the ground. That was a good reason to still be alive. I got by that one.
+
+Later on, I had experiences where I had to land with no ceiling, and the horrible thing was written up in a Navy safety magazine, as I was a flight instructor taking aircraft out to put in mothballs at Davis-Monthan [Davis-Monthan Air Force Base], and you had to land—closed an airfield that I was going to, but was low on fuel because the weather was good there but they closed it, and it went below circling minimums to land on it, certainly the instrument I had on the aircraft was 500 feet and a half a mile. And it went below that, and they closed the field. I landed anyway. I went in. Found it. But I didn’t have approach frequencies or anything because I had been struck by lightning and lost radar. Always get me down. Always. That was kind of hairy. I got down to my minimum altitude and everything. Couldn’t see the ground.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="COONRAD">Any case, I also had another near miss in the Philippines, where we had one runway and I was doing an exercise with a squadron I was at. And an F-4, Marine F-4 crashed right in front of me. I went downwind. I’m low on fuel. One runway. And I see this big fireball off to my right. Still have to land. Fortunately, as I came around and saw the runway, they landed on it. They crashed into a hillside alongside the runway. It turned out they survived. But I still had to concentrate on what I was doing.
+
+
+
+Those experiences take just compartmentalizing, using checklist, compartmentalizing what you’re doing, how you deal with it.</u>
+      <u who="RIDKER">Mmm.</u>
+      <u who="COONRAD">Those are kind of the near-miss things, with one exception. I’ll talk about it and go back to I guess advanced training and getting my wings. I finally did do that. Despite this jet mishap, I finally succeeded in graduating and went to a squadron out in California, where they taught us to fly—taught me to fly the A-4 aircraft [Douglas A-4 Skyhawk], which I would be flying in my duties in the Philippines and perhaps on a carrier.
+
+My wife got out of the University of Northern Iowa, near where I live now, and was a WAVE officer. She got a year after I got out of Dartmouth, and I met her out there Thanksgiving Day. Corresponded. We dated, and then we corresponded while I was overseas. Finally got married when I came back to the States.
+
+But I do have, as I was learning to fly, I’d fly three feet, a wing tip to wing tip, and you oftentimes give hand signals by just holding up fingers, nodding your head.
+
+
+
+But I do remember distinctly a tail chase. It was like something from Star Wars, and I was behind a guy I trusted, just looking up his tailpipe and climbed into box canyons. At that time, we could fly into Yosemite Valley, their Badger Pass Ski Area. Trusted the guy not to slam into a wall someplace.
+
+That’s important as to what happened after that, according to my squadron in the Philippines, which was a squadron that provided target service to our ships, and we had a number of different aircraft that did that. Next, we had a AQM missile [Beechcraft AQM-37 Jayhawk] that you dropped off the bottom of the jet. [Unintelligible] jet lit off the engine, turbine engine, and the missile took off on its own. It was a Mach 1.3.
+
+What we did is we rolled inverted split-S, where you dodge because they’re going to fire in your direction and you don’t want to be between them and that missile. They would shoot from the ships. They’d fire their Tartar and Telos missiles from 20 miles downrange, try to hit that target.
+
+
+
+The other thing we did is we dropped fliers for beach landings and things off the aircraft, a magnesium flare, and the worst danger there is that the flier goes off and doesn’t leave the aircraft, you got something pretty hot near a bunch of aviation gas.
+
+We also towed—I’ve kind of forgotten about this until I refreshed my memory—we towed banners behind the aircraft that they shot guns at from the ship and could do that. Had a banner hooked up—a big tow banner that was probably three feet long by 20 feet—15, 20 feet tall that was rigged behind the aircraft, and you had to drag that thing along the ground to get it airborne. You kind of popped the plane off the ground and the banner followed soon thereafter. That was a target thing. Then you come in. Before you land, you drop the banner.
+
+[Unintelligible] crafts also towed a banner behind a winch that people shot three- and five-inch guns on. And we had remote-controlled cabin cruisers and remote-controlled smaller boats that were used as targets, and we would remote control that from the cockpit of an aircraft.</u>
+      <u who="RIDKER">Mmm.</u>
+      <u who="COONRAD">A lot of neat things. A lot of flying probably 100 feet, 50 feet over the water, a lot of it.</u>
+      <u who="RIDKER">And so when exactly was your first deployment to the Philippines? What year?</u>
+      <u who="COONRAD">Went over in March of ’69 for an 18-month deployment. Got back in fall of ’70. The commanding officer was a lieutenant commander, kind of middle grade. We were a detachment to a parent squadron off in Okinawa. And the CO is kind of a sore spot. There was a book written that mentioned him about three, four years ago that hit me pretty hard. There was a guy entered the squadron as I was leaving, just before I left. This guy, the CO was killed with the other people, and—through his stupidity. To memory three times, he almost killed me through his stupidity.
+
+The guy that wrote the book was dying of cancer, and he wrote a book not just about this one incident but other things about making choices in life [for] his children, to guide them. And the example was basically he flew an unsafe—it was safe at the time. They went out to an aircraft carrier with the props to do carrier qualifications, do a proficiency op. While he was there doing that, the generator went out on the aircraft that would power electrical power. That would mean, the aircraft shouldn’t be flown, especially at night. But on a prop-driven aircraft, if you lose an engine you need to feather the engine or turn it into the wind so that it doesn’t create drag. You can still fly on one engine, but not if you got the drag.
+
+Anyway, the generator went down. He was ordered to get in the plane and fly it because the pilot that brought it out was supposed to take it home, and he refused, and that was the lesson to his children. It’s pretty gutsy for a junior officer to tell a senior officer, “No, I’m going to disobey your order,” especially if it’s your commanding officer. Sort of like my talking back to Jay Evans, I guess. [Chuckles.] Or at least correct—
+
+Anyway, this lad refused. The CO says to three other guys, “Get in. I’ll fly it.” He had engine failure, couldn’t feather it and they severed their bodies in half, and we had to go identify them, and the aircraft was in a hangar in the Philippines in the heat with hair [unintelligible] and skin hanging on the overhead instruments. It was a mess.
+
+
+
+Three times that this guy tried to kill me, or stupidity, or put me in danger. Two were in the prop-driven aircraft. Among other services we did, we ferried passengers in the props, and we had room that we could take cargo and passengers. And we were flying from the Philippines to Da Nang and then going up on Yankee Station with people up off the coast of North Vietnam, and we had box lunches, and we had passengers on board, an air crewman back there. And after I had my lunch, you’re on autopilot, and I asked the CO, “Can I take a nap?” He said, “Sure, I’ve got it.”
+
+
+
+A little while later, about an hour later, an air crewman comes up and shakes me. He says, “Lieutenant, wake up, wake up.” I look over, and the commanding officer is sound asleep, and there’s no doubt that happens, but it shouldn’t happen. And we had people on board. The two pilots are asleep, and the autopilot is flying us. I learned then not to—I was starting to learn not to trust the guy.
+
+
+
+Other time, we were doing an exercise from the carriers off the Gulf of Tonkin, and we were coming back, and we lost our navigation equipment. Well, it was pretty clear to me we had visual—we could see the land visually, and North Vietnam is north of Da Nang, which was down there in the demilitarized zone. And they fly north-south, and we were on the east coast of Vietnam. You keep the land to your right, you’re flying south, and sooner or later you run into Da Nang.
+
+
+
+This guy—for some reason, he had a lot of hours in this particular type aircraft. He started pulling all the wires out and stringing them along the aircraft and trying to say, “Oh, I’ll fix it. You fly.” And I didn’t mind flying, but I did mind him having a bunch of hot wires out, strung along the damn airplane. I said, “Well, look, you know, we’ll get this thing back home, and you got mechanics that can fix it.” “No, no, I’ll take care of it.” He never did get it fixed, but, you know, he tried, and that kind of was tip number two.
+
+
+
+The third and final blow. We were out flying—he also learned to fly the jets, although that wasn’t his past experience. When we serviced, particularly destroyers, their main deck is about 30 feet over the water. When we’d fly, we would try to do a fly-by the ship. We had three planes on this particular exercise. We were in what’s known as right echelon. I was the middle airplane. You can vision this. The commanding officer was on my left side, in front of me. I’m three feet away from him, on his right side but back a ways, so there was maybe a 45-degree angle.
+
+
+
+Back on my right, the same way, was my wingman. And we were passing—we were supposed to pass by the ship from the back of the ship to the front, and as we pass we’re going about 500 miles an hour and peel off, and it pours fuel over—it looks really neat from the ground. And it was fun for us.
+
+
+
+The problem was, is my attention is focused to my left on the commanding officer and his aircraft. All of a sudden, I glanced directly in front of me and I read the name of the ship at an altitude above where I am. The name of the ship is on the back of the ship, painted there. I suddenly realized what was going on. He was flying me into the back of the ship. I pulled back my stick and went home. I said goodbye and [makes sound] I was gone, and he went up the port side, the left side of the ship, and the other wingman went—he saw what was going on. He went up the right side. I never flew with the CO again.
+
+
+
+RIDKER:	[Chuckles.]
+
+
+
+COONRAD:	Oh, it was—again, that’s kind of one of those decision-making things that you go through life and you learn how to do it.
+
+
+
+The other thing that happened. I mentioned Da Nang, but in addition to doing the squadron with what we were flying is—we’d go over there periodically and do exercises, and I want to read part of a letter I wrote to my parents. This was March 28, when I first went to Da Nang in 2000—I’m sorry, 1969. I wrote it on a piece of, like, paper from a toilet room—you go wash your hands on it. There’s no paper immediately available, so I had to use a paper towel for this letter. I’m in Da Nang for a three-day work trip as a prop copilot.
+
+
+
+[Reads his letter]: “We just got up at two o’clock on Thursday after a full day of work Wednesday to come over and pull targets for practice in ships. The quarters here are substandard. The activity is amazing. There are bunkers all over the base. Everyone wears fatigues and carries a gun. Concussions from bombs in nearby hills shake the ground. Every 20 seconds flares go off. Planes come and go with activity [unintelligible]. The place in general carries a tone of a dusty Boy Scout camp.”
+
+
+
+I wrote that to my parents when they were 15, 20 years younger than I am now. I’d kill my kid if they wrote that letter. [Both chuckle.]
+
+
+
+RIDKER:	Did you write them often?
+
+
+
+COONRAD:	Yeah. Usually not about that. But my dad was concerned when I would describe the flares and the missiles were pricking off and things that happened. Yeah, it was a certain amount of concern. But, you know, I don’t have a lot of the letters. I don’t know why not.
+
+
+
+But there’s another one where—describes kind of what the things are, but basically it was another time in June. This was two months, three months later. We brought two A-4s down, the jets, to Da Nang Wednesday afternoon for exercises Thursday and Friday. We had to have a repair of a generator on a plane. The exercises were missile shots up on Yankee Station off the Gulf of Tonkin. We fire missiles, and then the F-8 [Vought F-8 Crusader] pilots have to come in.
+
+
+
+And I do remember there were times when we were doing things where we’d just sneak up on them and pretend we were MiGs, and they’d come up, and all of a sudden, you’d have an F-4 or an F-8 alongside you. And, you know, they got us, and, you know, you kind of wave at each other and go on.
+
+
+
+RIDKER:	[Chuckles.]
+
+
+
+COONRAD:	But there were things where, you know, we didn’t tell them we’re coming; we just had to keep them on guard so that they could get us if we were a bad guy.
+
+
+
+The Da Nang situation escalated. They introduced—the aircraft we flew was—the prop-driven was a two-engine prop called an S2F [Grumman S-2 Tracker], and it largely had been an anti-submarine plane, but there was a configuration of it called a C-2 [Grumman C-2 Greyhound], and that—or I guess maybe a C-1 [Grumman C-1 Trader], but it was a cargo plane and passenger plane more configured for—same engines, same basic aircraft.
+
+
+
+And they were flying them back and forth to the carriers to take people out there when I first got there, but the Navy had started and then certified as a new aircraft a—I think it was a C-3. No, I can’t remember exactly the designation of it. But it was a turboprop, nicer aircraft. The problem with it was that they had an engine mount problem, and they lost two of the planes when the propellers came off of the engine mount and went shooting through the skin of the aircraft. And they lost two aircraft up on Yankee Station.
+
+
+
+And they had to get somebody over there in a hurry because the life blood of a carrier is getting things back and forth to the carrier, to supply it and getting people over. We had the closest squadron that had mechanics and the type aircraft that were at least similar that we could do it. And they brought over a bunch of aircraft from—there were several in the States of what’s known as a ferry squadron that were in [the] business of moving cargo and passengers in the States for the Navy.
+
+
+
+And so pilots came from all over and flew into Da Nang, and for about six weeks, I was the operations officer at Da Nang, scheduling all the flights to and from the carriers and configuring them. And I flew copilot occasionally with some of these other pilots, which scared the daylights out of me, but it was a staging mechanism to take care of it.
+
+
+
+Da Nang, itself. The aircraft were kept in bunkers, and that protected them. The barracks. The officers’ quarters barracks also had some technical reps that were paid by their companies to come over, and they’d maintain various parts of aircraft and radar and things. And there was a bunker out there that we’d go into if there was an alert, an attack with incoming mortars that were walking down the runway.
+
+
+
+And you’d go into this bunker. Was made out of sandbags and things, and, you know, we weren’t too stupid, but life was cheap. We had a refrigerator, big refrigerator. It had cases of beer in it inside the barracks. And we would take the first case out and take pith helmets and flak jackets and go out and drink beer.
+
+
+
+When the first case of beer was done—under the rule of engagement, we didn’t have playing cards, but we had dice, and you’d play liar’s crew [sic; liar’s dice]; ship, captain, crew; and a thing called Klondike, but other dice games. But the rule of engagement was when you ran out of beer, you rolled dice and whoever lost went in and got the next case.
+
+
+
+We never had to do it, but the second rule of engagement of the game was if he didn’t come back in 15 minutes, you rolled again. And I do distinctly remember rolling among the bachelors. The guys were sending money back to wives was different, but the bachelors would roll for two weeks’ pay. Got paid every other week. And you’d have ten guys together, and somebody got all the money, and all he had to do was keep the rest of us in alcohol.
+
+
+
+Life was that cheap. You know, you turn around and you say how do you justify that? How do you imagine it. You got to realize the mindset of people that are in that environment. It doesn’t matter. You know you’re going to die; it’s just a question of when. And, you know, a mindset is a pretty terrific thing.
+
+
+
+When I mentioned the tech reps, there was this one tech rep that—you know, and I’ll come back to the bunker, too. Remind me. The tech rep had a tape re- —at that time, we had reel-to-reel tape decks, tape recorders, pocket. And he had a reel-to-reel tape deck, and it was incoming sirens going off and the attack, and he recorded it. As he left for the bunker, he left his tape recorder on. And he came back, and there was a hold. A mortar went through the tape deck, but it continued to record.
+
+
+
+And that was fine except this guy was a little bit goofy, and he played games with the rest of us. And he would get up at two or three o’clock in the morning and play that damn tape and then listen as everybody ran out to the bunker. I thought it was rather sick [chuckles], but this also was a time of Joseph Heller’s book, Catch-22, of double-speak and doing stupid things like that. The rest of us wanted to kill the guy, but that was his little joke on us.
+
+
+
+RIDKER:	[Chuckles.]
+
+
+
+COONRAD:	So, yeah, there were a lot of emotional scars, a lot of—I don’t think I have a guilt complex as a survivor, but I wonder why I’m here and others aren’t. One guy, he was [cross-talk] a commanding officer—well, he was an executive officer when I came back. Was a flight instructor, and that was even worse because the students don’t know they’re trying to kill you. They just don’t know any better. This instructor went out with a student, and the student made it when they had a problem, and the instructor died. He had the second highest number of combat missions in Vietnam. Left a wife and two small children. Well, those things scar you.
+
+
+
+RIDKER:	Yeah. What was camaraderie like? Were you close with anyone in your squadron?
+
+
+
+COONRAD:	Not to the commanding officer. [Laughter.] There were a couple of officers were real idiots, but for the most part, yeah, the camaraderie was very, very good. And it was very wonderful. One guy would joke about his mother, wanted to be a shoe salesman, but he did that. I had my—I had a guy that strapped me into my airplane pretty regularly, an enlisted guy, and kind of joking around, and here I am, you know, 23, 24 years old, and, “Lieutenant, what do you want to be when you grow up?” [Chuckles.]
+
+
+
+You know, quite honestly, we had the fun. I drove the racecar. I went out on—yeah, we were at risk all the time, but those poor bastards didn’t get to go places. You know, they’re working, but they never get to see their fruits of their labor, and we did when we got finally some aircraft that you could take somebody up, we got them qualified and took them for rides.
+
+
+
+But, you know, it was the best of the best. You trained your people. You trusted your people, for the most part.
+
+
+
+I’ll digress with one story about why I don’t like congressmen and congressmen’s sons in [unintelligible], is we had a parachute rigger, and we had only one, and he was a congressman’s son. We knew he was doing pot, heavily. We couldn’t touch him. We wanted to do something with him. We couldn’t get rid of the kid. Couldn’t do anything about it. Told to leave him alone.
+
+
+
+We got some new planes in while he was there, and we flew those planes for six months till we got rid of the guy, and we got a new parachute rigger. The ejection seat, when you went out of the cockpit and got thrown into the air, you were on the seat, you tumbled down to 10,000 feet and then you get thrown out with a bladder, and you’re on oxygen; you’re not in a pressurized cabin up until that point. And as you get thrown out, there’s a little drogue cartridge with a barometer type of thing in it that opens up. It explodes. It opens up a small parachute that brings your main chute out, and then you—down you go.
+
+
+
+We found out when we got rid of this guy that that drove chute had been pinned for six months on every one of our aircraft. He’d never removed the pins. If anybody had ejected, they’d go straight to the ground.
+
+
+
+RIDKER:	Hmm.
+
+
+
+COONRAD:	And, again, that was I guess probably an awakening to the dangers of politicians and favoritism and you can’t touch somebody because he’s somebody’s kid. That didn’t set well. Fortunately, nobody did, but, you know, those things—again, it’s just part of it.
+
+
+
+The camaraderie was good, and we didn’t like the commanding officer. He had a aircraft that was painted like our aircraft, and he called himself Checkertail Bob because we had checkertail on the aircraft so people would see us, because we were towing targets. We didn’t want them shooting at us. But he had his car painted that way, and periodically somebody would put chocks—like a bumper you put at a door stop—on the passenger rear wheel of his car, and he’d go out and get in the car and couldn’t move because these damn things were blocking him from moving. [Chuckles.]
+
+
+
+And one day at quarters, where we all—you start the day—everybody lines up, and you talk about what you’re doing that day, enlisted people, and then they dismiss you and you go your magic way. And anyway, one day he announced that—the junior officers—he says, “I don’t wanna catch whoever’s chocking my car.” He says, “I’m gonna court-martial them. I’m gonna catch them. I don’t wanna find out who did it.” So the JOs didn’t like the guy, junior officers, and we put the word out to our troops that “Don’t let us catch you.” Wink, wink.
+
+
+
+RIDKER:	[Chuckles.]
+
+
+
+COONRAD:	He was dating—when he died, he was dating a Filipino. He was getting divorced in the States. Had a daughter back home. Didn’t like the wife worth a damn, I guess, and had a Filipino friend that he was dating, had been dating. And she had some quilts and other things that she had done for him. I had to ship his remains home, and his personal belongings. And the question was how do you handle the things. We gave her back some things that were hers, blankets and things, and then, you know, what to do with the guy’s liquor collection. Well, we did what anybody would want to do, I think. He would have wanted us to go to his home, play his records and drink his liquor. So that’s what we did. [Chuckles.] Invited everybody in, and we had a party.
+
+
+
+RIDKER:	[Chuckles.]
+
+
+
+COONRAD:	I did have the unfortunate—I went to one other officer that had to go tell the lady friend that she’d never see him again. And, again, this stuff all happened before I was 25 years old. You turn around, and you go, you know, no young person should have to do it, but young people are doing it, and they’re doing it today. You’re not a hawk because you’re a [unintelligible]. I was in law school on a leave of absence program after I—I saw too many people die, started a family, decided to get out of aviation and went to be a JAG [Judge Advocate General] in a special program they had. Went to law school in Boston.
+
+
+
+And while I was there, some atrocity had happened with napalm or something. The classmates—“Oh, I bet you’re happy over that.” You know, I’d deny it, and they didn’t believe that I wasn’t happy. So I finally started talking about crispy critters and things like that and there’d be a napalm atrocity, and they ate that up, bought into that, and that’s what they wanted and expected of me. I don’t know a military person who has been on the battlefield that believes that. It’s not glamorous. It’s not fun. It simply isn’t a good thing. It may be necessary, but it’s not a good thing.
+
+
+
+If I could I—you know, we’re going to run out of time soon, but I want to digress on post-traumatic stress.
+
+
+
+RIDKER:	We actually have—yeah, we still have about an hour.
+
+
+
+COONRAD:	Okay. Let me still digress. I want to get it in.
+
+
+
+RIDKER:	Yeah, sure.
+
+
+
+COONRAD:	I think it’s kind of important.
+
+
+
+RIDKER:	Sure.
+
+
+
+COONRAD:	I’ve counseled people—I used to have and think that if you weren’t in a war zone, you know, you don’t deserve a lot of respect. I’ve changed that opinion because of what I saw in most of the training squadrons. Most of the deaths were in training. It’s bad equipment. It’s heavy equipment. It’s stuff that kills, regardless of what branch of service you’re in, unless you’re just doing administrative things.
+
+
+
+I can tell you that my experience in the JAG Corps and the reason I finally got off active duty is I had no respect for it. Operational people, I respect. I had a problem with—lawyers just don’t think in terms of getting the job done, for the most part. And I had an extreme difficulty with things. Plus the Judge Advocate General—I had some issues where I was supposed to have received some flight pay while I was in law school; other people had. He decided no, I was supposed to have qualified for—I had to sell my house during school because I couldn't afford it because I wasn’t getting my flight pay, and there were issues over—
+
+
+
+RIDKER:	Hmm.
+
+
+
+COONRAD:	It ended up there were issues over storage of my household goods, and I got a letter from the Inspector General of the United States saying that the Navy had lawyers, that I owed it, and I said, “Go ahead and sue me because my lawyer says I don’t.” And I calculated, explained why but, uh, it was an uncomfortable position, and any time you had a conflict with the Navy, the Navy’s lawyer, your boss, is going to have to take the position against you. I don’t know anybody that wants to work in that position. And I cut out. I just couldn’t do it.
+
+
+
+And anyway, we had told JAG that we didn’t admire him, didn’t like his career path and didn’t want to be like him. Got out [chuckles], and somehow or another, they let me into the Reserves and kept promoting me and said I was—I ended up being a good officer for them.
+
+
+
+But it was difficult to—and ultimately, through the years, Reservists got more respect because as they were downsizing the active duty Reservists in all fields, we’re performing more and more of the services.
+
+
+
+The post-traumatic stress. I had one guy came back, and I don’t like some of the movies—what Hollywood did after Vietnam, and I did not have a bad experience. I came back. I was a flight instructor, so I was in a Navy town. I was revered. I was a god. I had been there, had done that. And all these young lads needed to learn the skills that I had, so it was pretty heady stuff.
+
+
+
+But other people I know came back broken. They were spit at. The only person that welcomed them home was their mothers. They’re suffering now from Agent Orange, suffering a lot of other issues.
+
+
+
+One guy had been in the Army, got sent out on a patrol. There was an antiaircraft battery that was taking out our aircraft. And he got sent out with a three-man squad to go take them out. And he came back. He lived a productive life. he worked. He got married, raised a family, retired, started drinking, reminiscing over it. He’d get up in the middle of the night. Some unflattering remarks about enemy in the wire. His wife became scared of him. He just had trouble and tried to counsel as what troubles him, and he— "Ah," he says, “I never shot a man in the back before.”
+
+
+
+I said, “Look, you were outmanned. They’ve got this big antiaircraft gun. You know, there were more of them than you” and the whole nine yards. “What are you gonna do, say, ‘Hey, Joe, you wanna surrender?’ You know, like, duh! Next thing you know, you’re gonna be shot. You’re a hero. You saved countless lives by what you did.” And he couldn’t live with that. Just simply—he ultimately died a broken man. And it was difficult because he was—every one I’ve counseled has been a hero.
+
+
+
+Another guy went over and was a Reservist who, during the first Iraq war, lay down metal sheets that became runways or roadways in the desert. But to this day, if he hears a car backfire or something, he jumps. He walks in a room with his back against the wall and clears the room before he comes into it to make sure there’s nobody there. Again, what he did was admirable, but he’s got a scared wife and a scared family, and he’s a social nebbish. He can’t go anywhere because he’s afraid of everything.
+
+
+
+The third one is probably the most troubling. There was a leadership failure on the part of the service. The young lad was sent to I think the second Gulf war, but they would load trucks under cover of darkness, and his dad is the one that told me this story. But the dad had liked guns. They’d gone hunting. He taught the kid how to hunt very well and how to shoot target practice. And the son was made a sharpshooter and sent up with night binoculars to look at the perimeter fence and call in anything he saw coming.
+
+
+
+And he called in: “Somebody belly-crawling to the perimeter fence loaded with plastic explosives. What do I do, sir?” And he was told to take him out. The leadership failure was they let this young lad, who was, like, 18, 19 years old, out of the tower to see what he shot. Why, I don’t know. They never should have done that.
+
+
+
+The kid freaked out because it was a young lad about the same age as his younger brother, and he really freaked, and Dad blamed himself for teaching the kid to shoot. I mean, there was guilt all the way around here. I [said], “Dad, it’s not your fault. It’s the fault of leadership. They shouldn’t have let that happen. It’s not your son’s fault. Understand what happened. He’s a hero. He saved the base. He saved people from dying and [did] what needed to be done.”
+
+
+
+But living with the very fact—and I revert back to my first day of flight training and being told what the message in the job was and it’s exactly that. It’s not something you thirst for. You don’t go out and say, “Boy, I’d really like to be Rambo.” It’s a job. And it’s a job that you do your job, and you use teamwork to do it, and you get the job done.
+
+
+
+We had other people freaked out for various reasons, but I had a pilot I knew that was an attack pilot. Came back, married a peacenik at Christmastime, and it’s amazing, but schools and hospitals blew sky high because where they were storing ammunition there, they were storing fuel there. That was his target. He didn’t pick the target. That’s what he was supposed to hit. He didn’t. He dropped his bomb short. His wingman hit the school. The school that the wingman hit blew sky high. The bomb this lad that broke integrity hit was indeed a school, and they had film of it. He went nuts. He turned in his wings. He was done.
+
+
+
+The thing from that is that I was being told in law school by my classmates, “Wouldn’t you be upset if you hit a school?” It indeed was a school. Of course I would. But I don’t take responsibility for that. Morally, yes, I’m upset by it. But that’s not my choice. I’m part of a team. Somebody else picked the target. I have to trust that. Like, somebody else loaded the armament on the aircraft. Somebody else fueled the aircraft. Somebody else prepared it mechanically for me. It’s teamwork. It’s working together and trust and working together harmoniously.
+
+
+
+Of course, when things go wrong, certainly you feel sad, bad about it, and civilian casualties shouldn’t happen. They do. There’s always peripheral damage. As I said, it’s not fun.
+
+
+
+But I guess I’ll go from there to our 25th reunion. The Class of ’67, our 25th—I know it’s going to be part of our 50th in ’17—is symposiums on Vietnam and its effect. And surprisingly enough, we took the Minnesota Multiphasic Test [sic; Minnesota Multiphasic Personality Inventory (MMPI)], personality test, our freshman year at college, and then were asked after Vietnam, like, for people that were in war or not, similar to what’s being done with your project now, but it was: How has it changed people?
+
+
+
+And they found that the personalities really didn’t change by the exposure. Maybe—and that’s why I think the leadership and the things that I did and rock climbing and did in the earlier days helped form part of that. The experiences I had at Dartmouth helped form that. It’s part of who you are. And I have a classmate that’s a calculated risk taker. He rode a boat called The Sea Tomato to Antarctica, and the first year, they were going to—they get ready to stage it, and the seas were too bad, and they went back the next year to do it. He did [Mount] Everest before it was as popular as it has become.
+
+
+
+But Ned [Edward F. “Ned” Gillette, Class of 1967] would come back and teach courses to executive COs about calculated risk taking, and quite honestly, whether in sales, manufacturing, designing something, a surgeon, a neurosurgeon—it’s all calculated risk taking. It’s figuring out what the balance sheet is and what risk you’re willing to tolerate to get the job done, depending upon the rewards. And it’s a constant balancing, which, again, I’ve carried through my law practice. I’ve carried it through—I have a daughter that’s disabled, had 17 brain surgeries in five years.
+
+
+
+Hell, I never took biology. I don’t know that much about brains or brain surgery, but he had a chief resident was a Dartmouth alum, and the guy took me under wing and kind of—the neurosurgeon—recognized that I at least had a half a brain, and I’d call him frequently. He was in New York City doing the surgeries on her and things, and we had many a long-distance conversation about, “Why don’t you try this?” or “Did you think of that? What could you do?” And, quite honestly, Dartmouth opened that door. I think he was willing to let me be involved, let me go into the sterile room and change her bandages and discuss her treatment. But that was kind of a, you know, nice feature, to get that respect, and we don’t always get it.
+
+
+
+Anyway, at our reunion—and I had talked at Memorial Day ceremonies, at cemeteries—but [unintelligible] we had a group get together, and some were actually in war zone in bad situations. We had a classmate killed relatively early on. His sister is an honorary member of our class that comes to things.
+
+
+
+But some have been there directly. Some, like myself, really not directly. I mean, it was in harm’s way but peripherally. I was not—I’m not a hero. Hell, the reason I flew the planes [chuckles] was I didn’t want to be in a foxhole. I mean, it’s—you know, what do you want to do? And certainly it was a lot less personal than the people I’ve had to counsel for post-traumatic stress. That was probably in some ways less dangerous and certainly was more glamorous and more fun.
+
+
+
+But some had been on the periphery. Some had not. We had two marines that lost their platoons. And they broke down and cried. And this is their 25th reunion. Think about it. And they told us things they still had not told their families. Had not told their spouses, had not told their parents. Pretty heroic stuff.
+
+
+
+RIDKER:	Mm-hm.
+
+
+
+COONRAD:	We had another person that went on—wanted to go to grad school and got hooked on drugs and ended up not ever going to grad school.
+
+
+
+I had another classmate became a draft dodger. To evade the draft, he went to Canada. His family disowned him. And he brought his dad to the 25th reunion. They were just patching it up.
+
+
+
+Then there were some people that just knew friends that went over—you know, it affects, just like the war does today—the wars we’ve been in affect—everybody knows somebody who’s been affected. And it has a very profound effect on close families, but it has an effect on entire communities.
+
+
+
+Had two doctors that took deferments to go into medical school, and this was the one that was mind boggling, is you’re a draft dodger, you went to school, you hid out in medical school, you didn’t go. And they said they were ashamed. They said, “We took the deferment because we wanted to be doctors and serve, and by the time we finished our residency, it was ending, and we didn’t have the opportunity. We knew there were people over there being killed.”
+
+
+
+That kind of dialogue opens up huge awareness of how others are affected, something we never envisioned. You know, who would have thought that it would have that profound an effect upon them? But it did. It still does. And I’m not saying that we should never go to war because, you know, it’s all bad. But it affects the entire population in one form [or] another.
+
+
+
+Which leads me to the Vietnam hat I got as a veteran. And I’ve never been ashamed of what I did, by any means. But I remember when I heard a “thank you,” and I still, as do others, struggle with it. I was on a ski lift at Arapaho Basin [Colorado] when my kids were 11 years old, 12 years old. And two guys were riding up with me and found out I’d been in the service and thanked me. That’s the first time, about 20 years after.
+
+
+
+RIDKER:	Wow.
+
+
+
+COONRAD:	It kind of hit me, and I didn’t know how to respond, and to this day, it’s difficult to respond because you’re just doing your job. There was nothing to be thanked for. You’re doing what you’re supposed to do. And it’s like we just had a tragedy—well, it turned out not being a tragedy. We had a situation in our local area where I live where two guys were pouring a concrete driveway, and a woman came out. Her house was on fire. And they went in and pulled out two kids. Nobody asked them to do that. There was no second thought about it. You just do it because it’s got to be done.
+
+
+
+RIDKER:	Mmm.
+
+
+
+COONRAD:	They're a kind of special people.
+
+
+
+RIDKER:	Did you ever question your service in Vietnam or kind of—
+
+
+
+COONRAD:	[Cross-talk.]
+
+
+
+RIDKER:	You mentioned not feeling guilty, but—sorry?
+
+
+
+COONRAD:	No, I didn’t because probably the way I was raised. I sure as heck since then have started questioning authority a lot more. But I was brought up to respect and honor authority, and authority figures got my attention. And, quite honestly, in the service what you’re told to do by your command, unless it’s an illegal order or an improper order, you’re obligated to follow it. And I’ve been commanding officer three different times, and I expect my troops to follow what I order them to do, ask of them. And whatever hours you got to put in or whatever is necessary to get the job done, you do it. And it’s again, part of a hallmark of my law practice is that my clients know I’m available 24 hours a day, seven days a week. [Unintelligible] family life and with planning things, but it’s a way of being there.
+
+
+
+I got a situation right now where nobody is going to be—I got several situations where nobody is going to be happy, but I can do the best I can to help ameliorate problems and resolve a problem as best as it can be resolved.
+
+
+
+And I feel a duty and have all my life continued to feel a duty to serve. I serve in many capacities in my community, in a small town of 2,300 in the later part of the 1990s, we started a community fund to supplement the school, award scholarships and pay for things not in the school budget. Our endowment is now half a million dollars, and we just gave away 41 scholarships this year to a graduating class of 60.
+
+
+
+I’m pretty proud of those type of accomplishments. Again, it’s a bunch of factors. It’s (1) my family and how I was raised. It was Dartmouth enhanced that, of a feeling, a need to give back. And certainly the service did it. And I think that there are just certain people that are—you know, it’s not everybody gig, and not everybody’s able to do it, but there are certain people that are able to do it, and I’m thankful I was able to have the experience, experiences that, however traumatic they were, I would not give up. They are lifelong experiences.
+
+
+
+And about six months ago, I finally bought a Vietnam veterans hat. And it’s been the most cathartic thing for me in terms of the number of people and conversations it’s started, especially among other veterans. “Where did you serve?” “What did you do?” And the stories are eerily similar. And, you know, it’s been very cathartic. It’s just a way of connecting.
+
+
+
+I was at an Iowa [University of Iowa] football game last fall, though, where I was going out at halftime to go to the restroom and get something to drink, and a lady on the end aisle saw the hat and thanked me, and I didn’t really know how to respond. You kind of fumble around a little bit and say you love them or, you know—but, again, it’s something that I don’t think even needs a thanks. It’s nice to get, but you don’t do it for that.
+
+
+
+RIDKER:	Mm-hm.
+
+
+
+COONRAD:	Does that make sense to you? I know it’s a different experience, and it’s one of being, quote-unquote, “all in.” And you have to be. Your life and the lives of the people you’re serving with depend upon it.
+
+
+
+RIDKER:	Mm-hm. Have you kept up with any of the other men you served with closely?
+
+
+
+COONRAD:	Some I have—
+
+
+
+RIDKER:	I mean—
+
+
+
+COONRAD:	Some I have not. I don’t attend reunions, and there’s some that I still correspond with at Christmastime and some others that I’ve met since that—one guy got his Navy wings. I was a 26,000 something, maybe, designated fixed-wing pilot. There’s a guy got his wings a week different than I did but at a different base, and we’ve created a friendship. There’s a certain camaraderie, and, yeah, you stay in touch with some of them. Some of them, we’ve lost.
+
+
+
+Interestingly, one of the people I flew with was Kraig Kristofferson, who’s Kris’s brother, and that was kind of interesting. And Kris at the time—the parents were—they were raised in Saudi Arabia, children of an oil executive. And smart kids, both of them. Well educated. I think one went to Princeton; one, to Stanford [University], I think. But in any case, it was kind of funny because it was before Kris Kristofferson got as famous as he was. According to the parents, we don’t know what’s happened to that kid, and he’s just shacking up with Rita Coolidge in Nashville. And, you know, who knew what the future was going to bring?
+
+
+
+But the interesting thing on the aviation is I had—and again a leadership thing. I was authorized, as a lieutenant, which is an 0-3 level, to brief people of the 0-6 and 0-7 level fleet commanders on how we were going to perform our exercises, and they would say, “Well, can’t you do it this way?” I said, “No, our pilots are trained to do it a certain way, and this is the way we’re gonna do it or you don’t get the service.”
+
+
+
+I was dealing with officers from the Royal Thai Navy and other foreign services as we provided exercises for them, and it was the same way. They were times when you just had to take the ball and be the leader and say, “This is the way we’re gonna do it,” for safety reasons or whatever. And I think all those things, again, give you the courage to go on in life and life your life—you know, to me, morals, commitment, giving your word and living your word, but you give—important factors.
+
+
+
+RIDKER:	Mm-hm.
+
+
+
+COONRAD:	So I have enjoyed it.
+
+
+
+RIDKER:	Um,—
+
+
+
+COONRAD:	Go ahead and cover what you want to cover.
+
+
+
+RIDKER:	Oh, yeah, I mean, this is just a specific question I had, going back to something you said a little while ago. So you mentioned kind of being in Vietnam during the bombing halt?
+
+
+
+COONRAD:	Yes.
+
+
+
+RIDKER:	And you’ve kind of talked a little bit about just having this general sense of respect for authority and doing your job, but I’m just wondering if you or any of your fellow squadron members ever experienced any frustration with any sort of limitations or restrictions regarding, like, rules of engagement, flying or—
+
+
+
+COONRAD:	Absolutely.
+
+
+
+RIDKER:	—if that’s something you experienced.
+
+
+
+COONRAD:	The people I flew with—because we were a target squadron, we actually got more flight hours, but the attack pilots were—yes, they were very upset with the rules of engagements and what you could not hit. I mentioned Jane Fonda on the dike. There was extreme frustration on the part of the service members, and, quite honestly, the war was lost at that point, when that decision was made.
+
+
+
+Whether we should have been there in the first place is another issue, but the fact that we were there, the fact that we lost so many people there—and I understand it’s a beautiful country now, and a lot of our classmates and the former president of the college [James Wright] have been back. And it’s a beautiful place. And, quite honestly, the next generation of Vietnamese don’t bear a grudge arguably, what I’m hearing. And I think it’s the same way with a lot of the Americans. I don’t want to go back and try to be healed. I was not—there’s a trip that Jim Wright is doing on the Mekong Delta, and I wasn’t down in that theater. I wasn’t in that area.
+
+
+
+And my wife had an interesting experience. She came over to the Philippines to see me, but as a WAVE officer, it was easier for her because she was a female, to hitch a ride and come someplace than it would be for me to come back to the States, and she came over to see me a couple of times. And one time, she was on a [Lockheed] C-130 [Hercules] bringing a SEAL [U.S. Navy’s Sea, Air, Land ] team in to Tan Son Nhut down in the Gulf, and they landed at two in the morning, with steep descent because of small arms fire from [unintelligible], and then I saw small arms fire as I took off from Da Nang in my aircraft.
+
+
+
+But they come in steep and then take off steep. But the interesting thing: At two o’clock in the morning, my wife attended a rum punch party on the airport. The SEALS all come out of the jungle and welcome a new team and say goodbye to the team that’s leaving country.
+
+
+
+And so there are special things that go on of camaraderie, special things of—and I think the aviation community, far more than the people on the ships—I shouldn’t say that, but the people that—I’ve got some people that did some horrendous things for the Army in foxholes and companies being close together. People that are really on the front lines are in a lot of danger. The bonding is much stronger, and the camaraderie is stronger, and the sense of duty and sense that you’re accomplishing something is much stronger.
+
+
+
+If the politicians take that away from you—yes, I don’t believe in the last 15 years the politicians have paid any damn attention to the field commanders, or very little, and if a field commander sticks up to a politician, the field commander loses his job. But it’s part of the society we live in.
+
+
+
+But, yeah, I could go on about the VA [Veterans Affairs] doesn’t treat people well. Still isn’t, despite the scandals. We’re supposed to get medical care. It’s somewhat limited. Even though I’m a retiree, it costs me because I have to be part of Medicare Part A and B, and I’m still working, so I pay $5,200 a year plus some copays for free health care. Neither the VA nor Medicare pay for hearing aids. I bought my first set and lost one in court, struggling with one (currently). The VA finally has determined that, yes, my hearing loss is a result of service connected, but I have yet to—it took them a year to decide that.
+
+
+
+Right now, I’m fighting—I had two back surgeries. I’m fighting them to determine whether or not those are at least service connected so—in any case, I probably won’t get disability. I’ve recovered from the surgeries. But the issue is if things go worse, I want to at least have that record. I now have to prove to the VA that I was actually there, and I’m scrambling around, finding flight records and things.
+
+
+
+And the problem was I was with a squadron stationed in the Philippines, and when we went over to do services in Da Nang, we wouldn’t check in with anybody in Da Nang. We just went in and did our job. And I’m kind of appalled, as I’m going back through my flight log, that a lot of times—I have myself going someplace, but I never have it logged in that I came back. [Both chuckle.]
+
+
+
+And, you know, it seems odd. You know, that wasn’t important at that time to log something; what was important was to do the job. And to now be questioned by bureaucrats about whether or not you were actually in the service—they’re giving me retired pay. Yeah, I was. We were actually in a war zone. Well, you have to have feet on the ground in the war zone; it’s not enough that you flew over or something. “Yes, I was in Da Nang.” “Can you prove it?”
+
+
+
+I don’t have orders to send me to Da Nang. I got in the damn plane and went because I was told to, and I performed the exercises, and I do have DNG [Da Nang] as showing where I landed. That’s the symbol for Da Nang. I did some stuff down in Cam Ranh Bay. But, you know, I was there. There’s no question I was there, and I resent the question of the integrity. I really do.
+
+
+
+The American public I think gets it now, and I’m totally gratified toward the way they’re welcoming families of broken soldiers that have—but I’m appalled and most everybody I talk to are appalled that we have to have such a thing as a Wounded Warriors Project. We have a lad here, Larry Scalise [sic; Gary A. Sinise], that was on Forrest Gump. He has a band. He does things for handicap homes for people. He’s done a concert for this local kid and done things.
+
+
+
+But when you send somebody to war with four limbs and they come back with two or none, or three, there’s no doubt—I mean, they may be able to fake post-traumatic stress, and, quite honestly, people I counsel weren’t faking it.
+
+
+
+RIDKER:	Mm-hm.
+
+
+
+COONRAD:	Why does the private sector have to take care of that? To me, that’s a government obligation. There should be no question whatsoever we help those people get what they need to function. And, you know, I think our former president, Jim Wright, wholeheartedly agrees with that. He did a lot of work at the military hospital in Washington, D.C., of recovering veterans.
+
+
+
+I think the American people support that, but we’re so damn worried about a budget and we’re worried about what’s politically correct that we don’t take care of people. And I was always told—again, a digression—I was always told our people are our most important asset. And, yeah, I’d want, if my son or daughter was there, I’d want them to have the very best equipment they could, within reason. But the people need to be taken care of, and with the latest reduction in force, they’re taking people that have served 13, 14 years, intending to make it a career, and they’re saying goodbye because we’re just cutting numbers.
+
+
+
+One family. We even wasted money transporting them across country, get him to his new duty station and then sent him home after we’d moved him. It doesn’t make sense.
+
+
+
+I ran a budget for the training squadron when I was there. I was filling a billet for somebody more senior than me, but they trusted me to do it. I was running a budget to take care of 60 aircraft for $100 million, 140 officers and 400 enlisted people. And I couldn’t convince a civilian that worked on the admiral’s budget staff that if you had certain things that were fixed cost—they’d tell me, “How much is it going to cost per flight hour?” And I said, “How many hours am I going to fly?” And then I could calculate it out.
+
+
+
+Well, then they came up and cut my hours for the budget, so it’s now, “We’re cutting your hours, and how much is it now?” I said, “Well, it’s gone up.” They couldn’t understand why. I said, “Well, because you gotta do calendar checks on the aircraft every 30 days. You gotta do this, you gotta do that.” And I warned him that we were going to have a problem one year. The fiscal year for the military ends the end of September, and it’s one year. I told him—I said, “You’re gonna run out of money.” And, “Aw, don’t worry about it. Keep flyin’ the students.” And it doesn’t make sense for a training student to have no planes to put him in. But I was flying 100 hours a month, training students to go nowheres, because they didn’t have any place for them.
+
+
+
+And the whole thing was just asinine, but I kept warning, “We can’t go this way. We’re gonna run out of money.” “Don’t worry, we’ll find it. The Blue Angels can always fly their whole schedule. We’ll get it somewhere, there’s always some leftover.” Well, it turned out there wasn’t.
+
+
+
+As a result of that, we went 35 days where nobody flew. None of the aircraft flew. None of the pilots flew. Each one of our students had to have an extra hour of flight time just to get back, refamiliarize themself where they left off, and sometimes two hours, two flights, three or four hours of flight time.
+
+
+
+All the aircraft. We had only two pilots that could do safety checks on the aircraft. They all had to have maintenance done. They all had to have a safety check by these—be flown by these two pilots and checked out before anybody else could fly them. It took us another month to get back up to speed again. And it demoralized everybody. We’d go in and sit and watch highway safety movies about dying out on the highway, and buckle up and stuff. Just demoralizing.
+
+
+
+But, you know, the government aspect of it is one that I don’t know that we’ll solve in our generation, and I don’t know that another generation will. But I think the public gets it. I’m not sure that—because Congress is so—and the White House and everybody are so bent on keeping the budget in check that I’m not sure they get what’s needed.
+
+
+
+And, you know, to me, there is—some things are national, and some are not national. A local politician friend of mine was happy and going out with all these things about, “Well, we build a bridge in Iowa,” and I said, “Well, what did you give to somebody else to build a bridge? And if I want to build a bridge, why don’t I go to the statehouse? It’s a lot shorter trip than going to Washington, and they’ll give me the money to build a bridge. It should be a state function.” And, on the other hand, national defense, border security, some programs need to be run by the government, by the larger government.
+
+
+
+Anyway, if I can, I’d like to finish with some things from the “Navy Hymn,” but I’ll answer any other questions you got.
+
+
+
+RIDKER:	Yeah, sure. I think we have about 15, 20 minutes left, so we can go ahead and do that. But I guess as a final question from me for now would just be: In reflecting on your experience as a whole, like, what was the greatest thing you took away from your 18 months of service?
+
+
+
+COONRAD:	Actually, 26 years, but the 18 months was over there. Actually, a sense of pride in what I did. The camaraderies there. I later have faced challenges in life with my daughter’s illness. A big car that I raced—I had two Dodge Vipers. I had a Viper-Ferrari war, and I used to beat Testarossas on the track. I didn’t know how to drive a racecar, but I went in. I said, “Show me how you road race.” And these guys were kind enough to do it.
+
+
+
+And I took up scuba diving later in life. I went in a shark cage. I learned to fly a glider. Experiencing new things and trying to meet the challenges, and I think that’s something—again, it wasn’t just because of the service, but there is a saying in the service, “Lead, follow or get out of the way.” And if you think about it, you need leaders. You need followers. You also need to not have baggage around people that are going to be naysayers and “we can’t do it.”
+
+
+
+And I think that follows you through almost any organization that you got as to how the organization’s going to run and run smoothly. But I think there were a lot of leadership things.
+
+
+
+I guess I’ll digress into just one. When I was in a training squadron—you get new commanding officers periodically. And some guy come in, and the first thing he’d do, he’d lock himself into the office and he’d take all the standard orders of how you do things. Standard operating orders are just “Here’s how we operate.” And he’d take the orders, and he’d take everything that existed and put his name on it, and now they’re his, okay? The other guy’s name that left is off, and “They’re mine. I’ve adopted them.” And you thought, Boy, it wasn’t much thought process there.
+
+
+
+The next guy came in was a little bit worse. He came in with a big briefcase full of standing orders from the previous place he was, and before he found out how anything was working with the troops and what your operations were and what you were doing, he said, “This is what we’re gonna do because it worked the last place I was.” Well, this isn’t the last place. Our mission’s different. How we operate is different, and the personnel are different. He didn’t care. He just dumped on it and here’s what we’re supposed to do. That was awful.
+
+
+
+The one we respected came in and for the first month did nothing. He’d walk around, and he’d say, “Show me what you’re doing.” “Will you explain to me what you’re doing so that I’d know what you’re doing and how to do it?” And say, “Well, did you ever try doing it this way?” “Oh, you did? How did it work?”
+
+
+
+Now, we didn’t agree when he finally came out with his orders, with everything he ordered, but we knew he’d considered every single one of us, to the lowest enlisted man to the highest-ranking officer. And he’d been around, and he had just, through observation and through asking those types of questions, took us into consideration. Now, that’s good leadership.
+
+
+
+And, again, those things follow you later in life as to—quite honestly, I think the military service teaches a ton of how you get along with other people, of how you run an organization. I have no doubt whatsoever. I went a different route. But I did well in the GREs for business school and instead went to law school. I have no doubt I could run a Fortune 500 company, absolutely none. I didn’t do it, but I have no doubt that I’ve got the ability and the leadership ability to do it.
+
+
+
+And I’ve been a leader in my community and a variety of other aspects. And I think the military service helps that, and it helps build the confidence level. I’m the fifth attorney in the entire state of Iowa that has ever filed a grievance against a judge, and he was sanctioned by our Supreme Court.
+
+
+
+I’ve made new law in Iowa that nobody thought could be made, a couple of times. The only way you change a law is through the legislature or through the court system, and I have changed law where I’ve gotten calls from the law professors, all the neighboring states, and [unintelligible] lawyers here in Iowa as to “How did you do that?” Just common sense. If it’s wrong—
+
+
+
+I’ll digress. I had a law professor that indelibly made a very strong mark on me. “The law is but should it be? If it doesn’t serve society, change it.” And it’s nice to have the courage to go to the forefront and do that. It’s a privilege.
+
+
+
+RIDKER:	Hmm.
+
+
+
+COONRAD:	It’s not tooting my horn; it’s just God gave me the ability to do it, and it’s something that, again, is part—first of all, if you do something like that, it’s nice to help people, but you get so much more back for yourself than you ever give. And it just— it’s a rewarding thing.
+
+
+
+Anyway, for the “Navy Hymn” thing, there’s a—the movie, [The] Hunt for Red October—remember that one?
+
+
+
+RIDKER:	Mmm.
+
+
+
+COONRAD:	It was—I don’t know if you do it or not, but there was—oh, a guy that was the first James Bond in it, Sean Connery. And they were out in a submarine, and looking for this Russian sub. Anyway, there were several times in The Hunt for Red October that he played what is known to me as a “Navy Hymn,” and it’s to the song: “Eternal Father, strong to save,” but it’s a very solemn hymn, and they were dumping bodies in the ocean and stuff. And it actually has different verses for different branches also, but I want to read a couple.
+
+
+
+Lord, guard and guide the men who fly
+
+And those who on the ocean ply;
+
+Be with our troops upon the land,
+
+And all who for their country stand:
+
+Be with these guardians day and night
+
+And may their trust be in thy might.
+
+
+
+Lord, guard and guide the men who fly
+
+Through [the] great spaces in the sky.
+
+Be with them always, in the air
+
+In darkening storms and sunlight fair.
+
+O, hear us when we lift our prayer
+
+For those in peril in the air.
+
+
+
+Watch over them while they earn their wings
+
+[Aside by Coonrad: This is talking about students.]
+
+And let them taste the joy it brings.
+
+When finally they are free to roam,
+
+Teach them to respect their new home.
+
+O, hear us when we lift our prayer
+
+For those committed to the air.</u>
+      <u who="RIDKER">Hmm.</u>
+      <u who="COONRAD">[Voice cracks with emotion.]
+
+And dear Lord, we pray,
+
+We’ll make it safely through the day
+
+Till the crucial battle is won,
+
+And when our final landing is done,
+
+On land or sea or in the air,
+
+We place our men within thy care.
+
+Sorry about that. But it’s emotional. It’s people lay it on the line and do it for the nation. They don’t do it for medals. They don’t do it for themselves. They do it because it’s what’s got to be done.
+
+And that last verse about the students and teaching them the respect for the air—I had talked earlier about the Luscombe, but it’s the reason I scuba dive. Flying and scuba diving are about the only two things I can think of where you’re totally detached from the Earth. And you are three-dimensional. You go straight up, straight down, upside down, right-side up. You’re detached. You've got a tremendous amount of freedom. Any other buoyancy issues and gravity and everything, but it, again, is a tremendous—I mean, when I rock climbed, I was tethered to the Earth. When I raced cars, I used to tell the guys, “I’d rather fly a jet 50 feet or 100 feet over the ground because I’m flying on an airfoil and not on tires, and something mechanical is gonna kill me.”
+
+There’s a certain freedom, and I wonder when I travel at—I talked about the Panthenon [sic; Pantheon]. People build a building around the time of [Jesus] Christ, with an open ceiling, a tile floor underneath it, a mosaic tile floor, and a drainage system that—it rained there when I was there last year, and the rains drain away through the floor.
+
+These huge domes. There’s another thing called the Duomo in Florence that they had to figure out how to create, and everybody was trying to at that time build the biggest and best dome, span the most span. And this is all back before CAD/CAMs [computer aided design/computer-aided manufacturing] and computers and all the stuff we have technologically today.
+
+But the human mind and what it can do—again, aircraft carriers, aircraft as a weapons platform. It’s a wonderful thing. And I guess, in closing, I worry a little bit that we’re losing that. As we become more technical savvy, we’re losing the ability to look each other in the eye and have conversations. We’re losing the ability to use our minds to solve problems. We want a computer to do it. And we all depend on computers daily. We’re electronically filing things all the time and e-mailing and everything else.
+
+There’s no way on God’s Earth you’d get me in a car or a aircraft that’s entirely run by a computer without somebody there to override it. I’m a hands-on person, and I think that comes from the experiences I’ve had. It’s just I wouldn’t be around if I trusted computers for everything.
+
+We got off into a real [chuckles] technological different generation, but it is an issue for today. And I tell you, a lot of people my age have the same concern of where society is going as we depend too much on technology. And having personal—this trip I just recently took, taking—having dinner with—sat at a different table every night just for the heck of it and met the most wonderful, different people.
+
+One of my classmates from Dartmouth sitting down with a guy from Tennessee, and I says, “Oh, you’re from this town. Do you know this guy?” “Oh, yeah, he’s my lawyer.” And those types of connections and that type of conversation never would have taken place if it we were just texting or e-mailing.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="COONRAD">You’d never get that information. I had told somebody for the longest time that we were from Waterloo, Iowa, and really, the town call Hudson, just near there. The guy didn’t think anything of it till I said, “Well, we really live in this little town.” It turned out he had come from three states away to attend a graduation in our town three months ago. And so making those connections—until you get enough conversation going and you can have personal conversation, you’ll never get there. The connections to other people and friendships and family are, to me, all important.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="COONRAD">I want to thank you and thank the department for the project. I hope the whole thing is beneficial. I do know some people probably won’t participate, but I consider it an honor to participate. It’s not “look at me”; it’s just—and I think particularly telling was the 25th reunion story. It touches a lot of people. And it still does.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="COONRAD">You know, I pray for the day when we don’t need wars, when we don’t need to do any of that. I don’t know that humankind is going to let us get there, but it would be really, really nice if we all got along.</u>
+      <u who="RIDKER">Yeah. Well, thank you so much, Doug. It’s really a pleasure to have the opportunity to talk to you and have your experiences recorded, so thank you again.</u>
+      <u who="COONRAD">You’re welcome. Thank you.
+
+[End of interview.]
+
+
+
+</u>
+    </body>
+  </text>
+</TEI>

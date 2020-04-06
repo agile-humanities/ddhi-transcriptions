@@ -1,0 +1,727 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="MEYERCORD"/>
+        <person xml:id="PEARL"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="PEARL">Today is February 27th, 2016. I am Josh Pearl conducting an interview for the Dartmouth Vietnam Project. Today I’m interviewing [Kenneth F.] “Ken” Meyercord [pronouncing it MAY-er-cord]. The interview is being conducted by phone from Rauner [Special Collections] Library, Hanover, New Hampshire, and Ken is on his phone in Reston, Virginia.
+
+Is that right, Ken?</u>
+      <u who="MEYERCORD">That’s correct, except it’s MY-er-cord.</u>
+      <u who="PEARL">MY-er-cord. Sorry about that. And, Ken, can you tell me where and when you were born?</u>
+      <u who="MEYERCORD">The year I was born?</u>
+      <u who="PEARL">Yeah, when and where.</u>
+      <u who="MEYERCORD">When and where. June 15th, 1944, in Madison, New Jersey.</u>
+      <u who="PEARL">And can you tell me about your childhood?</u>
+      <u who="MEYERCORD">Well, I spent my first ten years in Madison, which back then was a lovely little town, sort of like Hanover, I’ve always wanted to get back to. Never have. I mean get back to the same ambiance. Then we moved down to Dallas, Texas, and I lived there through high school, then went off to Dartmouth. And that really led to Texas again, I have some? family down there.</u>
+      <u who="PEARL">All right. And can you tell me about your family?</u>
+      <u who="MEYERCORD">Yeah. I’m one of seven: five boys and two girls. My father went to Dartmouth, Class of ’27. My mother was from Texas. And three of my brothers went to Dartmouth as well, Class of—let’s see, David [K. Meyercord] was Class of ’69; [Andrew N.] “Andy,” Class of ’71; and Philip [L.] would be Class of ’72, though he dropped out after a year or two.
+
+
+
+What was the question again? [Laughs] My family, was that it?</u>
+      <u who="PEARL">Yeah, talk about your family.</u>
+      <u who="MEYERCORD">Yeah, yeah. When I was eight—that’s what occasioned—I moved down to Texas.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="MEYERCORD">You want to know my current family?</u>
+      <u who="PEARL">Yeah, sure.</u>
+      <u who="MEYERCORD">Okay. Well, that’s a long story. I don’t know whether you read my book, Draft-Dodging Odyssey.</u>
+      <u who="PEARL">I did read your memoir.</u>
+      <u who="MEYERCORD">Good. Then you know that I met my wife in Beirut [Lebanon] when I was on my odyssey, and we came back to the States in 1975, having lived in Algeria for a year and a half after Lebanon, where our two kids, Khaldun [Meyercord] and Nadia [Meyercord] were born. And we lived in Texas briefly, then moved up to the Washington, D.C., area, where we have been living ever since. Our kids are now grown up. One is teaching in Florida, and we’re not really sure where the other one is.</u>
+      <u who="PEARL">And can you tell me about your parents’ occupations, what they did in Massachusetts and then I guess in Texas?</u>
+      <u who="MEYERCORD">You mean New Jersey.</u>
+      <u who="PEARL">New Jersey </u>
+      <u who="MEYERCORD">Jersey, yeah. My dad worked for Western Electric. He was a classic 1950s commuter, taking the [Erie] Lackawanna Railroad [now Erie Lackawanna Railway] into Manhattan every day. And my mother was a housewife, you can imagine, with seven kids, though she did have a career initially as a writer and editor in her own right. Had a piece, a fiction piece, published in The Saturday Evening Post, which those of your generation only read about in your history book, but it was, along with LIFE magazine, one of the two most popular weekly periodicals in the country back then.
+
+Yeah. And, like, I say, my father died when I was eight, [19]53. And my mother never worked other than occasionally publishing an article.</u>
+      <u who="PEARL">Mm-hm. And can you tell me more about the neighborhoods you grew up in?</u>
+      <u who="MEYERCORD">Well, like I say, Madison, New Jersey, was a classic little town. We lived in a big old house with a big old porch and lots of places for kids to have adventures: woods and a big yard and that sort of thing, and walked to school, knew the people in the neighborhood, unlike [chuckles] some of the suburbs we’ve lived in since.
+
+But in Texas, we lived in what back then was sort of the outskirts of Dallas, six miles out. Now they consider it almost downtown. In a big old house again that my grandfather had built. He had a successful paint company in Dallas, and he had died the same year my mother lost her husband, her father and her mother all in one year, 1953. It was a good year for her, but that motivated our move to Texas, as our aunt was living in this big house all by herself.
+
+And it was a typical suburban neighborhood. We barely knew our neighbors. I was able to walk to school, at least to elementary school, and then bus on to a typical suburban junior high, what they called junior high back then, then a high school, you know, that was almost as big as Dartmouth, Thomas Jefferson [High School].</u>
+      <u who="PEARL">And can you tell me about—</u>
+      <u who="MEYERCORD">Excuse me?</u>
+      <u who="PEARL">—life growing up as a child—can you tell me about growing up in the Cold War?</u>
+      <u who="MEYERCORD">[Chuckles.] Well, my first current event memory—and I think it’s a memory and not just something I heard about—was the end of the Korean War in 1953. I can’t think of anything prior to that. And, of course [laughs], you—your generation has probably seen film footage of how we would have air raid drills every once in a while in school, where we all got under our desks. Supposedly that would protect us from atomic attack from the Soviet Union.
+
+Of course, growing up in Dallas, to the extent that I was aware of current affairs at all, it would be pretty right-wing stuff. Let’s see. The Cold War. Yeah, we got—we had the usual dose of anti-communist propaganda and bogeyman fears of the Soviet Union.
+
+Of course, to get a little beyond that, I guess I’ll tell things as they come into my mind or else I might forget them, but I was, of course, at Dartmouth when [President John F.] Kennedy was assassinated in Dallas. I was on my way to Princeton [University] for the annual Thanksgiving Weekend football game. That’s when we played it back then. And I think it was always at Princeton back then. They figured the snows would be too deep in Hanover. (Which we won, by the way.)
+
+And at a rest stop along I-95 [Interstate 95], I heard of the assassination. And [chuckles] by the time I had gotten to Princeton and was staying with a friend of mine from Dallas, they were already making jokes about the assassination. “Kennedy really took it in the ear, didn’t he?” That sort of thing. Amazing, isn’t it? [Chuckles.]
+
+And when I got back to Dartmouth Sunday evening—I was on the third floor of North Mass[achusetts Hall], and there was a little noose, a little noose on my dormitory door. And no soon had I opened it [sic] than people stormed out of all their rooms, picked me up and pretended to throw me out the window. Fortunately, they were pretending. Because—just because I was from Dallas, as if I had something to do with it. Can you believe that?</u>
+      <u who="PEARL">Hmm.</u>
+      <u who="MEYERCORD">What else about the Cold War?</u>
+      <u who="PEARL">Do you remember anything—</u>
+      <u who="MEYERCORD">I was not—I was not a political type. I didn’t follow—I didn’t read TIME mag- —what was it back then—were—Newsweek and TIME, yeah, I guess, were what people read back there. Of course, a couple of people got The New York Times on Sundays, and we’d all line up for a chance not to read the political news but to see the bra ads. Pretty tame stuff by today’s standards, but that was pretty exciting for us. It was all guys up there.</u>
+      <u who="PEARL">Do you know anything about—
+
+</u>
+      <u who="MEYERCORD">I think	I was not unusual in not—not really being attuned to what was going on in the world as far as typical Dartmouth guy back in ’66. I was surprised in just a couple of years after I graduated, the school became much more politically active. [Alabama Governor] George [C.] Wallace [Jr.] was kicked off campus or something.
+
+Just to give you an example, I don’t remember any discussion about Dartmouth going co-ed when I was there.</u>
+      <u who="PEARL">Mm-hm.</u>
+      <u who="MEYERCORD">Which was later. So—all right. Interest in and involvement in current events was really low start. Well [chuckles], there was one thing that came up. Senior year, I applied for a Fulbright scholarship (of the Fulbright U.S. Student Program], and I remember at the interview, the last question, “And how do you plan on fulfilling your military obligation? You guys have heard of the draft.” And that’s how they put it back then: “fulfilling your military obligation,” two years. And I said, “I don’t if can help it,” being very naïve and simply expressing what was the common through around the dorm, at least with the crowd I hung out with. And I didn’t get the scholarship, strangely enough, despite one of the interviewees telling me how impressed the were with me. It never occurred to me who provides the Fulbright scholarship, which of course is the United States government, which probably didn’t look favorably at my answer to that last question.</u>
+      <u who="PEARL">Can you tell me about—</u>
+      <u who="MEYERCORD">Where are we getting?</u>
+      <u who="PEARL">I was hoping we could go back to Texas and you can tell me about going to high school in Texas and how that was.</u>
+      <u who="MEYERCORD">Yeah. Okay. [Laughs.] Wow! That’s a—okay, you wanted to know about the Cold War. Like I say, I’m trying to think of how it—other than crawling under our desks a couple of times a year—I’m trying to think of how the Cold War—what happened to it before—in that late period. Well, the [U.S.] Marines invaded Lebanon in 1958, because there was a commotion in the Arab world, which of course was blamed on the Soviet Union. 
+
+My high school, Thomas Jefferson—our math guy—we were called the Rebels, which is all right. Thomas Jefferson was a rebel. Only our fight song was “Dixie,” and we would wave Confederate flags at the football games. It’s now the Thomas Jefferson Patriots, and I believe they wave American flags. I hope so. Anyway, that’s how times have changed.
+
+There were no blacks in my school, of course. I gradated in 1962, and, you know, Brown v. Board of Education was 1954, desegregating the schools and elsewhere. It’s now [chuckles]—the high school is now 90 percent Hispanic. The remainder is evenly divided between black, Anglos, white, whatever you want to call them. But not back when I was there.
+
+And it was probably the top high school academically in Dallas other than—other than Highland Park [High School]. Highland Park is a little enclave surrounded by Dallas, and it’s maintained its distinct identity as a separate town, and it’s very hoity-toity. Supposedly it’s maintained its identity keep the blacks out. You know, they were quite successful back then. Anyway, but that would be—that, of course, was a very good educational institution.
+
+I had classmates who went to Stanford [University], Princeton [University], Duke [University], et cetera.  And I was—I was something of a standout in high school academically. I think I graduated fourth in my class. But I was named Teenager of the Month, and I went to Brazil as an exchange student for the summer between my junior and senior years, and was— I wasn’t president of the student council, member at large, I think. Anyway, you know, the sort of stuff that helps you get into Dartmouth.
+
+But, unfortunately, I wasn’t an athlete, although I played sports.</u>
+      <u who="PEARL">Can you tell me more about the racial makeup or I guess the racial politics of your neighborhood in Dallas?</u>
+      <u who="MEYERCORD">Well, yeah, sure, yeah. It was a hoity-toity neighborhood, nice suburban homes, and homes in Dallas—boy, they’re really nice, and not expensive still. I was just down there a couple of weeks ago, and it’s just a pleasure to drive around north Dallas and see these beautiful homes and compare it to the home prices up here in the Washington, D.C., area.
+
+But we had a maid. She took the bus from the other side of the Trinity River. That’s where the blacks lived. And I didn’t—Beatrice was her name. I remember that. I don’t know whether—I’m betting she had kids of her own. Didn’t really know. The only place—well, they were sort of the Hispanics of the age, you’d see them mowing the lawns and whatnot. But, boy, north Dallas was lily white.
+
+Downtown, you’d see them walking in the streets [chuckles]. Once I’d done a little traveling, in the Caribbean and Latin America and Africa, I acquired a taste for black women, and I found them attractive, whereas in Dallas I had never even looked at a black girl walking down the street or whatever. Again, I’m amazed that there was a chase.
+
+So that was aspect of travel being broadening for me. It was from that regard. I acquired a taste for a lot of different women, types of women, ethnicities.
+
+So—and we didn’t have Hispanics. We had a few Mexican restaurants. In fact, one of my classmates—I did have a Mexican classmate who was a star on our basketball team, which won the state championship, and his dad owned a restaurant just a mile from our house. But once again, I don’t think they even did the lawns back then. I don’t think there were nearly as many as there are today. I can’t—other than this one—I guess we had more than one Mexican, Hispanic in our school, but he’s the only one I can remember.</u>
+      <u who="PEARL">Yeah.
+
+And you mentioned that you weren’t that politically active, but did you know about Martin Luther King Jr.?</u>
+      <u who="MEYERCORD">[No audible response.]</u>
+      <u who="PEARL">So can you talk about him?</u>
+      <u who="MEYERCORD">Not even at Dartmouth. [Laughs.] No, definitely not in high school, and only vaguely at Dartmouth.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="MEYERCORD">No, and I wasn’t—you know, by late ’64, there were even from Dartmouth, certainly from the Ivy League, going down to Mississippi and Alabama, trying to register blacks to vote, and occasionally getting killed doing it, but not me.</u>
+      <u who="PEARL">So how did you come to end up at school at Dartmouth? Why Dartmouth?</u>
+      <u who="MEYERCORD">My dad went there. Well, my older siblings, of which there are three—I’m in the middle—had all gone to Southern Methodist University right there in Dallas, just a few miles from our house, so I assumed I was headed there, till my mother suggestion I apply to my dad’s alma mater. Dartmouth hadn’t really figured much in my existence up till then. Occasionally, my mother would get visits from my father’s classmates who were passing through town on business, but we never visited Hanover even—I don’t remember—even when we lived in New Jersey. So it was—it was not really something in my mind or something I had much experience with. But I’m glad she recommended it.</u>
+      <u who="PEARL">So can you tell me about your—your first year on campus, as a freshman?</u>
+      <u who="MEYERCORD">Yeah. Okay. A typical freshman year, I guess. I hear you don’t wear beanies anymore. You know, freshmen had to wear beanies, and they’d get pulled off our heads by the upperclassmen. And there must have been some—some sort of events, maybe competitions with the sophomores or something, though I don’t remember them. 
+
+I spent most of my time in the dormitory, studying. I had a strange—a strange experience as far as the library goes. I did most of my studying in the dorm because every time I went to the library, I needed to pee. I don’t know what that was all about. But I just found it more comfortable in the dorm.
+
+And was just—took the usual variety of courses freshmen would take. I was in honors math, of which there were two classes back then, two sections, and one section was taught by John [G.] Kemeny. I think the guy I had was named Mirkil. And he actually taught us some BASIC, BASIC programming language that Kemeny came up with and which had not even been released to the public at the time we were learning it at Dartmouth. It was just a week or two that we did some programming, and I didn’t have any particular interest in it. I was taking—that’s when math was one of my science requirements. Too bad. I got back into the field 20 years later.
+
+But I can’t remember exactly what courses I took freshman year. Like I say, it was probably the typical English, I know, and—I can’t remember a typical load, but it was such a wonderful eye opener to be exposed to so many fields of knowledge, which I really didn’t know much about. And this was freshman year, it started in freshman year, but it continued through my Dartmouth experience. Geology, psychology, anthropology. It was all so interesting, I had trouble picking a major. I only majored in history just because that was, of course, a general field I could study, and had an interest in history.
+
+
+
+But let’s see, did I get involved in anything freshman year? I don't think so. I just loved the environment, the outdoors, the beauty of it all. Skied. I skied my freshman year, starting down at the golf course, working my way up to the Dartmouth Skiway. I didn’t do the big-time slopes, wasn’t nearly good enough, coming from Texas.</u>
+      <u who="PEARL">Can you tell me how campus compared to—to Dallas, the student body?</u>
+      <u who="MEYERCORD">Well, like I said—I had probably—what would it be? Well, my high school was only three years, yet there were 2,000 students in it, so it was certainly different for me, coming from a public school, than for those guys coming from a prep school, I’m sure. But let’s see, the all-boy aspect, or bad aspect was not that different [chuckles] for me, except I didn’t date much in high school. It was different because you didn’t have any girls around. But I wasn’t into dating, anyway, well, at that time. That didn’t matter too much.
+
+And it was—I enjoyed the camaraderie, boys being boys. That brought to mind—oh, oh, oh, and I would—one of the high points, not only my freshman year but my entire Dartmouth experience, was following the football team around as they played away games. I had two friends at Harvard [University] and my friend at Princeton and a young lady at Cornell [University], so I would go off to these places.
+
+Oh, like I say, I was on my way to Princeton when Kennedy was assassinated. That was—yeah, it would be the next, sophomore, year.
+
+So I got into that. And, of course, I suppose I did some road trips freshman year down to Smith [College] for a mixer or something, though I can’t—I was probably—probably too inhibited freshman year to start that but eventually got into it.</u>
+      <u who="PEARL">Can you tell me about social life on campus?</u>
+      <u who="MEYERCORD">Well, I didn’t do much socializing, myself. I was studying hard, got some very good grades. And there was intramural sports. I probably played with that for advanced course math. You know, I suppose it’s the same today, that you can’t join a fraternity till sophomore year. I didn’t have a date—
+
+Oh, oh, that’s interesting, yeah. Let’s see, we’re talking nineteen sixty- —yeah, it must have been my first Winter Carnival, freshman year. The Daily D had a contest for the best shoot-down letter for Winter Carnival, getting turned down for a date for the Winter Carnival. Today you could just ask a girl, but back then, you had to write a letter—do you remember letters? No e-mail back then; or make a phone call, and that wasn’t that cheap back then—to invite a girl for Winter Carnival.
+
+So invited Jacqueline [Bouvier] Kennedy [later U.S. First Lady, later Jacqueline Kennedy Onassis]  and got a nice letter back from her social secretary, saying Mrs. Kennedy was honored but otherwise busy. And I won the contest! Got a box of cigars, as I remember, for winning the contest, which I must have given away because I didn’t smoke back then, or drink. I don’t think—yeah—anyway [chuckles].
+
+But that would have been freshman year, because I wouldn’t have the—I don’t think—yeah, I wouldn't have the gaucheness to have invited her a couple of months after her husband was assassinated, that must have been freshman year.</u>
+      <u who="PEARL">And did you join any clubs at all?</u>
+      <u who="MEYERCORD">Did I do what?</u>
+      <u who="PEARL">Join any clubs or fraternities?</u>
+      <u who="MEYERCORD">Oh, no. God, no! I don’t know whether we were even allowed in fraternity parties back then. Like I say, you couldn’t be in a fraternity until sophomore year.</u>
+      <u who="PEARL">So, I guess, what about your years as an upperclassman?</u>
+      <u who="MEYERCORD">Well, I eventually joined Kappa Sigma [now Chi Gamma Epsilon], what was called Kappa Sigma back then, right there on Fraternity Row [on Webster Avenue in Hanover] my junior year. I didn’t—didn’t rush sophomore year. I was so unsociable, that didn’t really appeal to me, but a couple of guys right across the hall that I respected a lot at North Mass joined Kappa Sigma, so I did join a fraternity junior year, but I never got—you know, I went to the parties and whatnot, but  I wasn’t a big part of the fraternity scene.
+
+Didn’t drink. Didn’t drink throughout my time at Dartmouth, though we did have beer pong in the basement. And I—you know, I enjoyed the—the fraternity stuff, even though I didn’t get into it like the guys who lived in a fraternity and whatnot and the guys who drank. It wasn’t a big part of my life.</u>
+      <u who="PEARL">Were you part of ROTC [Reserve Officers’ Training Corps] at all?</u>
+      <u who="MEYERCORD">Was I what?</u>
+      <u who="PEARL">Part of ROTC?</u>
+      <u who="MEYERCORD">No. I was aware it existed, I guess, but I can’t think of anybody I knew who was actually in it. Maybe a guy named [William B.] “Bill” Hayden [Class of 1966], who eventually became an admiral in the Navy, commanded a nuclear aircraft carrier. I can’t [chuckles] think of anyone else who was—and I really don’t know what ROTC was like at Dartmouth back then. In fact, I can’t say for sure we had it, but I’m pretty sure we did.</u>
+      <u who="PEARL">Was there any ever discussion of Vietnam on campus while you were there?</u>
+      <u who="MEYERCORD">No, no, the whole four years I was there—I’m sure there must have been some disc- —we all know what the discussion was: How are you going to get out of the draft, pretty much. But as far as talking about what the war was all about and where Vietnam was and stuff like that, I just don’t remember. There must have been some, but I can’t remember that we paid any attention to it other than trying to figure out what we were going to do with regard to the draft.</u>
+      <u who="PEARL">So what did you think you were going to do about the draft?</u>
+      <u who="MEYERCORD">I didn’t—I was going to—I went to the Stanford Business School [sic; Stanford Graduate School of Business] after Dartmouth, so I still had my student deferment, so I hadn’t really thought about it. I knew I had at least two years of deferment. Back then, you could get married and have a kid and get out of the draft, which some of my classmates did. I don’t mean to say they did that to avoid the draft, not like [former Vice President Richard Bruce] “Dick” Cheney. But that did qualify you for a deferment.
+
+That’s about as—as relevant as Vietnam was to us back then. I really don’t think we thought much—remember, this is—well, by ’66, when I graduated, the Gulf of Tonkin incident had occurred. Boy, did we even talk about that? If we did, I wasn’t listening or participating because it really slipped my mind now.</u>
+      <u who="PEARL">Okay. 
+
+And can you tell me about the Fulbright scholarship you applied to, what you were hoping to do with that, I guess?</u>
+      <u who="MEYERCORD">Yeah, I was applying to go to Australia and [chuckles]—typical of how dedicated I was and can be to things, it wasn’t that there was some particular—I wanted to pursue study in history, particularly economic history, and some Australian university had something of remote interest, but I just wanted to go to Australia, basically. But that didn’t happen. 
+
+But I continued to have my interest in economic history. Well, I had grown up in Dallas sort of inundated with a business ethic, and that was fine with me. I would be a businessman, like my dad, and that’s what motivated me to go to the Stanford Business School.</u>
+      <u who="PEARL">And can you tell me about attending Stanford?</u>
+      <u who="MEYERCORD">Well, that was—that was a transition. Once again, I picked Stanford just because I thought I’d like to live on the West Coast for a little while. I mean, obviously it’s a good school. I probably could have gotten into Harvard Business School, but I just wanted a change of coast. And also I had a friend out there, who I lived with, a friend from Dallas.
+
+And so that was an eye opener. First of all, they had women right there on campus. You ate lunch with them, and you saw them, and you didn’t have to write a letter to get a date. And it was [the] ’60s. [Chuckles.] It all seems pretty tame to your generation, but after the conformity of the ’50s, of the sexual repression and inhibition, the ‘60s—especially in the San Francisco area—was—there was a revolution going on, especially in the young ladies’ minds, fortunately. Because men always had the same thing in mind.
+
+
+
+So it was—I started to have some experience with the ladies. Obviously, I’d had a few dates, Winter Carnival dates and whatnot at Dartmouth, but—I’d gotten a little bit involved with a couple of girls, but not really. I mean, they were down there at Wellesley or Smith or wherever. You just didn’t see that much of them.
+
+So it was a totally different atmos- —they even had co-ed dormitories at Stanford when I got there. At that time, I think the women lived on one floor and the guys on another floor, but they didn’t share the same bathrooms. They probably had a dorm matron or whatever.
+
+I stayed with my friend up in the hills above Palo Alto. Group housing. That was a new experience from dorm life. Laid back and more independent. And this was--actually, I sort of--well, I don’t know how to put it, but part of my discovering myself and discovering life and getting out into life and participating was that I found the business school a little silly. Even though I was in the top third of my class after the first year, I lost my scholarship. I went there on a full scholarship.
+
+And so I decided not to pursue it for the second year, even though I knew that would end my student deferment as far as the draft went. And so my last summer there, the summer of ’67, known as the Summer of Love, and it was centered in the San Francisco area, Haight-Ashbury. I’m sure you’ve read about this in your history books. And that was quite a summer. And I had my first love.
+
+I never did--well, I told you I didn’t even drink at Dartmouth. I’m not sure--I’m not sure I even drank at Stanford. And I didn’t do drugs. Everybody else was doing them, but I didn’t. But it was a valuable experience, and it was right at the forefront of--
+
+You know, from my book, if you read that my--the guy I was living with had been elected vice president of the student council at Stanford the year before I went out there, and he was a running mate of a guy named David [V.] Harris, who was a political activist and became one of the best known draft resisters or war resisters in the country, not only because of things he was doing at Stanford.
+
+In one episode--of course, he had, you know, longish hair, hippie hair and dressed in jeans and whatnot, and rag-y jeans, and this was all--marked you off as a revolutionary back then. Anyway, some of the fraternity boys grabbed him one night and shaved his head, so that gave him a little notoriety.
+
+Then he went on to marry Joan [C.] Baez, the folksinger, and spent a couple of years in prison because of refusing to serve in the draft. Anyway, he was so [chuckles]--I didn’t really know him much at Stanford. Since he was a friend of the guy I was living with, I did [banging noise] him a couple of times, meet him a couple of times.
+
+I can’t remember anyone I knew at Dartmouth that was anywhere near that involved in [banging noise] current events. I’m sure numbers of people at least read The New York Times, but [banging noise] that was.</u>
+      <u who="PEARL">Did you--</u>
+      <u who="MEYERCORD">Yeah, so it was all [banging noise] it ended up with my, and with my draft deferment ending, all of a sudden I had to think about what I was going--how I was going to fulfill my military obligation.</u>
+      <u who="PEARL">And did you become more politically active or involved while at Stanford?</u>
+      <u who="MEYERCORD">No, no, I was an observer. That’s sort of the story of my life. I’m an observer, not a participant or an activist. No, I didn’t—I didn’t get involved in the demonstrations, the antiwar stuff or—[Laughs.] There weren’t too many people in the business school who who were into that in 1966, at least that I was aware of.</u>
+      <u who="PEARL">Okay. So what did you think of the demonstrations and activism that you saw?</u>
+      <u who="MEYERCORD">I don’t remember even seeing any. There must have been some on the Stanford campus, but I was living up at the hills. And, you know, pretty much all I saw on the campus was the business school and that was it, and then back up into the hills and--and--I can’t think of anything. Like I say, I was aware of David Harris, but the whole--other than the drug scene, which the guys I was living with were into, I don’t--I don’t remember anything.</u>
+      <u who="PEARL">Okay. 
+
+
+
+And it sounds like you were doing well academically, so what happened to your scholarship?</u>
+      <u who="MEYERCORD">Well, like I say—well, I was in the top third of my class, but my grades went down in the course of a year, to the three-quarters, and so I think they may have offered me a partial scholarship or something, but, like I say, I sort of lost interest in business school, and business, I guess. I don’t know, it was sort of a stupid decision.</u>
+      <u who="PEARL">So what prompted you to drop out, I guess, then? What did you decide to do? What did you think you were going to do afterwards?</u>
+      <u who="MEYERCORD">Maybe one of the things that prompted me to drop out: I knew my--the guy I was living with, a rich guy from Dallas, was--had gotten married that summer, and he decided that he and his wife would drive the Pan-American Highway all the way from Dallas down—not to Punta Arenas [Chile] but down in Chile, anyway. And he invited me to come along, the newlywed. Strange, but we knew each other. We’d all lived together in Stanford, so I guess it wasn’t that unusual.
+
+But this was a tremendous opportun- —I figured—you know, when I dropped out of Stanford, I should have notified my draft board that I was no longer in school, which would mean  would lose my 2-S [Selective Service System classification for current students in deferment] student deferment and reclassified 1-A [available for unrestricted military service].
+
+The guy I was just talking about, that was planning this trip, had spent a week in the Stanford hospital with mental problems and had gotten himself a 4-F [not acceptable for military service], which meant physically disqualified from the draft. That was everybody’s dream classification, 4-F. On the basis of that—so he didn’t have to worry about the draft.
+
+But I—like I said, I should have—the process was not only that you notify your draft board that you weren’t in school anymore, but also you had to actually have permission to leave the country. And I didn’t do either one of those things. I knew that it would take about a few months to figure out that I was no longer in school, and this was a tremendous opportunity to do some traveling. No, I don’t know if that had anything to do with my dropping out of Stanford, but it was a nice sequel.
+
+And, you know, what was I thinking about the draft then? Well, by that time I had met draft dodger, David Harris in particular, and Vietnam was on everybody’s mind and lips, front page of the newspaper every day, so—and the resistives, which are the opposition to the war, which assumed monumental proportions a year later, in 1968 and on through to ’72—and that was beginning already. But, like I say, I don’t—there must have been some stuff in San Francisco. Other than visiting Haight-Ashbury and buying tie-dyed T-shirts, I don’t remember witnessing any of those in San Francisco. But it was definitely becoming an issue for more than just those of us who faced the draft.
+
+So anyway, I think when I—like I say, when I dropped out of Stanford, I knew I had a few months before I’d be reclassified 1-A. And I don’t—I don’t  know when I figured out—if I made the decision as to what I would—I don’t think I’d made a decision as to what I would do when that happened. In other words, I wasn’t dedicated to opposing the draft at that time, when I left the country in November of 1967 with my friend and his wife.</u>
+      <u who="PEARL">So can you tell me about traveling to South America with your friend?</u>
+      <u who="MEYERCORD">Oh, I wrote a whole book about it, as you know.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="MEYERCORD">It was great. We experienced—my buddy and his wife would—money is no object. [Chuckles.] We were driving a Chevrolet station wagon that he had had an iron plate put on the bottom of to protect us from the bumps in the road. I mean [chuckles], it was totally inappropriate to once you got past Mexico, as far as the conditions of the roads [laughs] you were driving on. It just lowered the car instead of protected the engine.
+
+We didn’t have—well, we certainly had Volkswagen vans. That would have been a more appropriate choice, but we didn’t have SUVs and four-wheel drive. Other than Jeeps. And I don’t know whether Jeeps were sold commercially back then or not. I mean, to consumers versus the Army.
+
+So [chuckles] we were driving around Mexico in this thing, and we’d pull into a town at the end of the day and then check into the fanciest hotel in town, and I’d sleep in the back of the Chevrolet station wagon, which I was happy with. At least I had the use of a bathroom in their—their room.
+
+And we did that for a month before we got separated, and I had learned, which I didn’t—never would have guessed when I left Dallas that you could actually hitchhike down the Pan-American Highway. Not many cars sometimes, but I met people who were doing it, and so I decided to do that, and at three months I’m going down through Central America and South America and over to Rio de Janeiro. My friend and—
+
+My plan when we left the States was to make it to Rio in time for Carnival, which would have been February of 1968. I think I got that—and I actually made it. Spent three months traveling, a hundred days at about an average of three dollars a day. It was quite an experience. And I don’t mean experience—
+
+And because I was now facing the draft, I was starting to take an interest in public affairs and meeting a bunch of young South Americans as I traveled along and learning how they viewed the United States from south of the border. Was definitely an eye-opening experience. They didn’t view us quite as benevolently as we viewed ourselves. And that, of course, was combined with learning about what Vietnam was all about and the sort of derivative of finding out what American imperialism in Latin America was all about.</u>
+      <u who="PEARL">So I guess when did you start learning about Vietnam, in South America?</u>
+      <u who="MEYERCORD">Yeah, yeah. You know, here, I was going to face the draft in a couple of months, and I—I mention in my book that on the way out of Texas, we stopped at the University of Texas. Had a party there. A young lady—some young lady asked me what I thought of beautiful, and I said, “Viet-what?” because [chuckles] that’s about as far as I’d gotten in my—I was being facetious, of course, but I really hadn’t gotten into the issue, even—even at that point. 
+
+But they had—at the University of Texas, they had—every university in the county by then. And there was a lot of opposition, a lot of questioning what the hell we were doing over there. I think we probably swallowed—most people swallowed the Gulf of Tonkin incident as a true representation of what happened, knowledge that wasn’t quite as we read in our newspaper, as President [Lyndon B.] Johnson explained it, came later.
+
+So anyway, yeah, you know, I’m meeting with university students. At that time, mid-’60s, half of Latin American countries—not half, but a number of them were under military dictatorships supported by the United States or instigated by the United States in some cases. And there was real turmoil on campuses down there, demonstrations where the government sent in the tanks and killed some students, sort of [the shootings at] Kent State [University] on a much larger scale.
+
+Are you familiar with Kent State?</u>
+      <u who="PEARL">Yes.</u>
+      <u who="MEYERCORD">Okay. Yeah, I guess if you’re on this project, you probably would be. Anyway, that was small time compared to what was happening in Latin America. And these kids—they knew their history, and they knew what we were up to down there. I don’t think—and actually there’s an interesting sidelight: You know that when—
+
+Oh! [Chuckles.] I was going to say when I was at Dartmouth, I don’t think I even had heard of the CIA [Central Intelligence Agency]. And I feel sure in 1963, when Kennedy was assassination, I definitely didn’t. Hadn’t heard of the CIA. And I think most Americans had never heard of the CIA. Isn’t that amazing? But perhaps because of Kennedy’s assassination and the Cuban angle or whatnot, all of a sudden the CIA comes into some prominence. But still, by the time I graduated, the only knowledge I had of the CIA was that they came on campus—you know, they were one of the people you interviewed with for a job. I didn’t, but some people did, I’m sure. Lots of people. That’s how—that’s how out of it I was. And I don’t I was so untypical of my classmates, schoolmates.
+
+Where were we? What did we start—
+
+Oh, anyway, so I can remember one particular evening down in Chile, where I was sharing floor space in a police station with a bunch of students who were out on their summer vacation, trekking—winter up—I just left—it was, of course, summer down there. And they gave me an earful about what—what we were doing in Chile.
+
+And, of course, a few years later—let’s see, that was 1968. Two years later, Salvador Allende was elected their president, a socialist, a whole change from the presidents that preceded him. And three years later, he was overthrown in a coup that was supported by us. I know a lot of those—probably some of those students I talked to ended up dead, pushed out of helicopters over the ocean or things like that. But anyway, I—they were gradually opening my mind to stuff I didn’t know. Or opening a lot of people’s minds.</u>
+      <u who="PEARL">So what did you think of these new ideas and what these student activists and demonstrators were doing?</u>
+      <u who="MEYERCORD">No, I’ve always had an open mind, I think. I like to think so. So a lot of—I know—actually, now that I think about it, when I went to Brazil in 1961, the summer of ’61, I was one of three American kids in this little town in southern Brazil. And I guess the Brazilians, the young people that we hung out with gave us an earful, too, but I was mostly interested in the young ladies, so I wasn’t paying much attention. 
+
+But I remember this other American, who was very smart and well read and whatnot and who was into current events. Gave the Brazilians an earful—you know, took a stance and tried to defend what the bad rap they were giving us. In retrospect, I—I would see—and I was, once again, observing, listening, not trying to be friends with everybody. and I think in retrospect, I think I would consider his performance, you know, typical American, who really doesn’t know what’s going on, drunk the Kool-Aid up here all his life.
+
+At the time, I just thought—I was impressed that he was making this defense of American foreign policy. But I was also listening to the Cubans [chuckles]—I mean, the Brazilians, so I guess I was biased. That wasn’t a deep exposure to a different point of view, but now that I’m thinking about that, it was probably the initial one, and then was fortified by my longer stay in Latin America.
+
+And it made sense, what they were saying, especially with regard to Vietnam as well. You know, you didn’t have to look too deep to see that what that was all about is we were trying to replace the French as the prominent imperial power and prevent the Vietnamese from their nationalistic aspirations. That’s the way it was presented. It was all a fight against communism. But you didn’t have to know—you know, once I started to look into the real history of the Second World War and how the Soviets had lost 20 million citizens in the war (we barely—we were totally unscathed), and then to believe—and we were dominating—
+
+Oh, that is one—yeah, that is a good example of what—what came to mind. You know, we presented this world, or it was presented to us in the States as this Cold War between two superpowers, the Soviet Union and the United States, but going through Latin America, of course, you didn’t see any influences [chuckles], of the Soviet Union. There was no contest down there. It was all us. And that—I mean, you could amplify that. You know, here our troops are all over the world, and all Europe—and the good parts of Europe are all our allies and whatnot. It didn’t seem like—it seemed like the Soviet threat was—and the communist threat by extension was greatly exaggerated, though there were, you know, active communists in—in Latin America, who had powerful Communist Parties. But didn’t seem like it was a world communist conspiracy, looking at it from that angle.
+
+And certainly with regard to Vietnam, you know, there were communists there, obviously, but they were part of a nationalistic boom and just wanted to free themselves from colonial status. You know, when you look at the history, even superficially, the way we set up the South Vietnamese government, through the—by breaking down the Geneva Accords of 1956, was it? [sic; Geneva Agreements of 1954]</u>
+      <u who="PEARL">Fifty-four.</u>
+      <u who="MEYERCORD">Fifty-six, fifty-four. You probably know that. And ending up with the same allies, the affluent bourgeoisie and whatnot as—as the French had used or had used to maintain their colonial rule. And the same enemy. [Chuckles.]
+
+And then it was—it’s a shocker. You know, that’s not the story we were given. Makes you question a lot of things.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="MEYERCORD">There was this poor—very poor country fighting off the strongest military power the world had ever seen, by any means possible—to believe they were all brainwashed by the communists really how they were fighting for their country. If Americans knew that, they probably fighting with them instead of against them.</u>
+      <u who="PEARL">And can you tell me about Maria Innes that you met in South America and some of the stuff you learned from her?</u>
+      <u who="MEYERCORD">What?</u>
+      <u who="PEARL">In your book you mentioned a woman named Maria Innes?</u>
+      <u who="MEYERCORD">Oh, yeah, Maria Innes. When I got to Rio, I got a job within a couple of days, teaching English at a bi-national center down there. These are all over the world. Some of them were set up by the U.S. government; some of them were just private. This one I think was part of USIS, which no longer exists, United States Information Service. And they would set up these bi-national centers of basically libraries and other things in major cities around the world. And so I was teaching English there, and she was one of my students. You had regular university classes, and English was a complement to that.
+
+And she was into revolutionary dress [laughs], as all my other students—you know, Latin Americans tend to dress very nicely, even for casual situations. And especially the girls got all dressed up. And she comes in in a combat jacket and fatigue and whatnot and a [Ernesto] “Che” Guevara T-shirt and whatever, a beret on her head.
+
+So I think she was typical of a—what I would [chuckles]—I don’t think I’ve ever run into anyone like that in the United States. And I can remember now—in Rio, I can remember looking out the window of the Instituto Brazil-Estados Unidos, where I taught, and seeing the tanks in the street that the students were demonstrating—and she was down there with them.
+
+She was typical—well, she was the typical type you would think was—I would hang around with. She wasn’t [chuckles]—she wasn’t a worker or a peasant. She lived in Copacabana, in a nice apartment, with her family, and they were all upper middle class. But, you know, you could compare her to David Harris. I’m sure he had a similar background—the guy I knew in Stanford.
+
+But, you know, they introduced me to writers I’d never heard of, like Frantz Fanon. His best-known work is probably The Wretched of the Earth, meaning the Third World. I learned what the Third World was. [Chuckles.] Never heard the term before until I started traveling around, I don’t think, and it’s a very accurate perception of the situation of most of the world. The situation—their experience with—with the European dominance—and I include in that the stepchild of Europe, the United States—you know, being at the tail end, on the other side of the Industrial Revolution—and they just hadn’t experienced the growth, the economic growth, the prosperity, the progress that Europe, western Europe and North America had over the previous 150 years.
+
+And so their lifestyle was very different. You could see it in statistics, basic statistics, like infant mortality rate. You know, just having enough medical facilities and—and all the attributes of good health—food and whatnot—that enabled the western countries to reduce their infant mortality rate enormously hadn’t taken hold in—in large parts of the world. Kids didn’t go to school through high school or even junior high school. A lot of them never even went to school at all. Literacy rates were—were just the opposite of ours. You know, in our society everybody reads and writes. Down there, it was unusual.
+
+And they were not—you know, people—when—I learned—I learned about the term, Third World, and started using it years before our pundits did, and they never really “got it,” most of them. They immediately started talking about a First and Second World, the Soviet Union being the Second World. And that’s not it. It’s not a question of who’s first and who’s second. And the Soviet Union could in many ways claim that it was really more Third World than First World, as China still does today, and with good reason.
+
+But the point was, is we had all these masses of people around the world who just had not benefited from the Industrial Revolution and all the prosperity and improvement in living standards that resulted. They were living as their grandparents had, and it was getting worse instead of better.</u>
+      <u who="PEARL">So what did you believe—what did you come to believe that the U.S.’s role should have been in these countries?</u>
+      <u who="MEYERCORD">Well, it should have been what we say it is [chuckles]—you know, USAID [U.S.] Agency for International Development. There was one guy I remember well, counselor to the president, Eugene [V.] Rostow. I think it was Eugene. There were two brothers, Eugene and Walt [W.], one of them [Walt W.] who wrote a book called The Stages of Economic Growth[: A Non-Communist Manifesto], in which he postulated the stages that every country goes through and that the Third World countries would go through as they progressed towards an American lifestyle and living standard. It was bullshit. [Laughs.] [Both chuckle.] It was such simplistic—but it was best-seller, and, you know, the World Bank was repeating. What’s the World Bank there for except to end poverty in our time?
+
+So if we were actually doing this stuff, if we’re actually doing what we say we’re doing, but, you know, you find out—for instance, Food for Peace—I don’t know whether this program still exists. I believe it does. Where we basically dump our agricultural surplus on the world. It would be called dumping if it involved manufactured goods. You know, this is what the industrialized world did to the colonial world for a hundred years before they decided this was not fair, dumping—you know, selling things at lower prices abroad than you did at home and whatnot.
+
+Well, we were selling our agriculture prod- —selling? We were giving it away, sort of giving it away. We would lend these countries the money to buy our corn and wheat and whatnot at a discounted price, and this started out—the real name of Food for Peace is Public Laws 480, a law for the promotion of American agricultural [chuckles] products. There wasn’t any subterfuge to it back then. We didn’t mind saying, “This is something we’re doing because it’s good for us.”
+
+And it was actually George [S.] McGovern, one of the heroes of the late ‘60s, when he ran against the—not Johnson, [Richard M.] Nixon, as an antiwar senator. And so, you know, the antiwar crowd, the crowd I hang around with, considered him a hero, but he’s the one who changed the name from P.L.—Public Law 480 to Food for Peace.
+
+And, of course, you know, basically what we did is offer this stuff to our strategic allies, not the people who actually needed the food. Egypt and Israel got most of it [chuckles], eventually. So it was, you know, typical hypocrisy and counterproductive to—what it did was—was destroy the agriculture—the farmers in a lot of these countries because with our enormous, mechanized produce and fertile continent, we can produce crops cheaper than they could at home. And that’s what happened. It destroyed the farmers in a lot of these countries, pretty much.
+
+And, of course, the fact that we were loaning these countries money to buy this stuff, which they had to pay back, and they didn’t really—weren’t able to do that, really; we should have just given it away—didn’t help. So that’s a good example of how our—our words and our deeds don’t quite align. It’s the same thing with Vietnam: here, we’re liberating these people when in fact we’re trying to maintain their—their colonial status.</u>
+      <u who="PEARL">And what did your family think about—</u>
+      <u who="MEYERCORD">True today. Hasn’t changed.</u>
+      <u who="PEARL">What was that?</u>
+      <u who="MEYERCORD">Excuse me?</u>
+      <u who="PEARL">I interrupted you when you said the last stuff.</u>
+      <u who="MEYERCORD">Yeah, I said it’s true today. Our policy hasn’t changed.</u>
+      <u who="PEARL">Okay. And what did your family think about you traveling across South America, not notifying your draft board?</u>
+      <u who="MEYERCORD">Well, that’s—that’s an interesting question. My mother died the summer before I went to Dartmouth, entered Dartmouth, so I had four brothers and two sisters and an aunt as my immediate family in Dallas, and my oldest—my next youngest—next oldest brother [chuckles]—first youngest brother was at Dartmouth by the time I—I went abroad. And he eventually actually dropped out I think his junior year and went in the Army, did his service in Vietnam, and then went back to Dartmouth and graduated.
+
+But I—you know, I didn’t have much—I was writing letters home occasionally and receiving letters occasionally. I don’t know what they thought. I’m surprised, in retrospect, that they didn’t send someone to put me in a straightjacket and drag me back home because it was rather crazy, what I was doing. And out of—out of character, certainly something that no one [chuckles]—very few people in Dallas would understand or support, including my family. They’re all, till today, mostly good, conservative Republicans and churchgoers and whatnot.
+
+So I—they didn’t put any pressure on me to come back home. There’s only so much you can express in letters, especially at the rate I corresponded. I saw my aunt—let’s see, what year would that have been? I was offered a job—I’m traveling around now, and I was offered a job in Colombia while I was in India, by the father of this guy I left Texas with. He had—owned a factory, a textile company in Colombia, South America.
+
+And on the way, I stopped in Jamaica, where they were vacationing, and my aunt came down from Dallas to visit with me. And we just had a nice, sociable visit. She was not a very political person as far as I could tell and whatnot. Other than that, I’d get these—I was indicted for—let’s see, I was reclassified 1-A while I was—actually, before I got to Rio. I was traveling around and, like I say, I took three months. But by the time I got to Rio, there was a letter from my draft board, saying I hadn’t submitted the letter from Stanford saying I was still in school, they reclassified me 1-A, and I was supposed to report for a physical. That was the first step in being inducted. You get a physical. And try and fail it. I surely didn’t want to go, and some people would succeed, one way or another. And then you get inducted. Then you get an order for induction a month or so later.
+
+So I had—and when I didn’t show up, it took them—let’s see, that would have been the winter of ’68. It took them a year and a half to actually indict me for draft evasion in the summer of ’69. And before then, these FBI [Federal Bureau of Investigation agents] would occasionally get in contact with my family, meaning my aunt, and then through her, to my brothers and sisters—would know what was happening.
+
+And I’d get a frantic letter from one of my sisters, who remains the most conservative and super-patriot and whatnot of the family, saying, “The FBI just contacted us, and they said you’re in big trouble, but if you’ll come home right now and go ahead and be inducted, go into the military, all will be forgiven.”
+
+[Laughs.] And I got—and every six months—you know, every six months there’d be another letter like this. And one period there, I had—after Brazil I went to Lebanon, but I was really planning to go to Israel because I’d met a young lady from Israel in Brazil. But I ended up in Lebanon, for reasons you’ve read about.
+
+But then—so I was in Lebanon for six months. Then I went down and visited this young lady in Israel, and I was showing her the letters that my sister had sent when she thought I was going to end up in Israel; in other words, they were six months old, and they were duplicates of the letter I had just received in Beirut, saying, “Oh, the FBI just came by and said if you come home right away, everything will be forgiven.” And six months later, I’m getting the same letter, so I’m beginning to wonder, you know [chuckles], How serious is the FBI?
+
+But then I did—I don’t remember when I found out that I was officially indicted. I know when it was. I was indicted in August of 1969. But when I found out about that or when my family found out about it—because I’m not exactly sure—</u>
+      <u who="PEARL">Did you know that you’d be indicted, or did you think that it would just go away after a while?</u>
+      <u who="MEYERCORD">Oh, no. I assumed it was serious stuff. And I by that time—when I left Brazil, I would say I had committed—you know, I definitely—while I was in Brazil, I had committed to not being drafted, not going into the—not serving. I’d like to say it was some idealistic stand, even patriotic I like to say that it was that I was taking, but it was certainly—fortunately, history has absolved me, in a sense, in that as things worked out, I think a lot of people came to que- —not only question but condemn what we were doing in Vietnam. You know, draft evasion is not a good charge to have against you. I’m not worried about the cowardice angle. I don’t know if it took much character to let yourself be drafted, and until you got in combat, you didn’t realize, Hey, this stuff is really serious. But a lot of people, I think—I didn’t even think about—I don’t think I thought about that aspect much, myself.
+
+But obviously, any stand I took against the draft was self-serving in the sense that I was having a damn good time, and the draft was just—you know, that would interfere—interrupt the good time, the party I was having traveling around. And I was learning so much—I got—I don’t want to say it was better than a Dartmouth education, but in some ways it was, what I was learning as I traveled around.</u>
+      <u who="PEARL">Yeah.
+
+And you mentioned even at Dartmouth you didn’t want to –you didn’t want to serve in the military, so I guess how did that change when you learned about Vietnam?</u>
+      <u who="MEYERCORD">What?</u>
+      <u who="PEARL">When you were at Dartmouth, you didn’t want to serve in the military. You didn’t want to do the draft. So why didn’t you want to serve at Dartmouth?</u>
+      <u who="MEYERCORD">At Dartmouth, I didn’t think about it much, because I had my 2-S, and I didn’t know what the war was all about. No, I didn’t—I didn’t really give much—well, I gave some thought to it out at Stanford because out there they were so active about it, but I hadn’t—I really hadn’t—when I left the country in November 1967, I had not decided that I would not serve in the military, by any means. I would just—I figured I had a couple of months and that this traveling was a rare opportunity with my friend, and so I was going to do that, and I’d make—make that decision later on.</u>
+      <u who="PEARL">Okay. </u>
+      <u who="MEYERCORD">And I did make that decision in the eight months I spent in Rio, somewhere along the line there, when I was drafted and was in big trouble if I didn’t go home immediately. I decided I wasn’t going to—and, of course, by then—what are we talking? We’re talking about ’68. You know, by then, it looks like the war couldn’t go on much longer. It had gone on for—well, depending on when you say the starting gun went off, but at least three years, four years. Massive demonstrations against the war. We were [unintelligible] the Tet Offensive did not convince anyone that the end was in sight.
+
+
+
+So if you told me in 1968 that the war would go on really until 1975—you know, we left in ’72, but we were still very active, and the government we supported collapsed in 1975—I might have made a different decision. [Chuckles.] If I knew I wasn’t going to be coming home until 1975 in 1968, I might have made a different decision. But I think I had hopes that the war would end because many people were coming to oppose the war, that somehow not having reported for duty would not incur the five years in prison that it could possibly incur.
+
+So, yeah, I didn’t—it was in Brazil that I made the decision not to go into the military, and, like I say, I would like to say it was because I figured out what was really going on and what the Vietnam War was all about. And that certainly was a factor, but I have to admit that two years in the Army seemed like not nearly as much fun as what I was doing.</u>
+      <u who="PEARL">So what did you think of your brother serving in Vietnam?</u>
+      <u who="MEYERCORD">Well, I was concerned about that. I’m not surprised. Well, let’s talk about my next brother, David, because he’s the type of guy that responds to the call of duty and is very conventional in his outlook and his knowledge. I was a little surprised that he dropped out of Dartmouth to go into the military, and I still don’t understand what that was all about. But I’m not surprised he served. I knew he would serve well. But, you know, I thought, What is not only my family but everybody else going to think if one of my brothers is killed in Vietnam while I’m gallivanting around the world?
+
+
+
+And then my youngest brother, Philip—I guess he volunteered after he dropped out of Dartmouth, and he served in Vietnam as well. My main concern, you know, was—I didn’t—I didn’t—what?—I didn’t—I didn’t condemn them for serving in a war that I thought they were on the wrong side of, by any means. I knew what motivated them, and I knew they were good, patriotic guys, and they were doing their duty, like most of the guys that ended up over there, so there wasn’t any question of praising them, either, other than, you know, they’re doing their duty, what they see as their duty, anyway.
+
+But my main concern is that they come back intact, which they did, so it’s hard—I think some of my brothers and sisters think the youngest one, Philip, never really—he was a medic over in Vietnam, so you see some pretty gruesome things. And I think anyone who’s been in combat has seen something that those of us who haven’t just can’t understand the experience, terror of the bloodshed. The whole experience must be unbelievably traumatizing, maybe not traumatizing, but pretty close. And a life- —gives you a different perspective on things, just as my travel around did, in a much less dangerous circumstance.
+
+So I just hope that they came out all right, and other than psychologically, I don’t think it affected my brother David much psychologically. He went on to have—graduated from Dartmouth, became a General and what not.
+
+But my youngest brother, who was always a little weird—I mean, he dropped out of Dartmouth because he wanted to go into the military. He dropped out because he couldn’t handle it, I could believe. Anyway, so he may have—it may have pretty much lasted a lifetime for him, the effect of having been in the war. He didn’t commit suicide or anything like that, but he never—never went back to Dartmouth. He never had much of a career.</u>
+      <u who="PEARL">What about your brother Andy?</u>
+      <u who="MEYERCORD">At least physically they were all right. My brother Andy?</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="MEYERCORD">Asked?</u>
+      <u who="PEARL">Yes, about Andy.</u>
+      <u who="MEYERCORD">Yeah, he got a deferment. I’m not sure what the basis of the deferment was. I think it was [chuckles]—you know, you [chuckles]—not everybody, but a lot of us, including myself, were trying to finagle the draft. I had one—my brother-in-law’s brother, who was a star athlete in college—when he went in for his physical for the draft, he—he ate a bunch of chocolate the night before so his blood sugar was—it looked like he was diabetic, and that got him a 4-F. There were [chuckles]—I forget what the basis of Andy’s deferment, but he managed not to be drafted, and he just went to law school and got married. Maybe the marriage helped him out. I don’t know.</u>
+      <u who="PEARL">So what prompted you to continue traveling after South America?</u>
+      <u who="MEYERCORD">Well, I decided that I loved it, I was learning a hell of a lot, it was a once-in-a-lifetime opportunity, and if I wasn’t—I knew going back to the States was out of the question, if I really was intent on not serving in the military. And I had—just had the opportunity and had the interest, so I just continued. I decided in Brazil, I’d go around the world, which I eventually do. Not quite the way I planned it, but pretty close.
+
+I stopped in Rio for six months and taught English there. Met a student at the American University of Beirut, who became my wife eventually, a young lady from a village in Palestine. And then from Beirut—oh, I—like I say, I traveled across South Asia to India and got this offer of a job from my Dallas buddy’s father and went to work in, Medellín, Colombia, for six months, before it was known as the drug capital of the world. It was just a beautiful city back then, but, you know, typical Third World: the hillsides covered with shacks while the rich folks were living palatially.
+
+But my passport was about to expire at that time, and I thought, What am I gonna do when my passport expires? I had decided I would like to pursue an academic career, and I decided I wanted to get to know the young lady who eventually became my wife better. And I loved my time—my six months in Beirut, so I decided to go back to Beirut via Brazil and West Africa and North Africa, et cetera.
+
+So I ended up back in Beirut, where I did do graduate work at the American University of Beirut. Got a master’s degree in Middle East history. But by the time I got back, my wife had graduated and was back at her village in Palestine, and I lost my passport a month after getting back to Beirut. It was about to expire anyway, but under—cir- —under circumstances you read about, it was lifted by the American Embassy, so I couldn’t go to Palestine to meet her, and so I was there in Beirut for three years, a good half of three years, while she was down there in Palestine, and we didn’t see each other.
+
+And pursuing a graduate degree, as I say, and having a hell of a good time. Beirut was the Paris of the Middle East at that time. it was before their civil war started, which was in ’75. There was commotion over there. There were Palestinian refuge camps. You know, when I arrived in Beirut, I didn’t even know what a Palestinian was. Most Americans didn’t. This would have been ’68. Even after the Six-Day War—I mean, that was—made what was going on in the Middle East more prominent, but I still didn’t know anything about it. And, like I say, the Palestinians hadn’t started hijacking airplanes yet, so didn’t even know they existed, pretty much.
+
+It was in 1969 that [Israeli prime minister] Golda Meir said, “Who are the Palestinians? They don’t exist.” Meaning there never had been a Palestine. But the response of most Americans to that statement would have been, “Who? Who’s she talking about?” They really didn’t exist for Americans.
+
+Anyway, so—so there I am in graduate school in Beirut, and my wife did come through Beirut for a couple of days with her mother en route to Kuwait. She was going down to teach in Kuwait. And that was six- —after a couple of years. That must have been in the summer of ’73—’72, ’72.
+
+And then for [chuckles]—for reasons too complicated to go into right here, I ended up being in the newspaper in Beirut, which forced her fam- —or at least one brother—she—she was not able to come to Beirut because she was an Arab village girl. They don’t even date back then. And her oldest brother, who was the boss of the family, overruled the mother—the father was dead, so the oldest man was the boss, and he would have nothing to do with—wouldn't hear of his sister marrying an American. He worked for Jordanian Intelligence, King Hussein.
+
+But the next youngest brother, who was down there in Kuwait, was a little bit more westernized, more open-minded, and they realized their sister was not getting any younger. [Chuckles.] You know, there weren’t going to be too many more cousins asking for her hand. So he brought her to Beirut because of this notoriety. You know, now her reputation was really ruined. [Unintelligible]
+
+So he brought her to Beirut. The next day, we got married, having not seen each other for—having known each other for a month and not seeing each other for three years. Weird story. But it seems to have worked out pretty well. We’re still together.</u>
+      <u who="PEARL">Going back, can you tell me why you originally went to—to Lebanon from South America?</u>
+      <u who="MEYERCORD">How I got from Lebanon to South America, back to South America?</u>
+      <u who="PEARL">No, no, why did you originally—why did you originally go to Lebanon as your first stop after—</u>
+      <u who="MEYERCORD">Well, like I say, in Beirut—I worked there for eight months, and I decided I wanted to go around the world, so I got on a boat to Spain and from Spain hitchhiked across North Africa to Egypt, [Chuckles.] I was so out of it! Like I say, I was headed for Israel. I figured I had enough money to get to Israel, and I could—I now found out that it wasn’t very hard to get a job, at least teaching English, anywheres in the world, so I didn’t worry too much about employment. I figured I’d get by all right.
+
+But I had enough money to get to Israel, I figured. I had met this young Israeli girl. It never occurred to me—this is 1968—that you couldn’t hitchhike from Cairo to Tel Aviv, the Six-Day War having been the previous year and there were now two armies opposing each other across the Suez Canal. No traffic in between.
+
+So to get to Israel, I had to take a boat from Alexandria in Egypt to Cyprus. There weren’t any direct boats to Israel from Egypt back then. Maybe there are today. I don’t know. So I had to go to Cyprus, a neutral country, and then from Cyprus down to Haifa in Israel. And each leg of the trip was, like, twenty-five bucks. I only had twenty-five bucks.
+
+And I met some people in Alexandria who raved about how great a route was, so—and that was twenty-five—I could go directly to Beirut, and that would be twenty-five bucks, so I ended up going to Beirut instead of Israel, and the rest was history.
+
+Like I say, got a job very quickly, teaching. Spent six months there. I didn’t—I didn’t do any studies at the time, but the American University of Beirut is a wonderful place, a school about the size of Dartmouth and beautiful, cliff-side campus of the Mediterranean. Very westernized. There were only a couple of hundred Americans enrolled there, but students from all over the Middle East, not just Lebanon but Afghanistan and Uganda, all sorts of places. Quite an institution. Still is, I suppose, though not quite as international as it was back then, because of all the commotion in that part of the world.</u>
+      <u who="PEARL">And what were you teaching at the university?</u>
+      <u who="MEYERCORD">I didn’t teach at the university at that time. I did when I first was there. I got a job teaching English at another one of these bi-national centers.</u>
+      <u who="PEARL">Okay.</u>
+      <u who="MEYERCORD">Like I say, they’re all over the world, okay? [Chuckles.] If you had a college degree and were a native English speaker, you could get a job there. And because I had a college degree from Dartmouth, which people were impressed with, I would get to teach the highest level courses, which were basically like using the textbook from your junior year in high school American literature course or something like that.
+
+Yeah, so I was just—I don’t know what my—my plan, I guess, when I went to Beirut was that—I still get to Israel but just six months later [chuckles], when I earned enough money to go to Cyprus and then down to Israel, which is what I did. After six months, I went and visited with this Israeli girl.
+
+And that was—the trip to Israel was an eye opener. You know, in Beirut, just as in Latin America I had been exposed to all this criticism of American imperialism, in Beirut, of course, I’d been exposed to all this criticism of Israel, and I knew nothing about the situation, the history, anything, because I really didn’t take much interest while I was in Beirut.
+
+But then, when I actually went and visited Israel, I stayed with this Israeli girl for a few days, traveled around the country, and I stayed with Samira, my wife’s family in Beit Jala, this little village near Jerusalem, on the West Bank. And it was just like the South America—it was an eye opener. I realized, My God, I’ve got everything upside down. The oppressor is the oppressor [sic], and the victim is the victimizer. This picture of a brave little democracy, Israel, surrounded by savage Arabs was really grossly inaccurate. It was this military powerhouse driving these typical, traditional, Third World, colonized people off their land.
+
+And the sort of racist attitude, at least in the Israelis I ran into, was a shock. The way they talked about Arabs was the way a white Mississippian might talk about blacks in the 1950s, or maybe even today.
+
+I just spent six months with Lebanese, and they are a very sophisticated, civilized people, so this was—how do these people have this crazy idea. And that got me—I actually went to—all of a sudden I took an interest in how this had come to be, and I went to the USIS—you remember them—the U.S. Information Service library and got some history books to find out what this is all about. And you don’t have to delve—just like with Vietnam, you don’t have to delve too deeply to figure out what it was all about. The same with the Arab-Israeli thing. You know, these people decided they wanted to reestablish their 2,000-year-old nation in the country that was already occupied by some other people. This is—you know, this is not going to work out well. [Chuckles.] You could tell from the get-go. And that’s inside what happened.
+
+And, like I say, the victim, supposedly Israel, is in fact victimizing—you find out the Six-Day War was really—Israel was the aggressor. Egypt has 60,000 of its best troops down in Yemen at the time, fighting on the republican side against the monarchy or whatever, the British, so they weren’t in any position to attack Israel. I mean, the tensions were there and whatnot, but thanks to us and our support, the first—which was just—just really in the ’50s and early ’60s, Israel depended more on European countries, France and Britain, for its military supplies and diplomatic support and whatnot. We were just getting into it.
+
+But thanks to the support of the Europeans, Israel had the strongest army in the—in the area, which they proved in 1967. Continue to prove. And so all of a sudden it didn’t make sense.
+
+I can remember about the only—there’s another—another current event that I actually remember. This was at Stanford. I was at Stanford when the Six-Day War occurred, and I could remember Walter [L.] Cronkite [Jr.] sitting at his desk, before a big map of the Middle East, in which you saw little tiny Israel surrounded by the Arab countries. The fact that 90 percent of the Arab countries is desert—you know [chuckles], they didn’t exactly illustrate that. And so it looked like, oh, this poor little democracy. And people speak our language. Half of them come from the United States and whatnot. We can identify with them, not with these swarthy types speaking a strange language and having strange customs.
+
+So just that graphic sort of illustrated what the American mindset was considering the conflict back then: tiny little Israel surrounding by these enormous Arab countries, all hostile to it. But really grotesquely inaccurate, duplistic, sordid.</u>
+      <u who="PEARL">Mm-hm. 
+
+And where did you go after Israel?</u>
+      <u who="MEYERCORD">I headed off across North Afr- —across South Asia, Turkey and Iran, under the shah, Kuwait, Afghanistan before king at that time and where hashish was sold by the government. [Laughs.] It was legal in Afghani- —I still wasn’t—I never have done—I mean, obviously I’ve smoked marijuana. Everybody did back then. I never inhaled. Maybe that’s why I didn’t get addicted to it or have much of a positive experience of it. I was drinking. I forget when I started to drink. And even—I learned to smoke when I was about 25 in Turkey, where the cigarettes are extremely mild. That was one of the biggest mistakes in my life, never picking up a cigarette. Drink, I don’t mind so much, or think was a mistake.
+
+Anyway, like I say, when I got to India, I got this offer of a job in Medellín, Colombia, from my friend’s father, and he gave me an airplane ticket—or bought me an airplane ticket, which—I don’t know if you can do that in these days, but back then, if you had to stop in a place—and they didn’t have nonstop flights from India to across the Pacific Ocean back then—so I got to stop in half a dozen places on this airplane ticket from Calcutta [now Kolkata] to Medellín, Colombia.
+
+I stopped in Bangkok [Thailand] and Kuala Lampur [Malaysia] and Singapore [Malaysia] and Phnom Penh [Cambodia]. That was a Vietnam-related exposure. This was before we started bombing Cambodia because the Viet Cong were getting supplies from North Vietnam through trails in Cambodia. It was under Prince [Norodom] Sihanouk [pronouncing it see-HA-nook], a monarchy back then, and so it—and he was sort of—had a neutral stand. He was trying not to get involved in this war going on in the country just fifty miles down the road.
+
+I had a great time. I thought the Cambodians were just the sweetest, most beautiful people in the world, these tiny, beautiful people, and they were all—they just wanted to touch me. You know, the little kids just wanted to touch me because of my light hair and whatnot. And a year later, they’re cutting each other’s heads off after our bombing has resulted in Prince Sihanouk being overthrown and that government being opposed by the Khmer Rouge, successfully opposed, and the whole tragedy of Cambodia was related to the tragedy of Vietnam. And Henry [A.] Kissinger should have been—I don’t know what punishment would have been sufficient for what he did to Cambodia with his secret bombing and his whole policy.
+
+There was a popular political singer-songwriter, who wrote satirical political songs of the period, [Thomas A.] “Tom” Lehrer. Have you ever heard of him?</u>
+      <u who="PEARL">No.</u>
+      <u who="MEYERCORD">L-e-h-r-e-r? And when he retired from the satire, political satire business, they asked him why, and he said, “Well, political satire ended the day that the Nobel Peace Prize was awarded to Henry Kissinger.” Which is a pretty good line. [Chuckles.] And very accurate. 
+
+Anyway, so—but I was there before this happened. There was one experience I could remember there. I was in Phnom Penh—you know, the famous ruins, Angkor Wat. Not Phnom Penh; that’s the capital. I was in Angkor Wat that I went to, which is out in the countryside, quite a ways from Phnom Penh.
+
+And I went to a movie in this little town, and the movie was made by the North Vietnamese. And they had Americans, probably POWs [prisoners of war], in the movie because you could tell. These are big, tall guys. And [chuckles] one of the characteristics for them of Americans, just like we—we associate Vietnamese with slant eyes, say. It was eyebrows, thick eyebrows marks an American. You know, for the Chinese, we’re known as the long noses. [Chuckles.]  Anyway, I don’t mean—really, I don’t mean that in a derogatory sense, just there is, you know, things, superficial things like that people get identified by.
+
+Anyway, so there I am. The dark eyebrows guys, the tall, dark-eyebrowed guys are doing terrible things to the Vietnamese in this movie, with the Vietnamese winning, of course, in the end. And I was struck, when I came out of the theater with a couple of other Americans—it was obvious [chuckles]—you know, we were Americans, or at least Europeans—you know, on the wrong side, on the sides of the movie. And there was no hostility. There was no hostility. The Cambodians were just so interested in you and friendly. Remarkable.</u>
+      <u who="PEARL">So, yes, why don’t you—</u>
+      <u who="MEYERCORD">So anyway, so I stopped at all these places: Japan, Hong Kong, Taiwan on my way to [chuckles]—it was interesting: When I got to Can- —when—there was a layover in Vancouver, and I called home! It was ten cents back then [chuckles] to make a pay telephone call. And I called home, talked to my aunt in Dallas, but I couldn’t—fortunately, there was—I couldn’t book my flight that would stop in the United States [chuckles], so I was going from Canada to Mexico, nonstop. 
+
+But it was—it was a really—I don’t know how to describe it; I’m not sure. A powerful, nostalgic, heartbreaking experience to fly over the United States, especially the western part that I’d gotten to know from the time I was at Stanford, after all these years. This was now 19- —well, it wasn’t that many years. Actually, it was 1970, so I’d been away for two years, a little over two years by then. But it was—you know, I thought about a lot of things while we flew over the United States.
+
+And so I ended up in Medellín, Colombia, and worked there at this textile company for six months. And then—</u>
+      <u who="PEARL">So I guess—</u>
+      <u who="MEYERCORD">Excuse me?</u>
+      <u who="PEARL">I was going to ask how you felt about touring Cambodia while in reality you should have been touring Vietnam next door, I guess.</u>
+      <u who="MEYERCORD">Yeah, yeah! Well, let’s see, my brother just—I think my brother—I’m not sure whether my brother—I don’t think my brother David had gotten there yet. That would have been—so I didn’t—I didn’t really think too much of it, except by then I was, you know, very interesting in what was going on over there, so I was glad I was at least able to get as close as Cambodia. But I don’t remember anything political in Cambodia at that time. It was just a year before we started our—our secret bombing.
+
+And I didn’t—you know, you had to take a bus to get to Angkor Wat, so I saw the countryside. Most of the time—in most of these countries, you know, the capital city is one thing; the countryside is a totally different thing in terms of lifestyle and poverty and all this stuff. But I didn’t—Cambodia didn’t—didn’t leave much of an impression on me except beautiful country, beautiful people, and I had a good time.</u>
+      <u who="PEARL">And then you said you went to Vancouver. Did you ever consider doing landed immigrant status, like many other draft evaders did?</u>
+      <u who="MEYERCORD">No, no, I never did consider that. I never did consider that, probably because I had a typical American attitude of Canada as the Great White North. [Laughs.] And even though I enjoyed the Great White North in Hanover, somehow Toronto just couldn’t compare with Rio de Janeiro and Brazil and—I mean Beirut and places like that. I didn’t see any reason why I should—because once I had my passport, I’d rather be traveling than stuck in Canada. So I never even considered that.</u>
+      <u who="MEYERCORD">So did you plan to continue traveling until the war had ended?
+
+MEYERCORD:	Well, I tried to tried to stay out of the country. [Chuckles.] But I ended up—I was in Beirut—well, after Medellín I went back to Beirut and was there for three years, and then I—I sort of decided to stop traveling because I realized, I better get some credentials towards a career, so I wanted to continue my academic studies, which I did. You know, like I said, got a master’s in history.
+
+And I didn’t really go back with the intention of marrying my wife just to get to know her better, and I—I don’t know, all my brothers and sisters were married by the time they were 22 years old. Like I say, it was the family tradition. But here I was, 25, 26 and I assumed I would get married and have kids and whatnot, but I hadn’t really thought much about it. And then the circumstances made it impossible for me to get to know Samira better unless I married her. [Chuckles.] And that’s how we got married.
+
+But I—I—you know, with the fact that—I think even if I’d had a passport, my traveling days were pretty much over when I went back to Beirut and enrolled at the American University of Beirut, and especially when I got married, though we ended up a couple of months after we got married, in February of ’74—no, it must have been January, actually. We went to—I was married by then, and we went to Algeria, next to the Algerian ambassador. Back then, Algeria had a revolutionary government, not on the scale of Cuba or Vietnam but—not communist by any means, but typical mass liberation struggle. They had an eight-year war with the French, a bloody, terrible thing, in which, you know, 10 percent of the population was killed, or more. So they were all part of the Third World revolution—non-aligned bloc of revolutionary movements active in so many Third World countries back then.
+
+And they were friendly with the Soviet Union and friendly with us, too. They tried to be non-aligned. But they wanted to present this revolutionary—they were socialists, not communists, by any means, but they tried to implement a socialist system in Algeria, and so, because of that, they—[L.] Eldridge Cleaver, who you may remember, Black Panther, had taken refuge in there a year or so before I did. So that’s why they offered me a laissez-passer to Algeria, and I ended up teaching at the University of Algiers, and our two kids were born there.
+
+And then in ’75—well, Carter—not Carter, [President Gerald R.] Ford [Jr.] had offered an amnesty of sorts in 1974, whereby people like me, who had been indicted, could have the charges dropped if we agreed to do two years of alternative service or something like that. I wasn’t really interested, so I didn’t even look into it. It wasn’t a very good deal, and it would—as a matter of principle, it would be an admission of guilt to accept the pardon, and by then I didn’t feel guilty; I felt like everybody else was.
+
+So I didn’t even—in fact, the first edition of my book—I hope you read the second edition [chuckles], which came out only just a month later—the first edition, I didn’t even mention Ford’s pardon because I’d forgotten all about it. When I put my book out, some people reminded me of that, and so I put it in a month later.
+
+There were a couple of other things. I think I only mentioned one of my brothers being in Vietnam, and so I put both brothers in the second edition, which was what I [unintelligible].</u>
+      <u who="PEARL">So let’s go back to Colombia. What type of work were you doing there for your friend’s dad?</u>
+      <u who="MEYERCORD">The father of my friend, who at this time, interestingly enough, was a United States congressman, and he’s hiring a draft dodger to be—to help his son-in-law out. His son-in-law was the president of this company and was living down there. His wife I’d known since grade school, the sister of my friend from Dallas. And I was supposedly—the idea—those who know, after a year or two I would take over as president of this comp- — or directing this company, and they’d go back to the States.
+
+They ended up staying down there for, like, ten years, and, like I say, I—I—so I was just sort of the management trainee for six months, but because I was—my passport was expiring and I wanted to pursue an academic career rather than business, I was only there for six months and then took off for Beirut.
+
+[Chuckles.] I had a run-in with the law down there, but it didn’t involve politics at all, at least not directly. I had a great apartment. You know, I wasn’t making that much money, but it was—compared to what the Colombians were making, it was pretty good. And a couple of American hippies, real hippies, really into drugs, traveling around—you know, just out of college—came through town. I put them up for a couple of days in my apartment. I had plenty of room.
+
+And I think they ended up getting thrown out of the country. I think the police thought they were dealing drugs, and maybe they were. I don’t know. But because they had been living in my apartment, one day I get picked up and put in jail. [Laughs.] I’m not sure what the charge was [chuckles], if any. But my boss, the son-in-law of the owner, has to come down and bail me out of jail, and he can’t imagine why.
+
+You know, it had nothing to do with politics. It was just that the Colombians thought I was somehow related to these guys that they thought were dealing in drugs, so I was just in there overnight with—you know, a cell with 30 other Colombians. An interesting experience, but [chuckles] the sort of stupid situation I get into because I don’t I’m not very good at understanding what’s going on, being naïve and not looking ahead. Well, a lot of—it’s plagued me my whole life. I’ve been lucky. I’ve been blessed, as the evangelicals would say.</u>
+      <u who="PEARL">Good.
+
+And could you tell me about enrolling at American University in Beirut after Colombia?</u>
+      <u who="MEYERCORD">Yeah. So I go back to Beirut, and I get in the master’s degree program in history. Like I say, Beirut was a wonderful city—the university is accredited by New York State. Founded by Presbyterian missionaries back in the 19- —1860s, just around the time of our Civil War, and had become the predominant educational institution in the entire Middle East. That is the local universities—what’s the Muslim university in Cairo? I can’t believe I’ve forgotten the name of it. But, you know, they were teaching the Quran [chuckles] for a while. AUB was speaking science and stuff like that.
+
+So it—really an amazing history of the school. They had a plaque in the administrative office that showed all the graduates of the American University of Beirut who signed the U.N. [United Nations] Charter in 1945. There were, like, a dozen of them: foreign minister of this country, prime minister of that country, ambassador from this country. Because AUB attracted them from all over: North Africa, Middle East, Africa. You know, more—more graduates of AUB signed the U.N. Charter than graduates of Harvard or [the University of] Oxford, I feel sure.
+
+So that’s the sort of place it was. It’s an incredible, cosmopolitan, international place in the middle—in the middle of history, both for thousands of years as well as currently.
+
+So I was teaching European history, graduate assistant. That was how I survived financially. It was all English, of course.</u>
+      <u who="PEARL">Can you tell me about your activism in Lebanon? I know that you got involved in the embassy in some protests.</u>
+      <u who="MEYERCORD">Well, that was—yeah, that was when I went back. There was something about—let me think. No, yeah. Well, when [chuckles]—I got back there in September of 1970, and at that time, [the U.S.] Congress was debating—and by then I was—ever since I visited Palestine, I was a proponent of the Palestinian cause because what else could you be when you understood—I mean, if you [chuckles]—it’s a little hard for Americans even today to—to have a good conception of what really is going on over there, but, you know, these people are getting pushed off the land, half a million refugees fleeing to other countries and whatnot.
+
+You know, it doesn’t make you an enemy of Israel necessarily, but you can’t help but feel sorry for these people and regret that this tragic situation is occurring. So I became, you know, a proponent in the sense of feeling for the Palestinians and telling people, to try to educate people on what was going on.
+
+So when I get back to Beirut in September 1970, the American Congress was about to authorize the first really big financial aid package for—for Israel, half a billion dollars. Before that time, like I say, Israel depended more on—on reparations from Germany, the French—they were getting their jet fighters from France, and Great Britain and whatnot. And then America, American Jews.
+
+
+
+But here we were. it was after the Six-Day War. Egypt was, you know, cozy with the Soviet Union and looking like [chuckles] they wanted to win their Sinai [Peninsula] back, so we were about to make the first really big authorization—and it was mostly military stuff we were going to give the Israelis.
+
+
+
+So I organized—at the American University of Beirut, amongst the American faculty, they were pro-Arab. You could say they were just, you know, trying to save their ass [chuckles], protect themselves as they were surrounded by Arabs, but I think it was—it was the same as me, more or less, that they just had a better understanding of what was really going on. And so they were sympathetic towards the—the Palestinians.
+
+
+
+And I organized a demonstration, and the students, of course—even though—you know, back then, when I would try and tell my antiwar activists, who were all concerned about Vietnam, about the Palestinians, they weren’t really interested. They considered it divisive to take up the Palestinian cause, so they didn’t really know the Palestinians had a cause back then. It was al Vietnam.
+
+But some of the American students at the American University of Beirut, who were politically active because they were in the Middle East, were aware of what were going on and sympathetic to the Palestinians. So I organized a demonstration down to the American Embassy to protest this—this authorization that Congress was about to make for Israel.
+
+And [chuckles]—well, you’ve read the story in the book. It comes off, but not—it actually made the news—you know, a little blurb back in the United States, 15 seconds or something, because it was so unusual, or maybe it was a slow news day, but it also resulted in me—we’d go down to the Embassy on a Saturday, and, of course, it’s closed, so we can’t deliver our little petition, signed petition to the ambassador there.
+
+So I end up going down to deliver it later that week, and that’s when they find out I’ve got an indictment back in the States, and they asked me for my passport, which I had deliberately brought with me, thinking I needed that to get into the Embassy. I don’t think I did, I think, in those days. Now you—now you get a cavity search trying to get into an embassy.
+
+So anyway, so that’s how I lost my passport, and I remain—I became editor of a newsletter that these American professors and whatnot, who were sympathetic or at least, you know, knew—knew it wasn’t as simple—simplistic as most Americans’ understanding of the situation. They—they put out a monthly newsletter and sent it back to libraries in the United States. They were—the group was called Americans for Justice in the Middle East. And I edited their newsletter for a year or so.
+
+And as a result of that—well [chuckles], well, to make a short story long—and as you know, in my book—in Christmas 1972, after it looked like that we were going to come to some peace agreement with the North Vietnamese—in fact, six months earlier, there had been a cease fire—not a peace fire, a peace agreement. And Henry Kissinger and the Vietnamese foreign minister met in Paris, and they’d arrived at a cease fire, and actually got Nobel—that’s where Kissinger got his Nobel Peace Prize for, but six months later he’s carpet bombing. And when I say “he,” I mean the United States, but, you know, he had a big role in it, probably more than Nixon.
+
+Well, he’s carpet bombing Hanoi and Haiphong around Christmas of 1972, and a couple of friends of mine, westerners, an American and a German, who were political activists at the American University of Beirut, one day are picked up and dumped on the border with Syria. Deported, in other words. And a couple of days later, I’m picked up and taken—I’m not deported [chuckles]—they can’t—I don’t have a passport. I don’t even have a visa to live in Lebanon. So they just put me in jail there, and I spent a few days, but because I had been active with this newsletter and whatnot and I was in contact with some politically connected people in Lebanon, the newspapers picked up my story. And that resulted in my picture in the paper as well as Samira’s, and the article which caused her brother in Kuwait to decide, “We gotta get this girl married now. Now or never. Because this weird American”—
+
+
+
+And it got me released from jail so that I could—I had about six months to go in my master’s degree, so that’s—that’s what I did. Yeah, I was definitely engaged. I wrote a few articles for the magazine of the Palestine Liberation Organization [PLO]. It was a re- —it wasn’t, you know, propaganda. It was a research organization, like Brookings Institution, like a think tank. And I wrote some articles for them, met—
+
+But there were plenty of activists on the AUB campus. I didn’t meet Leila Khaled, who was world famous for having participated in a plane hijacking in September 1970, but I didn’t see her there. She was a graduate of the American University of Beirut.
+
+George Habash, the leader of the Popular Front for the Liberation of Palestine, was a graduate of AUB. Like I say [chuckles], AUB has had a lot of influence in that part of the world, all sides.</u>
+      <u who="PEARL">And did you ever get involved in Vietnam activism while abroad?</u>
+      <u who="MEYERCORD">I’m sure we had little—we must have done things. You know, most of the Middle Easterners didn’t—that wasn’t they’re going to get out for. I don’t know, there weren’t enough Americans to—to demonstrate or anything. It was mostly just hanging out and, I don’t know, writing maybe articles or something. We didn’t have the Internet so we could get something distributed world wide back then, as it is today. I don’t really remember protests. There just weren’t enough of us to do that. And, you know, the Arabs were busy protesting Palestine.</u>
+      <u who="PEARL">So what did you do in Lebanon once—you know, you’re graduating. I guess your student visa expired, and you didn’t have a passport.</u>
+      <u who="MEYERCORD">In Lebanon? Well, that’s what I say. When I was released from jail because of the notoriety—when my picture—when my story appeared in the newspaper, the prime minister of Lebanon actually got me released because it looked bad. He didn’t look like he’s just doing this for the United States, following the orders of the United States, because what I faced was that’s what would happen—you know, I stayed in jail in Lebanon or they went me back to the United States, and they couldn’t do that—they couldn’t—well, I supposed they could have forced me. They could have shot me and dumped me in the river. 
+
+But, you know, Lebanon is—Lebanon is the middle ground. Has been for a long time. So they couldn’t—and there’d been—you know, there were factions who were very friendly to the United States, and there were factions which were opposed to the United States, and the politicians sort of try and float atop thing on the middle…
+
+
+
+And the prime minister at that time, Saeb Salam—he’s the one who had me released from jail, and sort of the condition that I would be allowed to finish getting my degree and then I would go elsewhere. That’s what I got. Because of my publicity, I got this offer from the Algerian ambassador to go to Algeria, which I took him up on six months later, when I had obtained my degree.</u>
+      <u who="PEARL">So can you tell me about going to Algeria and starting your teaching career there?</u>
+      <u who="MEYERCORD">Excuse me? Oh, could I tell you about it? Well [chuckles], they [chuckles]—oh, boy! Okay. By now I’m married, and my wife is eight months pregnant, my wife of ten months or so. And we land in Algeria, in Algiers, middle of the night, and I don’t have a passport. You know, I have this piece of paper from the Algerian ambassador in Beirut. And Immigration [chuckles] ends up taking us to the local jail, not putting us in jail. My and my eight months pregnant wife, and me not speaking French, or Arabic, she speaking Arabic, and they, not speaking English, so this poor wife, who [chuckles]—I don’t know how she did it—was having to do the translating between the Algerian officials, government officials, security and me. They hadn’t been expecting me, apparently, [chuckles], and they didn’t know quite what to do with me.
+
+Eventually they ended up—put us up in a sort of summer camp cabin place, and I got a job. I just went out and got a job at the University of Algiers because, you know, college degree, native English speaker. And we lived there for six months.
+
+A very different experience in Algeria. In Beirut, you know, it’s cosmopolitan open—open markets. You could—you could—I was drinking Chivas Regal [pronouncing it chih-VAHZ ray-GAHL instead of [CHIV-us REE-gull]—you know, the best Scottish Scotch because it was so cheap. It was cheaper in Beirut than it was in Scotland, I believe. And we’d get American movies and luxurious cinemas before they were even released in the United—the Lebanese are real good businessmen.
+
+And so it was the high life in Beirut. And mot people spoke English, French and Arabic. I never thought about worrying about speaking English when I walked in a store or met anybody or whatever. So it was—it was the Paris of the Middle East, like I say, except for occasional spats between the Palestinians in their refugee camps and the Lebanese Army, which were on the other side of town, so we hardly even knew it was going on, it was a very peaceful, beautiful place.
+
+But then Algeria, trying to be a real country and develop itself, had restrictions on luxury imports and things like that. It was hard to find things in the—in the market. Tea, for instance. Sugar. And it was—you know, the government newspaper—here in Beirut you had 20 different newspapers representing every point of view imaginable, and in Algiers there was one, the government newspaper. And in French. [Chuckles.]
+
+So it was quite a different lifestyle. Being married, of course, and having kids there, made it totally different from the experience in Beirut as well. And it was—and I was [chuckles]—I was thinking—you know, I had to do—here I was, I was 28 years old, 29. Had a wife and two kids. I had no career, really. Well, I suppose I could have gone on teaching English there at very little wages, but I thought I really—</u>
+      <u who="PEARL">Did you—</u>
+      <u who="MEYERCORD">—ought to resolve this legal situation I’m in. And that’s why when—when the war officially ended with the collapse of the South Vietnamese government in—you’ve seen the pictures and the people flying off the embassy roof out to ships, American ships in the—off the coast. I figured—and, you know, there was so much—not opposition but just disgust with the whole Vietnam experience amongst the American public. I was betting that the courts would be lenient on me if I came back, and I had to get this resolved some way. It couldn't—I didn’t want to—I can’t have this hanging over my head all my life.
+
+So in August or July of ’75, a couple of months after Vietnam had fallen, South Vietnam had fallen—I think it was August, July or August—I took up the American Embassy’s offer of a passport good only for return to the United States. That’s what they offered me when I was in jail in Lebanon and knew that was an option.
+
+So I took that passport and flew back to the States, expecting to be arrested at the airport. They didn’t have computer systems back then, but they had big books full of people’s names [chuckles], and I expected my name was in there. But no, we just walked right through Immigration, and I spent six months sort of goofing around in Dallas before I was officially arrested one day.</u>
+      <u who="PEARL">And did your family, like, come back to you—come back with you to the U.S.?</u>
+      <u who="MEYERCORD">Oh, my wife and the kids, yeah. Yeah. Sure. </u>
+      <u who="PEARL">And—</u>
+      <u who="MEYERCORD">It was sort of a interesting—you don’t realize how difficult it is for people to get in the United States. We always—you know, when traveling in Iran, we would always make fun about how hard it was to get visas to these Third World countries, but it’s the same trying to get into the United States. I mean, to get my wife a visa proved rather problematic because she was coming as the wife of an American citi- —I’m not sure what kind of visa she came on, now that I think about it. I think it was a permanent residency visa. But they could have easily denied her a visa. They didn’t.
+
+
+
+So we got back, and—and, like I say, after six months I was arrested, and I had a trial. I found out there were two charges against me: failure to report for the physical—oh, I forgot to mention that when I did report for the physical—I was in Brazil when I got notice that I was supposed to report for this physical. I didn’t report, so they reclassified me 1-A, or they’d already reclassified me 1-A, but they put me at the top of the induction list for the next month after I was—since I didn’t show up for the physical, they were just going to induct me.
+
+So I had two charges against me: failure to report for the physical and failure to report for induction. Well, around 1969, the Supreme Court [of the U.S.] decided that the draft board, in putting people like me at the top of the list, punishing us, in a sense—that this—that was a legal action, and they—or a judicial action, and they were not authorized to do such a thing, so that was unconstitutional, so they had to drop the charge for failure to report for induction. I was being tried for failure to report for the physical. Almost sounds comical. I would gladly take the physical. [Chuckles.] I had no objection to the physical.
+
+But that’s what I was tried for, and tried in federal court in Dallas. My judge was Sarah T[ilghman] Hughes, the most liberal federal judge in whatever circuit that is, Fifth Circuit Court of Texas. And you could imagine, in that circuit there are not too many liberal judges. She was the judge who had sworn in LBJ on that airplane on the way back to Washington after Kennedy was assassinated. You’ve probably seen the picture with Jacqueline standing there in her bloodstained dress and LBJ taking the oath. That was Sarah T. Hughes that was giving it to her [sic].
+
+And she decided that because I received that order to report for the physical after the date on which I was supposed to report—because of the mail thing, because I didn’t have an address for months at a time as I was traveling around—so when my family forwarded it to me in Rio, by the time I got it, that date to report for the physical had already passed. She decided I was not guilty. And that—boom!—ended my legal problems.</u>
+      <u who="PEARL">And what did you think in 1973 when you heard that the U.S. had left Vietnam?</u>
+      <u who="MEYERCORD">Well, I thought it was long overdue, but—yeah, I thought it was long overdue, but I guess I—why didn’t I come home at that time? I guess because we were still deeply involved, even if our troops weren’t there, not on a mass scale like it had been. But it was really the fall of the South Vietnamese government that was the seminal event or the life-changing event, or the official end of the war. We were still—I mean, we bombed—we were, like I say, carpet bombing Haiphong and Hanoi into 1973. It was Christmas 1972, so even though our troops were not there, we were still actively involved.</u>
+      <u who="PEARL">Yeah.
+
+
+
+And in your book you say—you describe yourself as a internationalist or an international citizen of the world. Can you talk about that a bit?</u>
+      <u who="MEYERCORD">Well [chuckles], you either—I think it’s a binary thing. You’re either an internationalist or a nationalist. In other words, you either accept that the world is divided up into these nation states—and, you know, we all recognize that it hasn’t always been nation states; it’s been empires and monarchies and tribes and all sorts of different entities, city states, that people have recognized themselves as citizens of. And, you know, today and for the last couple of hundred years, it’s been the nation state that has been the political entity that has been recognized by people and by the various nation states as the—as an appropriate political entity for people to—to be citizens of and—and have duties towards and be loyal towards.
+
+But, on the other hand [chuckles], you got a counter-trend, which really you could say is religious based. “We’re all God’s children.” You know, why should be divided up into these groups by the basis of the color of your passport? I mean, look at the United States. What do we have in common? Supposedly some values, but, you know, they’re a little amorphous. My wife is an American [chuckles], you know. What does she have in common with me?
+
+And then unfor- —you know, it’s the nation states that go to war with each other, for the most ridiculous reasons. Not ridiculous. Well, they are ridiculous. Seriously ridiculous. So you sort of accept that situation, that the world is divided into these things, and you’re supposed to identify with a certain nation, or you say, “No, no, I don’t. I’m an internationalist. I don’t believe any country is better than another, and I’m not going to—I have sympathies and loyalties to mankind that supersede any loyalty to some subgroup of mankind.”
+
+And that’s what I meant. And there was—you know, historically there was, back in the 19th century, when a lot of countries that were formerly parts of empires or something were discovering—were lopping off into nation states and whatever—the communist movement, Marxist movement—Marxist was internationally. And now these nation states—they’re just a creation of bourgeoisie to promote their own interests, to exploit their own working class with a bunch of nationalistic propaganda which ended up turning the workers of one country fighting with the workers of another country, and not in their interest.
+
+So there are internationalists, you know. The theme song of the communist movement is “The Internationale.” And this is—you know, the Bolsheviks were internationalists. [Leon] Trotsky was an internationalist, that we can’t have just communism in one country or socialism in one country; it’s a universal movement.
+
+Christianity believes it’s a universal movement, and recognizes that not everybody is a Christian, but they should be.</u>
+      <u who="PEARL">So did you see yourself as an American citizen while you were abroad?</u>
+      <u who="MEYERCORD">Well, I can’t help but—you know, this is the world we live in. You’re a citizen of a country or—I was pretty close not to [be] a citizen of any country in terms of my legal status, since I didn’t have a passport, but I am—yeah, I’m forced to be a citizen of a country or—you don’t want to live like a stateless Palestinian. [Chuckles.]
+
+But I my mind and morally and as far as my duties go, and my loyalties, just all people. Here’s to mankind. I wear a little bracelet that I had made, myself. It says, “One people, one planet, one future.” And that pretty well expresses my world view.
+
+And if you look at [chuckles]—if people—when we talk about a national policy—you know, the United States has a foreign policy, but we always present it as if we’re—what we’re doing is in the interest of all mankind. Humanitarian interventionism. Universal values. You know, this is no conflict between internationalism—you know, treating all the world’s people as—as a common concern, and our national policy.
+
+
+
+Well, that’s not the case. Oh, that it were. And so you—you got a choice there. You can go with your nation state, or you can not. And unfortunately, from a legal point of view, “not” means [chuckles]—I mean, there is no such thing, unless you’re a [banging noise] stateless Palestinian or some other stateless person. But you—I think—I certainly experienced that. I think it’s a common experience as you get out of college and get into the real world and start to have your own opinions and whatnot. You realize it was a game, to a large extent. You either decided to play the game or not play the game. And I pretty much decided not to play the game.</u>
+      <u who="PEARL">And—</u>
+      <u who="MEYERCORD">And, you know, it’s—it’s a knotty question, obviously, but who do I owe loyalties to? Who do I have duties to? Lately it’s to the United States. My mind is [banging noise] not—my loyalty to the United States is in fact [banging noise] owing to policy, which is for all mankind, but I—our leaders are almost fiduciary—have an almost fiduciary responsibility to promote the interests of the American people, not the people of the world.</u>
+      <u who="PEARL">And when you came back to the U.S., how was your transition and your wife’s transition and your children’s transition back to American culture and American event?</u>
+      <u who="MEYERCORD">Oh, the kids were just half a year and a year and a half, so there wasn’t any tradition other than my son getting confused because he knew he was born in Africa and he wondered why he wasn’t black.
+
+
+
+My wife—she just—she just left it. I left right after. But I can’t imagine what she was going through. I think she was mentally just numb. She just accepted everything: This is the way things are. And took care of the kids. She was too busy taking care of the kids to worry about what these Americans were thinking of her or what she thought of the United States or anything. Just—it was a tremendous adjustment for her. And I don’t know how she did it, especially with two little kids to take care of, because I wasn’t much help.
+
+My own transition—well, I was [chuckles]—I was a little shocked when I got home, having lived abroad for eight years and seen how the world viewed what we did in Vietnam and how so many Americans, especially my family and friends in Dallas viewed what we did in Vietnam. Most people still didn’t get it and just wanted to forget about it. Didn’t talk about it. Didn’t want to hear about it.
+
+And I, of course—for me, the war wasn’t over. The Vietnam War was over, but as far as the Palestinians go, what was going on in the Middle East—that was still an issue of importance to me, and one that I wasn’t involved in the—I didn’t know it would actually mean pick up a gun and start killing people, but still, you know, I felt—I felt I had this insight about what was going on in the Middle East.
+
+And just like our recurrent [sic] president or secretary of state wanted to be the one that found the solution to the Arab-Israeli conflict. So—but I—you couldn’t talk to people. Or didn’t care. Partly it was like describing what the moon was like [chuckles] if I’d been to the moon. I don’t know what it was like at Dartmouth at this time. I didn’t have much contact with my fellow classmates or schoolmates. But in Dallas, Texas, it was really mind-boggling to see how much of a bubble people were living under. They hadn’t—</u>
+      <u who="PEARL">Was there any ill will towards you for not serving, or—
+
+</u>
+      <u who="MEYERCORD">Well, it was interesting. There was ill will, but I can remember my brother-in-law’s brother-in-law, who was a minister, praising me personally, you know, in a conversation for having taken the stand I did. And there were—certainly, you know, in the antiwar crowd, it was sort of heroic status to have resisted the draft. Just with that crowd. I’m not suggesting it was a prevailing opinion in the United States. But there were enough people who—there were certainly plenty to condemn my actions, in my own family, even.
+
+But there were also plenty who—and I was not comfortable with the idea that I was any sort of hero for having resisted the draft, though I—there were other heroes. David Harris was a hero. He went to prison. You know, he took a stand. He didn’t just gallivant around the world.
+
+So mostly, though, it didn’t come up. People didn’t want to talk about it. Let’s see, when I came back—yeah—no, no, I don’t remember much one way or the other. I was more concerned about my résumé. You know, I’m trying to start a career here, and my résumé was a little weird.</u>
+      <u who="PEARL">Yes, so—</u>
+      <u who="MEYERCORD">It would come up with regard to that. You know—but I don’t—in the end—you know, after six months or so, a year in Dallas, I moved up to Washington, hoping to get a job in international affairs, because that was now my passion. And I did. At an international center sort of affiliated to [sic] the U.S. government. And I don’t know whether they knew my history, other than what they saw on my résumé, which didn’t mention why I was abroad for so long. But I was able to work there for three years. 
+
+I did apply—I took a State Department [U.S. Department of State] exam. You know, one of the things that you were always told if you were—especially in the ’60s. You know, a lot of people were much revolutionary than me and weren’t—you know, I was so capitalist and this sort of thing. I was not that activist. Like I say, I’m more of an observer.
+
+But they’d be advised, “Well, work within the system. You know, don’t try and overthrow the system, but make it better by working within it,” so I took that to heart, and that's why I applied to the State Department, though I figured it wouldn't work out because I just wouldn't fit in with the rest of the people.
+
+
+
+And I passed the exam but not the interview [chuckles], which is a sign of how I wouldn’t have fit in. Now that I know more of it, have met an awful lot of people who are Foreign Service officers and ambassadors and things like that—yeah, my career at the State Department would not have been very long, I don’t think.
+
+But I initially had a job in international affairs for a couple of years, a rather—you know, petty, not a very great job. If I had a different background, a different attitude, I suppose it could have led to bigger and better things. We didn’t have all these NGOs [non-governmental organizations] back then that you have now, working in all sorts of fields: you know, end global poverty and this and that, health, a vaccine in Africa, [unintelligible].
+
+So in international affairs your options were pretty much State Department, CIA, military or working for some company abroad. And I knew with my background I wasn’t likely to be hired by corporate America.</u>
+      <u who="PEARL">So what type of career did you end up—what kind of job did you end up working in?</u>
+      <u who="MEYERCORD">Well, I should have said I wouldn’t be hired by corporate America to work overseas. I ended up doing computer stuff for a megacorporation. Actually, my wife got a job as a translator on a big project for Saudi Arabia, a computer project. And through her, I got a job teaching English to some Saudi trainees coming over, who were going to learn programming and would be maintaining the system, theoretically, once it had been implemented. 
+
+And through that, I—I taught technical English but got into programming, myself, and that—so I got into the computer field, and I worked as a consultant for the EPA [U.S. Environmental Protection Administration], for the [U.S.] Department of Energy, for lots of government agencies here in Washington, then for MCI [Communications Corp.].
+
+Do you know what MCI is?</u>
+      <u who="PEARL">No.</u>
+      <u who="MEYERCORD">It was the company which broke AT&amp;amp;T’s monopoly on long distance telephone calls. Started out of St. Louis, and they just wanted to be able to talk to their truckers between St. Louis and Chicago, and AT&amp;amp;T said, “No, you can’t do this. You’re violating our monopoly.” They took it to court. They won. And they became—you know, they were the predecessor of Sprint [Corporation]—they became WorldCom. I don’t know what they’re called today. But they were the first, and they were very successful as a long distance company. And that’s what they were called back when I worked for them, MCI, which I don’t even know what it stands for today.
+
+But anyway, I consulted for them for, like, seven years. Then we moved—with them, I went out to Colorado Springs when they moved out there, and then San Francisco on my own, and I worked for Wells Fargo [&amp;amp; Company] and Pacific Bell [Telephone Company] and, you know, big companies like that. Eventually, I—when we moved back to Virginia, I spent my last six years at Freddie Mac [Federal Home Loan Mortgage Corporation]. That’s what I retired from. All the time doing computer work, business analysis and that sort of stuff.</u>
+      <u who="PEARL">Yeah.
+
+And so what prompted you to write your memoir later on?</u>
+      <u who="MEYERCORD">Well, that’s—I had [chuckles]—some people are surprised that I could remember such details after—what?—40 years, but in fact, I just—the first year or two after I was back in the United States, before I found a job and when I really didn’t know what type of job I was looking for, I thought, Gee, my story’s pretty interesting. I think I’ll write it up. So I wrote up a rough draft, not nearly complete, and very rough at that time, just a year or two after I came back to the United States and then never did anything with it. 
+
+Twenty years later, while I was in between contracts, I picked it up again and polished it up, added a few chapters and went through the publishing routine of sending cover letter and a sample chapter off to publishers and not getting any positive response.
+
+And then last year [chuckles], I discovered that so many retired people like me were writing books. Gee, well, I’m  not that busy. I ought to do that. Let’s see. And I picked up my manuscript that I hadn’t looked at in 20 years and thought, Gee, this isn’t too bad. Maybe I can finish this up.
+
+And I discovered that I could publish the book through Amazon [Amazon.com, Inc.] for free. I didn’t have to go through the cover letter, sample chapter, rejection letter [chuckles] routine. They have this thing called CreateSpace—it’s run by Amazon—where anybody can get a book published. They don’t actually print the books until someone buys it, believe it or not. That’s how they can do this for free. And when I found out, I said, Oh, boy, yeah, I’m definitely gonna—so I spent a month and a half polishing things up and adding a few chapters and published it that way.
+
+And I was motivated—I don’t think it would become a best seller [chuckles]—I wouldn't object if it did; I could use the money—but my family had no idea what my eight years abroad were like. My friends didn’t have any idea. They never asked, really, and I probably couldn’t explain it to them. So I thought it would be of interest to them, and hopefully it has been. I’m glad I did it, got that out, so—people—</u>
+      <u who="PEARL">What are some of the responses you got from your book?</u>
+      <u who="MEYERCORD">Well, there are two reviews out there [laughs] on Amazon. One guy, who I don’t know who he is, gave it a favorable review. He ends by saying, “It’s a good book, but it could have been a great book.” And I think he’s exactly right. I regret that I didn’t spend a little more time on some of the chapters, polish it up a bit, think a little deeper about some things, express myself better. But I think it’s a good book.
+
+And the other is my Dartmouth College roommate [Brad Stein], who gives it a positive review, but [chuckles]—thankfully, he complains about all the typos in the book, but, you know, I hadn’t even had my wife check my stuff. I didn’t have an editor or anything like that. And it’s amazing how, when you’ve written it yourself, you don’t even notice typos while you’re reading along. You know what it’s supposed to say, so you don’t notice that you’ve made these mistakes or grammatical errors, whatnot. So he made a comment about that, that it was a down side of the thing, which I plainly did. because that was—he made it just a week or two after I had put out my first edition. And, like I said earlier, I had a lot of feedback in that first month after it came out that helped me improve the book. So I went back [chuckles] and corrected a lot of the typos after his review.
+
+But—well [laughs], the most common response of people that I knew—maybe that I’d sent the book to or at least I knew—they knew it existed, like family and friends—was that they were reading it, but they hadn’t finished it. You know, this is, like, six months after the book has come out. It’s an easy read. You can read it in one day. [Chuckles.] I don’t know how long it took you, but don’t you agree it’s a pretty fast-moving book?</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="MEYERCORD">You know, it’s an easy read. And not that long. But, you know, they [chuckles]—I’m sure—they’re saying they haven’t finished it so that they don’t have to comment on it, because I’m a weird guy. And I know that a lot of people would agree with something I’m saying on one page and think, Yeah, yeah, right on, kid. Tell it as it is. And the next page, I’d say something that would piss them off. [Laughs.] Because I don’t—I don’t exactly fit in the right hole for anybody. I’m not this heroic, war-resisting guy, and I’m not a conservative neocon, either. You know—for instance—I think I say in that book—I’m pretty sure I do—and just a sort of little encapsulation of—of my political beliefs is that I find conservatives ignorant but honest and liberals world wide—world wise but sleazy. Who’s gonna [chuckles]—who’s gonna like that remark [laughs]? Neither the conservatives nor the liberals. 
+
+And I think I—I have a lot of things in the book that way, that—people don’t know what to make of me or what I’m saying, and it’s not—it’s just not consistent enough, from their point of view. And I find it consistent, because I think I’m an open-minded sort of guy that recognizes there’s a lot of gray out there while everybody else wants to see black and white.
+
+But anyway, that’s been the most common response to the book. I did have one Chinese lady, a visiting scholar at Georgetown Law School [sic; Georgetown University Law Center], who I gave a copy to. I knew her a bit here. And she picked it up a week or two later, and she thought she’d read a couple of pages, and she got so engrossed she read the whole thing in one sitting. So I’m hoping I can find a publisher in China, and that should improve sales considerably.</u>
+      <u who="PEARL">Mm-hm. </u>
+      <u who="MEYERCORD">People love it there.</u>
+      <u who="PEARL">And—</u>
+      <u who="MEYERCORD">I’m not doing anything in that regard. That’s a facetious remark, but [chuckles] I wouldn’t complain if it did happen. But I was tickled that see—and you could imagine what this would be like for a Chinese, you know? She’s a very—not—she’s very friendly towards the United States, so I’m not thinking, you know, they were on the other side in Vietnam, though they were. That was not her—she just found it an interesting story, I think. It’s hard to say how much they know about the whole Palestine and Middle East or something, not to mention Latin America. So hopefully they find it interesting, something they haven’t read about.</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="MEYERCORD">I mean, they don’t—you know, someone who’s disloyal to the United States—that doesn’t bother them a bit.</u>
+      <u who="PEARL">And I guess one of my last questions is what did you think of the 1978—Carter’s pardon?</u>
+      <u who="MEYERCORD">Yeah, Carter’s thing. You know, that’s one of the things I left out of my book! By that time—and I had been acquitted, so I didn’t even—I didn’t follow Carter’s amnesty, and his was a real amnesty. He just said, you know, “Stop prosecuting people. Let them out of prison,” whatever. But I—because it didn’t apply to me, I forgot all about it. I had to put it in the second edition so people, like you, who were aware of it [chuckles] would know what my—why I didn’t mention it or why it wasn’t a big deal for me.
+
+And I was still out of the country at that time, too. I was in Algeria, so I don’t know—</u>
+      <u who="PEARL">Yeah.</u>
+      <u who="MEYERCORD">I don’t know whether there were big celebrations as these people’s cases got dropped or they came out of prison or what happened domestically when he did that, or what the response of the country was. I’m sure Dallas—they hated him—well, they already hated him, so [laughs] this would have been just the icing on the cake. But I don’t know what the response in the country was, because I was so out of touch. My contact with the United States was the International Herald Tribune [now International New York Times]. And I didn’t read that—</u>
+      <u who="PEARL">You went back to Algeria in 1978?</u>
+      <u who="MEYERCORD">Yeah, I did. I did briefly, on a business trip of sorts because we had all this—like I say, one of the things about countries that are Third World countries that are trying to be real countries is they put restrictions on capital outflow. You can’t just change your domestic money into dollars and take it out of the country. So I had all this money in Algeria that I couldn’t get out of the country, so I went back. 
+
+I got a couple of companies to finance a trip back there as a sales—one of them was a solar energy company, and the other one made some sort of electrical—transformers or something. So I was sort of representing them, not doing a very good job of it, but it enabled me to [chuckles]—I bought a bunch of stuff in Algeria with all our money there and brought it home, and fortunately Customs didn’t—didn’t notice or care. It wasn’t that much. But that was just a week or two in Algeria, with no further developments in that regard.</u>
+      <u who="PEARL">Yeah. 	At this point, what was that?</u>
+      <u who="MEYERCORD">I haven’t been back since. I haven’t been to Algeria since.</u>
+      <u who="PEARL">At this point, I’m ready to just about wrap up the interview. Do you have anything else to add?</u>
+      <u who="MEYERCORD">[Sighs.] No, I—I have all sorts of questions about your generation, but that would not be appropriate for this—</u>
+      <u who="PEARL">Oh, yeah, we can—</u>
+      <u who="MEYERCORD">—interview.</u>
+      <u who="PEARL">We can talk once I—once I end the interview.</u>
+      <u who="MEYERCORD">I’m interested to see how—I mean, I know you’re just one person, but it would be interesting, your perspective on the whole Vietnam experience,—</u>
+      <u who="PEARL">Yeah. Well,—</u>
+      <u who="MEYERCORD">—how your generation see it.</u>
+      <u who="PEARL">Yeah. Well, on behalf of the Dartmouth Vietnam Project and myself, we’d like to thank you, Ken, for your time helping us with the project.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

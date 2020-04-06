@@ -1,0 +1,680 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="COLLINS"/>
+        <person xml:id="WALLACH"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="COLLINS">So this is Riley [C.] Collins with the Dartmouth Vietnam Project. Today’s date is April 8th, 2017. I’m here with Marshall [F.] Wallach in the Baker-Berry Library in Hanover, New Hampshire, and we are about to conduct an interview about Mr. Wallach’s experiences both on campus and in Vietnam during the Vietnam War.
+
+Great. So, Marshall, can you tell me a little bit about your family background—where you grew up and what your parents were like?</u>
+      <u who="WALLACH">I’m happy to, Riley, and I’m happy to participate in this project. I’m an Army brat. My father and mother grew up on adjacent farms in Warrenton, Virginia, and in 1936 he left Warrenton, Virginia, and went to [the U.S. Military Academy at] West Point. He graduated from West Point and was commissioned a second lieutenant in June of 1939 and proceeded to spend the next thirty years as a career military officer.
+
+He married my mother a year later, in 1940. During his thirty-year career, the household was moved thirty-six times around the world. I, for example, went to fourteen schools prior to the eleventh grade. And we lived all over the world—three hour—three years in Germany, two years in Okinawa [Japan].
+
+While I was at Dartmouth [College], my family was four years in Panama. We also lived in Kansas, New York, three years at West Point, Carlisle, Pennsylvania, and just a large number of Army posts.
+
+So my entire youth was spent traveling the world with my military family and living on Army bases, so I grew up saluting the flag.</u>
+      <u who="COLLINS">All right. What was—what was it like to live on a base?</u>
+      <u who="WALLACH">Army bases at the time were—were—first of all, they were like small cities, like a small town, 5,000 people, 10,000 people, 15,000 people. But we would—the Army would have its own schools. I went to Army schools on the base. We had our own department stores. Those were called PXs [post exchanges]. We had our own medical facilities, hospitals. We had extensive athletic facilities for the kids, so there was rarely a season that I wasn’t competing on some Army league team for the Army brats on the—on the post.
+
+You can frankly stay on the post, in Germany or Okinawa or Panama, the whole time and never learn anything about the host country. But that was not the way we—we operated. But the posts were fairly self-contained little communities, military communities with their own—their own protocols, their own mores, obviously highly military oriented.
+
+For example, at 5:30 every night, when the U.S. flag was lowered on the post, retreat would be sounded by the bugler, and all cars would stop, and anybody within sight of the flagpole would stop and salute the flag or, in the case of a thirteen-year-old, stand there at attention. If I were with my father, he would be at attention, saluting the flag. So military posts were—were military.</u>
+      <u who="COLLINS">Were there a lot of sort of like paramilitary programs for—for the children of people on the base—</u>
+      <u who="WALLACH">No.</u>
+      <u who="COLLINS">—something like JROTC [Junior ROTC]—</u>
+      <u who="WALLACH">No.</u>
+      <u who="COLLINS">—or anything like that?</u>
+      <u who="WALLACH">No, no, no. None, to my recollection.</u>
+      <u who="COLLINS">Okay. And you talked a little bit about you were encouraged to leave the base in the various stations that you on. What—what did that look like?</u>
+      <u who="WALLACH">My father was a fairly—was a fairly senior officer. He was a full colonel for most of our—my youth. He served in World War II. Was highly decorated in World War II. Was promoted to full colonel in 1954, at the age of thirty-five. So generally speaking, he was in a very senior position and had the ability to—to travel off the post, and we—we—we took advantage of learning about the countries. We toured. We went to different cities. We—we explored the—the country we were in. We didn’t remain restricted—</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">—to the post. So it was—it was a broadening exerci- —experience. Probably by the age of eighteen, I had seen far more of the world than most eighteen-year-olds.</u>
+      <u who="COLLINS">Yeah. I’m pretty jealous of those sets of experiences.</u>
+      <u who="WALLACH">Right, right.</u>
+      <u who="COLLINS">Did you get a chance to—to meet a lot of people from the countries in which the bases were host, or make some friends from Germany or Panama or Okinawa while you were stationed there?</u>
+      <u who="WALLACH">I don’t recall—first, I made a lot of friends of—of people like me, kids my age on the post that were Army brats. I mean, we were playing on the baseball teams, playing on the football teams, playing on the basketball teams together. Did we meet and make friends off the post with the natives, if you will, the Okinawans or the Germans? No. We I’m sure met some, but we didn’t—we didn’t establish relationships with them.
+
+To your point, though, when you’re moving your home thirty-six times in thirty years, you don’t make long-lasting friends, period, because you’re only at one place for nine months.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">So I have—for example, I have almost no friends from my period through the eleventh grade, because we were moving at such a velocity. It was not unusual for us to be at a place nine months.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">No sooner had you made friends than you moved and had to make new friends, so that’s one of the disadvantages of that nomadic upbringing. The advantage is you’re—you’re quite a bit broader, you’ve seen a lot of the world, you are used to integrating yourself socially into new situations. You’re the new person all the time. Those are all advantages, and I  think character building, in a—in a sense.
+
+On the negative side, you don’t—I have no friends from that period. I have no teachers that I remember. I have no coaches. I have no contemporaries. I’m exaggerating a little bit—</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">—because sometimes we were there for two or three years, and you’d make more friends.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">But that was the life of an Army brat.</u>
+      <u who="COLLINS">And so you mentioned the eleventh grade as sort of being a turning point,—</u>
+      <u who="WALLACH">Yes.</u>
+      <u who="COLLINS">—that you might have some friends from the eleventh and twelfth grades?</u>
+      <u who="WALLACH">Yes.</u>
+      <u who="COLLINS">Why is that?</u>
+      <u who="WALLACH">After I had been to fourteen schools prior to the eleventh grade, my grandmother said to my mother, “You know, this young man needs a better education than you are giving him traveling around the world in this way. Why don’t you send him to prep school?” And I ended up enrolled and attending a school outside Philadelphia [Pennsylvania] called The Hill School, in Pottstown, Pennsylvania. And I repeated the eleventh grade at the time. I’d just finished the eleventh grade in Okinawa, and I came back to The Hill School as a seventeen- or eighteen-year-old and repeated the eleventh grade. It was called the fifth form at The Hill. So for two years, I attended a boys’ residential prep school.
+
+And that was a very, very important turning point in my education. I had been a good student at all these Army schools and had gotten used to getting A’s and B’s with really not much effort. But when I got to The Hill School, I was two years behind my contemporaries.</u>
+      <u who="COLLINS">Really?</u>
+      <u who="WALLACH">And I only repeated one year. My father couldn’t afford to send me three years. At the time, a full colonel made $3,000 a year—</u>
+      <u who="COLLINS">Wow!</u>
+      <u who="WALLACH">—in 1960. A full colonel today makes $96,000 a year. So it’s gotten a little better, but it’s still not highly paid.
+
+But at any rate, my education had suffered from attending these military schools for twelve years or whatever, and so when I went to Hill, I had to repeat the eleventh grade, and even repeating the eleventh grade—I recall returning home the first Thanksgiving with five F’s.</u>
+      <u who="COLLINS">Wow!</u>
+      <u who="WALLACH">I had failed every course. And I’d never had anything less than an A or a B the previous—because I was just a year behind.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">But I did catch up. I caught up after about six months and played a couple of sports at Hill. Played hockey, and I was a very good tennis player. And applied to a number of colleges, including Dartmouth. And was accepted everywhere I applied, and it came down to Dartmouth or West Point. And I had an appointment to West Point also. And I recall talking to my father, who at the time was on the faculty at the [U.S.] Army War College in Carlisle, Pennsylvania, and talking to him about “Which—which should I do? Should I go to West Point, or should I go to Dartmouth?” He, of course, as you recall, was a West Point graduate. 
+
+And he gave me some advice, which was extremely uncharacteristic of him. He was a rather taciturn, stoic military personality, but in this case he did give me some advice. And this was in early June 1961. And he said, “If you’re 100 percent sure you want to make the military your career, you should go to West Point. But if you’re only 90 percent sure you want to make the military your career, you should go to Dartmouth because it’ll give you more options should you choose a different career path. And do ROTC [Reserve Officers’ Training Corps] at Dartmouth.”</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">And I—of course, he was talking to an eighteen-year-old who didn’t know what he was doing that Friday night. How was I supposed to know what I wanted to do with my life?</u>
+      <u who="COLLINS">Yeah, with 100 percent certainty.</u>
+      <u who="WALLACH">Yeah.</u>
+      <u who="COLLINS">[Chuckles.]</u>
+      <u who="WALLACH">So it was fairly clear to me, in retrospect, that he was guiding me to Dartmouth.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">And I chose Dartmouth and worked that summer in Philadelphia and arrived in Hanover in September of 1961 and enrolled in ROTC.</u>
+      <u who="COLLINS">So—</u>
+      <u who="WALLACH">And I had a brother and a sister. I’m the oldest of three, a brother three years younger, who also served in Vietnam, and I have a sister twelve years younger, both of whom are alive today.</u>
+      <u who="COLLINS">Okay. I do want to circle back. I realized I forgot to ask at the start which—when—when were you born, year and location?</u>
+      <u who="WALLACH">I was born December 15th, 1942, in Washington, D.C.</u>
+      <u who="COLLINS">Okay. And then back to the decision about thinking about college sort of in the period 1959, 1960, 1961.</u>
+      <u who="WALLACH">Sixty-one.</u>
+      <u who="COLLINS">Were you thinking at all about college before you were sent to The Hill School, or thinking about your career, what you might do, you know, sort of when you turned eighteen?</u>
+      <u who="WALLACH">I don’t recall thinking about it a great deal, but I think I was certainly headed toward a military career. It’s the only thing I knew. I lived my whole life on Army bases. My father was a good example. There was never any pressure that I would make the arms my profession, but I think that I was headed in that direction, as many Army brats are. I mean, that’s what they grew up doing.</u>
+      <u who="COLLINS">Right. It’s like the family business.</u>
+      <u who="WALLACH">But I don’t recall a lot of thought about it. </u>
+      <u who="COLLINS">Okay.</u>
+      <u who="WALLACH">Mostly I was athletic and typical adolescent teenager.</u>
+      <u who="COLLINS">Yeah. And so how—how did you come upon Dartmouth as a place to apply?</u>
+      <u who="WALLACH">Two ways. I remember at The Hill School looking at—we had no connections to Dartmouth. There were no family connections. But I remember looking at the—the bulletin that described all the courses and the rules and the regulations. That bulletin is currently about 800 pages long. But in 1961 it was about 100 pages, and on the cover of the bulletin was a canoeist on the—on the Connecticut River. And I thought, That looks like a nice place.
+
+So I thought I would at least interview up there. I’d heard good things about Dartmouth. Hill didn’t send a lot of people to Dartmouth at the time, maybe one a year, two a year. By the way, that’s true today. Same thing. So I—I—I planned a trip to New England to visit various schools: Brown [University]. Harvard [University], Dartmouth, Cornell [University].
+
+And I drove up to Dartmouth on a Friday—I had an interview at the admissions office. I was I think in August of 1960, I would think. And I showed up on campus, drove up from Boston [Massachusetts], and there was a hurricane blowing. And it was windy and raining, and I had a interview at two o’clock at the admissions office on a Friday. And I went to the admissions office, and there was a sign on the door that said: “Closed due to hurricane. See you Monday.” They weren’t going to see me Monday, so I didn’t get an interview.
+
+And so I walked around the campus. And it was pouring rain and forty knots of wind. It was a hurricane, or the tail end of a hurricane. And I was struck by the beauty of the place, and I said, I don’t need to—I’d rather go here than Harvard or Brown, so that was it.</u>
+      <u who="COLLINS">All right.</u>
+      <u who="WALLACH">[Chuckles.]</u>
+      <u who="COLLINS">Yeah. I think that’s something—</u>
+      <u who="WALLACH">Strong emotional tie. I’ve seen that in—in a lot of people.</u>
+      <u who="COLLINS">Yeah, that’s what I was—</u>
+      <u who="WALLACH">It either connects with you or doesn’t. And in my case, it was a strong connection.</u>
+      <u who="COLLINS">So you sort of had that in your background as you’re thinking West Point because—</u>
+      <u who="WALLACH">Military.</u>
+      <u who="COLLINS">—it’s sort of the business you knew.</u>
+      <u who="WALLACH">Mm-hm. </u>
+      <u who="COLLINS">And at Dartmouth you just felt the strong connection, and your dad gave you that advice to—</u>
+      <u who="WALLACH">And Dartmouth had a—had a strong ROTC program. Don’t hold me these numbers, but my recollection is that when I came to Dartmouth, there were 3,000 men here. There are 4,000 undergraduates today, approximately. There were 3,000, and all men, no women, and we had 600 people in ROTC,—</u>
+      <u who="COLLINS">Wow!</u>
+      <u who="WALLACH">—in four branches. We had [U.S.] Navy, [U.S.] Air Force, Army and Marines [U.S. Marine Corps], I think. I believe we had four branches. But when the ROTC paraded on a—it filled the [Dartmouth] Green. I mean, there were 600 men, so we had a big—we had a good, robust ROTC program. So I knew that I could get my military training here.</u>
+      <u who="COLLINS">Through ROTC.</u>
+      <u who="WALLACH">Through ROTC.</u>
+      <u who="COLLINS">So, yeah, a little bit about your life on campus. So what was ROTC like in 1961? What was sort of like—how did that affect your daily schedule or how you interacted with the college?</u>
+      <u who="WALLACH">I did not make the best of my Dartmouth experience. I had—I had quite a few priorities here at Dartmouth, in approximately the following order: Priority number one was to earn some money, and I have five jobs while I was here, in total, including delivering papers two—two or three of the four years. But I tutored, I refereed basketball and baseba- —basketball and hockey, and I taught rock climbing—</u>
+      <u who="COLLINS">Wow!</u>
+      <u who="WALLACH">—in the phys ed [physical education] department. So I was pretty busy just—my deal with my parents was that they—the scholarship I got from Dartmouth plus they would pay for room, board and tuition, but everything else—travel, clothing, fraternity, women, beer, whatever—</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">—I had to earn on my own, either at Dartmouth or during the summer, so I was working. So working was part of it.
+
+Secondly, I played two sports my freshman year, hockey and tennis. I played tennis throughout my four years on a varsity tennis team.
+
+Social. I spent quite a bit of—I joined a fraternity, Kappa Sigma, now called [Chi] Gamma Epsilon. And so the social side. And in those days, it was not unusual for us to travel (road trip) out of Dartmouth once or twice a week.</u>
+      <u who="COLLINS">Wow! That often!</u>
+      <u who="WALLACH">On Wednesday nights we’d go down to Colby Junior College [for Women, now Colby-Sawyer College] for a date. Perhaps on a weekend we would—we would go to Smith [College] or Boston [College] or Skidmore [College] or wherever, or Bennington [College], because there were no women here, so—so—</u>
+      <u who="COLLINS">Right. Your nineteen-year-olds, twenty years old—</u>
+      <u who="WALLACH">Right, right.</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">So did that, a fraternity. And then fourth or fifth down the list would be academics, okay? Oh, and ROTC. By the way, I would put ROTC as a commitment just like academics. So I had quite a lot of things going on. 
+
+The—the rock climbing was—I was president of the Dartmouth Mountaineering Club twi- —two years, my junior and senior years. I learned how to rock climb, and I taught rock climbing in the fall to members of the Hanover community and students. Students could get a phys ed credit for taking the rock climbing classes. So we’d teach them how to climb out at the BEMA [Big Empty Meeting Area] and Bartlett Tower and take them to various cliffs around New England on Sundays.
+
+So all that took a fair amount of time, so I was busy. I had a very active, wonderful, robust four years here. In retrospect, I wish I had taken more advantage of the academic side, because it was pretty far down the list.</u>
+      <u who="COLLINS">Yeah. [Laughter.] There was a lot going on.</u>
+      <u who="WALLACH">There was a lot going on. Now, I was a decent student. I mean, I got my gentleman’s C’s and the occasional B. I think I had one A in my four years at Dartmouth and one D. But basically I was sort of in the middle of the zone there, C-plus, B-minus, you know, so—it was a busy time. 
+
+I’m not sure I answered your question, but I think you get a feel for it.</u>
+      <u who="COLLINS">Yeah, what your Dartmouth experience was like.</u>
+      <u who="WALLACH">Yeah. It was very multifaceted. It was very rich athletically, socially, a lot of friends, a lot of—just always busy. Had a wonderful time. I would wish it on anybody, with the one exception being I probably could have elevated—when I sent my three sons to school, I decided that they would not work while at school; I would rather have them working on academics. And so we made it so that they didn’t have to have jobs.</u>
+      <u who="COLLINS">Yeah, that’s really valuable.</u>
+      <u who="WALLACH">Mm-hm. 
+
+You asked about ROTC. ROTC at Dartmouth involved drills every Wednesday afternoon, so Wednesday afternoon from two to four, two to five you put your uniform on, and you drilled in some way. And I don’t remember when the courses took place. There were also classes in ROTC, but they weren’t extensive. It might have been one per year.
+
+One of them was military history, which was taught by the Dartmouth history department. But the other classes were taught by Army officers. They were more tactical and military type things. But the ROTC was not a hugely demanding course load is what I’m trying to say. It was Wednesday afternoon, and then there was a course every now and then.
+
+And in the summer between our junior and senior years, we had to go to summer camp, which was six weeks in duration and in my case was down in Fort Devens, somewhere south of Boston. That was a six-week camp. That’s like basic training, where you live in a barracks and shine your shoes and spit-shin the latrine floor with a toothbrush and all the stuff you see in movies about what recruits do. Well, the ROTC program had you doing that for a six-week period, learning how to shoot, learning the basics of soldiering—you know, how to disassemble your rifle, marksmanship, close-order drill, maybe a little bit of map reading, a little bit of compass work, not—not—not too heavy.
+
+But there were 5,000 men at Fort Devens down there, including the Dartmouth contingent, which was probably—probably fifty or a hundred of us. And that was six weeks, and that was the summer of our junior—our junior—between our junior—just where you are right now, just coming up on the summer you’re about to have. I was at summer camp with the ROTC [this time pronouncing it ROT-cee] program.
+
+So you came back your senior year, you finished up, and the day before we graduated from Dartmouth College, we were commissioned as lieutenants in the Army, Navy, Air Force or Marines.</u>
+      <u who="COLLINS">Okay. And so what did that entail for you?</u>
+      <u who="WALLACH">You mean being—</u>
+      <u who="COLLINS">Yeah, being commissioned. What kind of service was expected from you afterwards? Which division you chose and why, maybe.</u>
+      <u who="WALLACH">That’s a very good question. I graduated as a distinguished military graduate, which is maybe the top three in the class, or the top five in the ROTC class. You with me?</u>
+      <u who="COLLINS">Okay.</u>
+      <u who="WALLACH">And the reason I graduated with that award was that I had done very well at the summer encampment. I don’t know where I finished with those 5,000 men, but it was very near the top in terms of the way they grade you. I don’t know why. Maybe it was because I was in shape from having played tennis before I—what—what.</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">But I—but I had a very good performance at the summer camp, near the top.  That’s what caused me to be a distinguished military graduate. Now, the reason I’m telling you this is it relates to your question. You said, “What does that mean?” Well, those that graduated that were distinguished military graduates—the U.S. Army wanted to persuade us to stay in longer.</u>
+      <u who="COLLINS">Ah.</u>
+      <u who="WALLACH">And they offered us a Regular Army commission. Everyone else was offered a Reserve commission. The Reserve commission involved a two-year mandatory service, and the Regular Army (known as RA) commission was three years. As an inducement to accept—by the way, there was no difference in pay, there was no difference in—but as an inducement to accept the Regular Army commission and agree to three years, they offered you the duty station of your choice.
+
+So when they offered me Regular Army commission, they—they said, “Where would you like to serve?” And I said, “Well, Germany first, Seattle [Washington] second”—I can’t remember what the third one was. Well, it turns out I declined the Regular Army commission [chuckles], and so they sent me to Fort Hood, Texas. [Laughter.]
+
+So I graduated in June of 1961 [sic], was commissioned. I was told to report on the first of September, so I had the summer off. I had to do something during the summer. And my duty assignment was the 2nd Armored Division in Fort Hood, Texas, with a two-year obligation. So I was going to be in the Army from September of 1965 to September of 1967.
+
+Now, we’re going to find that that changes later in this narrative, but that was the—that’s the answer to your question as to where things—the status of things in June of 1965.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">I was a lieutenant, report for duty in September, 2nd Armored Division, Fort Hood, Texas, two-year obligation.</u>
+      <u who="COLLINS">Okay.</u>
+      <u who="WALLACH">So I’m about to move on to the service, but—</u>
+      <u who="COLLINS">Yeah, I have a couple of more questions—</u>
+      <u who="WALLACH">Yeah, go ahead.</u>
+      <u who="COLLINS">—about campus, if you don’t mind.</u>
+      <u who="WALLACH">Yeah, yeah.</u>
+      <u who="COLLINS">First, why—why did you decide to decline the Regular Army commission and go with the Reserve commission?</u>
+      <u who="WALLACH">I wasn’t sure I wanted to spend three years, was the main thing. I thought maybe I would want to get out and get on with my life.</u>
+      <u who="COLLINS">Did you have an idea at the time of what that might look like—</u>
+      <u who="WALLACH">No. No.</u>
+      <u who="COLLINS">—or were you just sort of like, Military might not be for me?</u>
+      <u who="WALLACH">I wanted to keep my options open, I think was all it was. I didn’t have something else pulling me. I was still seriously considering the military.
+
+One of the themes in this narrative that you’re going to gather, if you look back on it, is I had four different times where I had a fork in the road. [poet] Robert [L.] Frost’s “Two roads diverged in a [yellow] wood.” Military versus civilian. And it took me four times to make this decision.
+
+The first was when I had to decide between West Point or Dartmouth. I took the Dartmouth road, the civilian road. The second fork in the road was when they said, “Regular Army commission, three years; Reserve, two.” I took two. We’re going to come to some more forks in a minute.</u>
+      <u who="COLLINS">Okay. Great. I’m excited!  [Chuckles.] Yeah. Did you also—</u>
+      <u who="WALLACH">By the way, I did a few other things while I was on campus that you might find interesting. I was—we talked about sports; we talked about working; we talked about climbing and the Dartmouth Mountaineering Club. I was also president of my fraternity. I was also chairman of the Interfraternity Judiciary Council [sic; Interfraternity Council Judiciary Committee]. I was a member of Casque and Gauntlet. I had a pretty visible, high-profile undergraduate career. Does that make any sense?</u>
+      <u who="COLLINS">It does. I get what you’re saying.</u>
+      <u who="WALLACH">Okay. Well, that was all through my junior year. And then my senior year, we came back. I’m now president of the fraternity. Early in the year, we had some women up from Colby Junior College [for Women, now Colby-Sawyer College], and I think I’d done a little bit of drinking over at the—at the house.</u>
+      <u who="COLLINS">Seems likely. [Laughter.]</u>
+      <u who="WALLACH">And it was time to put the girls back on the bus, and we piled into my car and drove the girls from Webster Avenue [in Hanover, New Hampshire] back to the bus. It was right here in front of Baker [Fisher Ames Baker Memorial Library, now Baker-Berry Library]?</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">And I parked the car behind the bus or behind another car, and everybody pi- —all the girls piled out, and we said goodbye- —night to the ladies.  It’s now eleven o’clock or something. All my fraternity brothers piled back into the car. But I couldn’t get out. There was another car pulled up beside me. And so I pulled out onto the [Dartmouth] Green. And it was so much fun driving on the Green that I made a big figure eight across the entire Green, at which time the Hanover Police [Department], the campus police—</u>
+      <u who="COLLINS">[Laughs.]</u>
+      <u who="WALLACH">—they all followed me back to my fraternity. I was heavily disciplined, and I was forced to resign as president of the house.</u>
+      <u who="COLLINS">Really.</u>
+      <u who="WALLACH">I was replaced as chairman of the undergrad- —Interfraternity Council. I was—what else was I—my car—my driving privileges were taken away forever. I was nearly thrown out of the college, I was told. So I was stripped of all my campus rank, if you will. [Chuckles.] </u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">And was lucky not to—now, nobody got hurt.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">But everybody was hand wringing about running over people and stuff.</u>
+      <u who="COLLINS">And being on the Green. Messing with the—</u>
+      <u who="WALLACH">Being on the Green, the holy ground.</u>
+      <u who="COLLINS">[Chuckles.]</u>
+      <u who="WALLACH">So anyway, that happened to me my senior year. So I was—I had an interesting career at Dartmouth, where I went like this [apparently pantomimes an upward trajectory] and then took a big fall. Do you understand?</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">Okay. And then I finished up my senior year, and it was fine. I graduated.</u>
+      <u who="COLLINS">Okay. Did—did ROTC discipline you as well?</u>
+      <u who="WALLACH">No. No.</u>
+      <u who="COLLINS">This was strictly the college.</u>
+      <u who="WALLACH">This was the college slapping my hands extremely hard for—appropriately so.</u>
+      <u who="COLLINS">Okay. [Both chuckle.] That’s a really funny story.</u>
+      <u who="WALLACH">Right.</u>
+      <u who="COLLINS">[Laughs.] Yeah, that’s really interesting.
+
+One—one other theme that—that we talk about ROTC at Dartmouth in the sixties is there is people who were very much involved with it and it was a huge part of campus. Like you were saying, as many as 600 out of 3,000 people were part of it. But there’s also a segment of people on campus, especially as the Vietnam War really starts to pick up speed and national press attention, that—essentially there’s—there’s these protesters, the campus left, who sort of strive against ROTC and try to get them derecognized from the college. Was that going on while you were at Dartmouth?</u>
+      <u who="WALLACH">No. No, it was not, and it certainly went on in spades later, and ROTC was asked to leave the campus in 1970 or 1971 or whenever it was.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">I was long gone by then, but this was the period, ’61 to ’65. To give you a little flavor for this, in 1964 we had 40,000—no more than 40,000 men in Vietnam. It might have been 26,000. I just finished reading an H. R. McMaster’s book, Dereliction of Duty[: Lyndon Johnson, Robert McNamara, the Joint Chiefs of Staff, and the Lies That Led to Vietnam], which you should read if you—</u>
+      <u who="COLLINS">I’ve heard it’s great, yeah.</u>
+      <u who="WALLACH">It is great. It was written in 1994, and it was about the period 1964-65, when we were getting ourselves involved in Vietnam. It’s about the Joint Chiefs [of Staff], [Robert S.] McNamara, Maxwell [D.] Taylor and Lyndon [B.] Johnson and how the decisions were made that caused the United States to get in. 
+
+But at the time we’re talking about, we weren’t “all in”; we had I think 26,000 men in Vietnam. They were called advisers. And I distinctly remember at summer camp, ROTC summer camp, the captain who was in charge of our company—we were having a beer with him one night or something, and he was a captain, so he was probably twenty-eight years old. And his greatest concern was that “the war may be over before I get there.” I’ll never forget—I’ll never forget him articulating that.
+
+And, by the way, he was articulating a point of view that probably most captains in the United States armed forces held, which was if you’re going to make the military your career, you better not miss the war. I mean, the war is the big show for military people, right? I mean, why do you join the military? You don’t join the military to paint white rocks in Fort Hood, Texas. You join the military to—to defend your country and to win wars.
+
+So somebody who’s made that decision—he wants to get to Vietnam, but he can’t get there because there are only 26,000 men there. He’s worried—I mean, here we are, Dartmouth students. We’re down there doing summer camp stuff. But he’s a captain in the United States Army. He’s worried about not getting to the war, that the war will end before he gets there. That was more of the mind-set in 1964, before the U.S. had gotten 700,000 men into Vietnam.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">So, no, there was none of that activity underway on campus, to answer your question. There was no protests. I never saw any protests the whole time I was at Dartmouth. There was never any protest up till 1965. At least I never saw it. What there was was making fun of ROTC people. You with me?</u>
+      <u who="COLLINS">Yes.</u>
+      <u who="WALLACH">Now, here are these guys that dress up and quote “play soldier” in their little funny uniforms, and aren’t they silly? It was kind of a demeaning attitude, but it wasn’t the protest thing that it morphed into, into a very serious social movement five years later; it was more of a—almost a making fun of—
+
+I’ll give you—give you an example: My senior year, I was asked by the officer in charge of the ROTC here to form a unit of twelve men to do very fancy stuff with rifles. Have you ever seen the spinning of the rifles and all that?</u>
+      <u who="COLLINS">I have, yes.</u>
+      <u who="WALLACH">The Queen Anne Salute, all these things. You typically see this done by the—the 3rd Army Unit at Fort [Lesley J.] McNair or Washington, D.C., when they’re doing displays. But the idea was we would train—oh, I did it. We formed this group. We were trained, and we could do quite a lot of fancy stuff. And then the officer came to me and said, “I’ve made arrangements for you to march at halftime of the Dartmouth-Yale [University] game here.” Don’t—it might not have been Yale, but it was a football game in the fall.
+
+And my little unit was supposed to march at halftime, as part of the halftime entertainment, and to march out to the fifty-yard line, do a right face, face the undergraduates—everybody went to the football games then. All 3,000 people would be at football games.</u>
+      <u who="COLLINS">Not like today.</u>
+      <u who="WALLACH">No.</u>
+      <u who="COLLINS">[Chuckles.]</u>
+      <u who="WALLACH">No. It was a big deal. It was what we did on Saturdays if—if it was a home game. And then there were parties at the fraternities and stuff after, and, you know, rock ’n’ roll or whatever.
+
+The—I would not do it. I said, “I can’t do that, Major.” He says, “Why not?” I said, “We’re gonna be laughed off the field.” Because it was that attitude. You with me?</u>
+      <u who="COLLINS">Right. Yeah.</u>
+      <u who="WALLACH">I’m trying to communicate something fairly subtle here. It wasn’t protest; it was—it was almost looking down on—</u>
+      <u who="COLLINS">That—that was the question you’re sort of leading me to. This might be a little speculative, but do you think there was sort of like a classist tone to what was going on there, like maybe people looking down on those who were considering military service because it was, like, maybe considered lower class? Or do you think there was some other root of where that—sort of making fun of ROTC students?</u>
+      <u who="WALLACH">I don’t think it was class. It’s a very perceptive question. And I could be wrong on this, but I—I didn’t get that. By the way, we weren’t on scholarship. We weren’t getting money from the Pentagon to be in ROTC at the time. That is now the case. There’s a scholarship component to ROTC now. I didn’t get a penny of—so—so it wasn’t a money thing. I don’t know what it came from. My sense was it was more of a boys playing soldier. Look at the adolescents playing with their guns, whatever. More like that. More demeaning. I don’t—I didn’t sense a class thing. “Why are you doing that? We’re going to drink beer at the fraternity now. Why is that a good u—that seems like a silly use of time. Why are you doing that?”
+
+Now, remember, there was no draft going yet. There was no—Vietnam hadn’t heated up in ’61, ’62, ’63, ’64. Vietnam started coming into our consciousness kind of in ’64, ’65. And I can’t remember when that monk immolated himself on the streets of Saigon. I can’t remember when that was. I can’t exactly remember when the prime minister was—there was a CIA [Central Intelligence Agency] coup in ’64. It’s a little blurry to me right now, but—</u>
+      <u who="COLLINS">But that’s sort of the catalyst where the war got a little more—started to creep [unintelligible]. </u>
+      <u who="WALLACH">Maxwell Taylor got sent over there to be the ambassador in ’64. By the way, I know that from the McMaster book, not because I was paying any attention to that while I was an undergraduate. But, now, I don’t—I don’t—didn’t sense a class thing. It was more of a silly thing, a trivial thing. “Why are they doing that?” And, of course, you know, people like me, raised in the Army, it was a matter of patriotism. You know, young men serve their country. That’s how I was raised. And many of the people in that ROTC program I’m sure were the same way. They felt it was their duty. Okay.</u>
+      <u who="COLLINS">Oh, yeah, that’s incredibly interesting.
+
+Before we jump into some of your questions about your time in the Army and your time as a Reserve officer, we’ve been talking for about forty-two, forty-three minutes, so—</u>
+      <u who="WALLACH">I’m fine.</u>
+      <u who="COLLINS">I’m fine as well.</u>
+      <u who="WALLACH">Okay.</u>
+      <u who="COLLINS">So if you want to keep going,—</u>
+      <u who="WALLACH">Yup. If you’re okay, let’s go.</u>
+      <u who="COLLINS">Definitely. Yeah, so first, did you have some say which division that you would be an officer in?</u>
+      <u who="WALLACH">No. As a Reserve officer, I had no say [chuckles] of—let’s back up a second. The first decision you make is what branch you want to be in, and the Army has a number of branches. The branches are infantry—there are three what are called combat arms, and these are people that—that fight. Infantry, armor and artillery. Those are the three branches. Then there’s about ten other branches that are support. Supply and logistics, Army intelligence, dah-dum, dah-dum, dah-dum, a lot of other things. 
+
+So the first thing you do before you get commissioned is to make—do a branch selection. I chose armor, which is tanks, because my father was an armor and a cavalry officer, and my grandfather was a cavalry officer, so—so that was an easy one for me. Plus I like riding better than walking.</u>
+      <u who="COLLINS">[Chuckles.] Me too.</u>
+      <u who="WALLACH">So armor. So that’s your first thing.
+
+Then you put in what’s called a dream sheet or a wish sheet as to where you would like to be stationed. And, of course, they pay no attention to those attention to those sheets for the Reserve officers. The Regular Army guys—they got their first choices. The Reservists—we were sent wherever they needed us. And so I was—being an armor-designated officer,  I was assigned to the 2nd Armored Division, which was one of two armored divisions stationed at Fort Hood, Texas, in central Texas.
+
+I was going to go forward to the next step, but I’m going to let you see if you have any questions here.</u>
+      <u who="COLLINS">Nope, I don’t think—we can press on.</u>
+      <u who="WALLACH">So I worked the summer of 1965 in Washington, D.C., and then—I got myself into very good shape. I knew I was—I spent a lot of time on physical conditioning that summer. I wanted to get—go into the military really fit.</u>
+      <u who="COLLINS">What were you doing in D.C.?</u>
+      <u who="WALLACH">I was working as an accounting clerk at a brick manufacturing company, sort of a clerical job. I was really just biding time till—till I reported for duty.
+
+Now, the first duty station was not Fort Hood, Texas. The first duty station was Fort Knox, Kentucky, where the Army Officer Basic School [Armor Officer Basic Course, now Armor Basic Officers Leader Course] is. And that’s where all the new lieutenants go that are going into the armor branch, for two or three months of training. And they’re teaching them how to be tank platoon leaders.
+
+A tank platoon consists of five tanks and forty men, or—no, twenty-plus—twenty to thirty men. And how to operate these tanks and how to—how to organize the tanks and how to run a platoon requires some training that doesn’t happen at Dartmouth. And so that’s called Armor Officer Basic, and it’s a two-months school. And so I showed up at Fort Knox, Kentucky, for Armor Officer Basic training, which I went through.
+
+And then I drove to Fort Hood, Texas, arriving in November of 1965 and was assigned to the 2nd Battalion, 66th Armor [Regiment], which is an armored battalion. A lot of tanks. And I was a platoon leader for about a year. And that involved tank operations, going out into the field, gunnery, firing the tanks on the range, operating the tanks tactically, my platoon, five tanks. These were M61A1 main battle tanks. They had a 105 mm main tank gun, a 50-caliber machine gun mounted on the cupola, a 60-caliber—an M60 machine gun coaxially mounted on the main gun and a crew of four, and a driver, a gunner, a loader and a tank commander. They weighed sixty tons, and they’re pretty—pretty impressive [chuckles], pretty impressive vehicles.</u>
+      <u who="COLLINS">Wow. Yeah.</u>
+      <u who="WALLACH">And so I did that for nine months in the desert at Fort Hood. 
+
+Meanwhile, the Vietnam War is building up. The draft is—is a reality. Of course, we don’t have to worry about the draft because we were already in, right? But other people are worried about the draft. And this is when the protests and stuff probably are starting, although I really wasn’t aware of it. I was down doing my—</u>
+      <u who="COLLINS">Begin the military already.</u>
+      <u who="WALLACH">Right, right.
+
+Then an interesting thing—I was single at the time. Then an interesting thing happened. I’d been there about nine or ten months. As I mentioned, I played tennis at Dartmouth. I was also a pretty good squash player. I was a pretty good golfer. This becomes important in about what’s about to happen. I win the division tennis championship. I don’t think I won the division golf championship, but I won the division squash championship. So I’m having a good athletic experience, too, right?
+
+In the spring of 1966, I am giving a presentation to some visiting civilians who are twenty or thirty businessmen, and the commanding general, a two-star general, Jack—John [E.] Kelly, is hosting these twenty-five big-wigs, and they’re out watching training. And one of the areas that they’re watching—they come over to watch—I’m giving a demonstration in hand-to-hand combat. And this demonstration goes pretty well. I think what I’m doing is—I can’t remember if I’m narrating the demonstration or I’m one of the parties, but we have two guys, you know, attacking each other with knives and hand-to-hand stuff—you know, throwing him over the shoulder, that kind of thing?</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">The stuff that soldiers are trained to do. It turns out that the general’s aide-de-camp is about to go to Vietnam, and they’re looking for a new aide-de-camp. And the general says something to his aide. “Boy, that Lt. Wallach certainly did a nice job on that demonstration” or something. (I heard this second hand.) And the lieutenant said to him, “Would you like me to put him on the list to interview to become your aide?” And the general said, “Sure.”
+
+So next thing I know, I’m one of five people interviewing to be the aide-de- camp to the commanding general of the 2nd Armored Division, with 16,000 men. I get the job. So now I’m the general’s junior aide for the next year. I had my own helicopter.</u>
+      <u who="COLLINS">Wow.</u>
+      <u who="WALLACH">I mean, I’m taking—my job is to pick him up at breakfast and help him get to training and do all the things that an administrative assistant would do. This is a very junior position, but it’s a very prestigious position.</u>
+      <u who="COLLINS">Sounds like chief of staff in the White House. Almost.</u>
+      <u who="WALLACH">No. No. </u>
+      <u who="COLLINS">No.</u>
+      <u who="WALLACH">The general had two aides. He had a captain, who was senior to me, and a second lieutenant or a first lieutenant. I was the junior guy on the—on the team, so I don’t want to make this sound like a highly critical job, but it was a job with a huge amount of visibility. And I got to see the general interacting for a year with the brigade commanders and the full colonels and—I was a gatekeeper. It was like chief of staff in the sense of being a gatekeeper. 
+
+The important point of this story, though, is not that I was an aide-de-camp, which I was, but I didn’t get send to Vietnam because they don’t send generals’ aides to Vietnam. That would be rude to the general, right? [Chuckles.] So I missed Vietnam, is what—the point I’m trying to make here.
+
+Meanwhile, I send off my applications to business school, and I apply to Harvard [Business School] and I apply to Columbia [Business School]. I get into both business schools, so now I’m getting out of the military in September of ’67. I was one year as a platoon leader and one year as an aide-de-camp, and I had missed Vietnam. And it doesn’t feel very good to me.
+
+I’m still wrestling with whether or not to make the military my career. So I think about this long and hard, and I walk into the general’s office one day and say, “General, I’ve made a decision. If you will assign me to a combat unit deploying to Vietnam, I will stay in the military one more year.” He said, “That’s easy. Consider it done.” He thought highly of me and I think probably would have liked me to stay in the Army.
+
+So the next thing I know, I’m assigned to the 1st Cavalry— 2nd Squadron, 1st Cavalry Regiment, and I write Columbia a letter saying, “I’m not coming.” (This might be out of order.) But the one I remember is I wrote Harvard a letter, saying, “I’ve decided to extend my service for another year in order to serve Vietnam—serve in Vietnam. Would you hold a place for me in the class a year from now?” And within a week, I got a letter back, saying, “Dear Lt. Wallach, absolutely. Thank you for your service to our country. We look forward to seeing you on campus in September of 1968. And good luck in your coming year.” That was pretty nice, don’t you think?</u>
+      <u who="COLLINS">Very nice.</u>
+      <u who="WALLACH">That was very cool. That was very cool. So I leave the aide-de-camp job, and I sign in as the executive officer of the A Troop of the 2nd Squadron, 1st Cavalry, with orders to deploy to Vietnam in six months or whatever it was, four months. So there’s my third road. You with me?</u>
+      <u who="COLLINS">I am.</u>
+      <u who="WALLACH">Third fork in the road.</u>
+      <u who="COLLINS">Here, you specifically chose military.</u>
+      <u who="WALLACH">This one, I chose military. I went to Dartmouth first, Reserve officer second—this one, we went the other way. We went—my thinking was—was—was what I—I’m being a little repetitive here, for which I apologize.</u>
+      <u who="COLLINS">Not a problem.</u>
+      <u who="WALLACH">My—my thinking was that if you’re still thinking about the military as a career, why don’t you go over and see what the—what the military is all about? The military is all about winning wars. The military is about combat, right? That’s the purpose of the military. That’s why those fifty-nine missiles were sent over there yesterday, to Syria. [Chuckles.] That takes a lot of training and a lot of stuff to do that stuff properly. And I was still wrestling with, Do I make the military a career or not?  And so that was my way of resolving that issue in my mind that had been obviously weighing on me for the previous—what?—six years? Or perhaps longer than that.
+
+So that decision was made, and I signed up for a third year, and I was assigned to the 2nd Squadron, 1st Cavalry, which was at Fort Hood, the training.</u>
+      <u who="COLLINS">So you didn’t have to move.</u>
+      <u who="WALLACH">No, didn’t have to move. Now, this was a very interesting unit, the 2nd Squadron, 1st Cavalry because it had all new equipment: new tanks, new armored personnel carriers, new—new radio equipment, and it had a lot of West Point officers in it. It was considered a—I was told—I was a very junior officer here—I was told that it was somewhat of an experimental unit, that the Army was experimenting with some new organizational techniques, and they put some of the best and their brightest in this unit.
+
+The other thing that was interesting about this unit was that the unit was receiving all its men—there are 600 men in a cavalry squadron. Four troops: A, B, C, D—A, B, C Troop and Headquarters Troop. All these soldiers were coming in, brand new. They’d just been—gone through basic training at Fort Polk, Louisiana, or at Fort Benning, Georgia. And so we picked them up at the phase two of their training, which is called Advanced Individual Training. And so we were with these men through their formative training. You with me?</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">And then we deployed by boat and went as a unit to Vietnam and served together as a unit. That is very unusual in Vietnam. Most of the men flew in and were dropped into their unit. You with me? The units were already there. So there was a lot of turnover, and they didn’t know each other that well. Here, we had this opportunity to get to know our men and train them. So we trained in the desert at Fort Hood for at least four months with our equipment, with these men, so we got to know these men well. So this was a more cohesive experience than most Vietnam veterans had. As a matter of fact, I don’t know of hardly any others that went over as a full unit.
+
+About a month before we were going to deploy, on about the first of August 1967, all our equipment was put on a train—these are tanks, armored personnel carriers, all the parts, everything—a train down to Galveston, Texas, put on a ship, and all the equipment was sent to Vietnam a month before us so that when we got there, we had our own equipment. You with  me? We weren’t dropping into someone else’s equipment.</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">Equipment we had trained on. Then, a month later, we all got on an airplane at midnight, maybe 10 p.m., flew to Oakland, California, got off the train—got off the plane, got on a bus—it was dark—taken to a ship, the [USNS] General [Nelson M.] Walker, got on the ship. Two thousand men on this ship: 600 2nd Squadron, 1st Cavalry; 600 1st Squadron, 1st Cavalry; and 600 others. Two thousand men on the ship. Four o’clock in the morning. The sun is starting to come up. [Chuckles.] The tide’s going out. The ship pushes off the dock, goes under the Golden Gate Bridge, and we’re on a twenty-two-day sea voyage to Da Nang, Vietnam. [Chuckles.] So—</u>
+      <u who="COLLINS">Wow. I can feel the tension building in the story.</u>
+      <u who="WALLACH">Well, I don’t know about that, but it was pretty dramatic. I’ve got pictures going underneath the Golden Gate Bridge and flags waving and—but it was an unusual deployment. I mean, most people fly over there on a plane and get dropped into some unit. They don’t know anybody. Here’s this whole unit going over.</u>
+      <u who="COLLINS">And just for—I don’t—haven’t done much with military history, but, like, a contrast with someone who was drafted into the military would go to boot camp for six weeks or whatever,—</u>
+      <u who="WALLACH">Right. Right.</u>
+      <u who="COLLINS">—and from there go straight to Vietnam?</u>
+      <u who="WALLACH">No.</u>
+      <u who="COLLINS">No?</u>
+      <u who="WALLACH">No. After boot camp, they go to Advanced Individual Training. It’s called AIT, which is the second stage. Then they might go to Vietnam.</u>
+      <u who="COLLINS">But they wouldn’t necessarily go with the same cohort that they were in in advanced training with?</u>
+      <u who="WALLACH">No, they’d just be dropped into somewhere.</u>
+      <u who="COLLINS">Okay. </u>
+      <u who="WALLACH">So anyway, now we’re on our way to Vietnam, on a boat, a sea cruise. [Laughs.]</u>
+      <u who="COLLINS">Okay! This could also be a natural point to stop and get some coffee or some water, use the restroom.</u>
+      <u who="WALLACH">Let’s take a break, sure.</u>
+      <u who="COLLINS">Okay. Great.
+
+[Recording interruption.]</u>
+      <u who="COLLINS">This is Riley Collins with the Dartmouth Vietnam Project, picking up on part two of the interview with Marshall Wallach. It is April 8th, 2017, and we are conducting this interview in Baker-Berry Library, Hanover, New Hampshire.
+
+And so we left off with Mr. Wallach getting on a boat and heading off to Vietnam. So what—what was it like when you—you landed in Vietnam? What did you sort of find on the ground day one? Your sort of first impressions.</u>
+      <u who="WALLACH">The boat stopped in Okinawa [Japan] for a day or two. Broke the trip. Did some sightseeing in Okinawa, and then we reboarded and sailed to Vietnam. And the first stop was Da Nang Harbor, where we offloaded about half the passengers on the boat. We offloaded the first of 1st, the 1st Squadron of the 1st Cavalry Regiment. We were anchored in the harbor at Da Nang, and we saw—we saw artillery firing and mortars in the distance for the first time. It was quite beautiful, actually. Da Nang Harbor is quite lovely, and it was lovely weather. And we saw artillery and mortars at night in the hills behind the city of Da Nang and watched that.
+
+And the next day, as I recall, we headed down the coast to a port called Quy Nhơn, Q-u-i-n-h-o-n [sic]. And that was where our unit disembarked the boat, the ship. I don’t recall much about Quy Nhơn. I don’t recall even the basics of how I got from Quy Nhơn to Pleiku, which is a town in the Central Highlands, which was our destination, probably a hundred miles inland from Quy Nhơn. It was fifty-two years ago. I don’t recall whether I took a truck or—I do not think I was in a tank or an armored personnel carrier. It may have been a helicopter ride.
+
+
+
+The troops were—our troops, 600 men, were transported I think largely by truck. I believe our equipment, our armored personnel carriers and our tanks, also known as, quote, “tracks,” closed quote, had already been moved from Quy Nhơn to Pleiku.
+
+
+
+Pleiku, P-l-e-i-k-u, is a city in the Central Highlands of Vietnam, and the 4th Infantry Division base camp was located south of Pleiku by five or ten miles, at a camp whose name was Camp Enari, E-n-a-r-i. And this was a large division base camp, a huge—huge piece of land secured, guard towers, barbed wire around it, hundreds if not thousands of tents and structures, motor pools, helicopter pads, a place where anywhere from fifteen to forty thousand men might be stationed at any given point in time.
+
+We traveled to—to Camp Enari from Quy Nhơn. I should back up by saying my entire year in Vietnam—I arrived there around the first of August 1967 and left in late July 1968. The entire time was spent on or near a road called Highway 19 [sic; National Route 19], which connects Quy Nhơn and runs west toward Cambodia to the town of Pleiku, and it keeps going west to—to Cambodia. And that’s Route 19. And it also turns north at Pleiku and goes to Kon Tum and Đắk Tô.
+
+But the mission of my unit, the 2nd Squadron, 1st Cavalry, was to secure that road. That road was the primary way in which supplies were transported from the ocean port, Quy Nhơn, to the soldiers doing the fighting in the Central Highlands, which were the 4th Infantry Division and a variety of units attached to the 4th Infantry Division, including our own.
+
+So that road was the lifeline of logistical supply. Food, ammunition, spare parts, replacement men, tents, canvas, you name it, tracks for the vehicles, —</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">—bombs, whatever, artillery shells all got transported—came across by ocean to Quy Nhơn, and then it got on trucks called convoys, and these convoys would go up Route 19 </u>
+      <u who="COLLINS">Up the highway.</u>
+      <u who="WALLACH">—and then north to Kon Tum and Đắk Tô.
+
+The mission of my unit was to protect those convoys, so we had a defensive role, which was to keep those supply lines open. And, of course, the enemy, which was principally North Vietnamese, not—not Viet Cong—their goal was to interdict the supply lines by bombing the—by making the road impassible or by destroying the convoys by ambushing them. And so that’s basically what our mission was.
+
+So our unit was strung out from—halfway between Quy Nhơn and Pleiku was a town called An Khê, A-n-k-h-e. And that was the headquarters of the 1st Air Cav[alry] Division. We were not air cavalry; we were ground cavalry. There was a big difference. The air cav was deploying by helicopter constantly, deploying infantry by helicopter, and we were an armored cavalry unit, which is a ground unit consisting of tanks, M48A3, slightly smaller than the M60s we had in Texas, and armored personnel carriers, also known as APCs or M113s.
+
+Cavalry—we did not have a huge amount of contact with the enemy in the year I was there, with one exception, which was the Tet Offensive, which occurred right in the middle. And I’ve often thought, Why is that? Why were we left relatively untouched? It was a slight exaggeration. We had contact, but not much. And why is that? The answer is we were an armored unit, and the North Vietnamese were infantry soldiers on the ground.
+
+Let me sketch out what a cavalry platoon is. A cavalry platoon is the smallest tactical unit in a cavalry squadron. It consists of about fifty men. But more importantly, it consists of three main battle tanks, M48A3s, each with a 90 mm gun, a 50-caliber machine gun mounted on the cupola, a M-60 machine gun coaxially mounted with the main gun, and three or four different types of rounds: high explosive, white phosphorus and canister.
+
+In addition to the three tanks, there are seven armored personnel carriers. Four of them are scout vehicles. That each have a 50-caliber machine gun and two M-60 machine guns. One of them is a mortar track, with a 4.2-inch mortar mounted in the—the base of the armored personnel carrier. And the final track is a infantry track with nine—eight or nine infantry men in it.
+
+So in this one little unit, this one little—however many vehicles that is—you have a huge amount of firepower.</u>
+      <u who="COLLINS">Yeah.
+
+</u>
+      <u who="WALLACH">Three tanks, nine 50-caliber machine guns, I don’t even—I can’t even count how many M-60 machine guns, probably twenty, an infantry unit, a mortar unit. So in one little cav platoon, you have armor (a tank), you have infantry, you have artillery (the mortar). We have a lot of fire power.</u>
+      <u who="COLLINS">Wow. Yeah.</u>
+      <u who="WALLACH">So if you were a infantryman who had just walked down from North Vietnam, you know, three months, carrying your food on your—in your backpack, are you really going to wish to mix it up with a cavalry unit? The answer is no. And at the time, and throughout most of the war, the North Vietnamese and the Viet Cong waged a—guerilla tactics, which basically meant not confronting the superior armed U.S. armed forces directly.
+
+There was an exception to that, which was the Tet Offensive. But generally speaking, it was guerilla tactics. It was hit and run, the bomb here, bomb there, blow up a bridge here, the occasional ambush. We would go three weeks with no contact, just wondering where the enemy was. And then something would happen. There would be an ambush, and we would respond to that.
+
+And then we’d go another three weeks. Nothing. Couldn’t find them. So it was—it was a long year, is what I’m saying. It was hot, dirty, dusty, rainy in the monsoon season, very limited contact, boring. The biggest problem was—was boredom and keeping—keeping the men motivated and alert. There’s nothing like 100-degree heat to sort of cause you to—</u>
+      <u who="COLLINS">Dull your mind.</u>
+      <u who="WALLACH">Yeah, yeah. [Both chuckle.] Dull—dull. But at any rate—but I was in the field for one year, the entire year, with the exception of one week in Australia. And had basically two jobs. The first six months, I was the executive officer of A Troop of the 2nd Squadron, 1st Cavalry, located on Route 19. And the second six months I was the squadron intelligence officer, also known as the S-2, which is a staff  member of the squadron commander’s staff, responsible for  intelligence. And what the means in military jargon is enemy movement, weather, terrain, those types of things. And during the second six months I was also primarily in the— located in the squadron headquarters on Route 19.</u>
+      <u who="COLLINS">Rather than in the field?</u>
+      <u who="WALLACH">Well, no, we were in the fi-—everybody was in the field.</u>
+      <u who="COLLINS">Okay. </u>
+      <u who="WALLACH">No. No, the squadron headquarters was out in the—in the field. </u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">We didn’t spend any time at Camp Enari. </u>
+      <u who="COLLINS">Okay.</u>
+      <u who="WALLACH">The only time we were at Camp Enari was when we arrived and got married up with our equipment,— </u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">—like, three days. And then we went out into the field, and we were always in the field. The platoons were in the field, the troop headquarters was in the field, the squadron headquarters was in the field. We were in the field the entire year.</u>
+      <u who="COLLINS">So I have a couple of different questions that are probably going to take me in a couple different directions.</u>
+      <u who="WALLACH">Okay. </u>
+      <u who="COLLINS">The first one: You mentioned sort of this, like, guerilla-style warfare from the North Vietnamese soldiers and how they would ambush the convoy every once in a while.</u>
+      <u who="WALLACH">Mm-hm.</u>
+      <u who="COLLINS">I guess my first question is what does guarding a convoy look like? Is that just driving the tanks alongside of the trucks?</u>
+      <u who="WALLACH">That’s a good question. The—the—the convoys themselves would stage up in Quy Nhơn, and then it might be fifty trucks trumbling along up there. Big trucks—you know, carrying supplies. Sometimes we would assign a armored personnel carrier or two to the convoy that would actually go along with the convoy. But the convoys also had some weaponry of their own: an occasional machine gun or whatever. 
+
+Our units, though, were spaced typically at the bridges, about every five or ten miles, and when a convoy was ambushed, we would deploy armored personnel carriers, the closest ones. The closest tracks we had to the—to the—to the incident would be deployed quickly to that incident. So within ten minutes, five or ten minutes, a cavalry—the cavalry would have arrived. [Chuckles.]
+
+And typically by about then, the—the—the action would be over. It was very quick. These ambushes would last five or ten minutes, and then the enemy would disappear. They would shoot their rocket-propelled launchers and other weapons at the lead vehicle, for example, try to stop the lead vehicle. They would be—they would shoot at the other vehicles. They would do whatever damage they can do quickly.
+
+But they knew that they were not going to stay there long, for two reasons: First, our units were—they knew where we were. They knew how long it took to—secondly, we were only about twenty miles from Camp Enari or thirty miles, where there were terrific helicopter support. And so the minute—the minute—</u>
+      <u who="COLLINS">[To someone who enters the room] Excuse me, we have this room reserved. [Transcriber's note: The rest of the side conversation was not transcribed.]</u>
+      <u who="WALLACH">So these convoys—these actions didn’t last long, five minutes, ten minutes max. Then our units would be there. The enemy would have disappeared. I can only recall one action, one ambush where the enemy stayed engaged for a while, and it ended badly for them. We—I arrived at that action maybe ten minutes after it had concluded, by helicopter. There were maybe fifteen dead North Vietnamese at that point. We—we bulldozed a shallow grave them, had the soldiers throw them into the grave, bulldozed over.
+
+We took some prisoners on that action. I was the S-2 at the time, the intelligence officer, so one of my duties was to interrogate the—the prisoners. We didn’t take very many prisoners because, frankly, the enemy generally just melted away. They would hit and then go away. This particular time, they stayed for a time. They lost twelve, fifteen men. I think we had a couple of wounded. A couple of the truckers were wounded. None of our soldiers were wounded.
+
+I remember taking one of the prisoners up in a helicopter and trying to persuade him to inform us as to the route at which his unit had withdrawn. We were—did they go up this valley? Did they go up that valley? We were interested in finding the rest of them. I was unable to persuade him to—</u>
+      <u who="COLLINS">And did you speak Vietnamese, or did you have a—</u>
+      <u who="WALLACH">No, I had an interpreter. </u>
+      <u who="COLLINS">Okay.</u>
+      <u who="WALLACH">I had a couple of big sergeants in the helicopter, had my interpreter, had this North Vietnamese prisoner. Have you ever been in a helicopter at low level, flying at high speed?</u>
+      <u who="COLLINS">Ah, not really.</u>
+      <u who="WALLACH">No.</u>
+      <u who="COLLINS">No.</u>
+      <u who="WALLACH">It should not come as a surprise that we did not get any useful information from this prisoner. It was so disorienting. I mean, I hardly knew where we were. Here he is, just having come out of a battle and in shock and a prisoner, and here’s some lieutenant trying to get him to—orient him, tell—tell me where—where his colleagues had gone. We didn’t get anything out of that.
+
+But that was an unusual ambush. Generally speaking, they would fire on the convoys, our tracks would get there,—</u>
+      <u who="COLLINS">And they would have disappeared already.</u>
+      <u who="WALLACH">They would have disappeared, yeah.</u>
+      <u who="COLLINS">So usually no one was wounded in these incidents?</u>
+      <u who="WALLACH">Sometimes truckers were hurt. If they succeeded in hitting a truck or two with—with their RPGs [rocket-propelled grenades], there could be wounded. But—but not—not extensive. These were very quick, violent—gone, is what they were doing and, I think in retrospect, rather intelligently. You know, it did not make sense for them to confront armor from the ground.</u>
+      <u who="COLLINS">Right, not having any themselves.</u>
+      <u who="WALLACH">Right, right.</u>
+      <u who="COLLINS">So I think this is a good spot to stop the interview while we find another spot to sort of conclude it.</u>
+      <u who="WALLACH">Okay.
+
+[Recording interruption.]</u>
+      <u who="COLLINS">This is Riley Collins, still interviewing Marshall Wallach. After a brief interruption, we’re ready to resume the third part of our interview.
+
+So, Marshall, right before we had to move locations, you were talking a little bit about what assaults looked like on the American convoys. I was wondering, the one [background noise] incident that you mentioned was the direct assault, where there was more casualties than usual. Was that a part of the Tet—like, the Tet Offensive?</u>
+      <u who="WALLACH">No, that wasn’t. That was just another day on convoy duty. The Tet Offensive took place approximately halfway through my year in country, in late January and early February 1968.
+
+About two weeks prior to the Tet Offensive, my unit had been moved from its position on Route 19 in the south, west and north to a town called Kon Tum, K-o-n T-u-m. And our mission was to secure the south end of the airfield at Kon Tum with our—with our cavalry troop, A Troop.
+
+Kon Tum—I had a brief experience there. I was there for about two or three weeks. It was—the whole time I was there, we were engaged in fortifying our positions around the airfield: concertina wire, Claymore mines, sandbagging the positions protecting our vehicles, the APCs and the tanks, just really strengthening our defensive position.
+
+About a week before the Tet Offensive—one of my duties was to go into town every night to the headquarters, where all the units—the headquarters for all the units, and hear the afternoon intelligence briefing.</u>
+      <u who="COLLINS">And at this point, were you serving as a squadron intelligence officer?</u>
+      <u who="WALLACH">No, no, I was still the executive officer of A Troop. And that’s about to change, but this was right at the end of my tour of duty as the A Troop executive officer, so I was still in a cav troop. So it was hot as hell. It was dusty. And we were laying concertina wire out, and Claymore mines and all this stuff, and I kept going to these intelligence briefings. My job was to go up to the briefing, and I would come back and brief my commander on what I had heard. 
+
+And I kept hea- —for two or three days, I kept hearing these—what seemed to me to be wildly exaggerated briefings. For example—and I’m making this up fifty-two years later, but the briefing would say something like, “Our intelligence indicates that 2,500 North Vietnamese have moved ten miles north of Kon Tum and are likely to attack us in the next forty-eight hours. Well, I never heard anything like that in my six months in country. I’d spent my whole time, you know, going three weeks without hearing a shot fired in anger, and then there might be a ten-minute ambush, and maybe there’d be some KIA [killed in action], maybe there wouldn’t, but very sporadic. Nothing—but suddenly I’m hearing these briefings that were completely unlike anything I’d ever heard. And I would go back and report them to my captain, and he—he’d never heard anything like that before.
+
+But we kept—it was almost like—it wasn’t that we disbelieved it, but if we thought it was true, we probably would have been panicked. Are you with me?</u>
+      <u who="COLLINS">Right. Yeah.</u>
+      <u who="WALLACH">But I’m not sure we even thought it was true. We certainly didn’t ignore it. We put out—I put out more concertina wire, more defenses, more mines [chuckles], all this stuff.</u>
+      <u who="COLLINS">Okay. So no change in the preparations. You sort of intensified—</u>
+      <u who="WALLACH">Intensified it. Then we get to about the day before the Tet Offensive started. I received a radio call from my squadron headquarters, which was down on Route 19, telling me that I was being reassigned from Kon Tum to my S-2 job. Now, I’d been hearing these reports of major action about to happen, and I’d been working all these defenses and everything. And so I requested a delay in the—the reassignment, and the order came back immediately, something—something along the lines of “get your ass on that helicopter this afternoon, and get your ass down here. I need an S-2. Your replacement will be coming up on the chopper. You’re on the return chopper. Do you understand me?”</u>
+      <u who="COLLINS">[Chuckles.] Serious, yeah.</u>
+      <u who="WALLACH">Yeah, well, so the commander wanted his staff, and so he wasn’t going to—so I saluted and got on a chopper and left A Troop—</u>
+      <u who="COLLINS">Was—was the—</u>
+      <u who="WALLACH">—and went—and then either that night or the next day, my unit was attacked by 2,500 North Vietnamese.</u>
+      <u who="COLLINS">The day after you had left.</u>
+      <u who="WALLACH">And I left. Maybe—I can’t remember whether it was attacked that night or the next night. I think it was that night. I think the Tet Offensive started all over the country that night [chuckles]—you know, at midnight or something. So I’d been preparing for these defenses and then—</u>
+      <u who="COLLINS">You left before the conflict.</u>
+      <u who="WALLACH">By the way, as a side note, I attended a reunion of my unit last year in Milwaukee [Wisconsin], the first unit—the first reunion I’d ever attended in fifty years. And this soldier came up—older man came up to me and said, “Capt. Wallach, you don’t remember me, but I was Private So-and-so in Kon Tum, and I remember you making us put up those extra concertina wires and mines, and, boy, was that a good thing!”</u>
+      <u who="COLLINS">Wow.</u>
+      <u who="WALLACH">That was feedback fifty-two years later. But anyway, I was on a helicopter and was back down in squadron headquarters when Tet exploded all over—all over Vietnam. I am told that my unit, A Troop—I'm not told, I know—that it did a marvelous job defending the airfield. The defenses were never breached. I don’t know what the—what the body count was up there, but it was—it was big time.</u>
+      <u who="COLLINS">Compared to the other months of the war.</u>
+      <u who="WALLACH">Yes, yes. I think—I think—again, I don’t know the numbers, but I think that A Troop accounted for hundreds of North Vietnamese that night.</u>
+      <u who="COLLINS">Wow.</u>
+      <u who="WALLACH">They were trying to come across a—we had a—we had 300  yards of cleared—cleared field, and then three sets of concertina wire, tanks, 50-caliber machine guns, 90 mm cannons with—we had—we were very strong. And they tried to come across that field, and—</u>
+      <u who="COLLINS">They were assaulting essentially as an infantry, right?</u>
+      <u who="WALLACH">They were, and it was the only time in my year there that—the Tet Offensive I think was one of the few times in the Vietnam War up to maybe 1969 or ’70, when—when it was a conventional fight. The other one that comes to mind was the fight in the Ia Drang Valley, west of Pleiku, in 1965. There’d been a movie and a book written about that, When We Were Soldiers [sic; We Were Soldiers Once… And Young, by Lt. Gen. Harold G. Moore and Joseph L. Galloway].
+
+
+
+But anyway, I was down at the squadron headquarters, in the S-2, when the assault took place up in Kon Tum. Now, many of our units were hit that night, and I think we took some mortar fire, but nothing too dramatic down at our location.</u>
+      <u who="COLLINS">Okay, and to be clear in your changing roles from the executive officer to the S-2 officer, that was purely coincidental that it happened that day, at the same time.</u>
+      <u who="WALLACH">Well—purely coincidental and—but related to a promotion. I was promoted to captain, and due to time in service—pretty much a time thing. But once I became a captain, which was a O—you go second lieutenant, first lieutenant, captain—at that point, that’s too much rank for the executive officer position and a capture, but the captain is a billet for the S-2. So another lieutenant was pulled up and put into my slot, and I was—</u>
+      <u who="COLLINS">Moved to the—</u>
+      <u who="WALLACH">Moved to the—</u>
+      <u who="COLLINS">Higher in the hierarchy.</u>
+      <u who="WALLACH">To higher in the hierarchy, which I did for the next six months. 
+
+
+
+Two other things I did in Vietnam that were important to me that we haven’t talked about yet:
+
+One was I spent a fair amount of time flying what’s called the dawn patrol, and the dawn patrol—remember, we were—our job was to keep a road open. Well, the road was a two-lane macadam road stretching from the ocean to Cambodia. You know, two lanes. And we had cleared back the underbrush, about fifty yards or a hundred yards, on each side of the road to prevent ambushes. We didn’t want people to get right up next to the road. We wanted them to have to stay back.
+
+What we did every morning was a helicopter would come out  and pick me and another lieutenant up, and we would fly on what’s called the dawn patrol, and I would sit on the left, and the other sit—would sit on the right. These were Huey [Bell UH-1 Iroquois] helicopters. And the helicopter would fly our whole stretch of road at about 110 miles an hour at fifty feet.</u>
+      <u who="COLLINS">Wow!	</u>
+      <u who="WALLACH">Very low. It was called contour flying. Sometimes we had to go up to get over a tree. [Chuckles.] And what the—what the observers were do- —I was an observer. What the observers were supposed to do was to see if there’s any sign of ambush preparation: any drag marks or foxholes or soldiers or anything. And so every morning we would fly. And we got extra pay for this, an extra hundred dollars a month or something. I can’t remember what it was.</u>
+      <u who="COLLINS">Wow! Yeah.</u>
+      <u who="WALLACH">I did that every day—I mean, every day that it was flyable. You wouldn’t do it in the rain. Do that every day.
+
+One of the more interesting experiences I had flying in my year in Vietnam is we were shot down once in the dawn patrol, so we were flying at 100 miles an hour, I assume—80, 100, whatever a helicopter flies at [chuckles], and the next thing I knew, the helicopter was filling up with smoke. And it was clear we were going down.
+
+And we went down, and the pilot skillfully landed the helicopter in a clearing, auto rotated it (where they reverse the direction of the props, or the pitch), pish, got down. We got out, set up security. Twenty minutes later, one of my cav colleagues was in there with APCs and—</u>
+      <u who="COLLINS">Okay. At that point, you felt pretty safe.</u>
+      <u who="WALLACH">Well, totally safe. But we never saw the enemy. But I walked back to the helicopter, and the aluminum stanchion on which I rested my head, the bench and my head, had a bullet hole one inch above my head.</u>
+      <u who="COLLINS">Wow!</u>
+      <u who="WALLACH">And what that caused me to realize is how—how war is—is fate and luck. There’s an old saying about you don’t worry about the bullet that has got your name on it, you worry about the bullet that says, “To whom it may concern.”</u>
+      <u who="COLLINS">[Chuckles.]</u>
+      <u who="WALLACH">It’s very impersonal. Now, what had happened in this little incident I’m telling you about is some nineteen-year-old North Vietnamese soldier saw this helicopter coming at very low levels and fired his AK-47 at it. Probably was reprimanded hugely by his commander.</u>
+      <u who="COLLINS">Really.</u>
+      <u who="WALLACH">Well, because—because he’d blown the ambush at that point.</u>
+      <u who="COLLINS">Ah.</u>
+      <u who="WALLACH">And it also made me realize as to why they were having us fly this dawn patrol. It wasn’t to see anything. It was to get shot at.</u>
+      <u who="COLLINS">Aha. And they didn’t tell you that ahead of time.</u>
+      <u who="WALLACH">No. [Chuckles.] I’m assuming that.</u>
+      <u who="COLLINS">Okay. [Laughter.]</u>
+      <u who="WALLACH">So at any rate, that was a interesting incident.
+
+The other—the other thing I did both in my capacity as a A Troop executive officer and also as S-2 is I led long-range patrols. I think—I can’t remember the exact number that I led during the year, but I’m going to guess maybe five, maybe two as the A Troop XO and three as the S-2.
+
+And these were interesting because they—they involved taking a group of anywhere from five to seven men out for a week, deep into the—into the bush. Sometimes we would be inserted by helicopter, so they’d take us twenty miles in and drop us off for a week, and we would—these were reconnaissance patrols, not combat patrols. And the difference is a combat patrol has as its intention to inflict damage—you know, to—</u>
+      <u who="COLLINS">Right, search and destroy kind of thing.</u>
+      <u who="WALLACH">Well, or to ambush somebody or to do—a reconnaissance patrol—its mission is to gather intelligence and not to be seen, so not to engage, to observe and report back. These were reconnaissance patrols. But they involved five to seven days of planning, of navigating, of being out in the country by yourself. 
+
+And we saw a lot of the countryside. It was interesting. We would typically carry about 400 rounds of ammunition apiece, seven days of food, what were called LRP [pronounced LUPR] rations [U.S. Army freeze-dried dehydrated field rations], long-range patrol rations. It seemed like half the time it was raining. And it was interesting. You had to keep a guard up all night. We saw a lot of country. I don’t know how much good we did back there other than to confirm the negative, which was there was no one there. We didn’t encounter—I think that was the purpose of patrols, really, was to see if something was there. So that was an important part of my experience as well, managing those patrols.</u>
+      <u who="COLLINS">Okay. I was also curious to know—maybe I’ll ask probably a couple more questions about your time in Vietnam, and then we can sort of transition to getting back to the U.S., to be respectful of your time. We’ve been here for a while.
+
+So did you ever find anything while you were doing dawn patrols, other than the time you were shot down? Did you ever see evidence for—of ambush preparation, or was that really not something that you saw much of?</u>
+      <u who="WALLACH">My memory is that on one or two occasions we saw signs of things that we thought were worthy of inspection, and we called it down and the cav units on the ground go and check it out. But, you know, we were flying so fast and so low, I’m not sure we were supposed to see anything. I mean, it went by in such a blur. I mean, can you imagine flying at fifty feet at 100 miles an hour?</u>
+      <u who="COLLINS">No.</u>
+      <u who="WALLACH">You don’t see that much. The second six months I was there, I flew the dawn patrol in a [Cessna] O-1B Bird Dog plane, and the pilot would fly out from Camp Enari, and I would get in the back of the plane. It was a single-engine plane, and we would fly the road up to—up to Kon Tum and Đắk Tô and back. This pilot’s idea of low-level flying was to fly at about 3,000 feet. I could barely see the road, much less—</u>
+      <u who="COLLINS">Signs of an ambush.</u>
+      <u who="WALLACH">Right. But that was kind of fun. We would just make the trip, and he would read the newspaper, and sometimes he would let me fly, which was fun. </u>
+      <u who="COLLINS">[Laughs] Yeah.</u>
+      <u who="WALLACH">I don’t think too much came out of that whole dawn patrol. It got my attention while I was doing it, I promise you. But whether there was tangible benefit from it, I can’t attest to that. I mean, obviously, one time we triggered a patro- —an ambush, when they shot us down. I think a couple of other times, we saw things, but whether anything came out of that, I don’t—I don’t recall.</u>
+      <u who="COLLINS">Right. Another question, in sort of a different direction, is what did you find sort of on the eve of the Tet Offensive, the start of the Tet Offensive? You had been reassigned to more of an intelligence posting. What did you find when you got to the staff? Were people prepared for the Tet Offensive, sort of this—I mean, I imagine they were a little more intelligence focused, so maybe they’d been tracking it a little bit more at that office. Or were they just as surprised as you had been? How did people react to the Tet Offensive, I guess?</u>
+      <u who="WALLACH">Very surprised. I think the Tet Offensive was a major surprise, certainly to our unit. Everything I’ve read in the last fifty-two years, I think it was quite a surprise, more broadly. First of all, it was—Tet is the Vietnam celebration of New Year, I think, which is a religious holiday. Nobody thought that they would—</u>
+      <u who="COLLINS">Attack on a religious holiday.</u>
+      <u who="WALLACH">—attack on their holiday. It would be like us attacking  on Christmas. So I think it was a surprise. I do recall getting into my new slot down there. The radio was just exploding with—with reports. I mean, we had contact all over the place, but not heavy contact in our area. I mean, the heaviest contact was my old unit, A Troop, that I just left six hours before. There was some sporadic contact along the road of our different units and bridge positions, but it wasn’t a big, massive force like—like the city of Hué or some of the other big—big battles. Kon Tum was. Kon Tum was a major—it was a North Vietnamese regiment that was trying to overrun Kon Tum. 
+
+But down in our area, down on Route 19, not much. And I don’t recall Camp Enari really being hit, either, that hard. I think they were kind of selective in—I mean, there was fighting breaking out all over Vietnam, and my radio was getting all this stuff. I was reading the ticker tapes, all this intelligence stuff coming in. There was clearly lots of action.
+
+One thing I should say: My unit, the 2nd Squadron, 1st Cavalry, was a very, very well-run military unit. It had terrific officers, terrific sergeants, terrific equipment, good training. We had trained the men. This was a—a buttoned-down cavalry unit that could take care of themselves. And I don’t know if that’s why we were left alone somewhat, but we were always ready. We always—always ready. That was part of the job. So I didn’t sense anybody was panicking down at squadron headquarters.</u>
+      <u who="COLLINS">So surprise but prepared.</u>
+      <u who="WALLACH">Yes. And also remember—I’m not trying to make this sound egocentric or anything, but we were an armor unit. We had two inches of steel between us and the other guy. I mean, we had—</u>
+      <u who="COLLINS">Relatively secure.</u>
+      <u who="WALLACH">Well, robust, powerful defense armaments. We had a lot of firepower. I’ve read somewhere that the cav platoon in 1965 had more firepower than a infantry battalion in World War II. I mean, all those guns I was telling you about?</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">That’s a lot of—</u>
+      <u who="COLLINS">That is a lot of guns.</u>
+      <u who="WALLACH">—a lot of firepower. So we—we did quite well as a unit. We  had a very favorable kill ratio, number of men lost to number of men killed, or number of enemy killed. I’m not going to share the numbers because I never saw them officially, but they were extremely favorable to us.</u>
+      <u who="COLLINS">Right. 
+
+Circling back to sort of what you were saying about wanting to go to Vietnam as a way to test out the Army as a potential career path, you also spoke a little bit about sort of the boredom you felt, specifically in your first six months on patrol along the highway, but even—during your whole time there.</u>
+      <u who="WALLACH">Yes.</u>
+      <u who="COLLINS">How did, like, your experience in Vietnam line up with your expectations ahead of time? Like, were you surprised? And in what ways? And did it end up being something you liked or something that you wanted no part of after that?</u>
+      <u who="WALLACH">When I arrived in Vietnam—you will recall that I had volunteered—</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">—to (a) serve in ROTC, serve in the Army, and then I’d gone to some length to stay in for an extra year and not go to business school, so I was a pretty pure volunteer, right?</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">Patriotic volunteer. I’d only been in country five days when I realized that I possibly had made a very serious mistake, that I could die over there. This may sound a little stupid, but it suddenly dawned on me three or four days in country that this—this may have been a very serious mistake that I just made. [Laughter.]</u>
+      <u who="COLLINS">It got real, yeah.</u>
+      <u who="WALLACH">It got real in a hurry. I realized I had 300- —most men in Vietnam count the days that they were there. Most men in Vietnam, you could ask them how many days they had left or “How short are you?” and they’ll tell you, “I’ve got sixty-one and a wake-up.” That means, “I have sixty-one more days, and then I wake up and go home.” It was a long year. There are no weekends in the combat theater. You go Monday to Monday. You don’t go Monday to Friday and then take Saturday and Sunday off. And it’s 24/7. You’re on the whole time—you know, you’re sleeping—</u>
+      <u who="COLLINS">You’re attacked any time. Yeah.</u>
+      <u who="WALLACH">Well, you’re sleeping, but you’re on duty. So it’s a long year. So it was a long year. It was mostly a boring year, although there were moments of—of excitement and terror. The dirty year. You’re not sleeping on sheets. You’re not getting hot showers. It was a grinding year. So some of that has a tendency to affect anybody. 
+
+My greatest feeling, though, which began to set in about halfway through this experience, was that we were fighting with one hand tied behind our backs. Why weren’t we going into Cambodia? Why weren’t we interdicting the Hồ Chí Minh trail? Here, we had this fabulous armor unit that I was honored to be part of, and basically sitting there—</u>
+      <u who="COLLINS">On the defensive.</u>
+      <u who="WALLACH">On the defense, guarding these bridges and so on. I got very frustrated by it. It felt like a waste to me. So I started to get a little bit demotivated. As a matter of fact, I wrote my former boss a letter, who by then had become a three-star general, and—expressing my dissatisfaction. And I’ll never forget the letter I got back from him, from the Pentagon. I won’t mention his name, although he is deceased. The letter was something like, “Dear Marshall, Nice to hear from you,” dah-dah-dah-dah-dah-dah. “With regard to your dissatisfaction with policy, I would just remind you that in our country, the soldiers report to duly-elected civilian officials, and if you really have a problem with policy, you’re going to have to take it to the ballot box.”
+
+Now, that struck me as [noise]. Here I was—here I am, sitting in the Central Highlands of Vietnam,—</u>
+      <u who="COLLINS">“Why can’t we fight the enemy?”
+
+</u>
+      <u who="WALLACH">—getting a lesson in elective democracy. You know, he’s absolutely right. But I got frustrated by it and realized I wanted to move on. And so I got out when my period ended and went to Harvard Business School.</u>
+      <u who="COLLINS">And what was it like coming home, sort of coming back to a college campus after you had been away for so long?</u>
+      <u who="WALLACH">It was difficult in one sense. First of all, when I came home, the plane landed in Seattle or Tacoma, Washington, where I was being mustered out at—</u>
+      <u who="COLLINS">You made it. That’s where you wanted to be originally. [Chuckles.]</u>
+      <u who="WALLACH">But there was nobody there saying, “Thank you.” There were no parades. The country was in turmoil. The protests now had gotten much more serious. This is the summer of ’68, okay? Or the fall of ’68. I took one month with my parents at Fort Knox, Kentucky, and then reported in to the Harvard Business School. 
+
+The first night I was in Harvard, I walked with a friend of mine up into Harvard Square [in Cambridge, Massachusetts] to get a hamburger, and we were confronted by two individuals with long hair, waving a North Vietnamese flag. The fellow I was with had just come out of the [U.S. Army] Special Forces and was enraged by these longhairs, protesters, you know, waving the North Vietnamese flag. And waded into them in a brawl. And I was able to pull him off, but that was my first night in Cambridge. [Chuckles.] By the way, we were able—I was able to—I didn’t go crazy. My companion did. But I was able to get him off this kid, and we’d go back over to Harvard Business School.
+
+By the way, there was quite a gap between the Harvard Business School on the south side of the Charles River and Harvard College.</u>
+      <u who="COLLINS">It’s all undergrads who haven’t seen combat yet.</u>
+      <u who="WALLACH">Right. A third of my class at Harvard Business School were veterans, and people there—the average age was twenty-six, the first-year students. We pretty much put our heads down and worked on learning the skills of business, but it was—it was a very tumultuous period. I mean, the Harvard College was struck in the spring of 1969. [The] Kent State [University shootings] took place. Many universities, I think including Dartmouth, were occupied. Of the thirteen different schools at Harvard University, twelve of them struck and shut down, including the college, the law school, the medical school. The only school that did not strike in sympathy with Kent State was the Harvard Business School.</u>
+      <u who="COLLINS">Really?</u>
+      <u who="WALLACH">Mm-hm. Which would be kind of the equivalent of the Tuck School [of Business] here.</u>
+      <u who="COLLINS">Okay. And you credit that to the high proportion of veterans in the program, or the more--“We’re not gonna talk about politics, we’re just gonna study business” sort of attitude?</u>
+      <u who="WALLACH">That’s a very good question. I don’t know. I can tell you the demographics. The age was more. They were twenty-six years old. They were very intent—we were very intensely at work. It was right in the middle of a big—big thing that was going on the second year or first year. Attitudinally, I’m not—I don’t—I don’t know. I would expect you would think that people pursuing a career in business might be more conservative than liberal.</u>
+      <u who="COLLINS">Yeah.</u>
+      <u who="WALLACH">But that’s a speculation on my part. Most of my classmates at the Harvard Business School were pretty serious, focused, vocationally focused young men and women, mostly men. Probably a little bit of the leaning to the right or in support of things military. But the whole country was up in—</u>
+      <u who="COLLINS">Absolutely.</u>
+      <u who="WALLACH">—up in arms at that point.</u>
+      <u who="COLLINS">And so during that time period, were you bothered by the protests, or did you, like you were saying, just keep your head down, not be too political, just focus on your work? And at that point, you must have been twenty-three or twenty-four?</u>
+      <u who="WALLACH">No, no, no, twenty-six.</u>
+      <u who="COLLINS">You were already twenty-six.</u>
+      <u who="WALLACH">Yeah.</u>
+      <u who="COLLINS">Okay.</u>
+      <u who="WALLACH">When I came out of Dartmouth, I was about twenty-two, and I was three years in the Army.</u>
+      <u who="COLLINS">Right. Okay.</u>
+      <u who="WALLACH">Close to twenty-six, probably. What was your question again? During that time, what was my attitude?</u>
+      <u who="COLLINS">If the protests affected you significantly or not.</u>
+      <u who="WALLACH">I think that as a result of my military background, being raised in the military, my sense of patriotism, that it is the role of twenty-one- and twenty-two- and twenty-three-year-old young men and women to—to serve and not to make policy. I think I was fairly rigid in that belief. And patriotic. So I think at the time, I was—I thought that—I believed in those things: patriotism and service, and I respected people that did their share to carry the load and did not respect people that seemed to be avoiding service, perhaps to an extreme. Does that make sense?</u>
+      <u who="COLLINS">Yes.</u>
+      <u who="WALLACH">Perhaps I’m more understanding of them now.</u>
+      <u who="COLLINS">With some time—</u>
+      <u who="WALLACH">With some time, than I was then. But basically I was—I’d done my service. I’d put the military behind me. I’d made my fourth—crossed my fourth fork in the road, got out, and now it was time to learn a new trade. I was married. I had married my first year at business school.</u>
+      <u who="COLLINS">Did you meet her there?</u>
+      <u who="WALLACH">I met her when I was a first-year student and she was a—at Wellesley [College]. So I was kind of moving on, I think.</u>
+      <u who="COLLINS">Ready to start your—your life.</u>
+      <u who="WALLACH">I wasn’t ready to get involved in ideological debate. To me, the Vietnam War was kind of winding down anyway. I mean, the peak, I think, of the troop buildup in Vietnam was probably right in the middle of my—</u>
+      <u who="COLLINS">Yeah, so the Tet Offensive—</u>
+      <u who="WALLACH">—’68—</u>
+      <u who="COLLINS">—was I think the high point of the conflict.</u>
+      <u who="WALLACH">Yeah, so it was kind of down. And [President Richard M.] Nixon was trying to—Nixon had [Secretary of State Henry A.] Kissinger over in Paris [France] and trying to negotiate with the North Vietnamese. And we were getting out of there.</u>
+      <u who="COLLINS">It was a foregone conclusion, almost.</u>
+      <u who="WALLACH">Nixon had run on that platform.</u>
+      <u who="COLLINS">Right.</u>
+      <u who="WALLACH">So I had moved on, I think. But I’ve stuck with my belief that—that young men and women should serve their country when they—when they’re called. Right now, I happen to believe that I wish we had a draft so that the military service was more equitably shared by all socioeconomic classes.</u>
+      <u who="COLLINS">Yeah, yeah, that makes a lot of sense.</u>
+      <u who="WALLACH">Mm-hm. </u>
+      <u who="COLLINS">That’s interesting. In that case, I want to take this moment to get this on the record and just say thank you so much for—for donating your time to this project and for sharing your story with us. We really appreciate it, and I think this is going to be a great addition to the archive that we’ve already built up.</u>
+      <u who="WALLACH">I hope it’s helpful to you.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,603 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="NOPPENBERGER"/>
+        <person xml:id="BRIEF"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="NOPPENBERGER">Hi. This is Angela Noppenberger. I am talking to Dr. Donald [K.] Brief. I am in the Rauner Special Collections Library at Dartmouth College, and he is talking to me from his home in Maplewood, New Jersey. The time is 1:21 p.m. on August 18th, 2015.
+
+So, Dr. Brief, let’s start from the very beginning. Can you tell me where you were born and the date?</u>
+      <u who="BRIEF">I was born in Newark, New Jersey, February 22nd, 1933.</u>
+      <u who="NOPPENBERGER">Thirty-three? What were your parents’ names?</u>
+      <u who="BRIEF">My parents’ names? Pauline and Philip Brief.</u>
+      <u who="NOPPENBERGER">Okay. And can you tell me a little bit about your childhood?  Was your town suburban, rural?</u>
+      <u who="BRIEF">Well, I was the oldest child in the family. I have a brother two years younger. And we lived in Newark, New Jersey, till I was about ten years old, and then we moved to South Orange, New Jersey, where I continued with my school and went to high school, Columbia High School, in the South Orange-Maplewood school system and then went on to Dartmouth College and Dartmouth Medical School [the Geisel School of Medicine] and ultimately Harvard Medical School after that, graduating in 1957.</u>
+      <u who="NOPPENBERGER">Great, great, awesome. Do you mind if we talk just a little bit about, I mean, your childhood: just kind of growing up in the time that you were growing up. You would have been alive for World War II. Did any of this, you know, shape your childhood in any way?</u>
+      <u who="BRIEF">Well, I think I probably had a very normal childhood without a lot of unusual excitement. I was interested, when I was a youngster—in addition to just going to school, I was interested in sports, so once I finished school I’d want to go out and play whatever sport was in season.</u>
+      <u who="NOPPENBERGER">Oh, so did you play—</u>
+      <u who="BRIEF">And then when I went to high school, I actually became a varsity swimmer. I was on the swimming team, and that occupied a lot—</u>
+      <u who="NOPPENBERGER">Did you—</u>
+      <u who="BRIEF">And I became—</u>
+      <u who="NOPPENBERGER">I’m sorry.</u>
+      <u who="BRIEF">My dad was a golfer, so he got me interested in golf as well when I was a youngster, and I started playing a little bit when I was 11 or 12, and then, of course, that’s—</u>
+      <u who="NOPPENBERGER">Do—</u>
+      <u who="BRIEF">Go ahead.</u>
+      <u who="NOPPENBERGER">I’m so sorry. I’m so sorry. The audio is cutting a bit back and forth. 
+
+Did you swim throughout high school and college?</u>
+      <u who="BRIEF">I didn’t swim at Dartmouth. I swam in high school. Was pretty good, actually. I was on a very good swimming team. We won the state championship in my junior year, and we came in second in my senior year. And I was second in the 100-yard freestyle in the state in my senior year.</u>
+      <u who="NOPPENBERGER">Wow.</u>
+      <u who="BRIEF">Anchored the winning medley relay team, so I got a silver and gold metal at that time. And then I went to college. I thought I was going to swim, but I was actually having a lot of trouble with my eyes, with the chlorine in the pool, and I frankly was afraid that I wouldn’t be able to study. When I was in high school, I came home and didn’t do any studying. I did it all in school. After swimming practice, I used to put a cloth over my eyes and go to bed, you know.</u>
+      <u who="NOPPENBERGER">Right, I mean, studies are important.</u>
+      <u who="BRIEF">And the next day from the chlorine. And I was really quite afraid to do it. But I played freshman golf at Dartmouth. I made freshman team. But that was about it. After that, I concentrated on my pre-med stuff.</u>
+      <u who="NOPPENBERGER">Yeah. Did you always know that you would be, you know, going on the medical track to be a doctor? When did that sort of—that career decision happen for you?</u>
+      <u who="BRIEF">I didn’t. When I was growing up, my dad was a CPA [certified public accountant] and had his own accounting firm that specialized in the savings [and] loan industry, and I always thought I’d go into that. And as a matter of fact, when I went to Dartmouth, when I got accepted to Dartmouth, I assumed I would go to Tuck School [of Business]. I didn’t even know that Dartmouth had a two-year medical school.
+
+But what happened that summer between high school and medical school—and college, I worked as a camp counselor in the Berkshires [Berkshire Mountains], and some of the counselors were first-year medical students, who obviously I hung out with and got to know. And one of the counselors—I was in his bunk. I was too young to have my own kids to take care of, so I was, like, an assistant to him. And spending time and talking about it, I became somewhat interested.
+
+
+
+And so when I arrived to matriculate at Dartmouth, I found out there were two lines. One line was for the regular B.A. degree, and the other line was for pre-med and the Dartmouth Medical School. So I asked somebody what was that all about, and they told me, “It’s a three-year deal, and you get into medical school if you can make it. There’s only 24 guys that get ac[cepted], but if you can get in at the end of three years, you save a year of college,” and so on and so forth.
+
+
+
+So since the first year didn’t mean anything—it was all the same freshman curriculum—I thought, Well, I might as well get in this line. It sounded interesting. You know, when I spent time with these guys in the summer, it sounded more interesting than being an accountant. I had no doubt that—</u>
+      <u who="NOPPENBERGER">That sounds—</u>
+      <u who="BRIEF">So anyway, I signed up for that program, so that’s what happened.</u>
+      <u who="NOPPENBERGER">Yeah, that sounds very competitive. And you mentioned earlier that you were worried about not being able to study. Was your time at Dartmouth very academically rigorous? Were you very much focused on studies, or did you have other sports—you mentioned sports, but any other clubs that you were involved in?</u>
+      <u who="BRIEF">[Unintelligible] I did my work on a regular basis. I wouldn’t be what you’d call a grind. I never believed you learn much after 11 o’clock at night, so I used to go to bed at 11 o’clock, pretty much. I did my work. I went to classes. I didn’t cut. And took notes.
+
+I was only a pretty average student. In the beginning, I was surprised how much you had to study for finals. I didn’t realize finals were so important. So my first semester was a rude awakening to me. I wasn’t that brilliant an undergraduate student. I think I got—in those days, there was no grade inflation. But I remember going into finals my first semester freshman year with what I thought were all A’s, and I came out with four B’s and a C, a respectable 2.8 average, so that didn’t sound too hot to me, so I knuckled down and did a little better after that.</u>
+      <u who="NOPPENBERGER">So that really inspired—</u>
+      <u who="BRIEF">Yeah, I had fun. I participated in, you know, all the intramural sports with the fraternity and dormitory in my freshman year, and played golf and skied. I think I enjoyed myself. I didn’t study all the time, by any means.</u>
+      <u who="NOPPENBERGER">What fraternity were you affiliated with?</u>
+      <u who="BRIEF">Pi Lambda Phi.</u>
+      <u who="NOPPENBERGER">Oh, okay. Were you very active with the fraternity?</u>
+      <u who="BRIEF">Not at all, except for playing in intramural sports and going to an occasional party. I wasn’t—I didn’t live there, and, you know, I got into medical school at the end of my junior year, so we weren’t in the fraternity in our sophomore year. So I really only had two years in the fraternity, itself, and I really wasn’t that active other than just having a little fun there once in a while.</u>
+      <u who="NOPPENBERGER">And this was when Dartmouth was still all male.</u>
+      <u who="BRIEF">Yes.</u>
+      <u who="NOPPENBERGER">Could you state the year—could you state the years that you attended Dartmouth?</u>
+      <u who="BRIEF">Yeah, 1950 to ’55, which was the medical school. I was Class of ’54.</u>
+      <u who="NOPPENBERGER">Right. So how the program worked is that you were accepted in your junior year and then you spent—</u>
+      <u who="BRIEF">Two years at Dartmouth.</u>
+      <u who="NOPPENBERGER">Senior year—</u>
+      <u who="BRIEF">Yeah. My first year of medical school was really my senior year, and I actually took the Great Issues course to complete the B.A. requirements, and we graduated with our class, with my B.A. and chem-zo [chemistry-zoology] major. But I actually completed my first year of medical school. And then we went a second year to the medical school and left to go—and transfer to the third year of whatever medical school you wanted to finish up at. We pretty much had our choice in those days. Dartmouth students were accepted virtually anywhere they wanted to go in those days.</u>
+      <u who="NOPPENBERGER">Uh-huh. </u>
+      <u who="BRIEF">Yeah, we were—</u>
+      <u who="NOPPENBERGER">And so—</u>
+      <u who="BRIEF">And most medical schools lost students by the second year, so they had openings and were glad to enlarge their classes, and I think—you know, fill out their classes with Dartmouth students.</u>
+      <u who="NOPPENBERGER">That sounds like a—</u>
+      <u who="BRIEF">Yeah, go ahead.</u>
+      <u who="NOPPENBERGER">Sounds like a great program. Oh, I was saying that sounds like a great program. Really, you know, kind of paved the way for you to get into a great medical school.</u>
+      <u who="BRIEF">Yeah, it’s a very unusual program. It doesn’t exist anymore. And I don’t think—now that I know about it, there are not too many two-year schools anymore, anywhere. There are several five-year—seven-year programs now throughout the country, which do the same thing, but you stay on at the same university, and you do it in seven years.</u>
+      <u who="NOPPENBERGER">Yeah. I was going to say I’ve never heard of your particular program at Dartmouth, and I guess that’s because it doesn’t exist anymore.
+
+Going back to your time as an undergraduate, talking about how Dartmouth was all male, how did that impact social life—I mean, even class dynamics? Was it something that never really affected you or the campus culture, do you think?</u>
+      <u who="BRIEF">Well, you know, it’s just what we expected. I mean, I knew what it was, and we used to occasionally go down to Smith [College] and date, one thing and another—you know, road trips. And I guess it was in my junior—my sophomore year, I met my wife-to-be, and so I had a steady, you know, girlfriend pretty much the rest of the way until I got married.</u>
+      <u who="NOPPENBERGER">Where did you meet her?</u>
+      <u who="BRIEF">In the community in South Orange, New Jersey. She was a local girl, so we– younger, and I met her at a party and one thing and another.</u>
+      <u who="NOPPENBERGER">Oh, okay, okay. So I didn’t know if she was from the Dartmouth area. So, after—</u>
+      <u who="BRIEF">No, she wasn’t from Dartmouth, she was from New Jersey.</u>
+      <u who="NOPPENBERGER">Back home. So after undergrad, were you still living in dorms and kind of considered part of the Dartmouth campus even when you were in your second year of medical school at Dartmouth?</u>
+      <u who="BRIEF">No, no, once I got into medical school—I always lived in the dormitory. I had the same roommate for three years. And once we got into—I got into medical school, I moved off campus to West Wheelock Street.</u>
+      <u who="NOPPENBERGER">Oh, okay.</u>
+      <u who="BRIEF">To an apartment with several of the other medical students. There were, I think, two upperclassmen upstairs, and five first-year medical students lived on the first floor. We rented. And we studied together and lived together there. And then I became part of the medical school fraternity, Alpha Kappa Kappa, which was the medical school fraternity, so I belonged to that as well. I didn’t have much to do with undergraduate life thereafter. I never really went back to the Pi Lamb house. And we hung out—the medical students pretty much hung out together.</u>
+      <u who="NOPPENBERGER">When you were in medical school, were you still living by that, you know, “in bed by 11 o’clock” sort of study method? Or did things get a little harder?</u>
+      <u who="BRIEF">No, no. I went to bed at 11. The dean always emphasized that, too: “Get a good night’s sleep, and do your work, and be efficient.” I very rarely stayed up all night to study. Once in a blue moon for an exam or something, but most of the routine times I’d go to bed at—we got up early. You know, we had to get up around 6 o’clock in the morning, so I always tried to get a good night’s sleep.</u>
+      <u who="NOPPENBERGER">Do you remember any big events, whether political—Dartmouth has a bit of a history of things like protesting, especially during Vietnam, although that was after you graduated. Do you remember any sort of events like that happening during your time at Dartmouth?</u>
+      <u who="BRIEF">I think undergraduates were not activists in those days.</u>
+      <u who="NOPPENBERGER">Oh, really!</u>
+      <u who="BRIEF">No, we accepted everything and were—I can’t remember any public, you know, outbursts or any activity on the part of the men in the campus on those days. The ’50s were—it was after the war, and I think everything was pretty settled. It was the years of [President Dwight D.] Eisenhower, and I think the country was not—</u>
+      <u who="NOPPENBERGER">Tumultuous.</u>
+      <u who="BRIEF">—in an activist mood. As I remember it, I don’t recall any particular excitement about political issues or social issues in those days.</u>
+      <u who="NOPPENBERGER">So then, I mean, just going by the years that you were attending college, there really was no talk of Vietnam, which was—</u>
+      <u who="BRIEF">Oh, not at all.</u>
+      <u who="NOPPENBERGER">—speaking about later. No.</u>
+      <u who="BRIEF">That was way, way before Korea was finishing up, the Korean War.</u>
+      <u who="NOPPENBERGER">Yeah. Anything about the Korean War ever reach campus? Any talk?</u>
+      <u who="BRIEF">No. Again, most of the under- —all the un- —none of the undergraduates were veterans, and there was no talk of much of the war. Nobody there was involved in Korea. I really don’t think we thought very much of it. I don’t remember the exact dates and when that conflict ended, but it wasn’t—</u>
+      <u who="NOPPENBERGER">Dit didn’t impact—it didn’t impact Dartmouth, then.</u>
+      <u who="BRIEF">Not at all. Not to my way of thinking, no. No, as I said, I think we were very—the students in those days—and I can speak for myself—I don’t think, you know, we thought much about those things. I think we were happy. We were privileged students to be at Dartmouth, I think, and enjoyed our—most of everybody enjoyed their time there and got involved in the social and academic life, and that was about it.</u>
+      <u who="NOPPENBERGER">That’s fair enough.
+
+Can you tell me a little bit about your time at Harvard? You would have had to, of course, move to Boston.</u>
+      <u who="BRIEF">Yeah. I got married. When I finished Dartmouth Medical School, we married, so I went down to Harvard as a married student, and we got an apartment—</u>
+      <u who="NOPPENBERGER">Did your wife come with?</u>
+      <u who="BRIEF">The two years in medical school—they were wonderful. I mean, I personally enjoyed medical school, the two years at Dartmouth and two years of Harvard, and the academics, much more than my undergraduate experience. I had fantastic teachers, role models, and my classmates were exceptional people down there. 
+
+You know, one of the things, when you go to school, like, a school like Dartmouth and Harvard, the people around you have a greater influence on you, almost, than your teachers.  Surrounded by, you know, really brilliant people who are motivated and, you know, interesting. And they’re all good models for us.</u>
+      <u who="NOPPENBERGER">Yeah.</u>
+      <u who="BRIEF">So when we came down to Harvard, there were 12 of us, and we kind of stuck together because we didn’t know our fellow classmates. They had been together for two years, so it was a little cliquey socially, but gradually we got absorbed into the class and made friends. And the medical school experience and living in Boston and being newly married—it was a very exciting time for us.</u>
+      <u who="NOPPENBERGER">Yeah, that does sound very, very exciting.
+
+You had children during this time, yes?</u>
+      <u who="BRIEF">Well, after—yeah, my wife became pregnant—I’m just trying to think—probably about six or seven months after we were married, and we had our first baby in 1956.</u>
+      <u who="NOPPENBERGER">While you were at Harvard?</u>
+      <u who="BRIEF">And then—that was before I graduated, actually, we had our first child, and then the second child was born in ’58, during my first year of residency.</u>
+      <u who="NOPPENBERGER">Oh, okay. And four children. You had four children when you were sent to Vietnam. Is that as many children as you ended up having? So did you—</u>
+      <u who="BRIEF">Yes. Yeah. By the time I got drafted, I was 34. That was 1967 already. I graduated medical school in ’57, so it was ten years later that I got drafted.</u>
+      <u who="NOPPENBERGER">Yes, I did read—</u>
+      <u who="BRIEF">My oldest child was 12, and my youngest was about two or three.</u>
+      <u who="NOPPENBERGER">Okay, sorry, I didn’t mean to jump ahead, actually. Let’s finish up at Harvard. Had you already decided that you would go into—being a surgeon?</u>
+      <u who="BRIEF">Yeah, I pretty well decided in my third year. It was while I was down at Harvard that I was influence more by the surgeons and my teachers, and I actually took an elective course in dog surgery. They offered it in those days. They wouldn’t do it now, but they offered the class, for 28 people, a six-week course, and we did some surgery on the animals. You know, they were survival cases, where we did sterile technique and anesthesia and prepared the animal, and the animal lasted through the entire program if you did the right operations and so on. So I had a chance to do surgery, and that convinced me that that was what I wanted to do. So I would say—</u>
+      <u who="NOPPENBERGER">You stuck with it.</u>
+      <u who="BRIEF">I made a definite decision around the middle of my third year of medical school to become a surgeon.</u>
+      <u who="NOPPENBERGER">And where did you do your residency?</u>
+      <u who="BRIEF">In Boston, at the Peter Bent Brigham Hospital [now part of Brigham and Women's Hospital]. It’s [unintelligible.]</u>
+      <u who="NOPPENBERGER">Is that where you ended up- —oh, okay, but that’s not where you ended up practicing, right?</u>
+      <u who="BRIEF">No. What we did in Boston, I did my training and stayed there for seven years. It was a rigorous training program and very competitive to get into it. They took six interns. There were about 250 applicants. And we had to take an exam and one thing and another, and oral exams, and then we competed—one thing led to another. Anyway, I was lucky enough to get that program, so—</u>
+      <u who="NOPPENBERGER">And that’s what led to you staying in Boston for those seven years?</u>
+      <u who="BRIEF">I stayed in Boston for my whole training period, and then I began to look around for things to do, and based on a lot of reasons, we came back to New Jersey, where both our families were from and where I had many friends, and I had a wonderful career opportunity in practice, to join a group of two surgeons, a father-and-son team, who I had met, who offered me a nice position. And what I thought was a great opportunity.
+
+
+
+I was interested in clinical work, primarily, at the time, and to stay in Boston I would have had to do laboratory research along with a very small amount of clinical surgery. That’s what they emphasized at the Brigham. And I thought my opportunities to do what I wanted to do were better—I was better suited to private practice rather than a totally academic career.
+
+
+
+It turned out a little differently, actually, once I came down.</u>
+      <u who="NOPPENBERGER">What happened once you came down?</u>
+      <u who="BRIEF">Well, I didn’t realize it completely when I took the opportunity, when I went into practice, I was at a teaching hospital with residents, and when I came back from Vietnam in 1969, we became affiliated with a medical school, and I became a teacher and a clinical professor anyway, in spite of myself. [Chuckles.] So I spent the rest—almost all my career teaching as well as doing my private practice. And I was a clinical professor at the medical school, in charge of academic training of residents and students and so on, so I got involved in academia. But I wasn’t involved in laboratory research; it was basically clinical area [unintelligible] still any better.</u>
+      <u who="NOPPENBERGER">Yeah, so you still did get to pursue what you were most passionate about. So what year did you move back to New Jersey? Just for a record.</u>
+      <u who="BRIEF">Nineteen sixty-four.</u>
+      <u who="NOPPENBERGER">Nineteen sixty-four. So by this time, are you hearing about Vietnam as that—you know, is it part of the national conversation? Is it something you’re even worried about?</u>
+      <u who="BRIEF">It still wasn’t really much in my radar screen, you know? I was already married with kids and in practice, and Vietnam was still—there was no real war going on. There was some involvement with some of the American Expeditionary [Forces]. You know, [President John F.] Kennedy sent some people in as advisories, but there really wasn’t a full-fledged war going on until probably around ’66, when we became more aware of what was happening. And I realized there was a chance, if I didn’t turn 35, that I might get drafted before 35. I knew that might happen.</u>
+      <u who="NOPPENBERGER">So the concern of being drafted was something that you had before actually being drafted.</u>
+      <u who="BRIEF">Well, yeah, about a year or two before, when things began to get active in ’67—late ’66, ’67. Yeah, I knew that it might happen.</u>
+      <u who="NOPPENBERGER">Did you know anybody who had been drafted?</u>
+      <u who="BRIEF">I began meeting some doctors who had been drafted or heard about them.</u>
+      <u who="NOPPENBERGER">Oh, okay.</u>
+      <u who="BRIEF">I knew it was happening. But I continued with my practice. I was very involved in starting up and working with the group. So I was busily engaged, so to speak.</u>
+      <u who="NOPPENBERGER">Did you think that being a doctor, having your skill set, made you more valuable, would give you—</u>
+      <u who="BRIEF">I didn’t think about it. That had nothing to do with who got drafted and who didn’t, at least—it had to do with your assignments once you were drafted, how you could be put to use by the military, but before you were drafted, you were just on a list, you know.</u>
+      <u who="NOPPENBERGER">Oh, okay, okay. So let’s talk about when you were actually—</u>
+      <u who="BRIEF">That had nothing to do with what your specialty was. I could have been a dermatologist. It wouldn’t have made any difference.</u>
+      <u who="NOPPENBERGER">Okay. So let’s talk about when you actually were drafted. Do you remember the day that you received—</u>
+      <u who="BRIEF">I remember it exactly.</u>
+      <u who="NOPPENBERGER">—letter?</u>
+      <u who="BRIEF">Well, what happened—</u>
+      <u who="NOPPENBERGER">Walk me through it, please.</u>
+      <u who="BRIEF">What happened was I—it so happens, that particular day my wife’s parents were going on a vacation, so I took them down to Newark Airport [now called Newark Liberty International Airport] to drop them off, and then I went back to my hospital, which was not far from the airport, to make rounds and take care of my patients. I was on call. And about 10 or 11 o’clock that morning, I got a page, and it was my wife saying, “Sit down. I have something awful to tell you.” So I figured the plane had crashed because I’d just taken her parents to the airport. And I sat down, and she said, “Guess what: You’ve been drafted.” She had opened the letter that came from the government. So I said, “Thank God!” [Chuckles.] Because I thought her parents were killed.</u>
+      <u who="NOPPENBERGER">Oh!</u>
+      <u who="BRIEF">It didn’t surprise me that I had gotten drafted it really. I, I figured it was coming, the way things were going. In ’67, things were getting worse, and they were needing more surgeons and calling up people left and right, so it didn’t surprise me—</u>
+      <u who="NOPPENBERGER">So were you the hospital and she called you, or did you go home to—</u>
+      <u who="BRIEF">I was at the hospital, and she called me. The mail came, and she saw the letter from the government. She knew what it might be because we’d talked about it. So she opened it and read it to me.</u>
+      <u who="NOPPENBERGER">So you talked about it before. Was it simply, like, hypothetical talk, or had you seriously considered—</u>
+      <u who="BRIEF">No, hypothetical. We hoped I wouldn’t get drafted. We were just crossing our fingers and hoping to get through it, but that’s what—</u>
+      <u who="NOPPENBERGER">So once you were drafted, what were the actions that you took to prepare your family for you being gone? How did you break it to your children?</u>
+      <u who="BRIEF">What I did right away, I figured, Well, maybe I can get myself some kind of assignment that wouldn’t separate me from my family and maybe bring some of my academic talents into use. So I made an appointment down in Washington[, D.C.] with the major who was in charge of making assignments for the surgeons, [unintelligible] specific. Now they have specific people involved in placing doctors so they can be of the most use. So I found out who was going to be making my assignment, my basic assignment.
+
+
+
+So I went down to Washington for the day, and I met with this nice major. He was a nice fellow. And we talked, and I told him what my situation was and that I thought maybe I could be of some use, you know, teaching in an academic center and this, that and the other.
+
+And he said, “Well, we have, you know, Regular Army guys who do that—you know, join the [U.S.] Army as residents to do it, and let me see what I can do for you.” So he came back. He said, “You know, I have just the thing for you.” I said, “What’s that?” He said, “You can come to Virginia, to the Army base in Virginia, with your family, and you can work in the Pentagon, and you can assign all of the medical disability forms for the guys coming home with vascular injuries.” I had a lot of vascular surgical experience. “You’d be expert at that, and you can stay there with your family and be together for the two years. And all you have to do is do these assignments of disabilities.”
+
+So I said, “Well, when do I do surgery? When do I do my clinical work in that two-year period?” He said, “You don’t have to do any clinical work. You can just be in the Pentagon for two years.” So I said, “Well, what’s my alternative?” He said, “Your alternative: We can give you a year as chief of general surgery at Fort Dix, at Walson Army Hospital, and you’ll be chief there for a year, and then you’ll probably spend a year in Vietnam as chief of general surgery at an evacuation hospital.” So I said, “I’ll take that.”</u>
+      <u who="NOPPENBERGER">Did you not—did you think about—</u>
+      <u who="BRIEF">Came home and told my wife, and she wasn’t angry with me. She said, “I knew you would do that.” [Chuckles.]</u>
+      <u who="NOPPENBERGER">Did you think about how, you know, going to Vietnam was much more dangerous? I mean, the threat of death—</u>
+      <u who="BRIEF">I didn’t think about that.</u>
+      <u who="NOPPENBERGER">—was much more real.</u>
+      <u who="BRIEF">I didn’t think about that. I thought that—it was a totally selfish decision on my part, but not altogether that in the sense I really—I don’t want to sound like a patriot, but I didn’t want to be useless, sitting in the Pentagon for two years, not doing any surgery. I thought I’d be miserable. I’d come out of it—I probably wouldn’t be able to do surgery anymore if I didn’t operate for two years. And I thought I’d make my family miserable. And I thought I could be of some value in Vietnam.
+
+By this time, I knew it was a stupid war and kids were getting shot and killed and maimed and everything else, and if I could at least give them good surgical care and get some of them home to their mothers, that was more important than sitting at a desk. I knew that at least we’d have one good year before it takes altogether. And a year over there, I thought I’d be some good.
+
+And I had always had some curiosity about what it would be like to be a surgeon in a military conflict. When I was training, all the attendings had been in Europe during World War II, and they used to talk about it, and we used to listen, and I always almost envied them about their experience, because it makes you a better surgeon. You come out of something like that pretty fearless.
+
+So I was not—I was not going to sit at a desk. There was no way I was going to do that.</u>
+      <u who="NOPPENBERGER">How did you break the news to your children?</u>
+      <u who="BRIEF">Just told them that I was in the Army and we’re going to go to Fort Dix and have adventure and we’re there for a year, and then I would go to Vietnam. My oldest girl understood. The other kids, I don’t think they—the family was intact. I mean, her mother was there. We had help. We had help from Sweden. Our parents were alive and lived within a couple of miles, and so they could support—the grandfathers were young and healthy in those days, relatively, and could act as surrogates for me. So I don’t think it impacted much on the kids at all.</u>
+      <u who="NOPPENBERGER">Okay. Did they ever express any worry, knowing that their father was going to war?</u>
+      <u who="BRIEF">I really don’t think so. My wife never let them feel that way, and I wasn’t going to—well, I’m not a combat surgeon. You know, doctors don’t often get killed in these situations, and I didn’t ever—it never occurred to me that I was going to be in any danger particularly.</u>
+      <u who="NOPPENBERGER">So can you tell me about the—</u>
+      <u who="BRIEF">And it was only one year.</u>
+      <u who="NOPPENBERGER">Great. One of your commitment.
+
+Can you tell me about the year at Fort Dix? Where is the fort, and when did you move there?</u>
+      <u who="BRIEF">Well, what happened: We moved—first, when you went in the Army, you spent six weeks down in Texas, so I had to go down there for six weeks for basic training. Don’t forget, we had no military experience, so they give the doctors a basic course in military things: how to dress, how to salute, how to march a platoon, and then also courses in military surgery, some academic courses and some training with a rifle and a gun and all that kind of stuff.</u>
+      <u who="NOPPENBERGER">Were you training with other doctors?</u>
+      <u who="BRIEF">We had to go through—we had to shoot a .45 [caliber weapon], and M16 [rifle]. They teach you some basics, just in case, I guess. So we learned all that stuff. And then after six weeks then my assignment to Fort Dix came through, of course, and I came, my wife visited me when I was down in San Antonio for a week or so. And then we came back. We moved down to Fort Dix. Actually, had very nice quarters, officers’ housing.</u>
+      <u who="NOPPENBERGER">Where is Fort Dix? Like which state?</u>
+      <u who="BRIEF">A ranch house. And I rented my house in Maplewood to a friend who needed some quarters for a while. He was in the middle of a divorce, with his kids. And he needed a house for a while, so he took my house in Maplewood, and we went down to Fort Dix. The Army moved us. And it was not difficult. They do a terrific job moving people. An Army move is better than any civilian move. They wrap everything, the glass, and they do everything.
+
+And so I went to Fort Dix, and I was chief of general surgery there, and I enjoyed it. It was living on a base. It was a really different experiences. And an officers’ club, where you go for dinner. Very nice at night. They had a lot of facilities for sports and athletics, a rifle range you could use all the time, and a skeet shooting range. And the kids had gyms and basketball. The children went to school. My kids went to school there, in elementary school near the base. And they had a golf course on the base. And I had a nice experience there, actually.</u>
+      <u who="NOPPENBERGER">I see.</u>
+      <u who="BRIEF">And we were busy. We had plenty of work. The base had 50,000 men. We must have done two or three appendix operations every night, almost, plus other things. Also they had a VA [Veterans Affairs] hospital for the retired military in the area, so we were quite busy. We had a clinic, and it was active. And we took care of a few veterans coming home from Vietnam, but not too many actually came to our place.</u>
+      <u who="NOPPENBERGER">What state is Fort Dix in?</u>
+      <u who="BRIEF">Fort Dix is in New Jersey.</u>
+      <u who="NOPPENBERGER">New Jersey still? Okay. </u>
+      <u who="BRIEF">Seventy miles from where we originally lived. Again, it wasn’t too—it wasn’t too difficult for us.
+
+I remember at that point—</u>
+      <u who="NOPPENBERGER">So just talking—</u>
+      <u who="BRIEF">—there began to be a lot of resentment about the war, and I can remember just an incident: We got to Fort Dix in October, late October, and at the end of November, my hospital that I’d been working at had the annual doctors’ dinner dance, and I was down at Fort Dix, and [unintelligible] said, “Let’s go to the dinner dance.” I was off. And I decided—I didn’t have a tuxedo. It was a formal. I wore my dress blues. Every surgeon—every officer had to have a dress uniform; it’s just normal. So I wore my dress blue uniform up to the party at a catering hall up here in New Jersey. And much to my disappointment, I was actually almost verbally abused by several of the doctors and wives at that function because they thought I was, you know, pro war, wearing the uniform, and everybody there was very much against Vietnam, of course. And because I was, you know, wearing the uniform proudly, I took a little bit of a beating. A little different than it is today.</u>
+      <u who="NOPPENBERGER">So how did that make you feel? I mean, were you at all—?</u>
+      <u who="BRIEF">I didn’t feel good about it at all. I was kind of angry. The fact that I wasn’t [unintelligible]</u>
+      <u who="NOPPENBERGER">Were you angry—</u>
+      <u who="BRIEF">I was angry the guys were abusing me, verbally abusing me.</u>
+      <u who="NOPPENBERGER">Oh, okay. Were you ever upset that you were forced to be involved with this war that you didn’t necessarily support?</u>
+      <u who="BRIEF">No. I tell you the truth, I told you I didn’t—it was a bad war. But the boys who were fighting it weren’t bad. They were forced to be there. And that’s all the more reason that they get good care.</u>
+      <u who="NOPPENBERGER">That is a great point.</u>
+      <u who="BRIEF">I mean, I. And I just—I had the ability and the skills to help them, and if they were fighting in something that was particularly difficult and bad and I could do something to help them, I didn’t feel bad about being there, no. And it was an adventure. I mean, it was a very exciting thing to be part of all that.</u>
+      <u who="NOPPENBERGER">Yeah.</u>
+      <u who="BRIEF">I wasn’t happy with our mission, but I was happy to be able to help the boys.</u>
+      <u who="NOPPENBERGER">Were you ever—okay, so when you were back in San Antonio for your training, were you with other doctors, or were you with younger men who had been drafted—</u>
+      <u who="BRIEF">Doctors.</u>
+      <u who="NOPPENBERGER">Oh, so it was all—what was the age range? I mean, of course, to be a doctor you’re already mid 20s, but up—</u>
+      <u who="BRIEF">The range went up to—nobody was older than 34, 34 and a half. And some, of course, were younger, just out of internships. Would have made them 28, 27, some of the people that came in. But a lot of them were like myself, people who got pulled in just before they turned 35. In my group, they were between 30 and 35, most of them.</u>
+      <u who="NOPPENBERGER">Wow. Was there any sort of camaraderie around that, kind of being drafted in right at the last minute?</u>
+      <u who="BRIEF">Yeah, we made some friends —but, you know, I tell you the truth, I don’t—I didn’t maintain friendships with any of the people when I was at Fort Sam Houston because we were only there six weeks and we were from all different parts, and there were all different disciplines, and everybody went every which way after that, so I—</u>
+      <u who="NOPPENBERGER">Did you see any of them in Vietnam?</u>
+      <u who="BRIEF">No, Vietnam is different. I’m talking about Fort Sam.</u>
+      <u who="NOPPENBERGER">So did you see any of the people you trained with then?</u>
+      <u who="BRIEF">Then I went back to Walson Army Hospital. And the people I was with there weren’t necessarily the people I went over to Vietnam with. It turned out that I wasn’t Fort Dix for a year, as things got back in Vietnam, and we were only in Fort Dix from November till—I actually had to leave May first. So I only wound up being there about six months when I got sent to Vietnam, because that was—by that time, it was 1968, and [the] Tet [Offensive] had come, and it was a very bad time, and they needed more surgeons, so my time at Fort Dix was cut short, and I moved my family back to Maplewood, and I went over to Vietnam. And May 1st—</u>
+      <u who="NOPPENBERGER">So—can you tell me about, you know, moving to Vietnam? You flew, I’m assuming. Do you remember anything about that flight?</u>
+      <u who="BRIEF">Oh, yeah. You know, it’s like—did you ever see the movie, Dr. Zhivago or read the book?</u>
+      <u who="NOPPENBERGER">Yes, yes, yes.</u>
+      <u who="BRIEF">Well, you know how the doctor was caught up in the forces of history. He was conscripted by the communists to be their doctor. He was taken from his family. His whole life was dislocated, you know. You sort of remember that feeling about it? Maybe you don’t. But anyway—</u>
+      <u who="NOPPENBERGER">I remember—yeah.</u>
+      <u who="BRIEF">So when I went over to Vietnam, my father-in-law drove me to Newark Airport, and I got on the plane. I went to San Francisco, where I was bused up to Travis Air Force Base, and a few hours later I got on a plane with 200-and-some other guys, not all doctors, mostly enlisted men, and it was a United [Airlines] flight charter, and we flew to Hawaii, to Guam, to Midway [Atoll]. We made stops because the plane needed to refuel, it was so full. And ultimately Okinawa. And then into Vietnam, landing about one o’clock in the afternoon. So within the 24-hour period, I went from being with my family at a goodbye party to being in the middle of this war. And it was kind of a dislocating experience, to tell you the truth. 
+
+
+
+And when I got off the plane at one o’clock in the afternoon, it was exceedingly hot, 95 degrees, like today here, 95 degrees, 95 [percent] humidity. And that’s the way it was pretty much all the time in the South. And there was the smell of burning rubber, burnt-out latrines and burning rubber tires. And I said to myself, I don’t know how the hell I’m gonna last a year here, in this godforsaken environment.
+
+Then I went from there to the replacement company, where you stayed till you got your assignment in Vietnam. The first night in the replacement company, after dinner they had a movie, and I figured I’ll walk into the movie. And it was The Sound of Music, and I walked in in the part where the kids jump into bed with [Julia E.] “Julie” Andrews—</u>
+      <u who="NOPPENBERGER">Oh, yeah, yeah?</u>
+      <u who="BRIEF">—because of a thunderstorm, you know? And she sang that song to them, and the kids were jumping around in the bed. You know, they, having been bathed and cleaned, and I swear I could smell my children, you know? And at that point, I cried. [Laughs.] I can still remember how I felt. All of a sudden, I missed everybody terribly. What a stupid thing this is, to be here in this mess, you know?
+
+And then I got my assignment and went to hospital, which— and met my people and everything, and then it became a terrific experience. I made some very good friends—</u>
+      <u who="NOPPENBERGER">Can you—</u>
+      <u who="BRIEF">Still friends with. And, of course, worked hard during that year and spent a year there. And at the end of four months, I got a leave to go up to—actually, I took some casualties up to Tokyo. They had to be accompanied. And I met my wife in Tokyo for a week. She came over.</u>
+      <u who="NOPPENBERGER">Oh, that’s lovely.</u>
+      <u who="BRIEF">I had the money, having been doctor for three years, to bring her to Tokyo, so she came over, and we had a nice week together. And that was four months. And after eight months, I had R&amp;amp;R [rest and recuperation] and met my family in Hawaii, with the kids and everything. So I was only apart—</u>
+      <u who="NOPPENBERGER">That’s a really nice—</u>
+      <u who="BRIEF">Yeah, I was only apart from her four months at a time, four months, eight months, and then I came home at twelve months. It wasn’t terrible, really. We got along okay with it. Our marriage held up.</u>
+      <u who="NOPPENBERGER">Can I—</u>
+      <u who="BRIEF">Okay, it wasn’t a good place to be if you had a rocky marriage. I think the year separation and everything else affected a lot of marriages, but ours was a good one, and we were fine with it.,</u>
+      <u who="NOPPENBERGER">That’s so nice to hear, and I’m glad that you had those great breaks to catch up with your family.
+
+Can you just state for the record what hospital and location you were stationed at during your time at Vietnam?</u>
+      <u who="BRIEF">Yeah, I was at the 24th Evacuation Hospital in a place called Long Binh, L-o-n-g B-i-n-h, which was near the town of Bien Hoa and about 18 miles north of Saigon on Route 1 out of Saigon. That’s where I was stationed. It was a big base. It was the biggest base in Vietnam. At the time I was there, it was approximately 50,000 men. It was like a city. It was a rubber plantation that had been appropriated and paying rent to a family, and they built the base on it. 
+
+And it was like a city. It was a seven-mile triangle. Each leg of the equilateral triangle was seven miles, and somewhat fortified with barbed wire and stuff. And within it was a city. There were roads and Chinese restaurants, a barber shop, living quarters, office buildings. All made of wood, quickly. Most of the buildings were Quonset huts—you know, large Quonset huts, and the hospital was put together on one arm, one leg of the triangle.
+
+We actually—the base was big enough. We had two hospital, two evacuation hospitals at two different points of the equilateral triangle. And the 24th Evac was one, and that was where I was.
+
+And it was like being in the city, where you have a hospital down in Lower Manhattan and then you have another one up by Columbia [University] in Upper Manhattan. We were that far apart, so we didn’t have that much to do with one another. The casualties came in different directions, and so—</u>
+      <u who="NOPPENBERGER">You mentioned—yeah, you mentioned in your—the information that you provided Dartmouth Vietnam Project [the Dartmouth Vietnam Project] that you were seeing American soldiers, American civilians, Vietnamese civilians or Vietnamese people as well? What was this like to have people from both sides coming into your hospital?</u>
+      <u who="BRIEF">We also—the prison hospital was right next to ours. When prisoners were wounded, we took care of them as well. We didn’t take care of that many civilians, but we did take care of some civilian casualties. And we also did some elective surgery on civilians when things were quiet, which they are frequently during the war, where you have these periods of boredom, where nothing seems to be happening. 
+
+And we used to go out to some of the local villages and set up clinics and meet the people and win the hearts and minds, so called, and get some information, intelligence people. We would meanwhile examine some of the patients from [unintelligible]. And once in a while, we’d find somebody with some pathology, like a big thyroid gland or a palpable gall bladder or a hernia, and when things were quiet, we would bring them back, let them come in, and we would operate on them.
+
+But most of our—99 percent of our work was, of course, on our own soldiers. But we did take care of locals persons. We operated on—there were Australians fighting in the war, there were Filipino regiments, there were Republic of Korean regiments, there were Thai soldiers in Vietnam. They were called the SEATO, the Southeast—I guess it was the Southeast Asia Treaty Organization. But there were representatives from all those different countries fighting in Vietnam. We don’t appreciate that over here because we did the bulk of it, but there were units from those different places.</u>
+      <u who="NOPPENBERGER">During those quiet times, what would you do when you weren’t in surgery, recreation wise?</u>
+      <u who="BRIEF">Well, you know, when you’re at your base, there’s not a lot you do. You don’t go gallivanting around the country, looking for trouble, so for the most part, we stayed put. We rested between times. We had a schedule, where every third—one  day we were on 24-hour call; the next day after that, we were off call (except to take care of our own patients); and then the third day we were on call, so to speak. And then if things got busy, everybody worked. But on a day-to-day basis, usually we had three men on call, three men on second call, and then three men off, three surgeons. And then we rotated. But, like I said, there were six or seven or eight times when we were all working for 24, 36 hours at a stretch, and then it would be quiet, and we’d go back to our routine. But when we were off call, we would write letters and read books and relax, play bridge. 
+
+There was a swimming pool on the base. We would go to one of the villages-- We’d go out on a mission to one of the villages on the days we were off call. The guys who were on call stayed home, but we would go out with a group of MP [military police] soldiers and nurses and have—those were our days off. Sometimes we’d go up by the river boats
+
+And on the rare occasion, during the day, we could go down to Saigon and visit down there some friends in the 3rd Field [Hospital] and go to a restaurant or something like that. But we never stayed out at night. The roads were not safe at night. If we went down, we’d come back by three, four o’clock in the afternoon.</u>
+      <u who="NOPPENBERGER">Did you ever feel unsafe? Besides being out at night, just being in Vietnam, in Long Binh, did you ever feel like the threat of war was coming towards you or that there would ever be any danger of seeing combat?</u>
+      <u who="BRIEF">A couple of times. It didn’t happen very often, but there were a few times when there were some incoming rockets, things like that, you know. And once when I was evacuating some casualties—the night I was to meet my wife, I had three casualties and [had to] take them to the Tan Son Nhut Air Force Base [sic; Tan Son Nhut Air Base] to a company up in Japan. There were burns. We couldn’t take care of bad burns, and they needed a doctor with them to take care of their IV [intravenous] fluids and so on because of the need for fluid in the airplane. If they get dehydrated, the humidity is only 25 percent in an airplane, 30 percent in those military planes, so they can lose a lot of fluid, so you had to run IVs and keep [sic] sure everything was all right with them.
+
+And the day I evacuated these three casualties, a helicopter came to pick us up around four in the morning, and we got on the helicopter with them, and the helicopter took up straight up, like an elevator, going up and up and up. So I asked the pilot why was he doing—they usually take off sort of like an airplane. You’ve probably seen them. You know, they kind of swoop up. He said, “No, I want to get to 3,500 feet before we leave the confines of the base” because the small arms fire—that’s all they had, small arms fire from the AK-47s—only goes to about 3,000 feet. So I said, “Oh, that’s good.”
+
+So we got up to 3,500 feet and started flying down to Ton Son Nhut. It only took about ten minutes. And I see these lights coming up at us. I said, “Are those what I think they are?” He said, “Yeah, they’re tracing their bullets. They’re shooting at us.” But the bullets would come up and fall away because we were at 3,500 feet. But we did catch that a little bit. That was a little scary at that point, but he knew what he was doing, so—
+
+I had a lot of confidence in the career military people around me. For the most part, they were very sensible people and knew the ropes.</u>
+      <u who="NOPPENBERGER">So where—</u>
+      <u who="BRIEF">The day before I was to come home, my last day and last night in Vietnam, they had a party for me, my friends, one thing and another. And then I went down to take a shower, and I was walking back on the duckboards to my quarters—you know— there the showers and latrines. The officers’ showers and latrines were about 50 yards from where we slept, and so I was walking back with a towel wrapped around me, and all of a sudden I saw a flash of light overhead, so I landed on the duckboard. I got down real fast. They taught [us] to do that. And the shell exploded about 75  yards away. And I waited a few minutes. That was the end of that, so I got up and went back and took another shower and then went back to bed and came home the next day-.</u>
+      <u who="NOPPENBERGER">Wow.
+
+So what were some of the—</u>
+      <u who="BRIEF">That was really the only time—I really felt very secure almost 99 percent of the time. I really did.</u>
+      <u who="NOPPENBERGER">So that is—that’s very interesting to hear. Was the base—would you call it Americanized? Were most of the people you were interacting with American?</u>
+      <u who="BRIEF">Yeah, but we had—we did meet Vietnamese people during the course of the year, some of whom spoke English, so there was some contact with the people other than American. But, again, almost all my contact was with the military. Very little outside contact. Certainly we made friends with—actually, did you ever—if you’re interested, if you read a book, A Bright and Shining Lie [sic; A Bright Shining Lie: John Paul Vann and America in Vietnam], A Bright and Shining Lie.</u>
+      <u who="NOPPENBERGER">A Bright and Shining Lie.</u>
+      <u who="BRIEF">By [Cornelius M.] “Neil” Sheehan. It’s a very good book about Vietnam, and in it he mentions that Mr. Moui (pronounced MOO-ee), from whose family we rented the base from. He was a wealthy Vietnamese man who was a kind of this village lord. And we used to go to his village, and his wife would cook us dinners before we came back to the base, and so I got to know him pretty well. He was an influential Vietnamese guy, kind of a double agent. And he paid the Viet Cong to stay away from his village. And then he gave us information about them, and he played both ends against the middle. But he’s written up in the book. And I actually operated on him. He had a bleeding ulcer one night, and we had to stop his bleeding and do an ulcer operation, so—he was one of the.</u>
+      <u who="NOPPENBERGER">Wow. Let’s talk about the—</u>
+      <u who="BRIEF">He and his wife were two of the people we got a little closer to the people in the village.</u>
+      <u who="NOPPENBERGER">Let’s talk about the surgeries. First of all, what was your official position at the hospital?</u>
+      <u who="BRIEF">I was chief of general surgery.</u>
+      <u who="NOPPENBERGER">Okay. And what were the most common procedures that you were seeing, either on a daily basis or just regularly?</u>
+      <u who="BRIEF">Well, in a military situation what you’re seeing are wounded soldiers, with either, for the most part, fragment wounds from exploding grenades and things of that sort, Claymore mines, fragment shrapnel wounds, and, of course, bullet wounds, and occasionally mine—you know, explosives devices. But for the most part, you saw a combination of fragment wounds and bullet wounds.</u>
+      <u who="NOPPENBERGER">Were there a lot—</u>
+      <u who="BRIEF">[Unintelligible]. They’re like Punji sticks and occasionally things like that.</u>
+      <u who="NOPPENBERGER">Was the hospital well equipped to handle these kind of injuries? I mean, of course they would do okay—</u>
+      <u who="BRIEF">Yeah, it was a fantastic hospital–It was fantastic because, unless some civilian hospitals, we had all the help we needed. We were well staffed with auxiliary help, aides, technicians, cleaning people, nurses and the care of the—</u>
+      <u who="NOPPENBERGER">How were the facilities?</u>
+      <u who="BRIEF">The facilities were good. I mean, it’s amazing what you can do with what appears to be a small hospital, but we could do everything. We had all the equipment we needed in the operating room, wonderful instruments. Anything we needed, we got. And the supply people [unintelligible] suture material, instruments. We had one x-ray machine, so we had an x-ray machine. We had a laboratory where we’d get pretty much what any laboratory data we needed. 
+
+We had adequate amounts of blood. Every soldier who came to Vietnam, as soon as he got off the plane, donated a unit of blood, so there was a lot of fresh blood available if we needed it. And the facilities were quite good. They were makeshift to some degree and, you know, no private rooms. A ward was a big Quonset huts with, you know, cots lined up close to one another. But for the boys to be taken care of, they were comfortable.
+
+
+
+And we had approximately 12 operating rooms, or areas. They were not like rooms; they were stalls. In other words, the Quonset hut was divided up by room dividers that went halfway up, so we each had a separate sort of private compartment so you weren’t distracted, everybody operating in the same room. You had your own areas, and it was very adequate.
+
+We had all sterile conditions, with plenty of [unintelligible] and good anesthesiologists, and I really can’t say enough about the medical corps, the Army medical corps in terms of what they provided us with. We really had—</u>
+      <u who="NOPPENBERGER">Like, I mean, that’s really great to hear, that there was that—that medical treatment available.
+
+Do any either procedures or incidents from your time at Long Binh stick out, whether they affected you—you know, challenged you medically to step up to the challenge?</u>
+      <u who="BRIEF">Oh, yeah. Well, like so many, I really can’t—I really can’t go into all of them. I don’t know if you want to hear one or two.</u>
+      <u who="NOPPENBERGER">Oh, that would be great. That would be great. Please.</u>
+      <u who="BRIEF">I’ll tell you two, tell you two, two of my more favorite ones because I have follow-ups on them, but one of the cases was a boy who was terribly injured. Came in. A captain. His group was ambushed. And he came in, just a mess. His one leg was almost blown off. He had fragment wounds of the abdomen and neck, a fragment in his eye, and he had a skull injury and head injury.
+
+And so we started, general surgeons. We had to do what was life saving first, so we stopped the bleeding and opened his abdomen to fix him up internally, where he had several holes in his bowel. And then we amputated his leg and then fixed the bleeding vessels in his neck, which had been contained by the hematoma first. And then the eye doctors took out one eye and took the fragments out of the other. We didn’t know if he would see again. And then the neurosurgeons took the bone fragments out of his head and everything else.
+
+And he stabilized and did fairly well, and we didn’t know quite what he was going to be like, and we evacuated him to Japan after several days, and he was stable. And about six weeks later, I got a letter from a general, thanking me for leading the team that took care of his son. He was a West Point graduate and a captain, and the father was a general, and he wrote me this nice letter, thanking me. And I never heard from the kid again.
+
+Now, 25 years later, when I got home in 1994, we had a reunion of my hospital, the 24th Evac, in Washington, D.C., and we had several hundred people come back: doctors, nurses and patients. I don’t know how they put it all together and got all these people. And everybody got up and gave a talk a little bit and told what they were—how they were involved in the hospital, whether a patient and what’s going on with their lives.
+
+And this nice-looking guy comes up with a little bit of a limp. Tells us he’s married. He’s got four children. He runs an HMO [health maintenance organization] in Virginia. And it turns out he was the guy that I operated on.</u>
+      <u who="NOPPENBERGER">Wow.</u>
+      <u who="BRIEF">And I went up to him afterwards, of course, and he remembered my name. We went to the Wall—actually, the Vietnamese Memorial Wall [sic; Vietnam Veterans Memorial]—as a group, and we’re standing there, and it’s arranged by dates of death, not alphabetically, so he’s looking at February of 1969, when his group came in, and he said, “You know, these are my men. These are guys who were with me, who were all killed, and it would have been me, too, if it wasn’t for you guys.” And he started to cry, I started to cry and my wife started to cry. It was pretty moving, but here he was, leading a relatively normal life after that devastating injury, which again shows that when you  have these young people, if you give them good care and save them, it’s more than worthwhile. I can’t—it’s probably more rewarding, in some respects, than a lot of the stuff I do—I did during my career. I was operating on 85-year-old demented people with a surgical problem and having to take care of them and what for? You know. And what’s ahead of them? Compared to these young people.
+
+And then I had another case, which was—I won’t bore you with any more cases, but—</u>
+      <u who="NOPPENBERGER">No, no, no. No, please, this is—this is great.</u>
+      <u who="BRIEF">One of my more interesting cases was—they brought in a Vietnamese woman, pregnant, near term, with a gunshot wound to her left upper quadrant. The Cong had come into the village and for some reason—I think because her husband was in the South Vietnamese Army, they knew—and they shot her. And she came in in shock. We had to rush her to the operating room. I could hear fetal heart sounds, and from the location of the bullet and x-ray showing where the bullet was, high in the abdomen, I knew the fetus was all right.
+
+And we opened her up, and I couldn’t see anything because the uterus was so big, and there was blood all around the uterus, and I figured the spleen was ruptured. And in order to expose it, I did a Caesarian section and delivered this eight-and-a-half-pound baby girl. She was almost a full-term baby. Gave her up to the nurse as the uterus contracted, and I could see what was going on, and then I took the spleen out and fixed the holes in her stomach and sewed her up.
+
+And the baby—of course, the nurses—we had no equipment for babies there, so the nurses made a little bassinette out of, you know, a set of drawers with linen in it, and we sent down to Saigon and got sterile water and Similac. These were little things for babies. And we started to take care of the baby.
+
+And the mother did fine. She recovered. And about the fifth or sixth day, she’s ready to go home, so we were going to give her the baby, and one of the cleaning ladies—these Vietnamese cleaning ladies for the Army paid to work came up to the nurse and said, “Don’t send her home with the baby. She doesn’t want it. She’s not going to take care of it. She may dump it in the river.” It’s a girl. Bad luck, the whole business. Very ignorant people, and that was their thoughts about it.
+
+
+
+So we told her to “go home. We’ll take care of the baby.” So she goes home. She never—couldn’t care less about the baby.</u>
+      <u who="NOPPENBERGER">Wow.</u>
+      <u who="BRIEF">Now we’ve got this baby girl in our hospital, so we start taking care of her. The nurses take care of her, and she’s growing—and giving her bottles. She was like a mascot. We kept her in the ICU [intensive care unit] because we always had nurses there. And a lot of us had kids and whatnot, so we would go down and play with the baby once in a while and give it a bottle and give the nurses a break. 
+
+And then we got some more equipment, got a playpen, we got a baby carriage, so we figured—outside and take her for a walk. And they named her Barbara. She was a cute little baby. And she was there with us for six months. Do you believe that?</u>
+      <u who="NOPPENBERGER">That’s amazing.</u>
+      <u who="BRIEF">In the middle of this war. And we had a sergeant who ran the operating room, a technical sergeant, a career Army guy, by the name of Rodriguez who had a family home in Seattle, Washington. And he said, “You know, I’m gonna adopt her.” So we said, “How are you going to adopt?” He said, “Never mind. I’m gonna adopt her. I don’t know how to do it.” he went down to Saigon for a day or two, came back with all the papers and took Barbara home.
+
+And we had this reunion again. I told you about the 25th reunion—</u>
+      <u who="NOPPENBERGER">Yeah.</u>
+      <u who="BRIEF">—in Washington. All of a sudden, this girl gets up with a baby under her arm. She said, “I’m Barbara Rodriguez, and I was born in your hospital.”</u>
+      <u who="NOPPENBERGER">Oh my gosh.</u>
+      <u who="BRIEF">“I’m in a law office now, having just graduated law school, and this is my baby. I’m married.” And she said, “I think I’m the only baby that was ever born at the 24th Evac Hospital.” And I had delivered her, so afterwards, of course, I went up to her and gave her a hug and a kiss and told her who I was. So that was a kind of a meaningful reunion as well, a good long-term follow-up.</u>
+      <u who="NOPPENBERGER">Yeah, this is amazing.</u>
+      <u who="BRIEF">Yeah, that was one of my better stories. In the middle of the war I was doing a Caesarian section. It’s the only one I ever did. I wasn’t a gynecologist. [Laughs.] But it was a difficult operation, actually, as it went on. It was interesting.
+
+And then a couple of years ago, I got a letter from her father, e-mail from Rodriguez. He had moved to Denver, where my older daughter lives now, actually, and wanted to know more details about the operation. He was writing a little story about it. And I actually have a picture of me holding the baby, a nice picture. I give a lecture to the students, and I usually end the lecture with this particular case. It was pretty dramatic. And the girls all cry and whatnot, so—[Both chuckle.] I show them the picture.
+
+And he wanted to know all about the details. And worse yet, to put a caption on the end of the story, a month or so ago I got a note from one of my good friends, who said that Barbara had died.</u>
+      <u who="NOPPENBERGER">Oh, my goodness. What causes?</u>
+      <u who="BRIEF">We don’t know. I don’t know. I couldn't find out. I wrote her father a condolence note, and Rodriguez a note, but I never found out what she died of. She passed away, apparently, relatively young. I calculated out she had to be—she was born in ’68, and so she died this year, so how old would that make her, about 47 or so. I don’t know what she, if she had cancer or what, but she died.</u>
+      <u who="NOPPENBERGER">Mm-hm, mm-hm.</u>
+      <u who="BRIEF">So anyway, that’s—that was one of my more dramatic, non-military type injuries, anyway.</u>
+      <u who="NOPPENBERGER">Mm-hm. </u>
+      <u who="BRIEF">Military case, but to a pregnant woman.</u>
+      <u who="NOPPENBERGER">Yeah. It’s amazing that you had the follow-up, too. I’d love to talk about the reunion later, if we can just finish up talking about your time in Vietnam. Please don’t worry about boring me, because this is amazing to hear from—you know, as someone who was not around to experience anything like that. But do you have any, you know, cases that really just stuck with you, that maybe—</u>
+      <u who="BRIEF">Those are the—those are more dramatic. I’d rather not go into all of the other details. I mean, there were so many operations, and we participated— I was interested in vascular surgery in those days, and we kept a file on our vascular cases. Dr. Norman [M.] Rich, who was the head of surgery at the Armed Forces Medical School [sic; F. Edward Hébert Medical School] in Washington, started a vascular registry, and we contributed over 300 vascular injuries to it which we kept a record of, and he’s written a book about it, on vascular injuries and so on. Three hundred of those cases are from my hospital, many of which I operated on, which were, you know, injuries to arteries that had to be repaired and how to do it and so on.
+
+I actually wrote about four papers that were published in the literature during the time I was there, with our experience in managing carotid artery injuries. There was one paper I wrote with current [unintelligible]. I wrote another paper on the management of hepatic artery injuries associated with fractures with a surgeon by the name of [J. Judson] “Judd” McNamara. Wrote another paper on rectal injuries. So I think I probably published about four papers in the literature out of that experience.
+
+We didn’t waste our time. We had eight or nine really good surgeons. We had a morbidity and mortality conference every week that I ran. And I got promoted to be a lieutenant colonel, actually. I went in as a major.</u>
+      <u who="NOPPENBERGER">Oh.</u>
+      <u who="BRIEF">Got promoted to lieutenant colonel.</u>
+      <u who="NOPPENBERGER">Yeah, let’s talk about the promotion. Did it come out of a certain event or was it just your leadership being recognized? What incited the promotion?</u>
+      <u who="BRIEF">No, it was a combination of age and experience.</u>
+      <u who="NOPPENBERGER">Oh.</u>
+      <u who="BRIEF">Once in the Army, you get promoted kind of automatically as you reach certain ages. And for doctors, it has to do with the time out of school and so on and so forth. I was older when I went in. I was almost 35 when I went in, so I went in as a major, and then when I turned 36 and was there, they gave me an in-the-field promotion. I’m not sure why, but a combination of things.</u>
+      <u who="NOPPENBERGER">Oh. Let’s talk about promotions. And you wrote that you received the Bronze Star?</u>
+      <u who="BRIEF">Yeah, I did get the Bronze Star.</u>
+      <u who="NOPPENBERGER">Was that for a certain instance, or was it, again,—</u>
+      <u who="BRIEF">I don’t know. When they write the report about it, they query about bunch of stuff like your leadership and bravery under—I guess one time, I was operating, and in the middle of the operation there was this huge explosion, and the doors to the operating room blew open, and I look up, and I’m in the middle of this operation, and everybody’s on the floor. My assistant’s on the floor. The anesthesiologist was on the other [unintelligible]. I said, “Get the f*** up and get yourself cleaned up. We gotta operate on this guy.” I mean, I heard the explosion. I knew it was the ammunition dump and not us, so that was far away. I wasn’t concerned. But everybody else flopped on the floor. So I guess the gave me a medal for valor. I don’t know. [Laughs.]</u>
+      <u who="NOPPENBERGER">[Laughs.] Well, those are a few—</u>
+      <u who="BRIEF">It wasn’t [unintelligible] for the patient. They all got contaminated. They had to go out and wash up and get new gowns and gloves and stuff. But meanwhile I was operating, so—</u>
+      <u who="NOPPENBERGER">Well, it’s great to hear that you had that commitment even in the line of fire, as close or far as it was.
+
+So you’re in Long Binh for a combination of a year?</u>
+      <u who="BRIEF">Yeah, a full year, calendar year. I went home May first—</u>
+      <u who="NOPPENBERGER">Yeah.</u>
+      <u who="BRIEF">—of ’69. Then I had approximately four more months left in the Army, and I was sent to Fort Monmouth, Patterson Army Hospital,—</u>
+      <u who="NOPPENBERGER">Where was that?</u>
+      <u who="BRIEF">—which is near home. It’s in Monmouth Beach, New Jersey. And they let me stay close to home. By that time, I didn’t have to move anymore. My family was back in our house, and I actually was able to commute on my nights off to my own house. It was only, you know, 40 miles away. And I had officers’ quarters in my nights on. I didn’t bother to move my family for that four-month period, so I finished up there. 
+
+That experience there—I’m just putting my time in. It wasn’t that busy a hospital.</u>
+      <u who="NOPPENBERGER">Mm-hm. What was it like coming—</u>
+      <u who="BRIEF">[Unintelligible] bases and some things to do, but it wasn’t—by that time, I was kind of winding down and looking forward to getting out of the Army and getting back to my practice.</u>
+      <u who="NOPPENBERGER">Mmm. Yeah. Can you tell me what it was like coming home? I mean, you mentioned that you’d been to Hawaii, Japan. You’d seen your family a few times, so this wasn’t a complete, you know, “I haven’t seen you in a year” type of reunion. But, I mean, you are coming back to the United States. What was that experience like?</u>
+      <u who="BRIEF">Oh, it was wonderful. It was a terrific experience, to know I  was coming—listen, I’ve got to take a bathroom call. Can I just hold on for a minute?</u>
+      <u who="NOPPENBERGER">No problem. I will be here.</u>
+      <u who="BRIEF">Stay on. I won’t sign off. I’ll be right back.</u>
+      <u who="NOPPENBERGER">Okay, sounds good.
+
+[Recording interruption.]</u>
+      <u who="BRIEF">Okay, right there. Hi, there.</u>
+      <u who="NOPPENBERGER">Hi. I am still here. We are—</u>
+      <u who="BRIEF">I’m sorry, I had to take a break here. My prostate is [unintelligible] me. [Laughs.]</u>
+      <u who="NOPPENBERGER">Oh, my goodness! No worries. You should have let me know. We can take breaks whenever you need.</u>
+      <u who="BRIEF">Oh no, that’s okay—</u>
+      <u who="NOPPENBERGER">Okay. Glad to have you back.
+
+We were talking about you coming back to America and what that experience was like, returning to the States.</u>
+      <u who="BRIEF">Well, it was wonderful. As I say, the night before I left, they gave—my friends who were living, you know, most of the time over there—they gave me a nice party. And I said goodbye to them, some of whom, of course, I’ve seen many times since. And came home. And flew home and got into San Francisco, and I still—one of my favorite songs, “I Left My Heart in San Francisco,” because that was the closest part of the United—you know, to Vietnam, of the United States.
+
+And we got to the airport there, and I had to spend part of the night, till I could catch the red-eye home. And arrived home, and there was kind of a welcome home little party for me, and it was wonderful to get home and see my wife.</u>
+      <u who="NOPPENBERGER">Yeah. Did your kids at this point—I mean, they were really only a year older. Had it really ever hit them that their dad was in Vietnam? Did you ever sense that—</u>
+      <u who="BRIEF">I don’t know. I can’t say how they—individual—one must ask each one of them individually what it meant to each of them. You know, they don’t talk much about it. I think some of them might say there were times when they had some anxiety. I had three girls and a son. I think my son missed me.
+
+I remember when we came to Hawaii, my family got there first, ahead of me, and they were waiting when the soldiers landed for their R&amp;amp;R. They got on buses, and the buses came to a drop-off point, and there were, like, four buses full of soldiers coming back for R&amp;amp;R. And for some reason, I had gotten on one of the buses first and went to the back. And so my family was waiting for me, and that bus became the last bus. My son was about four years old, and so he was waiting, you know, for me to get off. And apparently the first bus emptied out, and the second bus emptied out, and no me, you know. The third bus emptied out, and still—I’m in the fourth bus. Emptied out, and all the soldiers were getting out, and he still hadn’t seen me, and he was starting to cry. He thought I wasn’t coming or something. And then I came off the bus, and, of course, everybody was happy. It just happened that way. It wasn’t—just a chance thing.
+
+But anyway, we had a great time together. And I don’t think it affected them too badly. There were a couple of dramas with the kids, you know, that we had to handle them, you know, by mail or by telephone or something once in a while. But my son broke his leg during the time I was there, in a bicycle accident, but it wasn’t too serious, and it healed up nice and quick.</u>
+      <u who="NOPPENBERGER">So you’re back in the United States. This is 1969.</u>
+      <u who="BRIEF">Yeah, May 1st .</u>
+      <u who="NOPPENBERGER">May 1st, 1969. You mentioned earlier how some nasty remarks were made towards you when you were wearing your uniform. Did you ever experience anything like that again on your return, either remarks or hostility towards you because of your involvement with the war?</u>
+      <u who="BRIEF">Oh, no, not really—more, because, don’t forget, I was out of uniform, and I was operating, and people—I mean, most people wouldn't have known I was there, you know?</u>
+      <u who="NOPPENBERGER">Yeah.</u>
+      <u who="BRIEF">The average—there were a couple of articles in the paper, you know, during the time. People interviewed me. And I became a local expert on trauma for a while. So the doctors wanted to hear more about it from a medical point of view, not from a political point of view.</u>
+      <u who="NOPPENBERGER">Great.</u>
+      <u who="BRIEF">It was not quite the same. There was certainly no, you know, big welcome or anything like that. It wasn’t—except for my family, you know.</u>
+      <u who="NOPPENBERGER">Yeah. So what was it like—</u>
+      <u who="BRIEF">So you sort of took it in stride and didn’t think too much of it after that.</u>
+      <u who="NOPPENBERGER">Yeah. What was it like seeing the war—I mean, I guess the only phrase I can think of is “wrap up” while being in the States, not in the Army any longer but still knowing what it had been like over there?</u>
+      <u who="BRIEF">Oh, yeah. Well, I had a lot of thoughts about it.</u>
+      <u who="NOPPENBERGER">Yeah. I’d love to hear them.</u>
+      <u who="BRIEF">And I thought—you know, I thought—I wasn’t so sure then. I really—now we’re getting political. When I was over there, I didn’t think everything we were doing was necessarily bad. I thought, you know, that communism was bad, that the people in the north who fled—the Catholics and the landowners—didn’t deserve to have to be forced to live under communism. And I thought maybe we were doing some things that were good, getting involved.
+
+But by the time I came home, I realized it was a civil war, and half of the South Vietnamese didn’t want to be under the South Vietnamese rule, that the corrupt, the govern- —it was kind of like Afghanistan now. I don’t think the country has learned very much from Vietnam. There was a civil war, and the government that we were supporting was a corrupt government that didn’t really have the support of the people, except for certain groups of people: the wealthy, the landowners and so on. But the average person didn’t like the government. They were corrupt and didn’t filter down anything very good to the public.
+
+And there was no way we were ever going to win that war because it was a civil war, just like there’s no way we’re going to defeat the Taliban. The Taliban are going to be there forever. The only way they’ll ever get defeated is if the Afghanistan people rise up against them, which they’re not doing. Their leaders are no—</u>
+      <u who="NOPPENBERGER">So—.</u>
+      <u who="BRIEF">And the people—</u>
+      <u who="NOPPENBERGER">Taking us back to Vietnam, is that what you thought—is that what you believed would happen?</u>
+      <u who="BRIEF">Well, I began to realize that that’s what was happening. I didn’t know it for sure when I was. But by the time I came home and was around and thought about it for a little while and read a few books about it, and then realized what I had seen and what was going on, it was a stupid war. I mean, when you stop and think about it—
+
+And what’s worse, I went back to Vietnam last year, in January. We went on a cruise.</u>
+      <u who="NOPPENBERGER">Oh, what for?</u>
+      <u who="BRIEF">We were on a cruise near where I was: Saigon and all over. And they have a booming economy now. They’re a rising country. It’s under communist rule, but it’s capitalistic. The people are living and enjoying life. It’s a young country. Most of the people don’t even remember the war. They were all under 50. You don’t see very many old people. 
+
+And what was it all for? I mean, what did we gain out of that whole thing? Sixty-five thousand men dead, God knows how many wounded. I mean, Iraq was nothing compared to Vietnam. What did we lose, 4,000? It’s bad enough, but 65,000 boys were killed over there. For nothing. We didn’t accomplish anything.
+
+And the fact is, we didn’t have a clear idea of what—I mean, if we want to defeat them, we could have defeated them. You would have had to go in with a full force of Army, go to the North, continue the bombing. They would have capitulated with the bombing, eventually. But we didn’t have the will to do it, and their people were stronger, mentally.</u>
+      <u who="NOPPENBERGER">So what’s the—</u>
+      <u who="BRIEF">So—there were—</u>
+      <u who="NOPPENBERGER">So would you say you were relieved to see America finally say they were going to pull out?</u>
+      <u who="BRIEF">Well, yeah, I was glad that it ended so that there were no more lives lost, absolutely.</u>
+      <u who="NOPPENBERGER">Mm-hm.</u>
+      <u who="BRIEF">It was a tragedy for a lot of Vietnamese people because a lot of them were hurt by the communist takeover. They had to go to reeduca- —I mean, it was pretty cruel. The communists were no saints. You know, reeducation camps. That’s why all the boat people came. You had all the immigration. The people wanted to get away from communism. Those were the people we presumably were trying to help, but it wasn’t—it shouldn’t have been our fight. It shouldn’t be our fight. You can’t—those are the forces of history and people.
+
+And Hồ Chí Minh, it turned out, if you— your history—he was a very intelligent man, very well educated. He went to the League of Nations to make it one nation, one country, and the French refused, and the League turned him out. So he eventually became the leader, and they threw the French out, and then they had the split, and the whole country would have been much better if it was unified under him in the first place. We had this idea of the domino theory, that if Hồ Chí Minh ran the country and they became communist, that there would be a domino effect, which I think was wrong. Hồ Chí Minh—</u>
+      <u who="NOPPENBERGER">Did you ever—</u>
+      <u who="BRIEF">Yeah, go ahead.</u>
+      <u who="NOPPENBERGER">Sorry. Oh, I was just going to ask did you ever talk about this kind of—the politics of the war while you were working at the hospital in Long Binh? Did it ever—was it ever a conversation?</u>
+      <u who="BRIEF">No, we really didn’t. Our job was to take care of the kids. That’s really what we thought about.</u>
+      <u who="NOPPENBERGER">Mm-hm. Oh. Okay, that’s good. So then the friends that you  made while—were they fellow surgeons? Were they, you know, soldiers?</u>
+      <u who="BRIEF">Yeah, all the guys were surgeons that I was with during the time I was there.</u>
+      <u who="NOPPENBERGER">Mm-hm. And you kept in touch, even after the war?</u>
+      <u who="BRIEF">Yeah, to some extent, yeah, yeah.</u>
+      <u who="NOPPENBERGER">Mm-hm. So then—</u>
+      <u who="BRIEF">Still today I get e-mails back and forth from one of my friends. As a matter of fact, he went to Dartmouth also, the class behind me.</u>
+      <u who="NOPPENBERGER">Did you know him when he went to Dar- —did you know him when you went to Dartmouth together?</u>
+      <u who="BRIEF">No, he was Class of ’55, and I didn’t, no.</u>
+      <u who="NOPPENBERGER">What was his name?</u>
+      <u who="BRIEF">We actually had four Dartmouth guys in my hospital at one time at one point, four surgeons.</u>
+      <u who="NOPPENBERGER">Oh.</u>
+      <u who="BRIEF">We had a neurosurgeon, we had an orthopedic surgeon and another general surgeon and myself. The four of us had been at Dartmouth at one time or another.</u>
+      <u who="NOPPENBERGER">Could you give me their names?</u>
+      <u who="BRIEF">It was [James. F.] “Jim” Morrissey [Class of 1955]. His brother was in my class, his older brother. He was an orthopedic surgeon, a [unintelligible] man, [E.] Floyd Robinson [Jr., Class of 1958, DMS class of 1959], who was younger, he was a neurosurgeon. And this guy [unintelligible]. They were all Dartmouth guys.</u>
+      <u who="NOPPENBERGER">Did you ever talk about Dartmouth?</u>
+      <u who="BRIEF">Oh, sure. Yeah, we did. Fondly.</u>
+      <u who="NOPPENBERGER">That must—that’s great, to, like have that—that chance to talk about home with people who can relate.
+
+Can we talk about the reunion? Was that 1994? What year?</u>
+      <u who="BRIEF">Ninety-four, the so-called 25th reunion.</u>
+      <u who="NOPPENBERGER">Was it the only reunion?</u>
+      <u who="BRIEF">It was our 25th. Well, I can’t talk too much more about it. I told you every—it was a fairly big reunion. Don’t forget, everybody was there one year, so you didn’t necessarily know everybody who was there, by any means. They were like classes in college, you know. The class of—in your class, whatever it is, of 2018 or something means you’re not going to be meeting with the Class of 2016 or ’20, so you don’t know those people at all, really.
+
+We had—the people there went back to the hos- —the hospital was formed in 19- —late ’66 or ’67, and existed till ’72. So there were, like, different classes, groups that overlapped each other, but most of us only knew the people that were there for the one year you were there.
+
+So we sat in different groups. You know what I mean? I was with so-called [unintelligible].</u>
+      <u who="NOPPENBERGER">[Unintelligible].</u>
+      <u who="BRIEF">—groups that were there ’68 to ’69. We had our functions together with that group, but now with the whole—with some, we had some common meetings, but most of it was with our own so-called classmates, if you will, doctors and some nurses and patients as well. 
+
+And it was nice. It was all it—it was a very moving time, actually.</u>
+      <u who="NOPPENBERGER">That’s—that’s very interesting.</u>
+      <u who="BRIEF">They had another reunion last year, in September, in Bronson, Michigan—Missouri. Apparently it was fairly well attended. I didn’t go to that. I just didn’t feel like going, to tell you the truth. I had enough of that.</u>
+      <u who="NOPPENBERGER">Oh. No, understandable. Do you think—oh, let me rephrase that. Did Vietnam end up being a very impactful time in your life, or do you look back on it more as, you know, this very—</u>
+      <u who="BRIEF">No, I think that—</u>
+      <u who="NOPPENBERGER">—short time?</u>
+      <u who="BRIEF">Well, let’s put it this way: It was a very important experience for me, life experience. It made me a better surgeon. It established some very important friendships, and it helped me get into—because of some of the work that I put out there, it helped me with my academic life and my contacts and getting into some of the major surgical societies because of that experience.
+
+I wouldn't want to do it again, but I’m glad that I did it, and that experience I think that the best—.</u>
+      <u who="NOPPENBERGER">Uh—</u>
+      <u who="BRIEF">Yeah, it’s an important part of my life. I mean, when I think of the things that I’ve done or accomplished and what was important and what’s not important, it ranks very high, obviously.</u>
+      <u who="NOPPENBERGER">I guess I just want to ask: Your experience seems very—I mean, you were a doctor. You had the doctor’s experience in Vietnam. Whenever you hear about it talked about today, you really don’t hear that perspective very much, in my experience. Do you ever feel removed from the narratives that kind of dominate the conversation around Vietnam?</u>
+      <u who="BRIEF">I’m not quite sure what you mean. Could you rephrase that?</u>
+      <u who="NOPPENBERGER">Yeah, yeah, yes. I apologize. Do you ever feel like you had a very different Vietnam experience than maybe what the culture surrounding Vietnam—what it’s thought of? You know, you think of people being fired at, you know, the movies that have been made about it. Do you ever feel removed from that?</u>
+      <u who="BRIEF">Well, yeah. Again, I think—I try to help—I think that my experience as a doctor and as a surgeon is entirely different than somebody who was in the field, risking his life and fighting. So there’s no comparison to what may have—the impact that it may have had on them and their lives and to what I experienced.
+
+And similarly, my role as a surgeon and the way I thought of it and valued that experience is probably a lot different than some of the guys who were pediatricians or internists who got sent over there and wound up, you know, just being medical doctors and not participating in the real surgeon action, and just had to spend a year there treating gonorrhea and maybe hepatitis and a few things like that, and sitting around on their hands for a year.
+
+So the experience of the surgeons is entirely different than some of the other medical specialties, perhaps. And it’s certainly different than the soldiers who were fighting. So everybody, you know, was impacted I think in an individual way. It’s hard to say how somebody else might have reacted to it. That’s my feeling, anyway.</u>
+      <u who="NOPPENBERGER">Yeah. Is there anything else that you would like—that we haven’t touched on that you’d like to talk about, either in relation to Dartmouth or Vietnam?</u>
+      <u who="BRIEF">Let me try to think a little bit about it. I think—well, again, I think it’s—I really think we’ve pretty much covered the territory.  It’s something, again, that—I give lectures now to the students. You know, I teach and spend three days a week at the hospital—you know, even though retired—working a little bit. And I give them one lecture, each group that comes in for 12 weeks. I give them one talk about Vietnam, similar to the stories I’ve told you, to some degree It’s more or less a travelogue. A lot of slides and pictures, you know, and stuff. So I keep giving that lecture once every 12 weeks. Keeps re-reminding me of these experiences and keeping it pretty vivid, you know, in my mind, so it remains somewhat important to me as an individual.
+
+As I say, my children all turned out okay. None of them seem to be psychologically impacted in an adverse way. They all families of their own and kids of their own now. I have nine grandchildren. And well the kids are married and have homes of their own.
+
+So I think—I think my wife deserves a lot of credit because she was home with them and kept things on an even keel for them. She passed away five years ago.</u>
+      <u who="NOPPENBERGER">Oh, I’m sorry to hear that.</u>
+      <u who="BRIEF">She died of lymphoma, and I’m fortunate enough. I met a lovely woman who I knew from the community, whose husband also died about seven years ago, eight years ago, and we have since gotten married, so life goes on. My son and his two boys were there—one of them was going off to the second year of college, so we’re meeting for dinner so I can say goodbye to him. And, you know, things are good, for me.</u>
+      <u who="NOPPENBERGER">Yeah. Well, I mean, that’s a great phrase: Life goes on. That certainly applies to so many things that we’ve talked about today.</u>
+      <u who="BRIEF">I’m going to be up in Hanover, actually, somewhere around—I think the weekend of the Columbia game, the 23rd. I have—it’s my wife’s birthday, and I’m taking her to Twin Farms, which is up near your way, and then we’re going to come over to Hanover for the weekend. I have a mini-reunion of the Class of ’54. So I may want to try to look up Professor [James E.] Wright, if I can. I’ve had a couple of nice chats with him.</u>
+      <u who="NOPPENBERGER">Yeah, I think—let me—</u>
+      <u who="BRIEF">When I returned—I mean, that’s the only—oh, the last thing, maybe: We’ve been talking about coming back to Vietnam. When I went back, I wanted—I had refrained from going back, and finally this year there was a cruise, and a friend of our wanted to take it, and it included Vietnam, a Southeast Asia cruise. So we went back. And I wanted to go up and see the base, off the tour boats. The tours off the boat didn’t include that. 
+
+So I arranged for a private, you know, limousine with a driver and a guide, with another couple, and they go up to Long Binh, and when we talked with the guy, who’s a nice fellow, about 45, he asked why I wanted to go back, and I explained, “That’s where my base is.” He says, “You’re not going to waste our time going up there. There’s nothing there. Your old base has been taken down completely. The rubber plantation has grown back. The town has grown bigger. There’s a supermarket on the corner of the base where your hospital had been, and there’s really nothing of interest to see. But we have other things to see.”
+
+
+
+So he did take us around. We had a wonderful time with the guide, but I never did go back to put my feet on the base where I was. We saw a lot of other stuff, and, of course, I was in Saigon, where I had been before.
+
+You know, the funny thing is, when I was there this time—I was now—when was it? It was over 40 years, 45 years ago that I was there as a young man, and I almost felt like it happened to somebody else. I felt like a tourist rather than a returning, you know, veteran or soldier. So emotionally, for me, at least, it was disappointing, almost, that it didn’t have more of an impact on me. I was really disgusted because it was this country that’s on the brink of breaking out and becoming an economic factor, and we’re dealing with them, and all kinds of American businesses opening up and people making money and all that stuff, and all we did was lose 65,000 lives.
+
+So it was not a great—there were about a dozen guys on the ship going back for the first time. We had a little meeting on the boat, had some drinks together and shared some stories. So it’s always nice to reminisce and hear the stories, you know, but when the reality came of going back and walking around with—you know, and you’re just another tourist to them, it didn’t mean very much, to tell you the truth. It was disappointing.</u>
+      <u who="NOPPENBERGER">Yeah. I mean, who knows if there would have been—</u>
+      <u who="BRIEF">[Unintelligible]. </u>
+      <u who="NOPPENBERGER">[Unintelligible].</u>
+      <u who="BRIEF">[Unintelligible] and I went to the spot where my friend was shot and stood on the ground, maybe I would have reacted entirely differently, to see it is a different thing, but for me this is the way I felt.</u>
+      <u who="NOPPENBERGER">No, that’s very—that’s completely valid, and I’m so thankful that you were able to share this with us. I am going to stop recording in just a second, but thank you again so much, Dr. Brief.</u>
+      <u who="BRIEF">Okay. If you have any more questions or something, feel free to call or e-mail.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

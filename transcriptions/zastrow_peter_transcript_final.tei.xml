@@ -1,0 +1,885 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="ZASTROW"/>
+        <person xml:id="WEINSTOCK"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="WEINSTOCK">This is Benjamin Weinstock here at Rauner Special Collection Library at Dartmouth College in Hanover, New Hampshire. I am speaking over the phone with Peter [H.] Zastrow, who is in Evanston, Illinois. The time is 12:05 p.m. Eastern time, and the date is February 2nd, 2016.
+
+Could you please state your name?</u>
+      <u who="ZASTROW">My name is Peter Zastrow. </u>
+      <u who="WEINSTOCK">And where are you from?</u>
+      <u who="ZASTROW">Evanston, Illinois.</u>
+      <u who="WEINSTOCK">What was it like growing up in Evanston?</u>
+      <u who="ZASTROW">Well, I didn’t grow up in Evanston. I grew up all over the country: in New York City; in Bloomington, Illinois; in Cuyahoga Falls, Ohio. And I actually went to Dartmouth from Fort Thomas, Kentucky.</u>
+      <u who="WEINSTOCK">And what were the names of your parents?</u>
+      <u who="ZASTROW">Peter and Mary Louise [Danforth] Zastrow.</u>
+      <u who="WEINSTOCK">Did you have any siblings?</u>
+      <u who="ZASTROW">Two sisters.</u>
+      <u who="WEINSTOCK">And what were their names?</u>
+      <u who="ZASTROW">Catherine [now Catherine Zastrow Onyemelukewe] and Beth [Zastrow Hardy].</u>
+      <u who="WEINSTOCK">Great. So the first place you really grew up in was New York. Is that right? Long Island?</u>
+      <u who="ZASTROW">Yeah, I was very small. I remember nothing of it.</u>
+      <u who="WEINSTOCK">[Chuckles.] Well, what was the first place that you have memories of?</u>
+      <u who="ZASTROW">Mmm, that would probably be Washington, Illinois.</u>
+      <u who="WEINSTOCK">Washington, Illinois. And how old were you when you moved to Washington, Illinois? </u>
+      <u who="ZASTROW">Maybe three or four.</u>
+      <u who="WEINSTOCK">And so this would have been 1942?</u>
+      <u who="ZASTROW">Yes, I’m afraid so.</u>
+      <u who="WEINSTOCK">[Chuckles.] Well, what was it like growing up there? Do you—what sorts of memories do you have from Washington, Illinois?</u>
+      <u who="ZASTROW">I remember almost drowning in a fish pond.</u>
+      <u who="WEINSTOCK">[Chuckles.] Can you tell me a little about that?</u>
+      <u who="ZASTROW">[Laughs.] No, except I was saved by a cousin who lived nearby. And that was back in the day when many houses had fish ponds out in back of the house. 
+
+I remember the iceman coming to bring us ice to put in our icebox. I remember planting a Victory Garden.</u>
+      <u who="WEINSTOCK">A Victory Garden for World War II, yeah?</u>
+      <u who="ZASTROW">I remember having my sixth birthday party disturbed because [President] Franklin [D.] Roosevelt died that day.</u>
+      <u who="WEINSTOCK">How did you feel about that?</u>
+      <u who="ZASTROW">Oh, I didn’t—I had not much of a clue who Franklin Roosevelt was at the age of six, except he was a very important person, and my parents were very attracted to him and were very sad that he died. And nobody quite knew what to do with this strange vice president of his that no one knew much about.</u>
+      <u who="WEINSTOCK">And he ruined your birthday. [Chuckles.]</u>
+      <u who="ZASTROW">Well, yeah. We ran the party, but then everybody was sad, and I couldn’t have the right kind of sixth birthday party.</u>
+      <u who="WEINSTOCK">Sure. What did you parents do for a living?</u>
+      <u who="ZASTROW">My father was an engineer with AT&amp;amp;T. My mother at that time was a piano teacher.</u>
+      <u who="WEINSTOCK">Did you take piano at all?</u>
+      <u who="ZASTROW">I started when I was about three or four years old.</u>
+      <u who="WEINSTOCK">Have you played since?</u>
+      <u who="ZASTROW">I still have a job as a musician at the Great Lakes Naval Training Center [sic; Station] to provide the music for Catholic masses.</u>
+      <u who="WEINSTOCK">Wow.</u>
+      <u who="ZASTROW">So I still play the piano.</u>
+      <u who="WEINSTOCK">Would you say that music had a pretty big impact on your life over the years?</u>
+      <u who="ZASTROW">It was always a part of my life.</u>
+      <u who="WEINSTOCK">Sure. What sort of music did you listen to mostly?</u>
+      <u who="ZASTROW">Oh, my parents listened to classical music, and I guess I pretty much did that, too, until maybe years later, when I started listening to [James M.] “Jimi” Hendrix and Janis [L.] Joplin, the crew. Now I guess if I listen to any music, it’s likely to be classical.</u>
+      <u who="WEINSTOCK">Yeah. 
+
+
+
+So how long were you in Washington, Illinois, for?</u>
+      <u who="ZASTROW">We left there after I—after the first grade.</u>
+      <u who="WEINSTOCK">And what year was this?</u>
+      <u who="ZASTROW">It must have been ’45 or ’46.</u>
+      <u who="WEINSTOCK">Do you remember the end of World War II at all, then?</u>
+      <u who="ZASTROW">No.</u>
+      <u who="WEINSTOCK">No? Hmm. Well, where did you go to after—</u>
+      <u who="ZASTROW">My father—because my father wasn’t in the military, unlike many of my friends, I didn’t have that kind of intimate connection with the war going on. I do remember a wonderful tire swing in one of my friends’ back yards, which we would swing and jump off, yelling, “Bombs over Tokyo!”</u>
+      <u who="WEINSTOCK">[Laughs.] It’s hard to relate to that today, I’ll tell you.</u>
+      <u who="ZASTROW">I’ll bet it is.</u>
+      <u who="WEINSTOCK">[Chuckles.] It must have been very strange to listen to that.</u>
+      <u who="WEINSTOCK">Right.
+
+So where—where did you move after the first grade?</u>
+      <u who="ZASTROW">Normal, Illinois.</u>
+      <u who="WEINSTOCK">And how long were you there?</u>
+      <u who="ZASTROW">Through, mmm, the sixth grade, I think.</u>
+      <u who="WEINSTOCK">What sort of memories do you have from Normal?</u>
+      <u who="ZASTROW">Normal was a great place. We lived right down the street from what was then called Illinois State Normal University [now Illinois State University]. I went to their lab school, so we had a main teacher and four or five student teachers all the time. That was kind of a selective school. And it was just a very pleasant educational experience.	We had many more opportunities than people did at probably the public school across the street.</u>
+      <u who="WEINSTOCK">Sure.
+
+
+
+Do you remember any sort of political conversations that your parents or others might have been having at the time? You know, there’s—there’s obviously a big difference between first grade you and sixth grade you.</u>
+      <u who="ZASTROW">Yeah. I remember them being very much in favor of [Harry S.] Truman being reelected as president, having no use whatsoever for [Thomas E.] Dewey. All of my—well, my father, whose family was German—but my mother’s family lived in Danforth, Illinois, and were lifelong Democrats. In fact, I have a grandfather who was appointed to the Federal Land Bank [now Farm Credit Bank] board by [President] Woodrow [T.] Wilson.</u>
+      <u who="WEINSTOCK">Wow.</u>
+      <u who="ZASTROW">But they were all adamantly Democratic.
+
+I can also recall some place in there—and I couldn’t tell you the year anymore—sitting in front of a radio, listening to the first and as far as—well, the first test of a hydrogen bomb, which did in Bikini Atoll out in the Pacific [Ocean]. I don’t know, that must have been ’46, ’47? I don’t know the exact date anymore.</u>
+      <u who="WEINSTOCK">And so what was—what—what was going through your head as a little seven-, eight-year-old hearing about a hydrogen bomb? Were you scared? Were you kind of awed by the technology? Did you think that another war was coming?</u>
+      <u who="ZASTROW">Well, I remember being very much interested in the countdown because they did, on the radio, count it down until we could all hear the boom. I was vaguely conscious that we had ended the war with the use of a remarkable bomb, several of them. And it’s only sounded like a graduated version of the same thing, which in fact I guess it was.
+
+I don’t recall any—any feeling of being scared of it. That probably came a little later, when we were hiding under desks and so forth. [Transcriber’s note: During air raid drills in classrooms.]</u>
+      <u who="WEINSTOCK">Right.
+
+So where did you move after Normal? This would have been in the sixth grade, yeah?</u>
+      <u who="ZASTROW">After sixth grade. It was Cuyahoga Falls, Ohio.</u>
+      <u who="WEINSTOCK">And how was that.</u>
+      <u who="ZASTROW">It was a suburb of Akron. I did pretty much normal sixth, seventh, eighth grade things.</u>
+      <u who="WEINSTOCK">What were those?</u>
+      <u who="ZASTROW">If I recall correctly, this got up past June of 1950, and I do very much remember and was quite interested in how Truman had manipulated things so that the United Nations went to war in Korea. This all took place in part because he managed to get a declaration of war from the United Nations when the Soviet Union delegation, for some reason or another, was not present because otherwise, they would have vetoed it and it would have been an American venture instead of a United Nations venture.</u>
+      <u who="WEINSTOCK">And you were pretty aware of the intricacies of this and —as a six-year-old—six-year-old?</u>
+      <u who="ZASTROW">Yes. It was—I seem to recall being very interested in reading all the newspaper accounts of—it was considered quite a diplomatic coup at the time. And, of course, then I pretty much followed the war as—I don’t know if you’re a Korean War fan or not, but the war kind of moved up and down the Korean peninsula, finally up to the Yalu [River]. And then the Chinese came in.
+
+And I remember sitting in class, listening to the [Gen. Douglas] MacArthur speech to [the U.S.] Congress, and the words of that old song, “Old Soldiers Never Die,” which was a usually emotional and politically deadly sort of speech. I’m sure he had great ambitions which fortunately never came about.</u>
+      <u who="WEINSTOCK">What were your parents’ thoughts about all this—MacArthur and Korea?</u>
+      <u who="ZASTROW">[Short pause.] You know, I don’t really know. When you asked me, I tried to think back at a time—of course, they were aware of it, and they were aware that I was very interested in it, but like I said, I remember them being very much in favor of Truman. My father a very strong union—the Communications Workers of America. In fact, left home for, oh, probably a month and a half to be a chief steward during a CWA strike, which—and I can’t recall when that was.  
+
+
+
+I can recall him being very supportive of John L. Lewis, who led the coal miners out on strike someplace in there, which was particularly interesting to me because they had to stop school because they didn’t have enough coal to heat the buildings.</u>
+      <u who="WEINSTOCK">Huh! And was this the reason that you were moving around a lot, because of your dad’s career?</u>
+      <u who="ZASTROW">Yeah. He was involved in starting the cables that would eventually carry television around the country, so in doing that, he moved from office to office to office and eventually ended up in the office in Cincinnati, Ohio, which was right across from my next residence, which was Fort Thomas, Kentucky.</u>
+      <u who="WEINSTOCK">So before we move on to Kentucky, did you—did you guys have—have a TV pretty early on, then, because your dad worked in the industry?</u>
+      <u who="ZASTROW">Oh, as a matter of fact, he refused to buy a television as long as we didn’t have a separate room in which to put the piano,—</u>
+      <u who="WEINSTOCK">Huh!</u>
+      <u who="ZASTROW">—because he said that people should play the piano, not watch television. Or if you had a television, you stopped playing the piano. He had no musical talent of his own, but he said he did the most important job, which was to listen. Which he did.</u>
+      <u who="WEINSTOCK">Sure.</u>
+      <u who="ZASTROW">And it wasn’t—actually, the first television we ever had was when we moved to Kentucky, where the house had a separate room, a music room, where the piano could go.</u>
+      <u who="WEINSTOCK">Wow. And how old were you when you—when you moved to Kentucky?</u>
+      <u who="ZASTROW">That was eighth grade, so—</u>
+      <u who="WEINSTOCK">So this would have been what year?</u>
+      <u who="ZASTROW">Nineteen fifty-two, maybe?</u>
+      <u who="WEINSTOCK">Okay. And what—what were some of your memories from Kentucky? Did you like it as much as your past couple homes?</u>
+      <u who="ZASTROW">Yeah. You know, after a certain point, you got over the fact that you were leaving all your friends and had to go make some new ones.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">I mean it wasn’t fun. It never was fun. But eventually I made the new ones in—in Kentucky.</u>
+      <u who="WEINSTOCK">Were you close with your sisters at all?</u>
+      <u who="ZASTROW">Probably closer because we kept moving.</u>
+      <u who="WEINSTOCK">Sure. How—how old were they compared to you?</u>
+      <u who="ZASTROW">One sister is a year and a half younger, and the other one is seven—seven years younger.</u>
+      <u who="WEINSTOCK">Okay. And so you were—but by the time you moved to Kentucky, it was 1952. You stayed there until you graduated high school. Is that correct?</u>
+      <u who="ZASTROW">Right. And actually,—</u>
+      <u who="WEINSTOCK">And can you tell me—sorry.</u>
+      <u who="ZASTROW">—my family continued to live there all the way through the time I was in college and in graduate school, and my parents left the country to live on the island of Madeira [Portugal] and gave the house to my younger sister and I.</u>
+      <u who="WEINSTOCK">Huh!
+
+Can you tell me a little bit about basically coming to age in Kentucky? You know, it seems like you were certainly there the longest amount of time. Yeah, could you tell me a little bit more about, you know, your—your early high school years? Were you becoming more politically involved? What—what do you think about 1950s America?</u>
+      <u who="ZASTROW">That’s an interesting question, and I don’t have a real good answer for it. My sense is that it was kind of a non-political time. We were interested in local elections. In Kentucky in those days, if you wanted to vote in state elections, you had to be a Democrat; if you wanted—you had to declare your party, of course, in order to vote because the primaries pretty much decided the answers. If you were a Democrat, you could vote for governor; if you were a Republican, you could vote for local offices. 
+
+Fort Thomas was a real bedroom community. The people who lived there, I suspect now, would be 97 percent Republican. Maybe only 96. I don’t know. I’m not there anymore.</u>
+      <u who="WEINSTOCK">So very status quo.</u>
+      <u who="ZASTROW">Yes. And I, of course, was aware of things like the Korean War ending, but once again, I had no particular personal involvement in—I had nobody whose father was fighting in the war, anything like that, nobody even who had older brothers who were involved in the war. It was a kind of community where I’m sure you had an ability to avoid the war as much as possible.</u>
+      <u who="WEINSTOCK">What were some of your other interests?</u>
+      <u who="ZASTROW">Well, there was always music. I was a reader. I played football (badly). I ran track (pretty much badly). </u>
+      <u who="WEINSTOCK">What did you like to read?</u>
+      <u who="ZASTROW">Anything. Even in grade school, I would go through a biography a day back in the day when you could check out books from the library. If you finished your math assignment early, you could go to the library, and I would check out these orange biographies. (The books were orange.) And I went through one of those a day for months.</u>
+      <u who="WEINSTOCK">What sort of people did you like reading about—political figures, athletes?</u>
+      <u who="ZASTROW">Anybody, but I think probably more historical than anything else because that’s what was, of course, mostly available. But most anything. I remember Gone with the Wind a couple of times through. Anything that I could get my hands on, pretty much.</u>
+      <u who="WEINSTOCK">And can you tell me a little bit more about the high school that you went to in Kentucky?</u>
+      <u who="ZASTROW">[Chuckles.] it was called Highlands High School. In the years after I left, it became the football power in the state of Kentucky, which is very strange because it was a relatively small school. I had a graduating class of 75, of whom at least 65 went on to college. Many of the teachers had been there long enough to know my classmates’ parents and, in some cases, even grandparents. I suspect it was very traditional in what we were taught. There was, of course, nothing like AP [advanced placement] classes in those days. 
+
+We had a place where we could go dancing on Friday night, which was part of the high school. It was probably just a good ol’ ‘50s sort of place.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">We would have fitted in probably fairly well with many of the sitcoms that were on at the time. I mean, that was the kind of place it was. It was just pretty traditional. I don’t think I realized how traditional until I was long out of there, but we didn’t—we had no students of color. The town was fairly famous in the years long before I moved there, having made sure that nobody—none of the black maids and housekeepers did not stay there, that they were out of the town before dark.
+
+We had—in my sister’s class was a single Jewish student that I can even remember being in the high school in those days. And he left after a year or so. As I say, he was in my sister’s class, so I didn’t know that much about him. He was considered kind of a rarity. Well, he was a rarity. I don’t recall that people picked on him particularly, but they might have.</u>
+      <u who="WEINSTOCK">Yeah. So, you know, you’re—you’re painting a pic- —</u>
+      <u who="ZASTROW">I still get their town newspaper, the reports from the high school,—</u>
+      <u who="WEINSTOCK">[Chuckles.] No kidding.</u>
+      <u who="ZASTROW">—from all the grade schools and high schools—high school in town. And in the last one, I finally saw a black student. Which struck me as a step forward.</u>
+      <u who="WEINSTOCK">Yeah. You know, so speaking along the lines of that, you know, you painted a picture of a very sort of normal 1950s, easy-going America, but, you know, of course, there were very divisive events going on at the time. Do you remember anything about things like, you know, the Brown v. Board of Education [Supreme Court ruling]? This would have been your junior or senior year, I imagine?</u>
+      <u who="ZASTROW">I remember it happening and thinking, What a great idea! I’m trying to think. When did Medgar [G.] Evers go to the University of Mississippi? Was that around that time? </u>
+      <u who="WEINSTOCK">I believe so. I’m not as familiar with that, sorry.</u>
+      <u who="ZASTROW">I remember Governor George [C.] Wallace [Jr.] standing in the doorway and thinking what an absolute dog he was. And the same way with whoever that police chief who did his best to stop the march across the [Edmund Pettus] Bridge in Selma [Alabama]. 
+
+I was aware of the politics of race and very much in favor of integration, but somehow—well, I didn’t see it as applied to where I was, because there wasn’t anybody to integrate.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">Again, it didn’t have the kind of personal connection.</u>
+      <u who="WEINSTOCK">Would—would these sentiments have been shared by your community back then?</u>
+      <u who="ZASTROW">Yes, I think—well,—yes, I think probably—I’m sure I heard some of what caused my feelings about this from teachers at school, and they would not have been talking about these sorts of things had it not been pretty much community allowed.</u>
+      <u who="WEINSTOCK">Right. 
+
+So 1957, you’re a senior in Kentucky, and you have to start thinking about colleges, obviously. Well, I suppose it wasn’t that obvious back then, but can you tell me a little bit—</u>
+      <u who="ZASTROW">Well, it wasn’t that obvious.</u>
+      <u who="WEINSTOCK">—about the college hunt?</u>
+      <u who="ZASTROW">Hm?</u>
+      <u who="WEINSTOCK">Can you tell me a little bit about the college hunt?</u>
+      <u who="ZASTROW">Go ahead.</u>
+      <u who="WEINSTOCK">Yeah.</u>
+      <u who="ZASTROW">Well, of course, it was not like it is today. You didn’t start thinking about it from birth—</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">—or at least start thinking about it so seriously when you were a junior. In my senior year, I was aware that college was coming. I was aware that I was supposed to go to college. I picked several colleges that sounded kind of interesting, Dartmouth being one of them, and Amherst [College] and Williams [College]. I would be hard put to say why those. I got, of course, catalogs from the colleges and thought they sounded really great. And my recollection is that I applied to all three of those but was always aware that if I wanted to, I could go across the river to the University of Cincinnati or downstate to the University of Kentucky.</u>
+      <u who="WEINSTOCK">[Chuckles.] And so what made you finally choose Dartmouth?	</u>
+      <u who="ZASTROW">[phone line glitch; unintelligible].</u>
+      <u who="WEINSTOCK">Could you say that one more time?</u>
+      <u who="ZASTROW">I think because my grandmother, who had lots of money, had once gone out with a boy from Dartmouth and talked about it. How’s that for a reason?</u>
+      <u who="WEINSTOCK">[Chuckles.] Hey, you know, we all have to have some reason to come up here.</u>
+      <u who="ZASTROW">[Laughs.] Do you have a better reason than that? [Laughs.] Probably.</u>
+      <u who="WEINSTOCK">[Chuckles.]
+
+So can I ask you a little—a little bit about what it was like stepping onto Dartmouth’s campus in 1957 as a freshman?</u>
+      <u who="ZASTROW">Well, my father drove me up there, along with my sister, who was scouting colleges, herself, for the following year. So on the way up there, I remember I think spending a night in a motel someplace near Niagara Falls and watching the Miss America contest on television, and Bert Parks singing, but I no longer can remember who won.
+
+
+
+We got to Dartmouth, and I of course, had a room assignment: 112 Hitchcock Hall.</u>
+      <u who="WEINSTOCK">Wow. [Chuckles.]</u>
+      <u who="ZASTROW">[Chuckles.] Which I assume is still there, although I don’t really know.</u>
+      <u who="WEINSTOCK">There is a Hitchcock. I think it’s been renovated, though.</u>
+      <u who="ZASTROW">Probably. And, of course, it was hard not to appreciate what a gorgeous campus it was.</u>
+      <u who="WEINSTOCK">Yeah, can you tell me a little bit more about that? What did it look like back then?</u>
+      <u who="ZASTROW">Probably much like it looks now. I mean, there was the [Dartmouth] Green, of course, which was in the middle of everything, and spread around it were the major buildings: Parkhurst [Hall], someplace—something next to it, the library, Webster Hall (which would have been the concert hall), and then on the other side was Dartmouth Hall. Of course, Hopkins Center [for the Arts] was not there, so that end of the Green was nothing but the Hanover Inn [Dartmouth].</u>
+      <u who="WEINSTOCK">Huh.</u>
+      <u who="ZASTROW">And, let’s see, the gym was a ways toward—it would have been the southeast part of the campus. And, of course, the football field was there. There was some married housing, of which there wasn’t very much in those days, but a little, down next to Tuck School [of Business], which would have been close to the river. The dining hall was behind Parkhurst.</u>
+      <u who="WEINSTOCK">It all does sound pretty similar.</u>
+      <u who="ZASTROW">Yeah. I’m not surprised. I realize building has gone on, but I think probably away from the center of—what was then the center of the campus.</u>
+      <u who="WEINSTOCK">Sure. 
+
+So what—what—what sort of things were you interested in freshman year, both academically and extracurricularly?</u>
+      <u who="ZASTROW">Well, I joined the Glee Club, the Freshman Glee Club in those days. Academically, we weren’t allowed to pick a major, so I think pretty much the first year were—we had a few choices, but not all that many. I remember taking astronomy because we told it was an easy class. George Z. Dimitroff, who was the professor of astronomy in those days and who spoke with a beautiful accent, in keeping with his name.
+
+And, of course, the English. I don’t know, do you still have Great Issues? Probably not.</u>
+      <u who="WEINSTOCK">Still have what?</u>
+      <u who="ZASTROW">[Laughs.] It was called Great Issues. It was a class for freshmen where all the freshmen met once a week to discuss great issues. And we had distinguished speakers. Robert [L.] Frost, for instance, would come and say his poems for us. And we had to keep a journal. It seems to me we had the session with everybody once a week, and then it broke down into much smaller groups, also once a week, with a faculty adviser who when we were with them would talk about what we had heard during Great Issues.</u>
+      <u who="WEINSTOCK">What sort of things did you talk about in Great Issues? What sort of issues?</u>
+      <u who="ZASTROW">All kinds of issues. I think all—all sorts of political issues, though I have to say that I no longer remember what they were. I think things that were going on in the world at the time. Of course, the Soviet Union was our—the great menace in those days. China was undergoing major changes, which we only were interested in because they, of course, had been involved in the—in what was then the end of the Korean War, not because we ever thought they would be a world power. There were only two world powers, and we were one of them. We must have talked about economics. It was actually a pretty useful sort of class.</u>
+      <u who="WEINSTOCK">Sure. Well what—</u>
+      <u who="ZASTROW">Go ahead.</u>
+      <u who="WEINSTOCK">Well, I was going to say, you know, what other things were you interested in? When did you realize that you really liked English?</u>
+      <u who="ZASTROW">A lot of that had to do with English professors, of course, at the time, but I’d always been a reader, and I had some very good English professors. I also got involved, of course, with ROTC [Reserve Officers’ Training Corps], in part because my favorite history professor, whose name was Stillwell, also taught military history to ROTC classes. And if you wanted to take his military history class, the only way you could go to it was to enroll in ROTC.</u>
+      <u who="WEINSTOCK">[Chuckles.] And that’s why you decided to do it, huh?</u>
+      <u who="ZASTROW">Pretty much. Of course, they were going to pay us, too. That was another incentive. You got paid after your—in your junior and senior year. I think you got $33 a month, if I recall correctly. And all it really meant was taking an extra class, which, it being a military class, tended to be very easy and could do nothing but improve your grade average. And go to drill once a week, I think. Yeah. That was pretty much it.</u>
+      <u who="WEINSTOCK">Can you tell me a little bit more about your experiences in ROTC? Did you ever think at the time that you would, you know, wind up serving in the—the military for—in an actual combat role?</u>
+      <u who="ZASTROW">No, although our teachers at the time were all—I think all—Korean War veterans, so they, of course, spent a good part of the time telling us war stories, but that all seemed very distant. War in those days, if there was going to be one, was probably going to be a nuclear war, and individual participation in something like that was pretty much irrelevant.</u>
+      <u who="WEINSTOCK">Sure.
+
+So can you tell me a little bit more about the—the dawn of the 1960s? Did it feel like things were changing at all?</u>
+      <u who="ZASTROW">I’m sorry, what?</u>
+      <u who="WEINSTOCK">Can you tell me a little bit more about the—the beginning of the 1960s? You were still at Dartmouth in ’60 and for part of ’61. Can you tell me, were there any sort of political or social or cultural shifts that you could notice?</u>
+      <u who="ZASTROW">Well, when we went out on our—what was it?—Armed Forces Day—the ROTC would get together and march around campus. There was a—a small group of protesters who said we shouldn’t be—we shouldn’t have ROTC at—at a college. But it was very small, and not—not particularly influential. It was very much considered a sort of fringe group. Probably still would be at Dartmouth. But anyhow,—</u>
+      <u who="WEINSTOCK">And, you know, for instance, the—you know, John F. Kennedy is elected as president in 1960. What were your thoughts about that? Do you remember any sort of conversations about that?</u>
+      <u who="ZASTROW">I remember him coming to Dartmouth as a—before the—the primary or during the primary, when he was looking for votes in New Hampshire.  </u>
+      <u who="WEINSTOCK">Did you go hear him?</u>
+      <u who="ZASTROW">Oh, yes. I did a lot of that in those days. I went to hear all kinds of—I went to concerts. I went to hear speakers, even though nobody told me I had to. I remember some wiseass student asking what he thought about the famines that were then going—I think the U.S. was shipping wheat to India, and he asked something about that, which was really kind of a sneaky way of getting around to: “You’re Catholic. Can you be in favor of birth control?” Which—</u>
+      <u who="WEINSTOCK">Really?</u>
+      <u who="ZASTROW">—yeah. Without ever asking that question, that’s what the question really was. And, you know, it was a pretty big deal in the election in those days because he was, of course, the first Roman Catholic, and there was a certain group of thinkers who said of course the Pope would rule America, which, in case you’re interested, did not happen.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">But it was—it certainly was talked about, kind of in the same way as Obama’s birth certificate in more recent times.</u>
+      <u who="WEINSTOCK">Right. 
+
+So you—you said your parents were lifelong Democrats. Do you remember their reaction to Kennedy’s election?</u>
+      <u who="ZASTROW">I was a long ways away from my parents in those days. [Both chuckle.]</u>
+      <u who="WEINSTOCK">You never called home?</u>
+      <u who="ZASTROW">Well, yes, I called home once a week, because with AT&amp;amp;T we could get free long-distance phones, and they would set it up so that I could call, and my sister could call from Mount Holyoke [College], which is where she was at the time, and we could have a little conference call on Sunday afternoons. And I don’t think we talked about politics. We talked about important things, like food and vacations and what was going on with my mom, who was teaching school in those days. Nothing that I can recall as very political.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">I did take the time to do the absentee ballot and vote for Kennedy. That, I do remember. And, in fact, we could do that by taking a ballot to our ROTC instructor and having him sign it as a witness to send back to Kentucky.</u>
+      <u who="WEINSTOCK">Hmm. 
+
+And towards the end of your—your—your Dartmouth career in 1961, do you remember hearing anything about Vietnam? You know, of course, at this time, you know, the United States, of course, had been in the area for—for quite some time, but the—the beginning of a so-called limited partnership started to begin around then. Do you remember any talk on campus about Vietnam?</u>
+      <u who="ZASTROW">No. Whether there was talk that I ignored or that I have since forgotten, my first real recollection is President Kennedy, on television, which his map behind him, telling us where Vietnam and Laos and Cambodia were and why we needed to be interested in—in that.</u>
+      <u who="WEINSTOCK">And this was after college, yeah?</u>
+      <u who="ZASTROW">Yeah. Sixty-two, maybe.</u>
+      <u who="WEINSTOCK">So what were you doing in ’62? What—what did you decide to do after Dartmouth?</u>
+      <u who="ZASTROW">Well, I didn’t really know what I wanted to, so—but one of the things I did was that ROTC provided a day’s worth of testing to see if you could join the Regular Army. And so it was a big psychological test, and I said, well, did I really want to be an Army officer for the rest of my life? Well, I don’t know. So I went and I took the test honestly. I mean, so much of it you could read—you know, what was the answer they wanted if you were going to become an Army person, but I actually took it honestly and said I would rather read than go out and hunt buffalo or whatever. And I remember the great disappointment of my chief in ROTC saying they didn’t want me!</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">It didn’t surprise me a great deal, anyhow. So since I couldn’t become a Regular Army officer and since all I really knew how to do was go to school, I went to graduate school.</u>
+      <u who="WEINSTOCK">And where’d you go for that?</u>
+      <u who="ZASTROW">Indiana University.</u>
+      <u who="WEINSTOCK">What were you studying there?</u>
+      <u who="ZASTROW">English.</u>
+      <u who="WEINSTOCK">Can you tell me a little more about your—your experiences there?</u>
+      <u who="ZASTROW">[Chuckles.] Well, it’s a very big campus, not like Dartmouth at all. I didn’t live in a dorm anymore. Classes were a bit more demanding, in a—in a different sort of way. And I’m trying to think. I—I started teaching as a—one of their systems of giving scholarships in those days was to hire you as a teaching assistant, which meant that—nobody ever told you how to teach. They kind of threw you into a class and said, “Here are your textbooks. Now teach these incoming freshmen how to read and how to write.” Which was an interesting experience.</u>
+      <u who="WEINSTOCK">How—</u>
+      <u who="ZASTROW">So I did that.</u>
+      <u who="WEINSTOCK">—how—how did you get on with that?</u>
+      <u who="ZASTROW">Well, very well! I enjoyed—</u>
+      <u who="WEINSTOCK">Did you think you maybe want—sorry?</u>
+      <u who="ZASTROW">I enjoyed the students. It was—because the big deal was you had to write I think it was ten themes every semester, and at least some of these you had to do in class, and I took this all very seriously, far more seriously, I’m sure, than I needed to. I even remember getting one student thrown out because when I read his essay, I could remember having read it already.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">And I went and searched through the stacks of the library and found the magazine that the essay had been written in. [Laughs.]</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">And pointed out to him that he was—he was plagiarizing. He didn’t just plagiarize; he just took it, whole hog, from the magazine and stuck it in his theme for me.</u>
+      <u who="WEINSTOCK">The lazy man’s plagiarizing.</u>
+      <u who="ZASTROW">[Laughs.] Well, yeah, there was no Internet. So you didn’t have that kind of opportunity.</u>
+      <u who="WEINSTOCK">Right.
+
+So can you tell me a little bit more about those—those—those initial years at grad school? You know, I—I assume things were heating up a little bit more. You know, the Cuban Missile Crisis is happening; the U.S. situation in Vietnam is evolving; [Vietnam president Ngô Đình] Diệm is assassinated November 2nd, 1963. Do you remember hearing at all about this stuff?</u>
+      <u who="ZASTROW">Yeah. I remember going into a graduate class—it was a graduate French class, and we were discussing whether the war was going to take place in the next week, and the Cuban Missile Crisis was only half of the concern. The other half of the concern was the fact that India and Pakistan were having some kind of major confrontation, I think over Kashmir, and they were both nuclear powers at that time, and so not only was the Cuban Missile Crisis going on, but that was going on. And the possibility of us all dying and why were we wasting our time in this French class for graduate students—but, yeah, that was very clear.
+
+Of course, I remember the Kennedy assassination. We actually had marches at Indiana in those days for equality. I still remember walking around, wearing the black equals sign. Yeah,—</u>
+      <u who="WEINSTOCK">Can you tell me a little bit more—can you tell me a little bit more about the Kennedy assassination?</u>
+      <u who="ZASTROW">Yeah. I, of course, was listening—I listened to it or heard about it on the radio at first. My first thought when they actually said he had died was, Oh, God, no, not Lyndon Johnson!</u>
+      <u who="WEINSTOCK">[Chuckles.] Why’d you say that?</u>
+      <u who="ZASTROW">Well, Kennedy was progressive, and Johnson was, in our probably naïve political sense in those days, the conservative who had been picked so that Kennedy could get elected because he would bring Texas, the votes of Texas into the Democratic fold. They had very little use for Johnson, which was kind of misplaced, I have to say. As it turns out, he was rather more progressive than any of us would have guessed in those days.</u>
+      <u who="WEINSTOCK">Yeah. I was about to say. So, you know, come ’64 and the Civil Rights Act, did your thoughts on Johnson change at all?</u>
+      <u who="ZASTROW">Well—oh, yeah, of course. He became—he grew, and the country grew, and it wasn’t only civil rights; it was the War on Poverty, a lot of things that he actually espoused as years went by that we would have never believed back in the days when he was Kennedy’s vice president. 
+
+The campus in Indiana kind of closed down. Of course, radio stations and television did nothing but play somber music for what seemed like days. The new president of Indiana University in those days was a person named Elvis [J.] Stahr [Jr.], who had been Kennedy’s Secretary of the Navy. So he held at least one kind of memorial get-together where, I mean, thousands and thousands of students crowding into whatever the auditorium was called on the Bloomington campus. And, of course, classes stopped for a long time. It was a profoundly memorable period of time.</u>
+      <u who="WEINSTOCK">Sure.
+
+Do—do you remember when Vietnam started coming back on your radar again? Was it—was it Tonkin or before or after?</u>
+      <u who="ZASTROW">I remember the Gulf of Tonkin Resolution, and there were people at the time who said, “This is really a fraud.” And there were a few senators who voted against it. I want to say there was one from Alaska. [Arkansas Senator J. William] Fulbright, we were very enthused about because he was very much an opponent of going into Vietnam.
+
+I’m trying to think. We were aware of suicides, the people who would burn themselves, Buddhist monks who would burn themselves to death. We were aware, of course, of [Secretary of Defense Robert S.] McNamara, who—</u>
+      <u who="WEINSTOCK">Sure.</u>
+      <u who="ZASTROW">—seemed to be wanting to turn the war into another General Motors [Company]. “We could win it if only we had better machinery.”</u>
+      <u who="WEINSTOCK">Did the—did the military-industrial complex come to mind at all?</u>
+      <u who="ZASTROW">I’m sure it was mentioned at the time. There was some fool—it might have been [General] Curtis [E.] LeMay—who wanted to bomb the country and pave it over.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">There were people like ex-General Edwin [A.] Walker, who, along with the John Birch Society—I guess that was probably a little earlier—who were these rabid anti any kind of Vietnam, but we had to go and “stomp out communism before the communists were at the beaches in San Francisco.”</u>
+      <u who="WEINSTOCK">Did you buy that argument?</u>
+      <u who="ZASTROW">I’m sorry, what?</u>
+      <u who="WEINSTOCK">Did you buy that argument? What—what were your thoughts about the—the Red Scare, as it were?</u>
+      <u who="ZASTROW">No, I was very much anti war at the time.</u>
+      <u who="WEINSTOCK">Sure.</u>
+      <u who="ZASTROW">And probably taught that in my English classes. I remember some student from Indianapolis, which is the home of The Indianapolis Star, a in those days staunchly conservative (and that is polite) newspaper, and I’ve said something about it, and he told me, “It was in The Indianapolis Star, so it must be true.” And he kept telling me—</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">—that. “Sorry, I read the Kentucky—The Louisville Courier-Journal” [chuckles], which was in those days quite a progressive newspaper.</u>
+      <u who="WEINSTOCK">And so what—what was your status in the military at the time? Were—were you get a grad school deferral or deferment, rather?</u>
+      <u who="ZASTROW">A grad school deferment, which meant I had to report to Fort Benjamin Harrison [in Indiana] once a year for a physical. And it was pretty much an automatic deferment for up to—I think it was up to eight years.</u>
+      <u who="WEINSTOCK">So did you still—did you still think you were pretty much in the clear at the time, that you really wouldn’t have to go over there?</u>
+      <u who="ZASTROW">You know, because—as I say, I—I reported for a physical once a year. I didn’t really pay a whole lot of attention to the fact that I was in reality obligated to the military. It was way back on the back burner, and I seldom thought about it.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">I of course paid attention to what was going on in the world and was aware of the increasing American involvement. My friends who had—who had gone through ROTC with me at Dartmouth had gone into the military immediately and spent a year or two in Germany and, of course, were now long out of the military. 
+
+I was aware of it, but, again, I didn’t feel any personal connection to it.</u>
+      <u who="WEINSTOCK">Sure. What—what about as, you know, things, like you said, begin to heat up a little bit? You know, in ’65 we get the—the Battle of la Drang. Did you have a sense that things were becoming a little more eminent—imminent? Sorry.</u>
+      <u who="ZASTROW">Well, of course, I followed the news and was—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—reasonably aware of what was going on in Vietnam. I was also very much against the fact that we were continuing to put more and more people in Vietnam. Obviously, U.S. troop strength was growing. I guess it was sometime around then when I actually started paying attention to what we were doing there, how we had kind of put the Vietnam—the South Vietnamese government in place and then had it call for us to help them, and thinking that somehow this wasn’t exactly  the right way to do things.
+
+I think I must have—well, [the Battle of] Điện Biên Phủ would have been long before then. But, I mean, I started being more and more aware of the history, with [President Dwight D.] Eisenhower having called Hồ Chí Minh the Washington of his country, the fact that the U.S. involvement in Vietnam had been pretty suspect for a long time and now was getting more so.</u>
+      <u who="WEINSTOCK">Sure. And so how—how much longer did you continue to be at Indiana? What—what did you do in the mid-’60s?</u>
+      <u who="ZASTROW">Well, I was taking graduate school classes. I got a master’s degree. I studied for a Ph.D. I took the Ph.D. qualifying exam. I was working on a Ph.D. thesis. And then the military said, “It’s time!”</u>
+      <u who="WEINSTOCK">When—when did they do that?</u>
+      <u who="ZASTROW">Must have been sometime in 1960—toward the end of ’67? Maybe September or October of 1967.</u>
+      <u who="WEINSTOCK">What happened after they came knocking?</u>
+      <u who="ZASTROW">Well, they sent me, ord- —I had to go to Fort Benjamin Harrison and take a physical exam again. But eventually sent me to officer basic at Fort Benning, Georgia, and it seems to me that would have been—hmm—’67?—’68, the beginning of ’68. And I spent a couple of lovely months in Georgia, again taking military classes. You’ve probably never taken a military class, have you?</u>
+      <u who="WEINSTOCK">[Chuckles.] Only history.</u>
+      <u who="ZASTROW">These are the kinds of things where they give you the answer ahead of time and then they’re supposed to teach you so you can write down the right answers? Military classes are—are really kind of stupid. And because I’d once a week get together with choir up at Great Lakes Naval Training Center [sic; Station], a choir of recruits were now going through their own basic training. I find that they’re still doing exactly the same sort of thing, and when I happened to run into one who was a little bit smarter than the others, he will tell me, “Why am I teaching these classes? They’re such a waste of time! I could do this all in an hour.”</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">And he’s right.</u>
+      <u who="WEINSTOCK">Just jumpin’ through the hoops, though, right?</u>
+      <u who="ZASTROW">Yeah. Military classes are—are geared to the lowest common denominator, and if you start taking them, you get used to that.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">This is beside the point. So I went through Army basic training and then had orders to go to Fort Leavenworth, Kansas!</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">Where I worked for—Fort Leavenworth is a very strange base. It had no real soldiers there except the ones who were playing “guarding the base.” It was basically a school for upper-level officers, the command and general staff college.</u>
+      <u who="WEINSTOCK">Was it a prison yet?</u>
+      <u who="ZASTROW">The prison was there.</u>
+      <u who="WEINSTOCK">Okay.</u>
+      <u who="ZASTROW">That kind of a prison territory. The Kansas prison is near—the federal prison that’s Leavenworth was there. There was the Leavenworth DB, the disciplinary barracks, which was the military prison was there. The Kansas state prison was right down the road. 
+
+Anyhow, they also had a group called—it was called ICAS [sic], Combined Arms and Services [sic; U.S. Army Combined Arms Center]—I can’t remember exactly what the name of it was. But its job was to write field manuals. Well, field manuals are kind of the Army’s version of—of classes, except written down.
+
+
+
+But anyhow, because I had an advanced degree in English and had been teaching English, I went to work for their field manual section, and actually the person—I was at that point a first lieutenant. I’d been promoted because I was gaining time and service all the way through graduate school, much to my surprise.</u>
+      <u who="WEINSTOCK">Just going for your annual checkup. [Chuckles.]</u>
+      <u who="ZASTROW">Right. And in fact, the first time I got paid at Fort Benning, I went in and said, “Look, you’re giving me much too much money.”</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">I would never do that now, but then I did.</u>
+      <u who="WEINSTOCK">[Laughs.]</u>
+      <u who="ZASTROW">And they said, “Oh, no, you have—you’re a lieutenant, but you have over eight years of service,” because they had started the service from when I got my commission at Dartmouth in June of 1961. 
+
+Anyhow, I did a lot of proofreading of field manuals. I was a first lieutenant. The person next to me in terms of rank was a major who had spent already 16 years in the military, so I was very much the junior officer, so among other things, I got the job of—the Army had just decided that they had to figure out how much time people spent on things, so I had to go around to all the people and say, “Okay, how many hours did you spend working on this field manual?” “How many hours did you spend on this one?” “How many hours did spend”—well, you know, that sort of thing.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">So I did all of that, and eventually one of the colonels left to go run an artillery battalion in Vietnam, and so they gave me his job, which was to write this strange field manual, which would tell you things like: “If you have to move a battalion of troops 100 miles in the rain, where there are no railroads and the roads are paved with such-and-such,”—it would tell you how long that would take. It was a book of many, many tables. “How many bullets are you going to fire in this kind of conflict or that kind of conflict?”</u>
+      <u who="WEINSTOCK">So pretty dry stuff.</u>
+      <u who="ZASTROW">Hmm?</u>
+      <u who="WEINSTOCK">I said, “Pretty dry stuff,” yeah?</u>
+      <u who="ZASTROW">Yeah, pretty dry. But along with this came a contract, which was Booz Allen and Associates [now Booz Allen Hamilton Inc.], who in those days were a fairly major military contractor and had an office in Kansas City, and I would go down there several times a week to—I would be taken down there, because I could have a military driver, since this was such an important job. And we would talk about them coming up with all these ways to get the information we needed. 
+
+Several times, I would fly to Washington [D.C.] and go to the Booz Allen headquarters, this amazing building someplace near CIA [Central Intelligence Agency] headquarters, where you would walk down the hall. All the doors would have “Admiral So-and-so,” “Retired General So-and-so,” “Retired”—who were all officers of the company at the time.
+
+And we would have big meetings and discuss this figure and that figure from the field manuals. And they were doing a major survey, where every junior officer in Vietnam was supposed to say, “This is how many bullets we used this year” or this month or this day, “when it was raining and when there were no enemies to be seen”—or whatever.
+
+And they would fill these out. These papers would be stored in Vietnam. In fact, a whole silo full of them burned up because the bad guys came and blew up U.S. helicopters and these things caught on fire. So, of course, we had to start the whole survey over again. You know, that kind of ridiculous nonsense.</u>
+      <u who="WEINSTOCK">Right.	And so did you continue to be at Leavenworth?</u>
+      <u who="ZASTROW">I was at Leavenworth until I got orders to go to Vietnam, which would have been in December of 1968. Now, there’s a—</u>
+      <u who="WEINSTOCK">Can you tell me a little bit—</u>
+      <u who="ZASTROW">Let me tell you a side story first.</u>
+      <u who="WEINSTOCK">Please.</u>
+      <u who="ZASTROW">While I was still in graduate school and spending the summer in Kentucky, in our house in Fort Thomas, I had written a letter to the local newspaper, The Cincinnati Enquirer, saying, “Vietnam is a terrible thing. It’s the wrong war for the wrong reasons and the wrong place at the wrong time,” laying out all the reasons that those of us who were against the war back then used.
+
+Anyhow, the Army of course had discovered this, and—“We’re not going to give” me the necessary clearance to work on the field manual that I mentioned a little while ago. So they convened a group of officers. There were about eight of them: a general, who was the general of the base, and a number of colonels and some lieutenant colonels, all of whom had been to Vietnam at some time or another, to convince me that Vietnam wasn’t a bad idea and I should go there and see for myself,—</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">—that the U.S. government was really working the will of the South Vietnamese people. And after two or three hours of this, I said, “Okay.” So when the orders came to go to Vietnam, my commanding officer said, “Well, look, I have friends who could change these orders for you, but I think you should go to Vietnam.” And so that’s what happened. Now what was your question? </u>
+      <u who="WEINSTOCK">So what happened next?</u>
+      <u who="ZASTROW">Hmm?</u>
+      <u who="WEINSTOCK">Well, yeah. I mean, I was going to ask kind of, you know, how—how it all came about. What was your reaction upon hearing those orders? Did you—did you ever have any idea of about, you know, taking drastic action, going to Canada or something like that to get out of that duty?</u>
+      <u who="ZASTROW">No. I don’t know if this makes any sense or not, but in fact I was kind of comfortable with the Army life I was living at Fort Leavenworth. I was doing jobs that were way above my pay grade. People liked me. We had lots of parties. Because I was one of the few eligible young officers, colonels’ wives loved for me to meet their daughters. It was—despite the fact that it was the military, it was a pretty comfortable existence. I lived well. I got paid well. Everything was taken care of for me.</u>
+      <u who="WEINSTOCK">Sure.</u>
+      <u who="ZASTROW">The idea of continuing to be in the military was not that unpleasant.</u>
+      <u who="WEINSTOCK">Right. Can you</u>
+      <u who="ZASTROW">Now, what did I expect to find in Vietnam? I really didn’t know.</u>
+      <u who="WEINSTOCK">Right. And before we move on to that—</u>
+      <u who="ZASTROW">My idea—my idea of Vietnam was the big picture.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">We shouldn’t be there, and these were all the reasons we shouldn’t be there. they weren’t the little picture, which was, “God, it’s hot!”</u>
+      <u who="WEINSTOCK">Yeah.</u>
+      <u who="ZASTROW">“And it doesn’t smell good. And shooting people isn’t fun.”</u>
+      <u who="WEINSTOCK">Right. And before we get to Vietnam, you know, you said you had some parties on the base, and you also said that, you know, your interest in music was alive. What was it like being in the military while the sort of counterculture movement is—is getting under way?</u>
+      <u who="ZASTROW">[Laughs.] You couldn’t believe the comments that all of these fine officers at Fort Leavenworth during the Democratic Convention of ’68—</u>
+      <u who="WEINSTOCK">Can you tell me about it?</u>
+      <u who="ZASTROW">Sure. It was simple. You’d form up a group of soldiers, and go in and you’d wipe them all out. They found it absolutely hilarious when Jackie Kennedy [Jacqueline B. Kennedy Onassis] was going to be married to—what was his name? Aristotle Onassis. This was kind of—it means nothing today, but then it was pretty much: This is the end of the Kennedy era.
+
+Of course, protesters—I was personally happy to be a protester.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">I had long arguments with all these people who were far above me in terms of rank, and because they liked me and because I did a good job and all of that sort of thing, they were always companionable arguments. I mean, they were well aware that I didn’t have much use for a lot of the things they thought. 
+
+I still remember one lieutenant colonel whom I used to go out and eat lunch with, explaining to me that one of these days, the military was going to take over the United States government. And as much as he would have agreed with that, he would have to fight against them because that was the American thing to do. And he meant it!</u>
+      <u who="WEINSTOCK">Right. Wow.</u>
+      <u who="ZASTROW">People were seeing—the military people I was with were seeing a revolution being fomented that, of course, they would have absolutely no use for and in fact they’d want to do in.</u>
+      <u who="WEINSTOCK">Right.
+
+Well, so it’s—it’s—it’s late December now, and you—you found out you’re going over to Vietnam. When do you actually leave the country?</u>
+      <u who="ZASTROW">I was—I started there on December fifth. Prior to that, I spent—oh, what was it?—a week, two weeks? I can’t remember anymore—at some like fort out in the middle of Kansas in Vietnam training, which was supposed to acclimate you to what you were going to find once you got to Vietnam. And about all I can remember from it was that we spent a lot of time in the officer’s club, drinking, and that you were not supposed to throw away batteries because the bad guys would get them and use them to blow you up by attaching mines to them. And you had to watch out for the holes that the bad guys would dig and then put spikes in the bottom of them and dip the spikes in some kind of animal shit, if I recall correctly, which would then poison you when you fell in the hole and became impaled on these spikes.
+
+So in other words, it was not a terribly memorable acclimation experience.</u>
+      <u who="WEINSTOCK">Wow. Yeah. Can—can you tell me a little bit about the actual journey over to Vietnam?</u>
+      <u who="ZASTROW">Yeah. It was on a Braniff [Airways, Inc.] airline [sic; airplane]. “We wag our tail for you” or something like that.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">I can’t remember. It was something like that, was its motto in those days. It was a normal airplane flight. We stopped in Hawaii, I think. We stopped in Hong Kong. And eventually we were—the stewardesses, I do remember, were all very old, which I found out later was true because they got some kind of combat pay, so the senior stewardesses would all try to grab those flights. 
+
+And it didn’t really sink in what we were doing until we flew over what would have been the border of Vietnam, and you could see little explosions down beneath, down below, which were firefights or—I would have found out later would have been American bases periodically just fired off all their artillery in hopes of dissuading the enemy from doing any kind of attacking. It would have been very noticeable from the air, because we arrived—I don’t know—in the middle of—early in the morning, two, four, five o’clock in the morning, something like that.
+
+And we arrived at beautiful Tan Son Nhut Air Base.</u>
+      <u who="WEINSTOCK">[Chuckles.] Can you tell me a little bit about arriving there?</u>
+      <u who="ZASTROW">Got off the airplane. We went to barracks. Of course, officers had special barracks to go to. There was an officers’ club there. This is beginning to sound like it was a very special sort of treatment, which it is true for military officers, by and large, [coughs] excuse me, live a whole lot better than their troops, though not so much in Vietnam. It was an air-conditioned officers’ club, where some of us spent some time.
+
+We kind of hung out in these barracks. We would see planes come in, and eventually we were shipped by bus to Biên Hòa [Air Base], which was one of the primary incoming centers. I remember the buses having wire on all the windows because as—some sergeant who was in charge of our group no doubt took glee in telling us, “Little kids used to throw rocks at the buses as they went along,” which is why they were wired windows.</u>
+      <u who="WEINSTOCK">Huh.</u>
+      <u who="ZASTROW">At Biên Hòa we spent several days while they tried to figure out what to do with us, and eventually we had sign up—well, not sign ups. [Unintelligible] told us where we were going.</u>
+      <u who="WEINSTOCK">And where were you assigned?</u>
+      <u who="ZASTROW">I read mine, and it said, “The 1st Air Cavalry Division [sic; 1st Cavalry Division (Airmobile)]. And I said to myself, Oh, I don’t think I really wanna go there.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">But since I didn’t have a whole lot of choice, I went there. And I got on a helicopter and went from Biên Hòa to Phước Vĩnh, which was in those days the headquarters of the 1st Air Cavalry Division.</u>
+      <u who="WEINSTOCK">And why—why when you got your assignment were you apprehensive about being in the 1st Air Cavalry? Did—did they have a reputation?</u>
+      <u who="ZASTROW">Oh, I heard about them. They had—one of their major activities of the recent past was la Drang Valley, and before that—where the hell were the Marines up north? Khe Sanh,—</u>
+      <u who="WEINSTOCK">Khe Sanh?</u>
+      <u who="ZASTROW">—where the famous line was—the Marines, of course, who were besieged there for weeks and weeks and weeks, and suddenly, then they said, the sky turned black with helicopters. And that was the 1st Cav coming to save them, which in fact they did. Helicopter—air mobility helicopters were still new, and the Cav was I think the first division ever to be an air mobile division. We had 400-and-some-odd helicopters, of which maybe 200 would actually be working on any given day, because they broke a lot. But the Cav had a reputation already and had just recently moved from Khe Sanh and the la Drang Valley to the area just north of Saigon, with the mission of preventing the bad guys from infiltrating the Saigon region.</u>
+      <u who="WEINSTOCK">Can you tell me a little bit about your—your—your duties at Phước Vĩnh [Base Camp] with the 1st Air Cav?</u>
+      <u who="ZASTROW">Oh, well, I started out going to a place called An Lộc, which was an old Cav base up in the middle of the country, where we spent—oh, I don’t know—a week learning how to be Cav troopers. And, you know, we got outfitted. We got our weapons and all that sort of stuff and had to—to zero in our rifles. Anyhow—
+
+So eventually I was—at Phước Vĩnh I went to their admin section. God, I still remember vividly walking from the helicopter pad to where their administrative offices were, which, I don’t know, was a quarter of a mile—not any great distance, and just being absolutely covered with sweat, it was so hot. And I could not understand how I was going to live through a week there, much less a year! But, of course, I did.
+
+And I got there and was sent out—I worked with helping to supply company in the 2nd and the 5th Battalions for a while. Parenthesis: The rank of first lieutenant is one of the Army’s in-between ranks, and if you’re second lieutenant you can command the platoon, and as a captain, which is the next higher rank, you can command a company and so forth up the line.
+
+A first lieutenant is in between, and while I was sent out—did in fact run a company for, oh, probably a week and a half because their company commander was off on leave or something and we certainly didn’t do much in the week and a half I was there, except stay out of the way of the bad guys.
+
+After probably a month of bouncing around, being a supply officer for a while, they sent me to the information office, which had a building or tent—I can’t remember which anymore—at Phước Vĩnh, and I was—reported in and was told that I was going to lead a brigade of information officers and that I should go to the three brigades in the cavalry division. I should go to each of them and see what the information officer did at each one of them. Which I did.</u>
+      <u who="WEINSTOCK">So—</u>
+      <u who="ZASTROW">One of the interesting things you did in Vietnam is you went to the local helicopter port and kind of shouted at the helicopters that were taking off, “Where are you going?” And if there was room, you got on and went.</u>
+      <u who="WEINSTOCK">So—</u>
+      <u who="ZASTROW">What was the question?</u>
+      <u who="WEINSTOCK">Well, I was going to say—but before you—you went to the—the information office, can you tell me any sort of particular memories from the month that you were being shuffled around as a first lieutenant?</u>
+      <u who="ZASTROW">Uhh! That’s a pretty dim period of time, because I never really knew what I was doing.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">Let’s see, I remember being in the jungle as a acting company commander, but I pretty much relied on the company’s first sergeant, who knew what was going on when I didn’t,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—and he told me what needed to be done, and I would give the necessary orders to do it. Because of the way the war was set up, we would have a company on the ground, supposedly in a particular location, and flying overhead would be the battalion commander, and flying over his head would be the brigade commander, and maybe, if it was an interesting sort of activity going on, the division commander would be in—so there were levels of helicopters further and further above what was going on.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">The way the jungle was set up was there was no way in the world they could see where we were. Periodically, we were supposed to “pop smoke,” let off a smoke grenade, which would locate us. And they would do that more or less regularly. We would get sometimes communications from these various command levels. But this was in the days before cell phones. It was in the days before radios worked terribly well. So you could kind of ignore the commands because you could always say, “Oh, that didn’t come through.” And it was often true: It wouldn’t come through. You would get nothing but static.
+
+So we were supposed to be interdicting known trails, so we would find a trail, which would be a little path that looked like, you know, ones that when you were a kid you made in the woods.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">And we would put our company across it, and the—or we would set up ambushes along this trail. And, of course, the—the Viet Cong were well aware of what we were doing, and they wouldn’t come down this trail; they’d take another one.</u>
+      <u who="WEINSTOCK">[Chuckles.] So they were a step ahead of you.</u>
+      <u who="ZASTROW">Hmm?</u>
+      <u who="WEINSTOCK">They were a step—they were a step ahead of you, it seems, yeah?</u>
+      <u who="ZASTROW">Oh, always. Of course they were. It was their country. Why wouldn’t they? I can’t think of any particularly amazing events that took place during that time. I know I certainly worked to make sure there were no events taking place. Being—</u>
+      <u who="WEINSTOCK">Right, so it’s a good sign, yeah.</u>
+      <u who="ZASTROW">We used to hold what were called “search and avoid” missions, which I suspect the Viet Cong were doing also. And if we were successful, we would all avoid one another, and that’s fine.</u>
+      <u who="WEINSTOCK">So to--to clarify that, the orders from above would have been to, you know, implement some sort of search and destroy assignments, right? You were meant to actively seek engagement, correct?</u>
+      <u who="ZASTROW">Well, not so much so, because what we were doing was keeping them from coming further south so that—</u>
+      <u who="WEINSTOCK">Okay. </u>
+      <u who="ZASTROW">—we would set up ambushes on trail and so forth. That wasn’t really a search and destroy mission; it was—I can’t remember what they called it. But it was a little different than search to destroy. Because we were or tended to be pretty much stationary, and every time somebody would find a new path, we would send a platoon over to take care of that path and so forth. But that—that—it was pretty unexciting in terms of—of being gung-ho military,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—which I can’t recall any of us were. But even if we had been, there wouldn't have been a whole lot for us to do,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—given the nature of—</u>
+      <u who="WEINSTOCK">But—</u>
+      <u who="ZASTROW">—assignment at the time.</u>
+      <u who="WEINSTOCK">But like you said, you were—you would—you were actively seeking to avoid engagements.</u>
+      <u who="ZASTROW">Personally, yes.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">And I was quite proud of getting nobody shot.</u>
+      <u who="WEINSTOCK">Yeah! That sounds like no small feat over there.</u>
+      <u who="ZASTROW">[Laughs.] Well, it was easier than it sounds like because a good bit of the time it was search and avoid, and that wasn’t just us.</u>
+      <u who="WEINSTOCK">Right.
+
+So moving forward to your time with the information office, can you tell me what your initial responsibilities were there? And this was still at Phước Vĩnh, right?</u>
+      <u who="ZASTROW">Well, it started at Phước Vĩnh. Then I was sent to Tây Ninh [Combat Base], which was where one of the brigade headquarters was; to Quần Lợi [Base Camp], which was another one, and there was a third one that I can’t even remember where it was. Anyhow, I went to all of them to find out what their information officers were doing, which wasn’t much. 
+
+And eventually I got sent to the 2nd Brigade information office. And the person who was there as the information officer went home. One of the beautiful pictures of Vietnam, which I can still remember, was during one of these times when I was waiting for a helicopter at Biên Hòa, at the air base there. Or maybe it was at Tan Son Nhut [Air Base]. I don’t remember. In any case, there were troops just coming, the people who were newly in country, and, of course, another set of troops who were just leaving and wishing the ones in country—just coming in, “Merry Christmas.”</u>
+      <u who="WEINSTOCK">So you were—you visited—</u>
+      <u who="ZASTROW">That’s all. [Unintelligible]. Go ahead.</u>
+      <u who="WEINSTOCK">You—you visited many different information offices and, you know, given the name, it sounds like in—in theory, these offices should all be on the same page. In really, was—was that your experience?</u>
+      <u who="ZASTROW">Well in reality, they didn’t whatever the person who was in charge of them had them do. We had—during the time I was at the 2nd Brigade, we had, at the most, two photographers, two writers and maybe a sound person who would go out with a tape recorder, and for a while, we had someone who went out with a movie camera.</u>
+      <u who="WEINSTOCK">And what—what was the—the end goal of these little—these little groups? Were you providing information to the—the brigade? Was this information to go back home?</u>
+      <u who="ZASTROW">The information was to go back home. We were publicizing the great activities of the 1st Air Cavalry Division. We also—when anybody came in country, they were supposed to fill out a little form saying where were you from, what high school did you go to, that sort of thing. And we were supposed to get these regularly and send them in with a little paragraph saying, “Mr. So-and-so, a recent graduate of So-and-so High School, is now a distinguished member of the 1st Air Cavalry Division.” His company—this brigade—“fighting for freedom and justice and the American way.” And these were called hometown news releases, and these were sent to (as you might guess) hometown newspapers.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">Which, if they were hard up for news, they would put a little blurb like that in the paper. And three months later, whoever it was would get a letter from their mother saying, “Oh, look! I saw”—and we would have accomplished our task.</u>
+      <u who="WEINSTOCK">And what—what was that process like? What—what was your individual role in all of this?</u>
+      <u who="ZASTROW">We would write these things up. We would send writers and photographers out with the companies of the 2nd Brigade, or I would go myself, and we would attempt to discover stories. Well, what stories were depended. We had one enterprising young man who found out that a group had been—a platoon; It might have been only a squad—had been on watch someplace, and somebody had noticed hostiles creeping up on them. Well, not wanting to move in such a way as to get them all shot, he started whistle, “Hey Jude.”</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">And in some way alerted the other people the bad guys were coming, and they managed to all be saved. Well, I mean, it was a stupid story, but because of the “Hey Jude” bit, it suddenly became kind of catchy and interesting. So this was the kind of story we would send. It would either be in the local Cav newspaper or, if it was really good, it would go in the quarterly Cav magazine, or it would be sent to Stars and Stripes, which was the newspaper that went to all the military in Vietnam.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">And if it was extraordinarily good of course, it would be sent back to people like the Associated Press and the United Press [International] and so forth. 
+
+So we went out looking for stories like that. We had to fill up space in the newspaper. I remember we were stationed—which place was it? I think it was at Quần Lợi—in what had been the Michelin Rubber Plantation. Well, I discovered, from driving around, that there was still a rubber factory there. Everything, of course, had been destroyed except for this one little factory that was still manufacturing rubber products. Well, that was good for a long story, and we talked to the people at the rubber factory—you know, all of that kind of stupid stuff that you do to fill up space.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">We also were involved with any time a television or newspaper or a magazine writer from back in the States wanted to see what was going on, we would shepherd them around to the various companies, where they could see whatever kind of action they wanted to see.</u>
+      <u who="WEINSTOCK">Did it feel manufactured at all?</u>
+      <u who="ZASTROW">I’m sorry, what?</u>
+      <u who="WEINSTOCK">I said, “Did it feel manufactured at all?” Did it—did it feel very kind of mechanical, the way you were reporting these stories and showing people certain places?</u>
+      <u who="ZASTROW">Well, I don’t if I would say “manufactured” is the right word. It was—some of the stories were actually kind of interesting, and they were good human interest stories. Lots of good pictures of—of people looking in caves, where there might have been a Viet Cong a week ago. 
+
+I can recall at one point we were stationed in Sông Bé [Base Camp], I think, and there was a whole, large territory south of where we were that didn’t belong to anyone.  It was basically just Vietnamese who lived there. Well, the powers that be decided it was probably a hotbed of—of Viet Cong activity, so we dropped many bombs on it and had a program which at the time was known as Chiêu Hồi, which meant people could come into an American base and they would be taken care of.</u>
+      <u who="WEINSTOCK">Right, open arm—</u>
+      <u who="ZASTROW">They would be relocated.</u>
+      <u who="WEINSTOCK">This is the open arm—the open arms program?</u>
+      <u who="ZASTROW">That’s exactly it. So at the time, because we were dropping bombs, a number of these people were in fact coming into the American center, which was in—might have been Sông Bé city; I can’t remember for sure. But in any case, there were a lot of them. There were, like, hundreds. And we would send helicopters out, and they would be filled with these poor souls who were bleeding from their ears because of the American bombs. And we would see that they would be brought to this resettlement center.
+
+Well, this was kind of big news at the time, and a number of newspapers and magazines, and TV, came out. They would arrive at our headquarters, and the headquarters would send them to our brigade headquarters, where I would happily meet them, and I would requisition a couple of Jeeps to drive from our base into town so that they could see these people who we were saving from the evils of the Viet Cong.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">Well, I can recall doing that. And this was going on at the same time when I Cav-based—at some location I no longer remember where; it was a helicopter base—had been infiltrated by a couple of Vietnamese kids, who had been playing along the fence and had dropped matches by the fence, which eventually ended up blowing up tons and tons of helicopter fuel, along with the many helicopters that were there.
+
+And it was sending billows of smoke—although we were 20 miles, 30 miles away, you could see these columns of smoke rising. Not one of those reporters who was coming to talk to the Chiêu Hồis ever even asked about this.</u>
+      <u who="WEINSTOCK">Why was that?</u>
+      <u who="ZASTROW">Because that wasn’t what they were supposed to be doing!</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">They were there to—</u>
+      <u who="WEINSTOCK">What do you mean by that?</u>
+      <u who="ZASTROW">Well, they were there to see the wonders of the Cav, all the good things we were doing to save the people from the evil enemy. They were not supposed to be noticing that the U.S. military was screwing up royally because they didn’t have a guard in front of where two kids were playing near helicopter fuel.</u>
+      <u who="WEINSTOCK">So—</u>
+      <u who="ZASTROW">Well, let me tell you one more example. Just—</u>
+      <u who="WEINSTOCK">Please.</u>
+      <u who="ZASTROW">We—we were told that one of the companies had discovered a—I don’t remember if it was sort of a cave or a bunker that had been a Vietnamese shelter and that there might be things left in there that were important. So I got in a helicopter—there was a company on the ground that was supposed to secure the area, and I got in a helicopter with I think they were TV people who were going out to film U.S. troops going into this bunker, whatever it was, to capture these important documents. Who knows? Maybe dead bodies.
+
+And the company commander was with us because we had to circle the area, and he could see if there were any bad guys trying to get back in to prevent his troops from this wondrous deed.
+
+So we get off—the helicopter lands, and we get off, and this captain, the company commander, who was a brand-new captain, takes his steel helmet and, because he wasn’t going to need it since he had seen there were no bad guys there, he put on his captain’s hat and gently throws the helmet back to the people in the helicopter and, of course, throws it right into the blades of the helicopter,—</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">—which sent shrapnel in a number of directions and did no good either for the helicopter blade nor for the helmet. Well, this was a problem because here were these TV people, but, no, they weren’t going to take pictures of that. “Let’s go over here and look at this bunker, where there may be important enemy documents.” And I think there were something like—the ledgers—the Viet Cong were kind of famous for keeping diaries, and there were some in there, I think, and, oh, probably zero military value.
+
+But my job was, as an Army captain with nice little tire—railroad tracks on my uniform, to stand around to make sure that anybody these people interviewed said the right thing.</u>
+      <u who="WEINSTOCK">Huh! So it sounds like both the reporters and you had—had a very set agenda.</u>
+      <u who="ZASTROW">Yeah. I would go every evening to the local brigade commander’s briefing, where people told him what had gone on during the day and got reports from the various people who were working for him. And I would periodically be asked, “Now, this television person”—I can’t even remember who they were anymore—“is said to be coming out here. We’ve heard that he says very bad things about the U.S. involvement in Vietnam. If he comes here, what should we do with him?”
+
+And when that happened, all of a sudden, my ability to find a helicopter to take someone somewhere would disappear. “Well, I’m sorry, they’re all in use” or “They’re all broken” or something.</u>
+      <u who="WEINSTOCK">Very conveniently.</u>
+      <u who="ZASTROW">This was not as simple as it sounds, because, of course, those of us who were there working on this had no idea what was going on in terms of newscasts back in the States. We, of course, never saw an American newspaper. Our information source was maybe Stars and Stripes, which we would get periodically. Sometimes we wouldn’t see it for a month at a time.
+
+There was no such thing as television, of course, and our only other source of information was the American Force’s Radio [sic; U.S. armed Forces Radio and Television Service], which mostly played music and certainly put out the company line whenever they were talking about what was going on in the field.
+
+This was also during the period when we would drop bombs, and that would be followed by a BDA, a bomb damage assessment. And so these little helicopters—they were called Loaches [Hughes OH-6 Cayuse]—they only—they had room for maybe four people. I can’t remember whether it was two or four. They were just little helicopters with kind of a bubble top. And they looked like mosquitoes from a distance. Would fly over the area and count bodies. Well, as you might imagine,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—this was a fairly subjective sort of thing, that you found a leg somewhere because a bomb had torn somebody apart, or you could count the leg, but then you don’t count the arm and—needless to say, these were very strange assessments sometime. But we would have them all listed for the brigade commander at the briefing that night. And we would find out whether the brigade had had—</u>
+      <u who="WEINSTOCK">Sure.</u>
+      <u who="ZASTROW">—a successful day, and how many people we’d killed.</u>
+      <u who="WEINSTOCK">Huh.</u>
+      <u who="ZASTROW">Someplace along the line I should tell you we became politically correct, and they were no longer “dinks,” which was how it was put up on the board for briefings: “Dead Dinks.” And they became “hostiles.” That’s all.</u>
+      <u who="WEINSTOCK">When did that happen?</u>
+      <u who="ZASTROW">I’d like to say maybe May or June. </u>
+      <u who="WEINSTOCK">And so how—</u>
+      <u who="ZASTROW">If I had had a wider view of the war, which I got much later, but if I’d had a wider view of the war then, I would have realized this was the beginning of the attempts at Vietnamization of the war. You know, [cross-talk; unintelligible]—</u>
+      <u who="WEINSTOCK">Right. Can you tell me about your understanding of that process?</u>
+      <u who="ZASTROW">Vietnamization?</u>
+      <u who="WEINSTOCK">Yeah.</u>
+      <u who="ZASTROW">We didn’t see any of it. We were—the 1st Air Cavalry Division was known at the time as being particularly ferocious. Other divisions would have a company go into a [cough], go somewhere near a village and would have shots fired at them from the village, and they would go into the village and try to pacify it. The Cav, if there were shots fired from a village, would go in and blow it away. </u>
+      <u who="WEINSTOCK">Wow.</u>
+      <u who="ZASTROW">So Vietnamization—and pacification, for that matter—while they were terms we were aware of, they didn’t mean a whole lot because we didn’t change the way we operated. From what I could see, from where I was—and, again, you know, I was looking at a very tiny segment of the war, though probably more—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—than I would have if I had been an infantryman walking around the jungles, trying to avoid getting shot. But still pretty narrow.</u>
+      <u who="WEINSTOCK">Can you—can you tell me a little bit—can you tell me a little bit about your thoughts on your role of providing these very sort of manicured stories for the reporters? Did you feel any sort of moral obligation to actually tell the truth, or were you just following orders?</u>
+      <u who="ZASTROW">Well, I was following orders, and at the same time, we would, whenever possible, get together with these reporters off camera and tell them, “We think this really sucks.” And they would normally—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—say the same thing. This not only works for the stories that reporters would do; it worked for the stories we did. We had one wise-ass sergeant who was a writer for me, and he wrote what was actually a very nice sort of piece about troops sitting around, talking about home and reminiscing about their high school days and so forth, kind of sitting around a campfire at night after being on patrol all day. And it was rejected by the censors, who said, “You can’t really talk about people longing for home.” So he changed It [chuckles] and rewrote the story, saying they were singing “The Star-Spangled Banner.” And it was published.</u>
+      <u who="WEINSTOCK">[Laughs.] So that’s a pretty big change.</u>
+      <u who="ZASTROW">Yeah. It was a little more subtle than that, but essentially that was it.</u>
+      <u who="WEINSTOCK">Yeah.
+
+Well, so did you continue being in the information office until you wound up leaving Vietnam?</u>
+      <u who="ZASTROW">Yes. I was in the information office until my last day. [cross-talk; unintelligible]—</u>
+      <u who="WEINSTOCK">Can you tell me a little bit about the—the end of your experiences over there?</u>
+      <u who="ZASTROW">Well, things didn’t change outside of the fact that because we were part of the brigade headquarters, whenever the headquarters moved, we of course would move with them, which meant building new places to stay and putting up more sandbags and all of that sort of stuff. The activities—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—pretty much stayed the same. We would get different officers in. For instance, we had one young lieutenant who joined the brigade as their G5, which was their civil affairs officer. And I remember going with him, because we had blown up a Vietnamese—several Vietnamese families, and his job was to provide I think it was $100 each to the families for their children we had managed to kill. And as not part of the same mission but part of the same money-paying activity, we were paying the Michelin people, the rubber plantation, $1,000 for every tree we destroyed. Well, there was a kind of equality or lack of equality there that was pretty bothersome: a hundred bucks for a kid, a thousand bucks for a tree.</u>
+      <u who="WEINSTOCK">Right. Yeah.</u>
+      <u who="ZASTROW">And there were other little—</u>
+      <u who="WEINSTOCK">Yeah.</u>
+      <u who="ZASTROW">—things like that. We had decided—or the division had decided that this village, the Montagnard tribesmen who lived up toward the Cambodian border were too friendly with the—with the hostiles, so we thought we needed to relocate them. So we put up large tents in an area which at one point had been an American landing zone. And I had my photographers there, as a matter of fact, taking pictures of these people in their ox carts, with their oxen pulling their entire family possessions, which weren’t much, down a road into this place that the 1st Air Cavalry Division had decided they should stay.
+
+Okay, so we were accomplishing this task, and the district chief arrived. Well, at that time I happened to be the highest-ranking officer there, so the first thing they did—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—was the head man of the Montagnard village invited me into his tent with his family and invited me to join them in eating this snake, which they had been broiling on some sticks by a fire nearby. And being the good American, knowing that we had to be nice to the locals, I took a couple of bites of snake, which was not terribly tasty,—</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">—and washed it down with some pretty foul alcoholic beverage that he had in their glass, which I hoped the alcohol was sufficient to sterilize. 
+
+
+
+But after sitting in his tent for a little while, I was invited to the tent of the district chief. Well, he was a government official who we had no doubt helped put in power. He arrived in this beautiful, shiny Jeep. He wore a very spiffy uniform with all kinds of medals and rank and so forth. And they set him up a special tent for his [unintelligible] food, and I was invited in there to drink French liqueur with the government official. Quite unlike the Montagnards, who were now under his authority.
+
+Now, what was your question? [Chuckles.] Now that I’ve meandered far enough.</u>
+      <u who="WEINSTOCK">[Chuckles.] No. No, no, thank you. No, I—I was asking about, you know, any sort of relevant, you know, experiences or memories towards the end of your service over there, but, yeah, the—the soiree, if you will, with the chieftain—it’s pretty telling.</u>
+      <u who="ZASTROW">Well, yeah, there were—there were so many things like either of those stories, that kind of underlined what the U.S. was doing. And these were just the little things. You know, the footnotes you would put in the story of why are we there or why should we not be there.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">But those—those were the kinds of things you could see—again, from a very narrow perspective. The helicopter pilots who were the bank tellers the year earlier. You know, these were young people, at the age of 18 or 19, who were now flying helicopters for the U.S. Army with [unintelligible] pronouncements saying, “Kill all the gooks. Let God sort ’em out,” that sort of thing.</u>
+      <u who="WEINSTOCK">Wow.</u>
+      <u who="ZASTROW">They were now men.
+
+Okay. There was nothing special about the last period of time I was there except relief at leaving. As an information officer, when I’d go out with a company, it might be uncomfortable. We were, it always was uncomfortable, now that I think of it. We’d stomp around in the red mud, and, of course, because there were rainy seasons, you would add a couple of, 20 pounds or so to your footwear as the mud caked on it.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">You would try to sleep someplace that was semi-dry, and you would wake up in the morning wet—no matter what you did to protect yourself—wringing out socks was one of my least favorite activities. 
+
+But during the time we were based at the 2nd Brigade base, we were usually fairly well protected. There was what was called the green line, the series of—of bunkers around the outside of the base. On occasion, I would go out there at night and help guard the base. I wasn’t supposed to, but it was a good thing to do. Back then I could usually find a story out there.</u>
+      <u who="WEINSTOCK">Sure.</u>
+      <u who="ZASTROW">But every once in a while, we’d get mortar rounds in the base. Of course, the big year for [the] Tet [Offensive] was 1968, so I missed that, but a year from then—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—there were many attacks all over Vietnam. And I certainly remember mortar rounds landing on whatever base we were at at the time. But by and large, I did not feel endangered. So I didn’t leave with the feeling of relief that—that the people who were, who thought every day was going to be their last. I did not have that feeling of relief. But I sure was glad to get out of there.</u>
+      <u who="WEINSTOCK">Yeah. Can you—can you tell me a little bit more about leaving, actually leaving the country? Where did you fly to?</u>
+      <u who="ZASTROW">We were supposed to—let’s see, we left—again, I think we stopped at Hawaii. I don’t remember what airline it was. I do remember it was very old stewardesses again. I think we were supposed to land at San Francisco International Airport, and for some reason, weather—I think we couldn’t, and so we ended up at Travis, which was the Ari Force Base.
+
+And we went through out-processing. They asked me if I wanted to re-up. And I think I probably laughed. [cross-talk; unintelligible].</u>
+      <u who="WEINSTOCK">[Laughs.] You were set on leaving.</u>
+      <u who="ZASTROW">I had no intention of staying in. We got paid, all that sort of stuff, and eventually I ended up at the San Francisco International Airport. I think they bused us there. And I wanted to rent a car. That, I do remember because I decided I would go see—I had friends who lived in Palo Alto [California], college roommates, as a matter of fact.</u>
+      <u who="WEINSTOCK">Okay. </u>
+      <u who="ZASTROW">And I went to the rent-a-car, and they wouldn’t let me rent one because I didn’t have a credit card. </u>
+      <u who="WEINSTOCK">Huh!</u>
+      <u who="ZASTROW">I had probably six or seven thousand dollars in cash in my pocket, because I’d gotten paid all the back pay from Vietnam, plus I had on a uniform. I had captain’s bars on the uniform. I had several rows of ribbons. All that stuff. But, no, they wouldn’t let me rent a car.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">So eventually I called friends, and they came and picked me up, and that was that.
+
+I also recall going to [cross-talk; unintelligible]—</u>
+      <u who="WEINSTOCK">So what—what did you do for the next couple of—what did you say?</u>
+      <u who="ZASTROW">Let me finish the story. A couple of days later—</u>
+      <u who="WEINSTOCK">Please.</u>
+      <u who="ZASTROW">—because I was still staying with the same friend, we went to a speech.—it must have been on the Stanford [University] campus—by [Abbot H.] “Abbie” Hoffman, who was, of course, one of the Chicago Eight that—one of the loudest and most obnoxious of antiwar activists at the time. And I was blown away. How could this person talk like this? He said “fuck” in every other sentence.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">But I acclimated, and eventually ended up—so I went home for a little while, then went back to Palo Alto and spent a good deal of time in Haight-Ashbury [a neighborhood in San Francisco], doing antiwar things and going to demonstrations. When Kent State happened, going to the first days at Stanford, when they sent up balloons, and the San Francisco cast of [the musical] Hair came and sang for us—you know it was just—it was a great period of time, of being loosely anti war and kind of hippie-ish.</u>
+      <u who="WEINSTOCK">Yeah. I mean, can you tell me some of your experiences in Haight-Ashbury? You know, I—I have to imagine that was some of the real, real hotbed for radical antiwar sentiment.</u>
+      <u who="ZASTROW">Well, I think they would like to persuade people that it was political, and it was more lifestyle, I think, than anything else, so that if you asked anybody, they would say, “Fuck the war,” in fact they were much more interested in where the next dope was coming from. Or—</u>
+      <u who="WEINSTOCK">[Chuckles.] Yeah.</u>
+      <u who="ZASTROW">I mean that’s just how it was. And I remember thinking at the time, when I [unintelligible] have an answer of—it was a very pleasant place to be in. You felt very comfortable walking around there. And a lot of them had kids, and these were kids who were named Peace or Harmony and—I remember thinking at the time, Now, what are these kids going to grow up to be?</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">And I, of course, don’t know.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">They probably ended up in asylums, though, you know, I really have—</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">—no idea. Friends of mine—again, college roommates, who lived in Palo Alto, had children of that age and were going to the local Montessori school. I still remember going to a fundraiser there when one of the classmate’s father came and played the guitar, and his name was [Jerome J.] “Jerry” Garcia, who of course was—</u>
+      <u who="WEINSTOCK">No kidding!</u>
+      <u who="ZASTROW">—one of the founders of the Grateful Dead. [cross-talk; unintelligible]—</u>
+      <u who="WEINSTOCK">Can you tell me a little bit more about the mu- —</u>
+      <u who="ZASTROW">Hmm? I’m sorry, what? That was an aside.</u>
+      <u who="WEINSTOCK">Uh-huh. No worries.</u>
+      <u who="ZASTROW">[cross-talk; unintelligible]. Go ahead.</u>
+      <u who="WEINSTOCK">Can you—can you tell me a little bit—can you tell me a little bit more about the music of the day?</u>
+      <u who="ZASTROW">Yeah. We several times gathered ourselves and went to the Fillmore West, where you would stand around on the floor and have your eardrums blasted.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">I can’t even remember the names of the—it was some kind of—Morning? Early Morning? Something like that, that was a big group at the time. Cold Blood was another one. I remember [Charles E. A.] “Chuck” Berry being at the Fillmore, beating on a piano. But, you know, of course, Janis [L.] Joplin was around, though I never saw here. A year later, I went to a rock concert. It was called The Atlanta Pop Fest. Of course, it was the wonderfulness of Woodstock [Music &amp;amp; Art Fair] had taken place while I was in Vietnam. We only kind of—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—heard vaguely about that at a great distance. But the Atlanta Pop Festival was an attempt to do the same—something similar a little bit later. It was near Macon, Georgia, and [James M.] “Jimi” Hendrix was playing “The Star-Spangled Banner” at midnight on the Fourth of July, which I, of course, in my drug-induced phase, can still remember.</u>
+      <u who="WEINSTOCK">[Laughs.]</u>
+      <u who="ZASTROW">Richie Havens was one of the people opening it—there were hundreds of thousands of people. And, of course, there was a drug bazaar on the way in, and there was a private swimming club down the way—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—where everybody ripped off their clothes and went swimming in the private club after overwhelming the fence. I, basically there were just so many people that—the police weren’t happy with any of this; there wasn’t much they could do.</u>
+      <u who="WEINSTOCK">Yeah.</u>
+      <u who="ZASTROW">[cross-talk; unintelligible]—</u>
+      <u who="WEINSTOCK">Did it—did it—</u>
+      <u who="ZASTROW">Go ahead.</u>
+      <u who="WEINSTOCK">Did it—did it ever feel like, you know, you—you had sort of missed the heyday of, like you said, Woodstock in I guess more of the peaceful days, you know? I guess you would have been in the country or probably coming right back into the country around Altamont [Speedway Free Festival]. Did—did you have a sense that things were starting to become less peaceful?</u>
+      <u who="ZASTROW">I was in California when Altamont was going on. And I remember reading about it, hearing about it, seeing it on television, and being sorry I hadn’t been there, of course. No, it did not feel like the end; it felt like the beginning. It was just—it was growing. It was going to be a wonderful world,—</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">—and we were going to do not much but eat free food, smoke free dope and listen to lots and lots of free music.</u>
+      <u who="WEINSTOCK">[Chuckles.] So how—how did that continue, then?</u>
+      <u who="ZASTROW">[cross-talk; unintelligible]—</u>
+      <u who="WEINSTOCK">Did—did—did that turn out to be like you expected?</u>
+      <u who="ZASTROW">Not quite. In early 19- —let’s see, I think in—I can’t remember when Vietnam Veterans Against the War put on Dewey Canyon III [an antiwar protest in April 1971 in Washington, D.C.]. Dewey Canyon III? I think that’s right. Which was the veterans, Vietnam veterans going to Washington and throwing away their medals. And their spokesperson was very articulate and talked to the Senate Foreign Relations Committee [sic; U.S. Senate Committee on Foreign Relations] about why we shouldn't be in Vietnam. And it was the first time, really, that—that—that veterans had gotten this involved. There were, I think like, there were over a thousand of them, all going as members of Vietnam Veterans Against the War. And the spokesperson was, of course, John [F.] Kerry, who has since gone on—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—to other jobs. But he was—had been a naval lieutenant in Vietnam and was very articulate. Still is, for that matter. And a lot more was being investigated by a great many people about where this war had come from, not only what we were doing but why. And, of course, the huge demonstrations were just really getting started. There were local ones all over the country. There were huge ones in Washington.
+
+And, I finally decided one evening that—I don’t remember where I heard it, but a group in Cincinnati of Vietnam veterans were getting ready to go on a march to someplace. Oh, I know, to a—some munitions depot in Indiana. And they were having a meeting to talk about this. And so I left my happy home and drove across the river and listened to them talk, and that was pretty much it. I shortly thereafter got involved—</u>
+      <u who="WEINSTOCK">How did—what was your—what was your reaction to that?</u>
+      <u who="ZASTROW">Well, I knew they were right, and I knew that I should do something about it. And so I did.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">And eventually I started writing the local newsletter and eventually became head of the local chapter and got arrested for carrying a flag in a Veterans Day parade—and you know also—which is one of the things that actually got us really off the ground in Cincinnati. And eventually got the job of coordinating a whole region full of chapters of the organization.
+
+And in those days, we had national meetings every three or four months, where you would get people from all over the country, discussing what was going on there and what we could do to “bring our brothers home.” And eventually I got—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—elected to be in the national office of the organization, which at that point had just moved to Chicago, and I had that job for the next 25 years, more or less.</u>
+      <u who="WEINSTOCK">Were you—were you involved with—were you involved with Vietnam Veterans Against the War when the Winter Soldier Investigation was going on?</u>
+      <u who="ZASTROW">No, that was before I started. We used movies from the Winter Soldier Investigation.</u>
+      <u who="WEINSTOCK">Okay. </u>
+      <u who="ZASTROW">I met several times with—well, some of the people who talked—who were talking at that were the people I knew because I worked with them in VVAW. Some of the people who sponsored it, I got to know over a period of time. We met fairly—well, several times, anyhow, with Jane Fonda and ]Thomas E.] “Tom” Hayden, who were at that time working on the Indochina Peace Project [sic; Indochina Peace Campaign]. 
+
+You know, we were part of a coalition of any number of groups who were pretty much all aimed at ending the war, but as time went on, of course, that spread into things like Black Lives Matter. And inequality and—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—gender equality and on and on and on. So we ended up  being—</u>
+      <u who="WEINSTOCK">Can—</u>
+      <u who="ZASTROW">—[cross-talk; unintelligible].</u>
+      <u who="WEINSTOCK">[Chuckles.] Can you—can—can you tell me a little bit about your responsibilities as a national coordinator for VVAW?</u>
+      <u who="ZASTROW">Yeah. When I started, the war was still going on, and we were trying to make sure that it stopped, and in fact “bring our brothers home” was a big part of what we were saying. The organization had gotten—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—a big push from [Playboy magazine founder] Hugh [M.] Hefner, who had published an ad for the organization: “We are the silent majority”—or “This is the silent majority.” It’s a picture of a coffin. “We must speak for them. And it was in Playboy, and as you might guess, Playboy was popular in Vietnam, and this brought in—</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">—thousands and thousands of people, troops in country, writing wives to join the organization. So we were pretty good-sized at the time, and we had a number of people who were doing work at the various military bases. We actually had chapters, fairly secretly, in Vietnam at the time, amongst any active-duty military. But our job was we published a newspaper every month. We of course kept track of what our main chapters were doing, tried to suggest things to do, were involved with the leadership of any number of other organization, particularly in planning things like, for instance, the march to the Fontainebleau [luxury hotel in Miami Beach, Florida] during the [President Richard M.] Nixon nomination in—was that ’72?</u>
+      <u who="WEINSTOCK">Yeah. This is—this is Nixon’s reelection, right?</u>
+      <u who="ZASTROW">Yeah.</u>
+      <u who="WEINSTOCK">Can you—can you tell me about that particular event?</u>
+      <u who="ZASTROW">Oh, Lord! We mobilized people from all over the country. We had—I think there were six people who were—we had one of them who were on the coordinating committee for I think it was officially Flamingo Park in Miami Beach, which we of course immediately renamed People’s Park. We had a convoy from—that started in Milwaukee for the Middle West, and more cars would join in all the way along. We couldn’t go any faster than 45 miles an hour because one of the chapters had a school bus, where they were probably smoking dope, but I don’t know—remember that part. Anyhow [chuckles], it couldn’t go more than 45 miles an hour.
+
+Someplace in Florida, some policeman pulled the bus off because it was going under the minimum speed, and I still remember the bus being pulled into this little police area, and it was followed by about a hundred cars, at which point people said, “Ah, forget it!” Turned the bus around and drove back out again, and that was the end of that showdown.
+
+So anyhow, we got to People’s Park.</u>
+      <u who="WEINSTOCK">Huh!</u>
+      <u who="ZASTROW">There were women on the stage that we saw as we were coming in, and they were being manhandled by a group of local Nazis! Well, of course, the upstanding young veteran—we immediately grabbed some chairs and started hitting the Nazis over the head with them and threw them off the stage, and we were much beloved by the Jewish community of Miami—Miami Beach. Little old ladies would stop us on the street and see the VVAW button and give us candy and buy us food. They thought we were the greatest thing going. And we were, of course. 
+
+Eventually, we ended up in one corner of People’s Park. We had many tents, and there were various guerilla activities—what happens when you’ve captured a Vietnamese, and so you have somebody wearing a Vietnamese hat, and have them followed by any number of people wearing American uniforms, who would then beat them into the ground. You know that sort of a guerrilla theater thing.
+
+And eventually—</u>
+      <u who="WEINSTOCK">Wow.</u>
+      <u who="ZASTROW">—on the night of—I think when Nixon was going to be nominated, we had—the march was a silent march on the convention headquarters. And there were thousands of people were absolutely quiet. It was really a very moving sort of thing. If you’ve ever seen the movie, [Born on] the Fourth of July, it was [Ronald L.] “Ron” Kovic who was one of the veterans in a wheelchair involved in that, who was one of several veterans who made it into the convention center. And we didn’t prevent Nixon from getting nominated, and we didn’t prevent Nixon from getting reelected. But he did sign a peace treaty, so—</u>
+      <u who="WEINSTOCK">Do you think that—do you think that the protests had—had encouraged that, the signing of the peace treaty?</u>
+      <u who="ZASTROW">Oh, not directly, but indirectly, yeah. I mean, we were one manifestation of what was at that point I think a general movement that the war needed to end. It was only after—I think the war needed to end because we—we—we couldn’t win the war. It was only in the period of years after that that I think more and more people came to see that the war was just—had been a mistake from the first,— </u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—that a military-industrial complex had needed a war to try out a bunch of new war machines, and they were using Vietnam as a testing ground, that things like the Gulf of Tonkin [incident] were a manufactured incident, that the government had lied with great consistency.</u>
+      <u who="WEINSTOCK">Right. Well, you know, speaking of Tonkin, you know, somewhat of an earlier event, obviously, being in ’64, I actually came across one of your articles on the VVAW website titled “History of the U.S. War in Vietnam.” </u>
+      <u who="ZASTROW">Right.</u>
+      <u who="WEINSTOCK">And I saw that it mentions, you know, a much broader U.S. involvement in Vietnam beginning with, you know, Capt. [John] “Mad Jack” Percival firing into Da Nang in 1845 and Bảo Đại’s conflict with the Buddhists and so on. When did you—you start having an interest in the—the broader U.S. involvement, and do you think that people were becoming more aware of the broader U.S. involvement and that it ultimately led to more resentment of the—the current situation?</u>
+      <u who="ZASTROW">That’s a fairly major sort of question. Because we were consistently going out and broadcasting our view of the war as VVAW, it obviously was to our advantage to do all we could in terms of researching the history of the war. So we read,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—and we studied, and the more we read and the more we studied, the clearer it became that the war was not just a mistake but that it was worse than just a mistake. And that was a view that we certainly did our best to put forward. And I think we did it pretty effectively. We always had going for us the fact that we’d been there.
+
+Now, in the real world,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—it doesn’t mean you know a damn thing, but it makes it seem as if we did. 
+
+Another aside: I can recall one of the first times I went out to speak to a high school group in Cincinnati, and, you know, I gave my normal spiel—well, it wasn’t a normal spiel then; it was new. You know, I talked to them and went home, and several days later, the gossip columnist for The Cincinnati Enquirer had a little article about “alleged” Vietnam veterans have been putting forth this stuff in front of our high school students!
+
+So a couple of us got together, and we went storming up to the fifth floor of The Cincinnati Enquirer, which was a very conservative paper—may still be; I suspect still is—and stomped into his office and showed him our discharge forms. “Forget this ‘alleged’! We’re not alleged, we’re real Vietnam [veterans].” And he wrote a retraction and was very nice to us for the next two or three years, in terms of often publicizing what we were doing, even though he often didn’t agree with it. He would call me once in a while and say,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">“Well, don’t you think you’re doing things in the wrong way?” It meant a whole lot just because you had this paper say you’d been there. Again, it didn’t give us any more knowledge, but it looked like it did. But because we didn’t [cross-talk; unintelligible]—</u>
+      <u who="WEINSTOCK">Did you ever experience sort of—[Pause.]</u>
+      <u who="ZASTROW">What?</u>
+      <u who="WEINSTOCK">Sorry. I—I—I was saying, did you ever experience any sort of outright rejection of veterans or—or mistreatment from the general public?</u>
+      <u who="ZASTROW">No. I’m aware of—of course I’m aware of all the stories about, “Oh, you’re baby killers” and—and, you know, all of that sort of stuff.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">And we looked pretty hard to try to find people who had been spit on when they came home, and we couldn’t find anyone. Now, having said that, one: Those of us in VVAW were a little different because we were very public. A lot of Vietnam veterans were not public and came home and I don’t think ever said very much about the fact that they’d been there. That’s point one.
+
+Point two: There was never the kind of stuff there is now about, you know, you have to have the military on the field before any football game to carry the flag. That didn’t happen. It just wasn’t the way it was in those days. There were not “welcome home” ceremonies. There were not parades for veterans until 10, 15, 20 years later.
+
+So—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—though all—we couldn’t find people who really were threatened or whatever for being in Vietnam. You know, I can’t say it didn’t happen. I don’t think it was normal to happen, have that happen. But the fact that no one said, “Good job. Thanks for defending us”—and they shouldn't have said that, but the fact that nobody did was a different world than today. I mean, how many pictures on television do you see the fathers coming home and surprising their little kid in their second grade class? Because the father had been in Afghanistan for six months or eight months or whatever. Well, that’s almost a staple of U.S. television today. Never would have happened in Vietnam during the war.</u>
+      <u who="WEINSTOCK">Right.
+
+
+
+Did—did—did your involvement with the VVAW or just the VVAW’s dealings ever become, you know, more radical in—in nature?</u>
+      <u who="ZASTROW">Oh, yeah, very radical. Like I say, we were way to the left of [U.S. senator from Vermont and presidential candidate in 2016 Bernard] “Bernie” [Sanders].</u>
+      <u who="WEINSTOCK">What do you mean by that? Were—were—were you—were you a communist?</u>
+      <u who="ZASTROW">[laughs] Whatever that means.</u>
+      <u who="WEINSTOCK">Right. You know, I—I—[Chuckles.]</u>
+      <u who="ZASTROW">It’s really hard to answer that question because, you know, the—the American Communist Party [sic; Communist Party USA], while—in the days that we were doing the antiwar work, were always on the side of truth and justice, but it was also a very feeble group of old people. And as far as I could tell—while we may have had people who joined the Communist Party or joined various other communist organizations, the organization was never communist.
+
+
+
+Now, once the war was over in ’75, obviously VVAW’s growth stopped. And, of course, we started losing people. People started coming home and having families, so things like that would get in the way of being able to live your entire life in a tent and going to demonstrations.
+
+And, you know, over a period of time, while we had a number of very affluent people who would give us what seemed in those days large amounts of money to keep going, eventually that pretty much stopped, and we all went to work for a living. And eventually the focus of the organization changed more toward health care and the Veterans Administration [sic; U.S. Department for Veteran Affairs]—help for veterans who had suffered from Agent Orange as well as a whole collection of, you know, $15 minimum wage, fair housing, on and on and on and on.
+
+But the focus was on these specifically veteran issues. And while we’d always said, “End the war and prevent the next one,” preventing the next one became a little more complicated. VVAW spoke out against the first Iraq War. In fact, there was an English professor at Dartmouth who paid me to come up there and speak at a forum against the first Iraq War, which I did.</u>
+      <u who="WEINSTOCK">Who was that?</u>
+      <u who="ZASTROW">Linda somebody, and I can’t remember her name anymore.</u>
+      <u who="WEINSTOCK">Okay. </u>
+      <u who="ZASTROW">No, I would only be guessing anymore.</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">That would have been, I don’t know, ’92, ’93, something. I don’t remember when the—the first Iraq War was. But anyhow, we opposed that. We of course opposed U.S. activities in Iraq, in Afghanistan. We became kind of a Big Brother organization to Iraq Veterans Against the War, and I think we funneled money to them for a while until they became quite self-sufficient, which I think they are by now. 
+
+And, I mean, I have to say that I kind of dropped out along the way there. I got more interested in family and music and so forth. As I look back, it occurs to me that the people who really stuck with VVAW until today are people whose wives or families were involved with the organization or people whose families disintegrated and they stayed with the organization while their family went off someplace else. And in some ways, it became a choice between family and organization.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">And I ended up choosing family. And while in some ways I feel a little guilty about that, it was still the right thing to do, so—so be it.</u>
+      <u who="WEINSTOCK">Are there—are—are—are there any other memorable experiences from your time as a coordinator for VVAW? Can you talk a little bit more about maybe some more fringe protests or, you know, some more consequential protests?</u>
+      <u who="ZASTROW">We did protests centered around Agent Orange in Washington, in—oh, let me think, when would that have been? Sometimes in the ’90s, I think. And we had, I don’t know, four or five hundred veterans camping on the [National] Mall. It was—we had originally—through the work of Bella [S.] Abzug, who was a Brooklyn [New York] congresswoman. Had originally gotten the right to camp on the mall during Dewey Canyon III. Now we were back to camping on the mall. And we had our lawyers. You know, we got it all arranged, so we camped there once again.
+
+We eventually—we did a lot of things around the city of Washington. We did a lot of propaganda work there in the mall. People who would come by. I still remember particularly a doctor, who came by just in tears because he felt so guilty for not having gone to Vietnam. And what can I say?</u>
+      <u who="WEINSTOCK">Wow.</u>
+      <u who="ZASTROW">Good for you! Of course, we were all, at the same time, working for amnesty for the people who had gone to Canada, which eventually happened. We did a march to Arlington [National] Cemetery. I can still remember because I was kind of the administrator of this march, being hauled into this little office by the park police, saying, “You can’t march there.” And I’d say—I’m telling them, “We’re going to march, and if you arrest us, you’ll look like fools.” And, you know, it went back and forth and back and forth. And eventually we marched, but I can’t remember. We had to take down our Agent Orange banner or something. I can’t remember all the details.
+
+
+
+But we eventually went into the park, and of course we did our ceremony at the graves of—of veterans who in fact had very possibly died because they’d been chemically poisoned in Vietnam.</u>
+      <u who="WEINSTOCK">Wow.</u>
+      <u who="ZASTROW">And it made the local newspapers.</u>
+      <u who="WEINSTOCK">What about—what about the memorial?</u>
+      <u who="ZASTROW">Hmm? Oh, the Vietnam Veterans Memorial? We—</u>
+      <u who="WEINSTOCK">Yes.</u>
+      <u who="ZASTROW">I remember we went there, too, but that was—that had just been built at that time, and we marched there, but we—we didn’t do anything there. I’m not sure if it was even all the way opened yet. I remember going there and finding a couple of names that—that looked familiar, but I don’t think we had any organized activity there. And I’m not sure that we ever did.</u>
+      <u who="WEINSTOCK">What did—what are your personal thoughts on the memorial?</u>
+      <u who="ZASTROW">It’s a beautiful memorial, and it’s—it’s—it speaks truth in a pretty vivid way. Now, our figures always were that probably twice as many people as whose names are on that wall were veterans who committed suicide after the war. </u>
+      <u who="WEINSTOCK">Wow.</u>
+      <u who="ZASTROW">And their names should probably be there, too. But, you know, that’s never going to win any traction, so—it was one of the things we would say whenever the question came up. Whenever we talked about the war and what it had done to people.
+
+I can recall one of my troops who I got to know very well because he was stationed right next to me and we slept on upper and lower bunks for months and months. Anyway, he came back and—he came back I think a month or two after I did. I was in California, so I actually met him when he came home. He went off to his wife and had all kinds of problems with adjusting and eventually got shot by the husband of some woman. He was trying to break into her house because he was in love with her. Well, Vietnam probably did that to him. It wasn’t a suicide, but it was, in some ways.
+
+I mean, Lord only knows how many hundreds of stories like that, thousands of stories like that, of people who—</u>
+      <u who="WEINSTOCK">Right. So—</u>
+      <u who="ZASTROW">The one thing that it seems to me that VVAW did was instead of feeling guilty for having been there, guilty for having shot at Vietnamese—(I don’t know if I ever hit any or not.)—guilty for the whole affair of being in Vietnam, in a country where we didn’t belong to fight against the people who did belong there. 
+
+We learned that guilt should be focused on the American government that had sent us there, so the guilt was less personal and more political. And I think that saved a lot of people.</u>
+      <u who="WEINSTOCK">Right. Yeah.
+
+Well, when—when did you work with VVAW end?</u>
+      <u who="ZASTROW">Mmm, they carried my name as one of the national coordinators for years after I basically—I mean, I would go to demonstrations. We have a Memorial Day and a Veterans Day gathering in downtown Chicago years after that. I mean, those still go on today, and I still go to them. But they carried my name through the ‘90s. Probably by the year 2000, I was—somebody called and said, “We need different votes on our—as the national coordinator.”</u>
+      <u who="WEINSTOCK">[Chuckles.]</u>
+      <u who="ZASTROW">“Would you mind resigning?” And, of course, what could I say? I wasn’t doing anything, so, yes, I resigned.</u>
+      <u who="WEINSTOCK">And what have you done since?</u>
+      <u who="ZASTROW">I have helped raise a family. I have been a church musician, and I was a mailman for 35 years.</u>
+      <u who="WEINSTOCK">And do you—do you still have any ties to sort of antiwar protests? How—how did your time at VVAW—how does it continue to affect you?</u>
+      <u who="ZASTROW">Well, it’s a big part of my history. And my children are aware of it. They went to all the activities with me when they were young. My wife was very good about it. I—I went off to meet with [Panamanian dictator Manuel] Noriega in Panama at one point, as a VVAW representative when we were afraid that the U.S. was about to invade Panama, which of course it did. Yeah, little things like that.</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">But it became more than I could do, and frankly I was very much interested in the politics of—of Vietnam and foreign policy and less interested in more immediate and probably more vital politics of the Veterans Administration and so forth. VVAW, I know now,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—it’s on—I think they call it a stand-down for homeless vets every year, where they, you know, feed them, they find a place where they can get clean, they bring in doctors—you know, all of that kind of stuff. Well, it’s a great thing to do, but it was not something that I wanted to do.</u>
+      <u who="WEINSTOCK">Right. And so—</u>
+      <u who="ZASTROW">So [cross-talk; unintelligible]—</u>
+      <u who="WEINSTOCK">—you—you continued to—</u>
+      <u who="ZASTROW">Go ahead. I’m sorry, I didn’t hear that.</u>
+      <u who="WEINSTOCK">I mean, you know, I was just saying you—you continue—you continue to live in Evanston now, right?</u>
+      <u who="ZASTROW">Yes. And Evanston is a pretty liberal town. They have—</u>
+      <u who="WEINSTOCK">Sure.</u>
+      <u who="ZASTROW">—demonstrations about wanting to get out of Afghanistan. They have Black Lives Matter type demonstra- —that sort of thing. And I will occasionally go to those,—</u>
+      <u who="WEINSTOCK">Right.</u>
+      <u who="ZASTROW">—though I have never joined any of those groups. What can I tell you? I’m—I’m old. And I’m tired. [Laughs.]</u>
+      <u who="WEINSTOCK">[Chuckles.] Well, you know what? I—I—I like that as—as a note to end on. Thank you so, so much for your time.</u>
+      <u who="ZASTROW">Oh, you’re quite welcome.</u>
+      <u who="WEINSTOCK">I really appreciated talking with you today, Mr. Zastrow.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,722 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="EVERETT"/>
+        <person xml:id="RIDKER"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="RIDKER">So this is Elena Ridker. I’m sitting with John Everett. It is August 7th, and it’s about two o’clock, and we’re sitting in Rauner Library.
+
+So, John, thank you so much, first of all, for meeting with me.</u>
+      <u who="EVERETT">You’re welcome. It’s a pleasure to meet you, and I’m happy to be able to help to the extent that I do help the Dartmouth Vietnam Oral History Project.</u>
+      <u who="RIDKER">Yeah, no, of course. Well, I’m glad to have you here, and I guess just to get started, I just want to start off asking some biographical questions, so where were you born and what were your parents’ names?</u>
+      <u who="EVERETT">I was born at the Phillips House at Massachusetts General Hospital in Boston, Massachusetts, to John Carroll Everett, Dartmouth Class of 1941, and Mary Anderson Everett. Even though they were living in New Hampshire at the time, I was born at Mass General because I wanted to be with my mom when I was born. But as soon as they let us out, and back then it was probably ten days or so, we went straight back to New Hampshire.</u>
+      <u who="RIDKER">And what was it like growing up in New Hampshire as a kid?</u>
+      <u who="EVERETT">I grew up in Nashua when it was still a very small city, when it was post-industrial and depressed from the downfall of the cotton, leather and paper mills in town, before the onset of its great light-industrial success with high-tech and electronics industry, with Sanders Associates being—Mr. Sanders being the father of one of my junior high school classmates.
+
+You know, my mother died of cancer just before my ninth birthday and had been hospitalized for much of the three years before that, off and on, in New York. Apart from that, you know, it was pretty idyllic. We lived in a very residential area on the margin with some forest and countryside. The kids in the neighborhood played all sorts of game together: football, baseball, basketball, but Capture the Flag and all over the great area, everybody looking after everybody else, parents and whatnot, running all over the place and having almost free range without any sense of limitation or threat.
+
+School was good. Back then, I think that Nashua had a very good school system, and I did pretty well in it. And so I don’t know whether I’m right or wrong, but it strikes me—and did way back then; this is now just a retrospective—being pretty idyllic. Lots of fun, lots of good friends, good family.</u>
+      <u who="RIDKER">So how many siblings did you have in total?</u>
+      <u who="EVERETT">I have—I had three siblings, an older brother and two younger sisters. The youngest of my sisters died about six years ago.</u>
+      <u who="RIDKER">And did you have a good relationship with your father?</u>
+      <u who="EVERETT">Yeah. You know, there were difficult times, in large part because he was so busy at business, trying to be a single parent in the very few years after my mother died. My grandmother, who was bedridden and her nurse essentially raised us, and they were both wonderful folk. Took very good care of all of us. Took very good care of my two younger sisters.
+
+But it was tough on my dad, and he was in the process of making the business that he worked in, that his dad ran, his dad who lived down the block ran. And in the process of having to make the whole business over and take control of it—it was a textile fiber business. The textile business had by and large left New England—not just New Hampshire but New England—and was leaving in the ’50s and ’60s. My grandfather would not go. And then synthetic fibers were coming in, and my dad appreciated that that was where the future of the business was, and so in the summer before I came to Dartmouth, he having made that move, moved the headquarters of the business to Atlanta, Georgia.
+
+Because he spent so much time involved in the doing of that, he was not around as much as he would have liked to have been, and felt rushed and tried to push things, I think, when he was around. I was known to be reasonably stubborn, and so we were often at loggerheads over that. But I think we had a pretty good relationship, and certainly, once I got past Dartmouth and out of the Navy and into adult life as a lawyer, things became much better. And then I had the good fortune to help take care of him in the last five or six years of his life, when I think that we really cemented a good and close and loving relationship, which might have seemed a little harder to do in the earlier years.</u>
+      <u who="RIDKER">Mm-hm. You mentioned earlier that he was a Dartmouth grad as well?</u>
+      <u who="EVERETT">Yes, he is.</u>
+      <u who="RIDKER">So was that—was he pleased that you went to Dartmouth?</u>
+      <u who="EVERETT">Yes, he was. Yes, he was. We lived in Nashua, New Hampshire, and it was about two hours away, driving, and a little shorter once they put in the Everett Turnpike—</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">—no relation to us, but a relation to a different Everett Dartmouth family from New Hampshire. So we used to come up here all the time, not just for football games, for skiing and for other occasions, events, his reunions and stuff. And I thought it was a pretty cool place. I knew it had to be a good school because he was one of the smartest guys I ever met, quietly so, but very smart and a great businessman. And, as I would discover, being extraordinarily successful in lines of work—sales and financial management of a business—that he really would have preferred not to do if he’d had his ’druthers.
+
+Kind of I thought Dartmouth was really nice, and it was the only place I ever thought about going to college. Somebody asked me in the fall of my senior year in prep school, “Yeah, well, okay, you’re applying to Dartmouth. Where else are you applying?” And I went, “Huh?”</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">“Apply someplace else?” I was working on an application to Williams when my early admissions came through, right after Thanksgiving.</u>
+      <u who="RIDKER">And so when you got to Dartmouth as a freshman, how was your experience like? Was it ’64, the first year?</u>
+      <u who="EVERETT">Yes, the fall of 1964. The freedom and lack of control was hard to deal with. My academic career did not start out well, and it got better over the out years, particularly in my major courses, which I did very well in. I was a history major with an emphasis on eastern European and Russian diplomatic history, and in those other courses that really interested me, as opposed to the ones I had to take for distributive requirements. And I had a good time while I was here.
+
+</u>
+      <u who="RIDKER">You mentioned you were involved in fraternity life. Was that a big part of Dartmouth for you?</u>
+      <u who="EVERETT">Well, yeah, I suppose it was. It was one of the—I lived in the fraternity my senior year, so a significant part then, but when I lived in the dorm, and I lived in the same dorm, Middle Fayerweather, for the first three years, what we did there was a big part of my life at the college as well. I was very active in Aquinas House, the Newman Club at Dartmouth, the Catholic Student Center.
+
+And then after freshman year, when I had to eat at Thayer Hall, the predecessor to the ’53 Commons, I worked at the Hanover Inn, and, in consequence, I ate at the Hanover Inn and worked my way from busboy to waiter to bartender and bar waiter, and made a lot of friends with the other people on staff there, and so did a number of things with them, which I think back then, in the mid ’60s, not too many other undergraduates did. I used to go and join them at the American Legion Hall in Norwich, now right down the street from me, and play cribbage on Thursday nights. And they still have cribbage [claps hands once] on Thursday nights. You know, we attended all of the Dartmouth hockey games together in wonderful old Davis Arena.
+
+And so, while, yes, the fraternity was a significant activity, by no means the only significant activity. More major senior year, when I lived in the house and was involved in a lot of the activities that emanated from the house: athletics and social functions and stuff like that.</u>
+      <u who="RIDKER">Mm-hm. And I’m just curious in regards to the Vietnam War kind of kicking off in ’64 with American involvement. Was that kind of—on campus, was there a climate surrounding that, and were people talking?</u>
+      <u who="EVERETT">No. People were not unaware. They might not have been very aware, but they weren’t unaware. And through 1966, probably, and not just on campus but within the local community because it was very hard to separate the two on this issue, there was not much of a hue and cry about it. I don’t remember when every Wednesday they started having people line one of the paths across the center of the Green, on Wednesday noons, to protest the war. But for the longest time, not many people came. I think after, a while after we had the first main force infantry landings in Vietnam in ’65, that it probably picked up. 
+
+
+
+Then, of course, early in winter term of my senior year, the Tet offensive took place, and all of a sudden everybody who had hoped that they wouldn’t have to face a decision about this coming calamity when they graduated said, “Whoa! We’ve gotta do something, ourselves.” And there were more protests, there was more talk, there were more people out on the Green. There were some protests aimed at any one of the three Dartmouth ROTC units. Nothing very confrontational, but mostly appearance and silent protest.</u>
+      <u who="RIDKER">Were you involved in the ROTC in your time?</u>
+      <u who="EVERETT">No, I decided, as I was coming in freshman year and then in spring of sophomore year, facing sophomore summer, when you had another opportunity to get into other officer programs, reserve officer programs, and I was really looking only at the Navy because my dad was a Navy veteran—I decided at both of those times that, Oh, yeah, there’s something going on in that place called Vietnam. Where is that? But it was not yet serious enough, that it was not yet at the stage that it would become pretty quickly demanding of the participation of most able-bodied young men, which is where it was when we graduated.</u>
+      <u who="RIDKER">So with all these protests going on, did you find yourself involved in them or just more observing?</u>
+      <u who="EVERETT">I had a lot of friends who were in ROTC, and I had some very good friends in Navy ROTC, and I think that there were a couple of times when they used to do their drills and marching down on the football practice field, where Scully-Fahey Field is now. I think that there were sometimes three or four of us who would go down to taunt a couple of the guys, but it was more taunting our friends than a serious antiwar protest.</u>
+      <u who="RIDKER">Right. And so you mentioned that your dad was a Navy veteran.</u>
+      <u who="EVERETT">Yes.</u>
+      <u who="RIDKER">Did he frequently talk about that when you were growing up, or was that any sort of encouragement towards you eventually joining the Navy?</u>
+      <u who="EVERETT">No, it’s one of those interesting things. He was an officer on destroyer in the Guadalcanal and Solomon Islands campaigns early in the war. He joined the V-12 program and was in the V-12 program at Dartmouth after his sophomore year at Dartmouth, so after graduation, he went right into the Navy. He put the first ship in his destroyer class, a new destroyer class, in Bath, Maine, into commission and went out to the South Pacific. Did he talk about it? Well, you know, not a lot. It’s something I didn’t understand then as a young man. I didn’t understand why, when we went, all four of us kids went with dad to see a movie about Guadalcanal and the Solomon Islands campaign, my dad started crying in the middle of it. Time would come that I came to understand that.
+
+
+
+We knew he participated. He was very proud of his service. His older brother, who started out as a Dartmouth ’39, had been a forward gunnery observer for the Navy, which means that he was on the beach with the first Marines and then would call in Navy gunfire. So we had that family tradition of service. And, you know, my dad got out of the Navy in 1945. I came to Dartmouth fewer than 20 years later. We’re now a lot farther away from that than we are from the Vietnam War, my time in Vietnam. I think when we were talking beforehand, I calculated that an event during my experience in Vietnam happened 44, 42, 43 years ago, 44 years ago, I mean twice as far in the distant past as when I came to Dartmouth.
+
+So I think that we were very aware of what my dad’s experience meant. We were very aware of the need for service to your country, and yet he didn’t talk about it much, and it was the one thing, even through the end of his life, he never talked about that much. He would talk some history, facts that you might be able to check in a history book, but he never talked really seriously, even later in life, when he was a little more talkative about the history of it, about what must have been the real and significant feelings that he had about that experience.
+
+
+
+And when I recognized that in him, even at the end of his life, I certainly understood why. It’s not easy for any veteran who has seen those kinds of horrors to talk about them. There was, with his generation, the people who fought in that war—I think that there was much less acceptance of the fact that you had negative emotional experiences based on what happened to you, and it was not well accepted that you would talk about them, even talk about them in family. I think that some of that came only much later, when—for other folks, not so much for my dad, but for other folks when there was so much discussion of those issues and the great benefit there was to talk therapy, particularly among veterans, for people who came out of Vietnam, as I did.</u>
+      <u who="RIDKER">So quickly going back to your time at Dartmouth, and you mentioned kind of having the idea of being on the back of your mind was join the Navy, with this history of your father’s experience in mind, was join the Navy, kind of always, like, this option that you had in mind for after college?</u>
+      <u who="EVERETT">Was it always an option? No. Was it the only option when I considered it at the various times I did with that first opportunity to try and join ROTC going into freshman year? With that second opportunity, really, probably in spring term of sophomore year to get into the reserve officer program with the Navy, which one would participate in during summer between sophomore and junior years, and then you’d function with ROTC [pronouncing it ROT-cee] the rest of your time. And I got to consider that very hard because my cousin, same age, same year but at Georgetown University—he joined that program, and so he and I had dialogue about it. And he decided one way, and I decided, No, not yet. 
+
+
+
+Tet [the Tet offensive] happened. It took you a little time, a little time for one to think about yourself, talk to your buddies, “What the hell am I gonna do?” And I said to myself, Well, if I’m gonna get caught up in this, I’d prefer not to get drafted and be an infantryman, and I would rather be an officer in whatever circumstance, but, given what I know about it, given that I was a sailor of sailboats, given my dad’s history, I would rather try first choice, to get into a Navy officer program, which I did. I applied for others, but in the end, that’s the one I, happily enough, got into.</u>
+      <u who="RIDKER">So—and you mentioned your cousin. Did he end up going to Vietnam as well?</u>
+      <u who="EVERETT">No.</u>
+      <u who="RIDKER">No.</u>
+      <u who="EVERETT">No, he was on an oceangoing—actually, no, Peter was first on—well, he was on an oceangoing minesweeper but didn’t do any minesweeping duty. He was up in the Aleutian Islands, but he was also on one of the old World War II aircraft carriers that had been converted to a helicopter assault ship. But I don’t think Peter ever deployed to WESTPAC. I think he was on that one even in the Med [Mediterranean]. But he certainly was not involved in the conflict in Vietnam in the way that I was.</u>
+      <u who="RIDKER">So I’m just curious how quick was that transition between graduation and joining?</u>
+      <u who="EVERETT">For me?</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">Well, I was on my way back from spring break in Florida and Bermuda, where I’d seen some of the rugby players play, and, as I said earlier, my dad had moved the family business to Atlanta. My draft board was in Atlanta, so I swung up through Atlanta from Florida to see my dad and stuck my head in the draft board. They wanted to be not very helpful, but I happened to run into one of the members of the board, and he said, “Oh, don’t worry, Mr. Everett, we won’t draft you out of college. What day was that you graduated? June 16th. Well, within a month you’ll have this letter, and month after that, you’ll be in the service.” I said, “Thank you very much.
+
+
+
+On the way back to Hanover, I stopped in Albany, New York, which was the focal point for recruiting districts for all of the services, different from the one that Dartmouth and Hanover was in, which was Boston, and got to walk into all of the services in the same building, on the same corridor: Navy, Navy Air, Coast Guard, Army, Air Force and take their tests and file the applications and all of that.
+
+And then after graduation, two of my buddies and I, fraternities buddies and friends—we swung west. We went to the wedding of a fourth fraternity brother in State College, Pennsylvania. Went up by Henry’s home in Minneapolis and started a western tour and spent nearly a month on the cattle ranch of a fraternity brother and friend on the Crow Indian Reservation. Got to the Grand Teton Nation Park when I called home, and my father was over the moon. “You got a letter here from the Navy, and there’s one from the draft board, and you gotta do something.”
+
+So, you know, I pulled out the quarters and made the calls and set up an enlistment date with the Navy in Seattle, Washington, on August 5th—wow, see? Two days ago. I didn’t even think of it—August 5th, where I had a physical and enlisted in the Navy.
+
+So I had by that time decided that I didn’t want to try and go back to school in any form. Other people were doing that, and you could probably put off getting—being eligible for the draft at that point by going to school. And so, you know, one of my two choices was to go into the service of my choice if I got it or, jeez, maybe decline to go. And I chose to go into the Navy.
+
+So the die was cast on August 5th of that summer. I didn’t have to go on active duty until late November, just before Thanksgiving, and so the Saturday before Thanksgiving in 1968 I went down to Newport, Rhode Island, to the Officer Candidate School, where I started my career in the Navy.</u>
+      <u who="RIDKER">What was your experience like in Newport?</u>
+      <u who="EVERETT">They couldn’t have been happier to get rid of us. It was—[Chuckles.] It was one of those odd occurrences that you get sometimes in life. We had a bunch of guys in my company, in my class from Ivy League schools, from small New England liberal arts colleges—Amherst, Williams—from a lot of the small liberal arts colleges across the Midwest but I think principally in Ohio—you know, and a smattering of other people. You know, there was the guy [chuckles] from Troy State in Alabama, and there was a guy from University of Missouri at Rolla, and characters they were.
+
+
+
+But because we had that collection and because, oddly enough, the same class but at a different company, which happened to be housed next to us in the big dorm, had a similar collection of people, we just didn’t play by the rules. We were—both of us—we were the number one and/or number two academically and athletically and by every measure except the so-called military measures, and we were always creating problems and having a lot of fun doing it. And they couldn’t wait until we got commissioned and went away.
+
+
+
+So, you know—and it was the snowiest winter on record in Newport. We actually had three weekends when the base was snowed in, and the only place you could go, through all of those deep drifts of snow, was to the local officers’ club, mostly because there was only one snowplow on the base, and in every snowstorm it got stuck and went off the road.
+
+You know, it was not the trying time that sometimes it can be made out to be in that kind of military training, I think in part because we just had that circumstance. We had that luck because there were 16 companies, and the other battalion—eight of the companies—was known as the Black Battalion, and they were just—they were bastards. They were nasty damn people in terms of how they treated the other officer candidates. You get a little authority and you’re in your fourth month, which is all we were there—we were there four months. You were in your fourth month, and so you lorded it over the people who just came in. You treated them very badly.
+
+And so I was lucky. I was lucky I showed up when I did, and I got assigned to Charlie Company, and we got housed next to Alpha Company. One of the guys in my company, I just absolutely knew. I knew him. He was this—just, I know that guy. So I went in to see my prep school classmate—I played hockey with him, Robby Sherman, and I talked to him, and the guy stared at me blankly, as though I was off the moon. And then we came to realize that he was Robby’s twin brother, Rich, who’d gone to Moses Brown and Amherst and not to Governor Dummer and Brown.
+
+And so we became friends, and the next month Robby showed up and was housed on our floor, on the opposite side of the main corridor. So we had the Sherman twins, and we played games with people, and they were happy when we left.</u>
+      <u who="RIDKER">So there was a lot of camaraderie between the guys.</u>
+      <u who="EVERETT">Yes, yes, and that—and I suspect it was, too, over in the Black Battalion, but I think their camaraderie came because they all suffered under the thumb or the footprint of first classmen, and ours was just because we were good friends and having a good time and, you know, how can we push somebody’s buttons? 
+
+
+
+It helped also that in my company and my class, Friday night was athletics night. We had, for 15 weeks, an undefeated tug-of-war team, and that was what all of the chief petty officers, who were—the chief petty officers, one for each company. That was what they all went to the chiefs’ club after dinner on Friday and before athletics night and bet and drank about. And so—I mean, our chief, Cassidy, just loved us because he was winning money hand over fist [chuckles] if we were undefeated.
+
+I mean, how could you not have a good time when—and everybody on that team was in our class. There was nobody—there were no leftovers from the classes that were still there when we showed up, and nobody was ever able to break into the lineup because it was all ten of us. And, you know, we were—you know, they loved us. We could almost get away with anything. [Laughs.] And we were very lucky in that, very lucky in that.</u>
+      <u who="RIDKER">So in the midst of, you know, all this camaraderie and kind of making the time there fun, was there any, like, underlying anxieties about being shipped out, or was it unspoken?</u>
+      <u who="EVERETT">No. You know, you didn’t know until quite close to the end what your assignment was going to be. I’m going to guess that it was—as I said, we were there for four months. We ended up being there for longer than that because we had a Christmas-New Year’s holiday that we were able to leave for. But essentially there for four months of study, four months of study and then a week at the end to make sure they had enough time to get your orders and everybody had a chance to get organized.
+
+And I want to guess that right at the end of the third month, when you were transitioning into becoming first class, either at the end of the third month or at the very beginning of the fourth month, the last month, we spent a day getting presentations from all of the different branches of the Navy, trying to entice us into picking them for what we wanted to do, and we got to do that. And once you’d done that, that was really only the first time that you had an inkling whether or not you were going to have to go or where you were going to have to go in duty in the Navy.
+
+
+
+Now, the Navy was very big. A very small part of the Navy was serving inshore or riverine warfare in Vietnam, so in that regard, there probably wasn’t a lot of anxiety because not a lot of people were foolish enough to volunteer for that kind of thing. I did, though.
+
+
+
+And one of the guys that I—worked as a swimming instructor, who had been a varsity swimmer at the University of Indiana when it was a real NCAA powerhouse—I remember him coming back and saying, “Oh, God, I was really impressed by that UDT presentation the other day,” underwater demolitions team. And I said—I said to him, “You appreciate that UDT is the way you get into the SEALs, don’t you?” He said, “No, what are the SEALs?” And, like, a year later I would see him down on the river in Vietnam, when he was with a SEAL unit. He didn’t have any anxiety because he didn’t know.</u>
+      <u who="RIDKER">Right. [Chuckles.]</u>
+      <u who="EVERETT">[Laughs.] For the guys who, you know—I mean, not unlike my cousin who I talked about, who were going to go to an oceangoing minesweeper, he might have been anxious because those things—you were chronically seasick if the sea was high at all because they were such a shallow draft and they’d bounce around. Somebody’s going to an aircraft carrier? You’re on a city, big and heavy and just plowing through the ocean, you know. You’re not going to see any—you’re not going to have any serious threat, even if you’re running operations off North Vietnam.
+
+So, you know, anxiety of getting a new job, anxiety of being put to the test in that, and anxiety of going to sea, maybe, but not the kind of worry that somebody like I had, when—“Yeah, yeah, I wanna go on one of those swift boats.” And, you know, because we would be boot ensigns out of OCS, we didn’t get sent there; they sent us to a different—two of us—to a different class of ships that were doing tours in riverine warfare in country.</u>
+      <u who="RIDKER">And what was the inclination for you to sign up for that instead of something else?</u>
+      <u who="EVERETT">There were two, really. The positive one was we had a couple of instructors, one being I think Peter J. Moran, from Fordham in New York City, a lieutenant, young lieutenant, who was just back from Vietnam as a tour as a swift boat driver. He was a great guy. He taught us navigation and maneuvering. I don’t remember who the other guy was, but there was a second guy. And he, too, had been a swift boat driver and back a little longer, I think.
+
+And for people who had spent some time on small boats, whether it be sailing or power boats—and so you had some understanding and appreciation of operating the things and navigating with them—made it seem very attractive, and the running of the boat and the functioning of the boat, and, to a degree, in what you were doing and the ethos of what you were doing.
+
+The negative thing was, boy, an awful lot of the junior officers that you would see at the schools command in Newport, who’d come out of what would then be known as the Blue Water Navy, the Black Shoe Navy, come of ships of the line that would serve out at sea—so aircraft carriers and destroyers and all of the supply ships of one sort or another. You didn’t want to turn out like them. You didn’t want to live the kind of life that they said they lived on ships. I mean, it was stultifying and regimented. And no fun. And no potential for fun. Granted, very little potential for danger, but no potential for fun. Or excitement.
+
+And it was that combination of things that caused my buddy and me—and we talked about it. He was a Princeton guy. You know, what the hell did we know?</u>
+      <u who="RIDKER">What was is name?</u>
+      <u who="EVERETT">Donald Elmore Dietz. [Chuckles.] And I haven’t seen him in 44 years. [Chuckles.] Great guy, great guy.
+
+You know, you talked about what you wanted to do. You talked about, “Well, I’ve made a commitment to do this in light of what the hell’s going on, and do I want to steam around and live in the forward officers’ quarters on an aircraft carrier with 5,000 people on board and function in that extraordinarily regimented and stratified officer life in that part of the Navy, or do I maybe want to take a chance and, since I’m going on active duty, have an active duty?” I mean, you know, it was essentially, you know, our one chance at finding out about or proving ourselves in war, and why would you want to steam around in the Med other than the ports of call are very nice?</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="EVERETT">They are very nice, you know, I’ve heard tell.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">Never been there.</u>
+      <u who="RIDKER">So I think I want to take a break so we can just pause for a second. [Pause.] 
+
+So were you—after Newport, was it directly overseas?—you’ve mentioned you had a second place to go first?</u>
+      <u who="EVERETT">No. Probably just about everybody went to some sort of training, where they said, “This is the real Navy. This is what you’re gonna do in the Navy. We’re gonna train you up for it.” The ship that I was assigned to was a patrol gunboat. It was the smallest commissioned ship in the Navy. It carried 24 or 25 enlisted men, depending on the complement, and four officers. The person in my billet was almost always the junior officer on board when he reported, and he was the gunnery officer, the deck officer and the supply officer, and usually whatever other duties they could dump on him.
+
+And, of course, none of us had had any training in any of that stuff, so we had a week or two of leave, a fairly short period of time. We had a school at Dam Neck, Virginia, the Fleet Anti-Air Warfare Training Center, in Dam Neck, Virginia, which is really the southernmost part of Virginia Beach, down towards the North Carolina border. And we were there to learn how to fire the guns on our ship and use them in conjunction with fire control radar, which guided the guns for both anti-air warfare but also, as I would discover on the Gallup, for directing the shooting of the 3”/50 [spoken as three-inch fifty] naval rifle on our firing missions. We used larger guns than my 3”/50. We used 5”/54 mounts, which in bigger Navy ships [unintelligible] was a fairly standard—then was a fairly standard anti-air warfare gun.
+
+We were there for two, three, maybe even four weeks. I’m not remembering. And then my colleague, who was going to another one of the PGs [patrol gunboats] and I got sent up to the main naval base in Norfolk, NOB [Naval Operations Base] Norfolk, for a storekeeper school, and that was a class for enlisted storekeepers, and that was all of the training. And that was a class for enlisted storekeepers, and that was all of the training that Donny and I were going to get in supply—for our function as supply officers. Most other ships in the Navy had guys who had actually gone through six months of training in supply school in Athens, Georgia, became a supply officer and knew how to order things and keep records and things and stuff like that.
+
+
+
+The ship was so small, everybody had multiple functions, and so the storekeeping school was all of the training that we would get for our function as a supply officer. It sort of taught us how to be able to talk to our chief storekeeper, our senior enlisted man on board the ship. And in that regard, I must say, it turned out to be very useful.
+
+And then I think we must have had a little more leave because they sent us out to our squadron base in San Diego. There, we went through some training, some classroom training, but mostly it was to go on board and operate with those PGs that were in the EASTPAC squadron in San Diego so we could see what it was like to operate the ships, to get a feel for how they operated at sea, maybe even if, when they were underway, if the commanding officer was gracious enough to let us try and have the deck on the ships and drive the ships.
+
+
+
+The unusual part of that was, for the time we were there [chuckles], most of them were broken down, and they didn’t go to sea. [Laughs.] So I think that we went out on a couple of days on some different kinds of ships sort of associated with the squadron, but we didn’t go out on any PGs. We went on board them when they were tied up to the pier and saw how they were set up and saw how everything worked and talked to the officers on board, to see how they had things set up and how things operated, but we never actually got underway.
+
+We lived near the beach in San Diego. Had friends who lived on the beach, up in Manhattan Beach in Greater L.A. and did that kind of stuff on the weekend, and that was about a three-week to a month-long assignment. And then, in late July—or by late July, we had orders to fly to WESTPAC to meet our ships—mine, in country, and Donny went to Japan, where his ship was having a shipyard availability in Yokosuka [pronounced yo-COO-skuh]. I didn’t see him for a long time after that.
+
+So off I went to Cam Ranh Bay in the Republic of Vietnam. Spent the night before with my great good buddy, Henry Brooks in Seattle, where Henry was living at the time. He was one of the three guys, three of us who traveled around the country the previous summer. He was nice enough to put me up for the night, and I forget whether he drove me to the Sea-Tac Airport [Seattle-Tacoma International Airport], where I flew out of, or if he just made sure I got to the military transportation. I don’t remember which.
+
+And so on 29 July 1969, off I went to Vietnam. Flying west into the setting sun, I think we saw it set five times, and we put down in a couple of places and arrived early in the morning of the 31st of July of 1969 in Cam Ranh Bay in the Republic of Vietnam.</u>
+      <u who="RIDKER">Was that exciting for you, just being there for the first time after all this training? And had you ever been to Southeast Asia before that?</u>
+      <u who="EVERETT">No. And since I came back, not since. I guess in anticipatory excitement. It was a pretty draining experience being on that plane that long because, of course, they tried to shoehorn as many bodies onto the plane as they could. It wasn’t that comfortable. And I think they stopped—on the occasions that they stopped, I think that they stopped more to let us out and walk around than for any other reason.
+
+
+
+But I suppose it was anticipatory excitement, but I didn’t know what I was immediately going to run into when I got there. And what happened was my ship, the Gallup, was deployed down in our operating area on the Bo De Cua Lon River [sic]. And I got to actually sit around at squadron headquarters, which was two rooms, for ten days before they bundled me onto the ship that was going down to relieve her in the river, and they transferred me by small boat to the Gallup after the Gallup came out of the river.
+
+So I cooled my heels for the better part of a week and went down, and I introduced myself to everybody on the ship, the other ship that was in port that was resupplying and found out how they operated and that kind of thing. But there seemed to be a lot of in- —not indecision, indeterminate knowledge about when I was going to go down—were they going to transport me down to the river and then transfer me to the Gallup so I could make the trip back with them? Was I just going to wait in Cam Ranh for the other ship to go down and relieve her and have her steam back without me?
+
+
+
+So sort of dulled the anticipation of everything during that period of time. I remember thinking that this inactivity is getting pretty old, you know. Let’s have something finally happen.</u>
+      <u who="RIDKER">Mm-hm.</u>
+      <u who="EVERETT">Well, it did.</u>
+      <u who="RIDKER">And what were your first impressions of Vietnam as a country?</u>
+      <u who="EVERETT">Sandy. Really pretty good beaches. The Navy site in Cam Ranh Bay was not on the inner harbor, where the big oceangoing ships went, but it was out on the coast, and there were sort of concentric circles that surrounded it. There was the Navy base and naval communications station, and there was the Army base, which was very big, and then there was the Air Force base outside of that.
+
+And only outside of the Air Force base, on the other side of that fence, was Vietnam, where the Vietnamese lived and worked—and fought, for that matter. And it was a long drive from the airfield over to the Navy side, and you got to go past an awful lot of sand, some great beaches, palm trees and all of that. And that, strangely enough [chuckles], was my first—well, once I got off the Air Force base. But that was my first impression of Vietnam. It might have been pretty hard to take if that was where I had to live and be stationed for 13 months, so—</u>
+      <u who="RIDKER">So were you at this point in communication with your father and your siblings?</u>
+      <u who="EVERETT">Only by mail. This was a time when there was no long-distance overseas phone service available. In fact, actually, you could try and get into something at the Air Force base or the Army base, I forget which, and it was just such a hassle—the travel all the distance to do it—that nobody on the ship ever tried, but you sort of had to wait in line, and they’d dial you up, and you were lucky if you had a good connection and you could make the call. So no sort of easy telecommunications with any of those people at that time. I mean, it was all done by—all done by mail and took a long time to get there and back again.</u>
+      <u who="RIDKER">Did you sense any worry from home or from friends at home, especially, like, post Tet, when things kind of [were] picking up again?</u>
+      <u who="EVERETT">I didn’t. Later, they would tell me they were worried, but I didn’t sense any. And I don’t know why I didn’t sense any. Maybe they hid it well. Maybe they didn’t believe it was going to happen. I don’t know. I don’t know. But I do remember after I finally got home, everybody said they were very relieved that I was back in one piece, more or less, and that they’d been very worried all the while.</u>
+      <u who="RIDKER">At that time, had you been kind of thinking about or, like, in tune with the media about the protest movement in America?</u>
+      <u who="EVERETT">When I first got there?</u>
+      <u who="RIDKER">Right, yeah.</u>
+      <u who="EVERETT">No, because the only new—well, the only two sources of news that you could regularly get were Armed Forces Radio—they didn’t report any of that protest stuff—and Stars and Stripes newspaper, which, unless something really extreme happened, and I would say something maybe like Kent State, it wasn’t going to get reported. 
+
+Football scores, baseball scores, that kind of stuff, somebody won an election, that kind of stuff, the Navy got a new contract to build a new class of ship, that kind of stuff, you know, there were more Red Cross nurses coming to Cam Ranh Bay, that kind of thing, but not anything like the protest movement that was taking place, unless maybe there was a major, major disruption, and I would consider killing four students at Kent State to be a major, major disruption.
+
+By that time, by the time that happened, which was in spring term of 1970, I had taken a subscription to [chuckles] international Newsweek magazine, which was mailed to me, and so, you know, in comes the international Newsweek magazine, with that picture that I suspect that everybody who was alive at the time saw and remembers, the young woman kneeling over a prostrate body that had been shot, screaming.
+
+And everybody else on the ship except the captain—what a good guy I had for a captain! Well, maybe the other guy, and I don’t remember—he was probably XO [executive officer] by then, but he was a Yalie, so he probably appreciated it as well. They all thought that, you know, I must be some kind of Commie subversive that was interested in reading this kind of thing and knowing about this kind of thing and that kind of protest, and they thought I was pretty disloyal until I talked to them about it and told them how I felt about it and what my opinion was.
+
+The captain was very understanding. Bright, smart guy. Wonderful guy. The guy who I had shared a stateroom with for a long time when he was the engineering officer, who they then made, for a short period of time, the executive officer of the ship, number two officer on the ship—before he went home and got out of the service right away—as I said, he was a Yalie. He appreciated the value of having knowledge for the sake of having knowledge and making your own decisions and, you know, not thinking that one was disloyal if one just looked at the picture and read the story.</u>
+      <u who="RIDKER">Mm-hm.</u>
+      <u who="EVERETT">So, you know, while you were there, in country, with those limited media resources, you really didn’t hear anything. You might hear something if you had one of those subscriptions like I did or if you got mail from home when they were telling you about what was going on at home. So it was not a major consideration.
+
+And the other thing which is very true, and I certainly can relate my experience to that news from Kent State, which I found appalling—you know, the unfortunate thing is that that was back in the real world in Kent, Ohio, and we weren’t there, and we had to deal with the situation that we faced every day on the ground and on the river. That was our reality.
+
+However, that part of your mind might deal or want to deal with that kind of stuff going back, going on back in the real world. You couldn’t let it even flavor, let alone control what you were thinking. You had important stuff to do. It was important you did it, and you did it well and you did it right. That was sort of the deal that I worked out with the men who worked for me on the ship, and that deal mostly had to do with the use of licit or illicit drugs on the ship. Not in Cam Ranh but on the ship.
+
+And we made a deal, and they bought into the idea that we’re involved in serious business, and you couldn’t let all of that extraneous stuff, whether it be Kent State and all the protests which followed or the huge marijuana patch at the Navy dental facility in Cam Ranh Bay. [Chuckles.] You couldn’t let that affect you once you were aboard ship.
+
+You want to go to the EM [enlisted men’s] club? Don’t get in trouble. Don’t let me know. So 1) you weren’t aware—most people were not aware of it; I wasn’t aware of it for long periods of time. I mean, the mail was slow. Even the international edition of Newsweek—we’d go out on patrol for a month, and so, you know, I’d get four of them at a time, but I wouldn’t have any input during all of that time we were patrolling the river.</u>
+      <u who="RIDKER">So going back to—you said it was July of 1969 when you first—is that when you first boarded the Gallup?</u>
+      <u who="EVERETT">No, no, I didn’t board the Gallup until actually about this time in early August in 1969. Landed in country on the 31st of July, and then it was a week and a half before I made it down to the Gallup, so, you know, seventh, eighth, ninth, tenth, eleventh, something like that.</u>
+      <u who="RIDKER">And what was kind of the daily life like on board?</u>
+      <u who="EVERETT">Well, you faced essentially two different situations. One was—well, three different situations: one, when you were steaming offshore, which was usually transiting from Cam Ranh Bay down to the river, or back after you’d left the river; two, life in Cam Ranh Bay, when you were doing what you were doing and needed to do in order to get the ship ready to go out on another deployment; and then there was the circumstance on what you did and how you lived when you were deployed on the river, when you were always at greater and immediate risk of engaging, for the longest time, until the Cambodian incursion, just local Viet Cong. 
+
+But after the Cambodian incursion, we got the main force, North Vietnamese Army troops down in our area of the country, and we had to worry about engaging them in addition to the VC.
+
+So what was it like? In port in Cam Ranh. You know, it was busy. You had to coordinate the work of all of your men, make sure everything was working, make sure everything was brought up to snuff, figure out—as the supply officer, figure out what you needed in terms of materials for the ship, keep the ship running, and so you had to coordinate that with the engineering department and the navigation and signals department, your own gunnery department, which meant you had to buy—you had to get bullets, little ones, big ones for the M60 machine guns all the way up to the 3”/50 mount.
+
+You had to resupply the ship with food, and you had to take care of the needs of the men, which was forcing them [chuckles] to go up to the dental clinic or the medical clinic and, you know, getting them the kind of sodas and candy bars that they preferred because the Navy didn’t directly provide them. We had sort of an additional sailors’ mess. And just doing that kind of work and starting at eight in the morning and running until—we knocked off ship’s work at five o’clock.
+
+Making sure the guys get fed. I was in charge of feeding of the food. Now, I had qualified senior enlisted people who were doing all of that, doing the immediate supervision of that, but making sure all of that got done, and staying late and doing more of it if that needs be, doing reports and then, you know, trying to get over to the officers’ club to have a cold beer or maybe a hamburg [sic] or something like that.
+
+And the other thing—as I said, they had lovely beaches. You used to have to go over from the piers over the hill to where the communications station was with the clubs and supply facility and the barracks for the enlisted men. And they had just great beaches. I mean, if you were able to knock off ship’s work at five o’clock, get in the truck and drive over the hill, there you are in the middle of a war zone, or at the edge of a war zone, and you’ve got all of those Navy enlisted guy from the comm station in their early 1970s jams, beach jams, with their surfboards or their sail fish, walking [chuckles] across the road to go surfing. And this is just incredibly surreal.
+
+But you did as much as you needed to do to get the ship ready to go underway, and sometimes you had the better part of a week, and sometimes you had two and a half days. And so sometimes it was very, very frantic and full bore all of the time; other times, you could sort of create a schedule and when you wanted to get things done and get it done. That’s important.
+
+Steaming down to and back from the river was a relatively normal naval operation. You were standing one watch in three, so, just for instance, you stood the noon watch from noon until 1600. You had the 1600 to 2000 [spoken as twenty hundred], four in the afternoon to eight in the evening watch off. You had the 20 to 24 watch off, and then you had to go on watch at midnight.
+
+And you would go in that rotation until you got down to the river or, in the cases when we were off shore, you go on that rotation when you’re steaming off shore, and then, so somebody didn’t have to stay in the mid watch all of the time, they would do what they call a dog watch, and they would, in one of those four-hour periods, you’d stay on the watch for two hours and then you’d be relieved, and so you would stagger the watch.
+
+And you had to be in control of driving the ship, make sure everything happened right, make sure that your chief quartermaster was navigating you to the right place at the right time at the right speed, make sure you didn’t hit anything. There were fishing buoys out there. Not much other boat traffic—in fact, hardly any boat traffic.
+
+You had to make sure that the cook fed the people along the way and the engineering officer was making sure that the engines were running and they were doing what they needed to do.
+
+And then you had to work on reports, and you had to, you know, consult with your senior enlisted men and make sure that everything was happening. And so, you know, fairly routine. Thing is, it took us—[Sighs.] It took us about 30 hours, about 30 hours one way to get from Cam Ranh to the river, the mouth of the river, or back. And so, you know, we weren’t doing that for lengthy periods of time when we were in country and deploying to the river regularly.
+
+And maybe a little more to do on your way back to Cam Ranh because you’re gathering information about how many bullets of all the various types do I need, you’re asking the cook about what we need to get for food and talking to the engineering officer, who I shared a stateroom with, saying, “What do you need for parts, Jerry?” And then transmitting that information, making sure all of your reports are done along the way.
+
+As we approached the river, we would go to General Quarters, which meant that everybody was ready to engage in firefight, actual warfare. All the hatches were battened down. We put on flak jackets and helmets and whatnot, and everybody loaded the guns and carried a gun.
+
+And we would steam up the river in that condition to our operating base, which was AOB, the Advanced Operating [sic; Operations] Base, called Sea Float. We were on the southernmost river system in Vietnam, well below the Mekong Delta. We were about seven miles, eight miles from the southern tip of the country. We operated on two rivers, which had been somehow or another, connected up, the Song Bo De, S-o-n [sic; S-o-n-g] B-e [sic; B-o] D-e—no, S-o-n [sic; S-o-n-g], B-o D-e—and Song Cua Lon, C-u-a L-o-n.
+
+Sea Float was anchored in the middle of the river near the village of Nam Can. It was an advanced operating base that was the idea of the commander of the naval forces of Vietnam, Admiral Elmo R. Zumwalt. It was a bunch of barges that were welded together or chained together, anchored in the river. Had guys on board, stationed there. To feed people, comm station, armorers, and had some docks to support some swift boats and had—usually had—often had, in some of their barracks, a detachment of SEALs, which is where I ran into that guy from OCS, who had the 1,000-yard stare.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">Would never have known him. And had some of those barges that attack helicopters could land on when it was necessary. And the number of swift boats came and went. Sometimes the complement was fairly small; sometimes it was fairly large. It all depended on what was happening.
+
+The SEALs would go out every night. Big, tall guys in conical straw hats and black pajamas that they confiscated from some of the short, slender locals. They looked very funny. You didn’t tell them that.</u>
+      <u who="RIDKER">[Chuckles.]</u>
+      <u who="EVERETT">And they’d sneak up the river and they’d go out and do their routes.	
+
+And we were there to act as naval gunfire support, using our 3”/50 caliber gun forward and our 40 millimeter cannon back aft, to support any kind of operation. And it might have been the actual use and insertion of some sort of troops, never American troops, sometimes mercenaries, who were usually Hmong or Meo [pronounced MAY-oh] tribesmen from the Central Highlands. They were the best.
+
+Sometimes Vietnamese Navy Rangers, Vietnamese Marines, [South Vietnamese] Regional Force troops, [South Vietnamese] Popular Force troops—those last two were the worst and were barely competent. They might be inserted to go in and do a mission, and we would be there for gunfire support, to help them if they were in trouble, to soften up a landing area for them, blah, blah, blah.
+
+And sometimes, if somebody ran in an ambush, to take on the dug-in VC—later NVA [North Vietnamese Army]—troops, using naval gunfire to knock out the people who were attacking them.
+
+And then later on, during my 13 months, to shoot a lot of harassment and interdiction operations. We did a lot of that, you know, in the last half of my tour.
+
+That was what we did. We were at General Quarters. You’re always—you’re required to be awake and functioning. We came to recognize that that was pretty burdensome, and so when we were at anchor, 1,000 yards upstream or downstream from Sea Float, more or less, usually—and so we had some degree of protection from their armament and the fact that essentially on the shore from where we were anchored, it was a free-fire zone, and all of the inhabitants had been cleared from it, and much of the vegetation had been cleared from it, there was a lesser risk of ambush.
+
+
+
+We would go to a condition where we had only half of the crew, as opposed to a third, which was the normal operating procedure—half of the crew manning all of the posts at a relaxed General Quarters position so that you could get some sleep. But you stood six hours on, six hours off, six hours on, six hours off.
+
+And as the gunnery officer, we often shot during the six hours I had off, so I often didn’t get the six hours off. And so you operated— did what you needed to do a General Quarters, which might be just standing there and making sure you’re not going to get ambushed from the shore. It might be that you’re firing the guns at a target so you’ve got to go and consult with the quartermaster and make sure you know where you’re shooting from, where the target is, and you figure out the angles and the distance from which you’re going to fire as a base, and then you’re on a phone system with him, later, when you’re doing the firing.
+
+You know, if you’re firing, you’re making sure that the men are bringing up fresh ammunition. You’re making sure that the cook is preparing C-rats [C-rations] for the men if they’re out there for a long time.
+
+
+
+And then—oh, yeah—you’ve got to do all of your normal requirements and reports and paperwork and stuff like that. Most of the time, too, when we were at Sea Float and doing that, I would accompany the captain to the late afternoon briefing at Sea Float, when we would talk about an operation and targets for, you know, that night or the next day. So I had a big-picture appreciation along with the captain for where the guns were meant to be fired or might be fired. And when that happened during the six hours I had off and I had hoped to be sleeping, I wasn’t sleeping.
+
+Time on the river was very, very stressful because it was I think that you consciously became inured to it, with, I suspect, some long-term adverse consequences. And there was a repetitiousness and a monotony in it, but all with a heightened sense of awareness of what was going on around you because it was important that you know whether there was anything unusual taking place out there.
+
+I think mine was the only ship in the squadron during the 13 months that I was there that wasn’t actually fired on by the VC. A couple of them were hit. One was hit very badly. But we spent more time on the river than anybody else did, we shot more bullets than everybody else did, and we liked to think that that was one of the reasons that they chose not to shoot at us and from ambush until August 23rd of 1970, when they sent two sappers in the water.
+
+[Sighs.] Early morning hours. After midnight. I was asleep, or I was not on watch. I think I was in the sack. But my guys were running the boat in the water, spotted what they thought was unusual coming down on the anchor line and took the required action, and they caught three sappers in the water.
+
+
+
+And it was always that potentiality that you were worried about, and it was every day, every minute you were on the river, more particularly when you left that anchorage area around Sea Float, but then we were at that anchorage area in Sea Float when the sappers came after us. And they came from the direction of Sea Float, so they had floated down the river for a long time to get to us.
+
+</u>
+      <u who="RIDKER">Were they swimmer sappers?</u>
+      <u who="EVERETT">Yeah, they were underwater. They had some sort of rudimentary breathing apparatus. They were floating down the river in what seemed to be a not unreasonably normal-for-that-river-appearing bunch of flotsam—reeds and tree branches and stuff like that. Trouble was, it was sort of how they made its way towards the anchor line, and my two guys—it was my second class fire control technician, Terry Wiegand, and one of my seamen from Alabama, who were out in the boat together, in normal patrol. It ran a figure eight in front of the anchor line, and sort of every third time they made a pass, they’d make a big loop figure eight around both sides of the ship.
+
+You know, they had small arms, probably M16s, I don’t think anything larger, maybe a .45 pistol as well, but they had a box of concussion grenades. And they said, “Ehh, I don’t like the way that’s floating down. It’s floating down too close to the anchor line, and there’s something wrong with the way it’s floating.” And so over they went, and they both [plopped? 84:31] concussion grenades, dropped them in the water—boom, boom. Three bodies popped to the surface. They opened fire, got the guy who was walking control on the deck, a first class electrician. He opened fire.
+
+You know, the klaxon went—we went to General Quarters. We pulled up the anchor. [Pause.] I think maybe during the course of what transpired after that, somebody did spot one guy who had been shot, and then I think some time the next day, when the tide changed, they found the bodies of the other two, who had been killed by the concussion grenades. I guess killed by the concussion grenades.
+
+
+
+But we went to General Quarters. I can vaguely sort of recall dressing and putting on my flak jacket [chuckles] as I went up to my battle station, where the captain happened—
+
+Oh, I had failed to say that the guy who was going to relieve me so I could come home was on board. He wasn’t happy to be there. He was on board. He and the captain were on the 02 [spoken as oh-two] level, which was my General Quarters station. And the captain said, “I got this up here, John. Go down to the main deck and make sure that whatever we need to do to make sure that they’re not still in the water, they’re not hanging onto the anchor line, they haven’t put anything on board the hull of the ship.”
+
+And so we got underway. We called the SEAL unit, who, after all, were all underwater guys, and in the middle of the night, in a muddy river, they came down and did an inspection of the hull and said they didn’t see anything. But before they got to us, we used some grappling gear that ran down the side of the hull below the water line, and people were randomly shooting into the water. And our guys who were out in the small boat were going up and down both sides, dropping more concussion grenades.
+
+And so, you know, we came out of it okay, but that was a period of high stress, you know, eight days before I was scheduled to go home. So I was mostly up on the forecastle [pronounced FOKE-suhl], the front half of the deck of the ship, directing all of the guys with the guns and the grappling gear and that kind of stuff. And all of those guys worked for me. I knew them all well.
+
+And they told me later what I was saying between the orders that I was getting [chuckles] to do that stuff, and I have absolutely no memory of having said that, which was “I don’t care what happens. Just don’t take my relief,” because I knew that if that guy got injured and had to leave the ship, that I’d have to stay, and I was not—[Laughs.] I was not ready to do that.
+
+“I was saying that [unintelligible]?” “Oh, yeah, Mr. [unintelligible].” Everybody backed him up. And I had, you know, no memory. It was sort of—I’d give an order, I’d oversee what they were doing, and before I gave the next order, that was sort of the only thing that came out of my mouth. [Chuckles.] And, you know, I would probably attribute that to the stress of what was going on. [Laughs.]
+
+But, you know, we came out of it all right. The young men—well, the first class electrician was—he wasn’t a young man; he was a lot older than I. But the two guys out in the small boat in the middle of the night, when they’d been doing it for—well, it was probably one thirty or two, so they’d been doing it for a couple of hours anyway. They hadn’t slacked off. They were still paying attention. They were still doing their job. They were both good sailors, responding well to their training and doing what they were supposed to do. And no doubt their alertness and paying attention to what was going on saved all of our asses.
+
+And so I think we had a couple of days when everything was a little more heightened there. So that was early in the morning on the 23rd. And we probably stayed [drums table with fingers] on the river for another five days or so, four or five days or so before we stopped that deployment and operation and went back to Cam Ranh, at which time I got off the ship.
+
+Emblematic of what went on on board the ship, nothing as dramatic in the prior twelve and a half months [chuckles] as that, but it made up. It made up for the absence of other stuff. I mean, we were engaged in lots of other action and operations on the river.
+
+The closest we ever came to getting shot was in fact an operation we were on when the swift boats we were operating with put two groups of Vietnamese Navy Rangers, I think, maybe Vietnamese Marines—I don’t remember which—in an operation because there was some intelligence from the SEALs that there was a significant force of I think VC operating in an area, and there was a big ox bow in the river, and the Vietnamese troops got inserted, and they were going to do a hammer and anvil operation.
+
+So one group of them was going to set up in a position and dig in and fortify and have heavy guns, and the other was going to try and drive the VC towards them. And I don’t know whether any VC—they’re so big, like this [demonstrates]—and we’re off behind [raps on desk three times]—we’re behind the anvil position up the river, ready to shoot in support of them.
+
+I don’t know if there were ever actually any VC who ever showed up. They did the operation, and the one half of them started pushing, as the hammer, towards the anvil, and they spotted somebody over in the bushes, and they started shooting. It turned out mostly to be their own—the other half of their own guys. Their aim wasn’t very good, and so they were overshooting them, and we could see the bullets march towards us across the water and the river.
+
+And the captain took some action with the American adviser to them and said, “Stop,” and they did finally stop. But that was the closest we ever came to receiving any direct fire, from our own side.</u>
+      <u who="RIDKER">Was there really any desire to be more—like, closer to more action like that, or was it a relief? Like, more—like, gunfire for you guys?</u>
+      <u who="EVERETT">You mean more incoming gunfire?</u>
+      <u who="RIDKER">Yeah, or outgoing, yeah.</u>
+      <u who="EVERETT">Well, we shot more bullets than anybody else did.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">So, I mean, we shot enough.  I think nobody had any desire to have more incoming. [Laughs.]</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">And, you know, I mean, we actually escorted one of our sister ships that took a couple of B-40 rockets back to Cam Ranh from the river.</u>
+      <u who="RIDKER">What was that ship?</u>
+      <u who="EVERETT">Hmm?</u>
+      <u who="RIDKER">What was the ship called?</u>
+      <u who="EVERETT">It could have been the [USS] Crockett. It could have been the [USS] Asheville. It could have been the [USS] Canon. No, Canon was the other event. I think Canon was the other event. But one of the B-40s they got went into the engine room, and that’s what everybody was worried about. And I think there might have been some minimal shrapnel injuries. There was no serious injuries. But we escorted them back. 
+
+
+
+Nobody on board the Gallup wanted to face that kind of a situation. And, you know—and I must say that the men responded appropriately to that kind of thing.
+
+Then—actually, just before that last deployment on the river, one of the new ships that came over from EASTPAC got caught in a very serious ambush, and they medevac’d—28 people on board the ship; they medevac’d 15 of the 28, leaving 13. They got hit very hard. Three of the four officers were medevac’d.
+
+And they were lucky because I think that the helmsman was hit, and as he was hit and/or fell out of the helm chair, he spun the wheel, and so they were turning towards the riverbank in a not very wide river. And one of the officers left on the bridge, and I don’t know whether it was somebody who was injured or not, righted the course of the ship [slaps table once] and drove it off out of the ambush.
+
+But, I mean, we were in Cam Ranh, just getting ready for the next regular deployment, and no rush or anything, and, you know, word came in first thing in the morning, eight o’clock, more or less, that that had happened, and we had to get underway by four that afternoon to go down to the river and escort them back. And amongst other things, we didn’t have any—we hadn’t resupplied with bullets or shells yet, so I was busy that day.
+
+
+
+And then we got down there and learned that so many people had been medevac’d that I was actually transferred over to I think the Canon that day and helped drive her back as the Gallup was escorting her back to Cam Ranh. And then I think we resupplied a tad more, and we turned around and went back to the river for that long last deployment.</u>
+      <u who="RIDKER">And were you guys working alongside South Vietnamese naval men as well?</u>
+      <u who="EVERETT">Not really. At some point—well,—at some point, and I would say probably some time in 1970, they really significantly began the Vietnamization of the war, which meant we were turning over all of our—many of our military assets to the Vietnamese, including the Vietnam Navy. So we were turning over swift boats to them, and other coastal patrol boats, and that kind of thing was happening at one of the other piers in Cam Ranh Bay, so we could just look across that short stretch of water and see it happening and see the boats that were still American boats go out with the Vietnamese boats on patrol, training and patrol. But we weren’t working really with them.
+
+None of those Vietnamese-operated swift boats came up the Bo De Cua Lon. But at some point, and I want to say in the summer of 1970, the Vietnamese Navy ran an old landing ship, medium-size landing ship up to Sea Float, to operate with—to join in the operations at Sea Float. And other than the fact that they were there at the same time we were there, and other than the fact that I actually don’t remember ever seeing them get underway, that might be the closest we ever worked with them. They always seemed to be anchored there on the same side of Sea Float, to the east of Sea Float roughly 1,000 yards off.
+
+And then at some point, when we were not on the river—I don’t know if one of our sister ships was on the river—maybe it was those same three sappers who would later come to see us [chuckles]—they came in, and they mined that LSM [landing ship medium, an amphibious assault ship] and didn’t sink it because it didn’t go under the water, but they damaged it so it at least sunk down to the bottom of the river, and you could see the deck and the superstructure stuck there forever above the river. And so it was there as a monument in the river the last couple of times we were down there, and you just navigated around it. It was a fairly wide stretch of the river.
+
+
+
+That’s probably the closest I can say that we came close to operating with the South Vietnamese Navy.</u>
+      <u who="RIDKER">Mm-hm. The Gallup was all American.</u>
+      <u who="EVERETT">Yes. Yup, yup. Until it became Greek.</u>
+      <u who="RIDKER">Really?</u>
+      <u who="EVERETT">Yeah. So I’m told.</u>
+      <u who="RIDKER">And so were these operations—</u>
+      <u who="EVERETT">Either that—either Greek or, since the hull was aluminum and the superstructure was fiberglass, it either became Greek and the Greek Navy did have two old U.S. Navy PGs—either that or soda cans, one or the other.</u>
+      <u who="RIDKER">[Chuckles.]
+
+So I was just going to ask—</u>
+      <u who="EVERETT">I like the image of it being Greek.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">Or Turkish, because the Turks had some, too. I think it was Turks.</u>
+      <u who="RIDKER">Better than soda cans, huh?</u>
+      <u who="EVERETT">That’s a better—yeah.</u>
+      <u who="RIDKER">Yeah. [Chuckles.]</u>
+      <u who="EVERETT">Might have been Mountain Dew. It would have been all right if it was Pepsi.</u>
+      <u who="RIDKER">[Chuckles.]
+
+Were these operations under the auspices of, like, Operation Market Time or Game Warden, or was the Gallup kind of doing, like,—anything that was coming into your hands, you guys were just doing?</u>
+      <u who="EVERETT">When I got over there, the Gallup—how do I say this? When I got over there, the squadron to which Gallup was assigned was still doing some Market Time patrols. However, the Market Time patrols that the Gallup and the other swifts were involved in by that time—so July, August of 1969—were offshore Market Time. But we would only do them essentially on the way down to the river or back.
+
+
+
+Previously, they had done offshore Market Time both in the first layer, in shore, and off shore, and then the bigger ships farther out to sea, without deploying up the rivers. By the time I got there, the Coast Guard had some—I think—my Coast Guard buddy will kill me for getting this wrong—120- or 130-footers that were doing the in-shore stuff—first of all, Market Time, by the time we got there, had been so successful that there was less of a need for it, and so one of the changes that was made was that the Coast Guard had these smaller-length, shorter-length and I think less-draft ships that were doing the in-shore stuff. We would occasionally do some offshore stuff.
+
+And I remember only one underway, Market Time stop that we made when I was on the Gallup. And I think that some of the destroyers that were operating in the next layer out were doing some—continued to do some Market Time, and they had some stops farther north. But essentially, by that time, it had been pretty successful.
+
+
+
+Now, we also made one Market Time stop on the river while I was there, but that was all. And then at some point, our function was transferred within the squadron, you know, under direction from Commander, Naval Forces, Vietnam to really just deploy to the river as naval gunfire support for Sea Float because when I got there [drums on the desk] the summer of ’69, Sea Float was still relatively new. And I’m not—I should remember—I’m not remembering exactly when it got started, I think maybe in ’68. It was an idea of Admiral Zumwalt as the Commander of Naval Forces, Vietnam, when he got over there and they got it going.
+
+There had not been any sort of occidental presence that far south in Vietnam since the French left in 1953, ’54. It had been for that long time, as we so admirably called it, “Indian country.” And so this was the first incursion of the U.S. land or navy forces that far south.
+
+I should add, just as a point of reference, seven or eight months before I got there—I think seven of eight months before I got there—actually, maybe a little longer than that, before I got there, Lt. John Kerry and his swift boat operated on the Bo De Cua Lon, and he won, I think, his first medals there. And then the controversial engagements that he was in that came to light during his run for the presidency was at the next river system north, about seven or eight miles farther north from where we were but still very far south of the Mekong Delta.
+
+So what question was I responding with that answer?</u>
+      <u who="RIDKER">Oh, it was just about Operation Market Time.</u>
+      <u who="EVERETT">Oh, yeah, yeah. So, yeah, it had been successful, and they decided—they, the Navy powers that be decided that they could better utilize us, with our gun power, down on the river as naval gunfire support because, I mean, we very, very, very heavily outgunned the swift boats. I mean, they had—their significant armament was twin 50 caliber machine gun, in a—more useful in close fighting but not for, you know, firing from seven or eight miles away in disrupting the life of the bad guys.</u>
+      <u who="RIDKER">Yeah.
+
+So you mentioned that on your ship there were about 24 seamen.</u>
+      <u who="EVERETT">Twenty-four enlisted men.</u>
+      <u who="RIDKER">Enlisted and then four officers?</u>
+      <u who="EVERETT">Yes. Twenty-five, actually, when I reported on board ship because we had an extra guy. When he rotated off, he wasn’t replaced, which was too bad because he was a great sailor.</u>
+      <u who="RIDKER">Right.</u>
+      <u who="EVERETT">[Laughs.]</u>
+      <u who="RIDKER">Oh, man.
+
+So what were these relationships like on the ship? Do you recall having any one specific person that stands out to you the most?</u>
+      <u who="EVERETT">Any one person that stands—stood out the most. Well, when I reported on board, my chief storekeeper was an amazing guy: bright, accomplished. I could rely on him like anything you might want in a man. He was in a bad position, though. He was a genuinely big, strong man. He was an African-American, and times were tough for him with the other guys on board the ship, the other chief petty officers on board the ship. But Chief Rose was—he was a spectacular sailor and a spectacular person. 
+
+And in that division, we had that young man who was not replaced, who was also an African-American. I think that he was struck positively by Chief Rose and the image that Chief Rose put up as the chief storekeeper, and this young man wanted to be a storekeeper. He was a seaman, but he was designated as a storekeeper seaman and was learning the trade. He was a good kid, hard worker, bright.
+
+
+
+We had a Filipino steward, who was a wonderful young man. Bright. Arturo Peralta Madali. We tried to make him a machinist man because he wanted to be more than a steward, but we couldn’t pull that off.
+
+The only other guy in that division, in the supply division, was the cook, who was a great cook. He was a great baker. And he was the single most reprehensible human being that I have ever met in my life. And I won’t give you his name. He was a drunk. The deal on the ship, since there were—in each rating, which is the description of a job—so cook, machinist’s mate, quartermaster—in most of the ratings, there was only one guy in the rating.
+
+And so as a cook—and the cook worked with the steward—the deal was, on the ships in the squadron, when you’re in port, since the cook had to supervise the production of every meal, he’d get shore liberty every night you were in port unless something was going on. And so this reprehensible character used to get up, get filthy, stinking drunk and come back mean and nasty.
+
+I mean, I can remember a few times when I was standing the watch in port, telling my petty officer of the watch to have his sidearm ready and to be ready to deal with this guy if he got out of hand, as I tried to calm him down when he came on board, outraged and mad at somebody and just trying to get him down into a sack without him doing any damage or getting in a physical confrontation with anybody.
+
+But he could bake. God, he could bake—and yet, given all of that, we were able to get through to him. And, in fact, he was on board when I came on board, so they’d already gotten through to him. We were able to get through to him and continue to make it clear to him that, you know, he could be this reprehensible drunk on shore, when we were in port, but he was not to do like most of the other cooks in the squadron did: smuggle booze on board. We wouldn’t tolerate it.
+
+And [chuckles] almost every other ship in the squadron had cooks that were never around for more than one or two deployments to the river because by the end of the second one, they would get caught with booze on board. And so, you know, there was something in this guy most reprehensible that demonstrated a little responsibility because he did not drink when we were on the river—or underway. We were on the river. So he was, in fact, memorable.
+
+There were other guys who were very memorable. Gene Mackey, who was an engineman who I flew over with and then flew home with—he didn’t work for me; he was a southern guy. I’m thinking Tennessee, and a fairly tall guy, not so much a big guy but a tall guy, and a bubbly, effusive personality, very nice guy, and very good at his work.
+
+
+
+My second boatswain [pronounced BO-sun]—I started with a chief boatswain, but my second boatswain, Ed Field—and he flew home. He and Mackey and I flew home together. Somebody produced a bottle of booze on the big silver bird.
+
+First class boatswain’s mate Ed Field was—he was a great boatswain’s mate. He was a good leader of men, too. But he was a piece of work. I’m not sure—I’m not sure that he had a natural tooth left in his head. He ran my—he was the gun captain for my 3”/50 mount forward. And he had a bunch of kids who was trying to run roughshod over on the deck crew. Yeah, they were all [drums on desk]—seamen. He didn’t have any third class boatswain’s mate; they were all seamen.
+
+He was also the second biggest party hound on board the ship. He knew where all of the places to go and all of the ports in WESTPAC [sic] were, and to have a good time. The person he was second to was my captain, who was a wonderful guy.
+
+And there was one time we went into Subic Bay in the Philippines. The boatswain was my lead petty officer on my forward deck crew when we were going into port. Unbeknownst to me, he had talked to the captain before [chuckles] we set the sea and anchor detail. And usually tell him to throw the number one line over that goes out through the nose of the ship. They put it on the bollard. That gives you a point that you can turn on and bring the ship in to dock. Not this time. The boatswain carried the line over, put it on the bollard and disappeared into town, at the direction of the captain, to plan the evening’s activity. Ed Field was pretty memorable, too.
+
+My second class fire control technician when I reported on board and whose General Quarters station was on the 02 level with me, so we spent a lot of nights together, Max Swegle, from L.A. Bright kid, strong kid, had made rank very quickly as a fire control technician. They were the guys who ran the radar which connected up to the guns so that you could fire the guns and shoot in the exact direction that you wanted do.
+
+
+
+Max came home sort of in the middle of my tour, at the end of his, at the end of his regular tour. Was stationed at the squadron in San Diego, so close to home, and when we were in country, we had to take primaquin, which is an anti-malarial drug. You had to take it for 30 days after we get home. And at the end of the 30 days, Max did, as we all did, stop taking it, and then he got sick, and he had kidney failure from blackwater malaria, which had remained quiescent while he was taking the anti-malarial drug. And by the time I flew home, Max was an in-patient in the Naval Hospital in Oakland, where he’d had his kidneys removed and he was on dialysis.
+
+It was the only stop I made on the way home. I flew into Sea-Tac and flew from there to Oakland and went over and saw Max and spent the day with him before I went over to SFO [San Francisco International Airport] and flew home to the East Coast, Scituate [unintelligible]. Max was waiting and hoping for a kidney transplant, and he died before that happened. Max was very memorable. Max was a real piece of work. He would have—I think—I think he would have gone very far in life had he lived.
+
+
+
+Yeah, there were a lot of memorable people. Isaac Valdez, a first class engineman, a long-time Navy guy. Yeah, he didn’t even work for me on General Quarters. He was just a stand-up guy and a great person, a great personality.
+
+My captain, my captain for most of the time I was on board, Dick Hayes, Richard James Hayes, from Albany, New York, ended up being at least a two-star admiral. I saw him a time or two after we were both back in Washington. I went from the Gallup to the Bureau of Naval Personnel, which was then in Arlington, Virginia, really at sort of the southwest edge of the Arlington Cemetery, where the Marine Corps Headquarters at Henderson Hall were. And Dick was down at the Pentagon, which was just down the hill, and ran into him a couple of times.
+
+A wonderful guy, wonderful captain. Only when I became reflective about some of the stuff that went on, when we were on board ship, did I come to appreciate how highly he must have thought of me. And, given that I thought he was such a remarkable guy, a remarkable leader and a remarkable captain, that made me feel really good about myself.
+
+
+
+Of course, we also knew that Dick easily got seasick. He was always borderline seasick. And so when my stateroom mate, who was the engineering officer, from Oklahoma, Wade Something-or-other—I don’t remember his name, last name. When he was relieving me or I was relieving him and we didn’t want the captain on the bridge, we had a verbal signal to go down the ladder from behind the bridge to our stateroom, get out our short supply of cigars, come back up to the bridge and we’d share cigars, and the captain was gone [snaps fingers], like that. [Chuckles.] So we got to stay on the watch alone. [Laughs.] Because he was sick.
+
+
+
+Captain Hayes. Every time that we were putting into or leaving—every time we were steaming through the Philippines towards Subic Bay or away from Subic Bay, headed east towards Guam, the captain set up the watch so that I was standing watch at the Verde Island Passage, which was a busy, busy, busy, busy passage, often in the middle of the night, sometimes in the 20 to 24 watch, so in the early night, more often in the mid watch, in hopes that when we go through there on the mid watch there was less traffic.
+
+And I used to grouse about that. I used to grouse about the fact that the captain—Aw, the captain’s got me standing mid watch again. [Makes grumbling sounds.] First night out. [Makes grumbling sounds.] Then it occurred to me that this was the most dangerous passage we made, and the captain was setting up the watch so that I would have the deck and the conn [temporary control] on the ship. I’d be transporting the ship through that dangerous passage.
+
+And I went, Well, you know—you know, he thinks [chuckles]  that I can do it. You know, it’s a compliment. And he was a Naval Academy graduate and I was not, but he was from Albany, New York, and a guy from Albany appreciated, you know, Dartmouth [knocks on table] and Harvard [knocks on table] and Yale [knocks on table] and the like. So actually on that day, when I was in the officers’ club with my buddy on the other ship from Auburn and we were both grousing about the fact that “this is the first time I’m gonna miss the Dartmouth-Harvard football game in years and years and years.” And he was saying the same thing about the Auburn-Alabama game.
+
+I turned and said, “Hey, Captain Hayes, is there any chance I can leave this weekend to go back to the Harvard-Dartmouth game?” “If you’re serious, talk to me in the morning.” I made the Harvard-Dartmouth game in the fall of 1969.</u>
+      <u who="RIDKER">Wow.</u>
+      <u who="EVERETT">Arrived at Logan at about 6:30 in the morning, met by my family, who had stayed up all night waiting for me to come.</u>
+      <u who="RIDKER">Wow.</u>
+      <u who="EVERETT">I—you know, walking with a buzz cut, and people were going, “Aren’t you in Vietnam?” “No, I’m here at the Harvard-Dartmouth game. Where would you expect me to be on this weekend?”</u>
+      <u who="RIDKER">Wow.</u>
+      <u who="EVERETT">[Laughs.]</u>
+      <u who="RIDKER">And so you just came back for, like, a couple of days and then—</u>
+      <u who="EVERETT">Yeah, yeah, because he appreciated that. And then, as it turned out, the Yalie who I shared my stateroom with—he was the second engineering officer—and who fleeted up to XO while there was a little gap between the assigned people—and Jerry could do it—it was a great job. Good guy, who was a Yalie. While [chuckles] he was XO and had control of the personnel records, knowing that I’d done that, he made a judgment as the executive officer that that wasn’t leave. [Chuckles.] So I got time off and still had credit for the days to use when I’d come back.</u>
+      <u who="RIDKER">Wow.</u>
+      <u who="EVERETT">So, you know, so much of those kinds of things depend on the serendipity of who you get to serve with and what happens. And so those are the—
+
+
+
+One bad example for memorable people. The others, good people that create good memories. And not too many other people on the ship—bad memories, just not good memories like those. The first XO was a buffoon, but he was pretty well controlled by Capt. Hayes. Capt. Hayes was from Albany. This guy was from Troy, right across the river. I forget where Murphy went to school. He didn’t go to the Naval Academy. Yeah, but the captain kept him pretty well under his thumb.
+
+So, you know, all the while it was going on, but certainly, reflecting back and reflecting back and, you know, the immediate aftermath of having come home and not spending much time reflecting back for a long time—you know, I certainly realized that I was pretty fortunate to have that cast of characters to work with and to work for during those 13 months.
+
+I must say that the first captain, who I went on one deployment on the river with before Capt. Hayes came in and relieved him, would not have been my favorite. But I didn’t spend long enough with him, and, you know, I don’t think that he was probably [drums fingers on table]—I don’t think he was probably inordinately difficult. He was a Naval Academy graduate. I think he was happier with the guy who I relieved, who himself was a Naval Academy graduate, and he was happier to work with a Naval Academy guy.
+
+
+
+I don’t think he made it as far in the Navy as Capt. Hayes did, who became an admiral, and with good reason. You know, one guy was just—he was a star but for this tendency to become seasick. [Both chuckle.] But, you know, I mean, you don’t have time when most of that’s going on to be reflective about how fortunate you are for the cast of characters because you’ve got to deal with the cast of characters on a day-to-day basis and get stuff done.
+
+But, you know, in the immediate aftermath of having come back and thinking about it, and then some time when I was in law school and I was going through some therapy to reflect back—I mean, you think about that. And today I recall, you know, some just wonderful, stellar people, whether it just be the personality and the person they were, the work they did.
+
+
+
+And other than Dick Hayes, who I saw very quickly a couple of times in Arlington, Virginia, Pentagon or Washington—I really don’t remember the circumstance—[drums table with his fingers]—I don’t think that I ever saw any of them ever again.
+
+I looked for one kid who was [chuckles] a reluctant and not very happy seaman, who was from Cohasset, right next to Scituate, so I had the chance to try and find Billy Donovan, but I never did. He was a smart guy. He was going to go places, I think, when he got out of the Navy. He was somebody who, if he followed his abilities, I think probably would have done well and done big in technology and computers.</u>
+      <u who="RIDKER">I’m curious a little bit more about Chief Rose. You mentioned he was African-American, and I’m just wondering a little bit more about what that dynamic was like on the boat and if there were any conflicts [that] ever arose.</u>
+      <u who="EVERETT">Yeah, there were conflicts in the chiefs’ quarters, and I don’t know about those. God, he was always professional. He was a hell of a sailor. He knew his work professionally extraordinarily well, and yet you could see—I could see in my interactions with him that it was always hard for him. I’m trying to think who the other chiefs were when I came on board. There were four ch- —well, there were four people living in the chiefs’ quarters. 
+
+Chief Rose—and he wasn’t just a black man; he was a big black man. I mean, he was a very imposing, physical person.
+
+My chief boatswain mate was I think probably the real—my guess would be was the real problematic guy. I mean, I think that he was a real hardcore redneck. I think that’s where the problems lay. And, you know, you live in close quarters, and you can’t help but have that kind of stuff.
+
+There was a chief engineman. [Drums table.] Or a chief snipe, actually. I don’t know whether he was an engineman or an electrician’s mate. He didn’t work for me, and I have not even a visual memory.
+
+
+
+And then I don’t remember whether there was—no, the early guy was a quartermaster. There was a chief quartermaster. So it might have been those four guys. I don’t know if the chief quartermaster, who was the navigator on board the ship, ran the navigation, ran the radio room, all the communications gear—I don’t think that he would be the lead antagonist towards an African-American like Chief Rose. 	But I also don’t have any idea whether or not he would have piled on along with the chief boatswain.
+
+Yeah, there were times when—and I must say, at least in this regard, and you would have not expected anything different of them, each of them having been in the Navy as long as they already had by 1969, to have done anything other than keep whatever antagonisms or difficulties they had amongst themselves in any place other than the chiefs’ quarters, and they would not have allowed it to come out and affect what they did in daily life and the rest of the ship’s function and their daily work.
+
+And so I think you had the chief boatswain and the chief quartermaster both working for me, and we would gather at quarters together, and there was not any sniping back and forth, I think, between them in that kind of setting because they knew they couldn’t allow the men who worked for them to feel that they had some basis to do that.
+
+But, by the same token, you couldn’t help but notice, on occasion, when something must have happened, that Chief Rose could be pretty resentful. I never had any difficulty with him, I think, because, you know, I first of all told him that, “Look, I had a week of storekeeper [unintelligible] school. What the hell do I know? I’m gonna have to rely on you. And Mr. So-and-so, the guy who I relieved, said that, you know, you are just absolutely top notch and that I could rely on you. And I’m probably going to tell you to do stuff, and please feel free [chuckles] to tell me that, you know, I’m full of it if I want to—you know, want that done, and why.”
+
+And I think we had a good relationship. But sometimes his relationship with the world, which would include me on those occasions, was burdened by something else that had happened. He was a remarkable guy.</u>
+      <u who="RIDKER">And so you mentioned a few minutes ago kind of your process of coming home. I just wanted to ask a little bit about that, because I think you said August 23rd was eight days before you had come home.</u>
+      <u who="EVERETT">Eight days before I was scheduled to come home.</u>
+      <u who="RIDKER">For scheduling home [sic]. So did you end up going home on that scheduled date?</u>
+      <u who="EVERETT">No, I didn’t, but that was because the plane was late or didn’t work. I was scheduled to go home on the first of September. I think, as I said, we spent four or five more days down—or up the river and steamed back. 
+
+Oh, the guy—oh! The guy was already on board. Maybe we stayed longer. I was making that assumption based on the fact that we needed some time for the relief procedure to take place, but he was already on board. Remember how I told you that when I was in OCS there was the black Italian and they treated everybody so badly?</u>
+      <u who="RIDKER">Mmm.</u>
+      <u who="EVERETT">I was always the junior officer on board my ship. That’s pretty unusual. You’re usually relieved by somebody who’s junior to you. This guy had been the commander of all of the OCS candidates in the month before I was first class, so he was a month senior to me, and he had been the commander of the so-called Black Battalion, where they were demeaning to so many of the other officer candidates. And he was relieving me. He wasn’t happy to be there when he reported on board. He made that last appointment with us. He was less happy at the end of it [chuckles], when the sappers came in the water and had to stay. He wasn’t doing much in the way of the relieving process, because “I don’t have to because I’m senior to you.
+
+Along the way and before that event, the captain said to me—Capt. Hayes said to me one day, “John, how’s the relief process going?” “Well, he’s not being very cooperative, Captain. He thinks that because he’s senior to me he doesn’t have to do much.” And the captain called him in for a chat and things changed.
+
+So maybe we actually were on the river a few days longer. But anyway, we got in the twenty-eighth or twenty-ninth of August, did the last of the paperwork, got my orders cut, got packed, blah, blah, blah. And I was transferred off the ship sometime on the first of September, with a departure day on the Air Force side, you know, eight in the evening, something like that. And the plane didn’t work, and it didn’t work again [chuckles], and it didn’t work a third time, and we’re all going, “We’re gonna get stranded here!” [Chuckles.]
+
+And Gene Mackey and Ed Field were with me, and finally around two o’clock in the morning on the second of September, the plane took off. It was September of 1970. There was a lot of both Vietnamization of the war taking place and demobilization of American troops. And the way the flights worked, essentially, was an Army unit—and I think up north, Marine units—an Army unit will be put on Plane X, and they’ll fill 95, 97, 98 percent of the seats. “There’ll be two seats here [raps on desk] and two seats there [raps on desk], and then we’ll send”—of course, the Air Force people had their own planes—“We’ll put, you know, a few Navy guys on, a few Coast Guard guys on. We’ll fill in the empty seats with those kinds of people.”
+
+So we had a huge infantry unit on board that plane as the vast majority of people on the plane. And they had, within a week—we talked enough to them—they had, within a week, been out on the field on operations, shooting guns, and they brought them in—and I think much less than a week, actually—and they brought them in, and at their advanced operating base they cleaned them up, they had them check their weapons, they got clean uniforms, and then they brought them back to the Army side in Cam Ranh, where they did some out-processing and cut orders and stuff like that, and they put them on the plane. And those guys were all going to go home and get out of the Army when they got back.
+
+And you could see that the vast—and young guys, young guys—I mean, Ed Fields was—well [chuckles], he was probably in his thirties. He looked like he was in his late 40s. He was well used. Gene Mackey was probably in his late 20s, early 30s. Nineteen seventy? Nineteen seventy. I was almost 24 years—1970? I was almost 24 years old. And I thought these were young guys. And all of them—and they were going to get out and, within a week earlier, they had been out in the jungle, shooting people. And a lot of them still had, still had a 1,000-yard stare. And they were just going to get released back into the communities across America.
+
+But, jeez, that plane lifted off the ground. There was some great happiness. The big silver bird. You’d be steaming off shore, you’d be in Cam Ranh, you’d be down on the river and you’d see the contrails up in the sky, and you’d look, at the big silver freedom bird. Someday I’m gonna be on it.</u>
+      <u who="RIDKER">And so you mentioned stopping off to see Max before coming back home and then did you go back to Scituate?</u>
+      <u who="EVERETT">Yeah, I went to Scituate. Flew into Boston through SFO, through San Francisco International. I had—I’m trying to remember where I did—I changed into civilian clothes somewhere. [Repeatedly knocks on desk.] And I don’t remember whether I changed into civilian clothes at Sea-Tac and then flew to Oakland or changed when I got to the airport in Oakland or at the naval hospital or—well, at least at the naval hospital because I rented a car—no, you know, that was actually before I went to the naval hospital.
+
+So I rented a car after I flew into Oakland, and I was in civvies, civilian clothes then, because I remember the guy who [chuckles] was renting me the car commenting on the fact, “You say that you’re the Navy, but you’re wearing civilian clothes.” I said, “Look at the hair!” And probably showed him an ID.
+
+
+
+And got to drive through rush hour traffic to San Francisco International. I don’t know if you’ve ever been on the Bay Bridge and those freeways out there, but driving them at rush hour when you’d been in nothing but a dumpy old pickup truck [chuckles] with one forward gear in the previous year—that was pretty scary, actually.
+
+And because I was in civvies, nothing happened to me. I saw, as I was passing through the terminal, some guys—Army guys, I think—some guys were in uniform—having somebody rant at them over there, and I went that way around them and headed towards the gate.
+
+Evening flight time out of San Francisco, so probably a red eye. I probably got in at some crazy, ungodly, early hour into Logan, and went home to Scituate. Family summer home, then the family summer home. It actually became our family home. My dad bought the place from a sibling, his sibling. And each one of the four of us lived there year round for a period of time. Both my older brother and my younger sister lived there with their spouse and kids while my brother and my brother-in-law were in medical training in Boston. 	I’m not remembering exactly when my next younger sister lived down there for a while throughout the year.
+
+And then I lived there for a short period of time in the ’90s, when I stopped working for a while as a lawyer for the federal government, tried to thru hike the Appalachian Trail, worked as a lawyer in Wellesley [Massachusetts] for a bit, and then had an offer from an old buddy to come back in and go back to work for the federal government, pretty much in the same senior lawyer position that I had before but this time down in Roanoke, Virginia and then Charlottesville, which I did do.
+
+
+
+But it had been the family summer home since 1923, something like that. You know, I was there right after Labor Day. It was still summer. And so everybody stopped by, and we had a big family welcome-home dinner. My dad, the old destroyer sailor from the South Pacific, got up and said some wonderful things about my having gone to war and having been successful. And I said the guy who was the hero was brother Jim, who was a doctor and is saving lives, not somebody who’s taking life. [Makes barking sounds like an angry dog.] Out the door, and walked around for a few hours before they could track me down.
+
+I think it was in the aftermath of that, actually, that I began hearing from some of them, my dad included, that from time to time [chuckles] and often in response to the letters I would send in and the slides that I would send back, they got worried about me. And I think that at that time, other than the fact that I might have reported it to them on [hits desk four times, then sighs] maybe the third of September, they wouldn’t have known about what transpired on the twenty-third of August, because I wouldn't have had a chance to mail a letter until the twenty-ninth of August, and I knew that I’d beat it back then—I mean, beat it back to the States. So I’m sure that I didn’t communicate anything to them until I saw them in person.</u>
+      <u who="RIDKER">So upon—when you came home and—was there sort of like resentment in the kind of work you were doing, or was it mostly just, like, trying to wind down? You mentioned that—</u>
+      <u who="EVERETT">Resentment?</u>
+      <u who="RIDKER">—conversation when you came home about the friend who was there that was a doctor—I mean,—</u>
+      <u who="EVERETT">Oh, resentment? No, no. I think disappointment that once again, as happened time and time again up to that point and has happened time and time again since—and what did I read, just read that Mark Twain said about it? The reason we have wars is because once more, fathers have lied to sons about war.
+
+You know what? I’d gone to fight in Vietnam, knowing that it was a pretty dicey situation, as a historian knowing it was a pretty dicey situation. [Sighs.] We didn’t know the extent of how dicey it was. Yesterday or today, it was the anniversary of the Gulf of Tonkin Resolution, or the Gulf of Tonkin incident that led to the—the purported Gulf of Tonkin incident, which led to the Gulf of Tonkin Resolution.
+
+And Daniel Ellsberg had yet to release the Pentagon Papers to demonstrate that, you know, well before I committed myself to go to Vietnam, that there was counsel in the highest councils of the government at the time that, you know, all of this was prolonging a lost cause and they hadn’t been honest with the public and with the soldiers who they sent over there, and sailors—I guess I was a sailor. Somebody asked me, “Were you in the U.S. military?” And I go, “No, I was in the Navy!”
+
+They hadn’t been honest with us, and I guess it was hard—and yet there’s valor in it [hits desk], and you’re proud [hits desk] of what you do [hits desk] and what you’ve done [hits desk] because you were there and had to do it. But there’s also the realization when you’re away from it that what they had us doing was badly conceived and badly carried out, wasn’t going to accomplish what anybody said they hoped to accomplish.
+
+And I had my dad, whose intellect—if nothing else, whose intellect I had always held in the highest regard and who had been through the same thing and had been through extraordinary trauma in his naval experience in the South Pacific, something he never really talked about. One time he was standing in formation, going into Iron Bottom Sound in the Solomons, to engage in a night battle with the Japanese fleet, and the Japanese hit, a direct hits or hits, all at the same time on the cruiser immediately in front [hits desk] of my father’s ship [hits desk], 500 yards [hits desk], blew the thing out of the water [hits desk] and sunk it, and they had to stop—an emergency stop and rescue as many of the guys as they could. And the other ships in the line had to do the same thing.
+
+That, amongst other things, I mean, badly scarred him. I mean, his psyche, as I would discover. And yet here he was—I didn’t know it at the time, didn’t know how badly it scarred him at the time, and yet here he was [hits desk], lionizing what I’d done. And I guess I can understand it. I mean, the war he fought in and the actions that he fought in were very different from that which I was asked to do and did.
+
+I saw your reaction when earlier I said that in the second half of—well, towards the end of my tour, we operated a lot of harassment and interdiction, H&amp;amp;I, operations, and that was pretty ghastly work. I mean, I appreciated, while I was there and certainly after I came home, that that was pretty ghastly work.
+
+And so, you know, that was the recent stuff, the vast majority of the recent stuff, the operations that we’d run down on the river. And one could not be proud of one’s involvement in that kind of operation. And so—that kind of operation differed extraordinarily in the kind of stuff that my dad was involved in, being in the van—of the fight to stop the expansion of the Japanese fleet east across the Pacific. He was involved in the battles around Guadalcanal and the Solomons as they started to island hop back towards New Guinea and then north towards Japan.
+
+And the ship that—the destroyer that he was on and fought as the torpedo officer was so honored in its naval experience in the war in the Pacific that it was given the honor to lead, to lead, to be in the van of the U.S. Navy fleet going into Tokyo Bay to accept the surrender of the emperor of Japan.
+
+What he did and what his ship did—a very different experience from what I did, and it was hard for me to take, feeling the way that I did, particularly about what I’d recently done with this H&amp;amp;I stuff, to hear what I’d done lionized so much when, you know, there was my brother. And oh, God, what a good guy! Class of ’66. What a good guy. Still a good guy. Trained to become a doc, saving lives.
+
+I mean, certainly not resentment towards my dad or anybody in the family. Maybe resentment towards that global situation that I found myself in. But I’m not even sure that it was resentment so much as it was the anger of having been put in that situation and, as I would learn in the out years, having been lied to get into that situation. But, of course, my reaction that evening was in no way a reaction to the lie that had already been told.
+
+When we went out every night for H&amp;amp;I operations, which, after we discussed them in the briefing at Sea Float, I would sit with the captain, and we’d figure out exactly what we were going to do, given the general targets that we’d been given. And we’d plot them out, and then we’d go out, depending on whether anything else was going on, either in the 20 to 2400 watch, eight in the evening to midnight, or the mid watch, and fire these H&amp;amp;I operations.
+
+And this was after the Cambodian incursion, after we had main force North Vietnamese Army troops down in our area of the country for the first time. I mean, up until they were forced south, there had never been any main force North Vietnamese Army troops down there; it was all VC.
+
+We were firing into population centers, villages, you know, road crossings where maybe a few people lived. And, you know, my guess is that they and their antecedents had been living there for centuries. They were living in something probably akin to the 19th century, the 18th century, the 17th century. They had two banger motors on their sampans, but that was about it in terms of modern convenience.
+
+And we would shoot up those areas, and the next day, as we were proceeding on an operation during the day, we would see tens if not hundreds of people from those villages rafting out their possessions on whatever they had left that might float, going back to the area near Nam Khan village that was an authorized village that they could live in and not suffer that kind of gunfire, naval gunfire in the middle of the night explosive naval gunfire in the middle of the night.
+
+And, you know, we would learn from the briefings how many people had been killed, or arguably killed. Little kids, ancient ladies and men, everybody in between. Things blown up. Meager possessions they’d been able to save that they’re carting along. An occasional animal that they were able to save: chickens and pigs and stuff.
+
+And you couldn’t see that happening day after day as a consequence of what you’ve been doing, knowing that in fact there was no real positive military benefit from that, the killing and disruption of those lives. It was only to the end of disrupting the civilian population in the area from being able to give some support and cover to either the still indigenous VC or the North Vietnamese Army troops. Hard to take, to see day in and day out.</u>
+      <u who="RIDKER">Yeah.
+
+Well, I’m aware of the time, and I guess I have time for one more question?</u>
+      <u who="EVERETT">You can ask as many questions as you’d like. You can ask me back.</u>
+      <u who="RIDKER">[Chuckles.] That’s true. And so in light of these things, I guess I’m just wondering when the war did finally come to a close and the last American withdrawals of troops—what that was like for you at home—like, what your reactions were to that.</u>
+      <u who="EVERETT">[No immediate response.] You know, I—1975, right? Yeah. I was in law school, I think, or otherwise engaged. I didn’t watch the films of the last helicopters leaving the U.S. Embassy. I mean, I saw some on the evening news, helicopters being pushed off those helicopter carriers, saving as many people as they could, unfortunately leaving people behind, not being able to make it.
+
+I don’t have any present memory of how I felt. I suspect that I felt, Well, thank God it’s finally over. By then, of course, we knew more from the Pentagon Papers about how hopeless people had thought it was back before [Richard M.] Nixon was elected. One appreciated how, when he was talking about having “a secret plan to end the war” as he ran for president in 1968, that he meant me. I went over there as part of Richard Nixon’s secret plan to end the war in Vietnam, how he cut and ran in Vietnam but in fact how little difference there would have been between how he and anybody else would have been able to get out.
+
+
+
+I mean, we had—[Sighs.] We didn’t have as unwinnable a situation in Vietnam as it exists in Iraq now and Afghanistan now and any place in the Middle East now. But it was close. And we didn’t know then, even then, in 1975—we didn’t know then how Nixon and [Henry A.] Kissinger and Madame Chiang Kai-shek [Soong Mei-ling] had attempted to undermine the possibility of talks between the [Lyndon B.] Johnson administration and the North Vietnamese in 1968.
+
+But I was probably—I probably said, Well, thank God it’s finally over. Nineteen seventy-five. April of 1975, if I’m not mistaken. It seems to me it was around my dad’s birthday. Look it up. See if it’s the 20th. That’s his birthday, the 20th of April.
+
+That was my second year in law school, towards the end of my second year in law school, and [drums desk]—I’m trying to remember. Hmm. [Slaps desk.] I think for reasons of stuff that was going on then, I think that [hits desk multiple times in a rhythmic pattern]—I think that probably just the passage of time since I came back—I think that that was about when I first felt the need and was working towards getting some counseling through the health plan at the law school in Portland, Maine, with a psychiatrist up at the Maine Medical Center, you know, for reactive depression because, you know, PTSD [post-traumatic stress disorder] was not a recognized psychiatric diagnosis at the time, and the VA [U.S. Department of Veterans Affairs] believe it existed.
+
+So maybe also at that time I was, you know, not paying as close attention to what was going on there and then as I might otherwise have been. Would be sort of an explanation about why I don’t have much of a present recollection about how I was feeling then. But it was over. I mean, I thought that was a good thing. It was over for us. It was over for us. The combat stuff was over for us.
+
+There’s still plenty of needing to work it all out for people who were actively involved at the time. That’s why I’m here today, isn’t it?</u>
+      <u who="RIDKER">[Chuckles.]
+
+
+
+So I guess my last question would be if you feel like your experience in the Navy in Vietnam has influenced the rest of your life in terms of the lessons learned or just—</u>
+      <u who="EVERETT">Oh, yeah.</u>
+      <u who="RIDKER">Yeah.</u>
+      <u who="EVERETT">We don’t have time for me to talk about this at length, and I’d be happy to talk about it at length with you.</u>
+      <u who="RIDKER">Mm-hm. </u>
+      <u who="EVERETT">[Sighs.] [Pause.] Yes, it had a profound effect. I can’t conceptualize how things might have turned out [hits desk] other than they did, but I know that because of what I had to do to adjust to operating and functioning on the river every night for three to four and a half weeks at a time, standing on the 02 level on my ship, being one of the two human silhouettes in the night at the top of the ship and how to get through that and how to get through all of the operations that we were on and doing what we were doing, including the H&amp;amp;I operations at the end of my time there, and how I had to put my psyche back together as a result of that therapy that I got while I was in and shortly after law school.
+
+You know, it had—it had to have had a profound effect. What would have happened to me if I hadn’t gotten that therapy? Who knows? One of the things that I did for my professional work was I worked with people who were making disability claims—the Social Security Act. And so I get to deal with the disaster of lives as a consequence of people—really, essentially as a consequence of people’s experience in Vietnam and how they’d been unable to make things work positively and successfully, even if not terribly well. After they came back, they were unable to deal with their demons, and their lives devolved out of control, after one fashion or another.
+
+And I was really fortunate that that didn’t happen to me. I do attribute that in part to the fact that I think that what you brought to your experience in country in terms of psychological makeup and strengths had a lot to do with your outcomes and how you dealt with your outcomes. So the better off you were in terms of your psychological makeup when you went over there, the better off you were going to do on the far side of it.
+
+One of my still very dear friends, who’s a ’69, who was my roommate during his junior year and my senior year at Alpha Chi—he and I were talking at some point—and, you know, 10 years, 15 years, 20 years, maybe at a reunion—he lived out in Santa Monica, and so I went out and lived in L.A. County for a while and worked there, and so we saw a lot of each other—and just we were talking. We were talking about Dartmouth and our experience here, and,—you know, essentially positive memories. And I said something like—in context, I said, “Yeah, those were the good ol’ days, Bruce. Those were the best days of my life.”
+
+And enough time had passed since we’d graduated and we’d had enough experience professionally and successfully, by all appearances, for both of us, and he said something like—he said, “Boy, John, if those are the best years of your life, you must have missed something since then. Something must not have gone wrong [sic].” And I said, “Bruce, they were the years before I went to Vietnam.” “Oh.” Because he did not. “Oh.”
+
+And who knows what it would have been like if either I hadn’t gone and I’d been able to take advantage of that time and not have been held back or felt held back by—as a consequence of my experience there? I might have ended up in the same place—you know, law school and a career not dissimilar to what I had.
+
+On the other hand, if I hadn’t been able to get the help that I got in therapy—I joked. I applied to law schools. I got out of the Navy in April. Went down and visited my dad in Atlanta [hits desk six times] and did Easter, and then I went out and, for the first time, tried to thru-hike the Appalachian Trail, starting in north Georgia.
+
+And I think that I probably had outstanding applications to law school at the time, and I got rejected by a number, and I got accepted by the University of Maine and someplace else, which doesn’t register with me right now. But it was way down [chuckles] on the list of safety schools. And there were some that I hadn’t heard from. I know that I was shot down by BC [Boston College Law School], which had a good environmental law program at the time, when I was interested.
+
+One of the ones that I had not heard from [hits desk] was the University of San Francisco Law School, which is a [hits desk]—it’s a Jesuit school in San Francisco. I had not heard by then, and so I sent out letters—except to the University of Maine—sent out letters to everybody else and said, “I want to withdraw my application. I’ve decided to go to the University of Maine Law School.”
+
+
+
+I think that letter crossed in the mail from something from the University of San Francisco. Meanwhile, I’m up in north Georgia, hiking in the woods. Unbeknownst to me at the time, my best friend, that I’d lived with in Washington after I got back, and he was drafted and was in the Army—he was a ’68 graduate of Georgetown [University], and he was a scientist. He was drafted out of—after he’d got his master’s, drafted out of his doctoral program at Wayne State University in Detroit.
+
+Fred got an early out from the Army that summer while I was off hiking. Fred had discovered that his mentor at Wayne State had taken a job at UCSF [University of California, San Francisco], at the medical center, and Fred went out and finished his doctorate at UCSF. You know, had I known that and had I gone to University of San Francisco Law School and hadn’t got the counseling I’d gotten, I—you know, I’m willing to speculate that I would have been a street person in two years. I mean, you don’t know.
+
+Yeah, it did. It affected my life. And I don’t think it can’t impact on your life now. I mean, the impact may have been relatively minimal because of who you are and what you did, and it could have had a major impact, both negatively and I think positively as well. I mean, I do think that even with some of the experiences that people underwent in Vietnam, the focus and discipline that you learn when you’re in the military can make you a better, a stronger, more successfully functional person.
+
+So, you know, my experience was my experience. I ended up where I ended up. You know, I don’t have horns. I don’t have tattoos all over my body. You know, I am who I am, and, you know, I’ve been reasonably successful. I’m a reasonably normal person. But I think that I’m probably a different person than if I had not served in the Navy, and I’m probably a different person than if I had not been fortunate enough to get the good counseling that I got [hits desk several times] at the time that I got it.
+
+So does that sort of answer your last question?</u>
+      <u who="RIDKER">Yeah, absolutely.</u>
+      <u who="EVERETT">But that’s the short answer.</u>
+      <u who="RIDKER">All right. Well, I just want to say thank you so much. It’s been an absolute pleasure for me to talk to you.</u>
+      <u who="EVERETT">Well, happy to be able to do it, and if, when you read over the transcript, you want to ask me back for the long answer, I’ll try and work up the long answer. I don’t think about it, work it up very often, but someplace in there it’s there.</u>
+      <u who="RIDKER">Well, thank you again, John.</u>
+      <u who="EVERETT">You’re welcome. Thank you. A pleasure. It’s very nice to meet you.</u>
+      <u who="RIDKER">You, too.
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>

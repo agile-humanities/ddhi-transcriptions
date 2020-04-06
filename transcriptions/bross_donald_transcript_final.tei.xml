@@ -1,0 +1,1266 @@
+<?xml-model href="ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="0.1.1">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="MARKOWITZ"/>
+        <person xml:id="BROSS"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="MARKOWITZ">So this is Hannah Markowitz in Rauner [Special Collections] Library on Dartmouth College’s campus. On the phone with me today is [Dr. Donald C.] “Don” Bross in Boulder, Colorado, and it’s January 26th, 2017.
+
+First of all, thank you so much for agreeing to conduct this interview over the phone with me today. I really appreciate it. Just to start out, would you mind giving me some background information on where you’re from, your family, just anything about your childhood?</u>
+      <u who="BROSS">I came to Dartmouth from Denver along with 14 others. We had quite a contingent that year, 1960. I was born in Oklahoma City. My mother was one of eight children. My father had only one brother. He was ten years older than she. My mother was the first of the eight children to go to college. She was, like, number five. And that, of course, was the [Great] Depression, when we were just getting out—they were just getting out of the Depression in the thirties. So my mother was born in 1920; my father, in 1910. And I always told my mother that the best thing she had done was to get me and her to Colorado.
+
+She was a remarkable individual. There was a number of people in my family who were. She was ahead of her times extraordinarily. She divorced my father. Basically issues of unfaithfulness and drinking, and—but she had worked after two years of college at the Federal Reserve [System] and learned how to package assets, and when she got to Colorado, working first at a radio station, as she had done at WKY in Oklahoma City—she worked here. But by 1950 she started working for a bank. She was only 30 years old, and within a year or two, she had put together the first million dollars of real estate loans for the insurance industry that had ever been done in Colorado.
+
+And this will be a political statement: I feel like if she had been a guy, she would have been the president of that bank within a few years. There’s a long story about that. But she continued in banking and was successful until her eyesight went.
+
+So she was a single mom. It was important for me to have scholarship support.
+
+In addition to my mother, I had two wonderful grandmothers. I still have very warm memories of my earliest life, being cared for by them alternatively. My mother had been in an auto accident, and she had a broken back and was kept in a body cast for a year and a half in the heat of Oklahoma City during the summer. It must have been torturous.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">But my grandmothers stepped in, and I can tell stories about them, but it’s not probably relevant except for some insight about I think certain things that were valuable to me many, many years later, trying to understand how people grow up and how they’re cared for and what kind of qualities that derive from that care. I think it’s very useful to have these—to have that experience of having those wonderful women care for me.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">So—</u>
+      <u who="MARKOWITZ">What brought you and your mom to Denver?</u>
+      <u who="BROSS">Well, she was getting away basically from—from the—from Oklahoma. And we had—my older Aunt Edith—I was named after her husband; they never had children—he was Don. He was a sweetheart of a guy, an insurance adjuster. And they lived reasonably well for the—for the thirties, especially in the forties, because he was the General Adjustment Bureau manager for all of western Oklahoma. So if you’re an insurance adjuster, there’s a lot of tornadoes and floods [chuckles] and disasters, and he was a very cool guy: gruff on the exterior and just the sweetest guy underneath. And I was fortunate to have him as a mentor, along with a couple of my mother’s brothers. 
+
+All of them were helpful, but most helpful to me were Jim; lesser, John and Warren. Warren—so three of the four brothers—all four of them served in the military. Three of them served the [U.S.] Navy and the [U.S.] Marine Corp. Jim, in particular, I was close to. He was close to my mother in age. And he had been on the [SS] Minneapolis. The Minneapolis and 22 or 23 battle stars. I heard stories from Jim about that experience. He went in before World War II because it was an opportunity. There weren’t a lot of opportunities coming out of the Depression in the Dust Bowl.
+
+And—I don’t know how far to go on this except I think it matters in terms of how view things from—</u>
+      <u who="MARKOWITZ">Yes, definitely.</u>
+      <u who="BROSS">—from within. 
+
+So—so Jim is a bright guy, and funny. And he was a machinist’s mate, and so he has no formal education other than high school, but he ends up on the cruiser, Minneapolis, which—quick stories about it: He gets—they get that 23 battle stars by being—they were, like, top two or three in the categories of how many battles you could be in. And so he came. He was with the cruisers, defending the aircraft carriers right during [the Japanese attack on] Pearl Harbor. The next day, they came there and had to dig people out of the ruins of Pearl Harbor. They—it was searing in his memory. He never talked about that much.
+
+They went back, and they were in Guadalcanal [in the Solomon Islands], and in fact, the Minneapolis was the flagship when I think three or maybe all four of the cruisers confronted the Japanese in a night battle and were basically completely obliterated.
+
+The Minneapolis took a Long Lance [Type 93] torpedo that knocked off about 40 or 60 feet of the bow. The only way—and that killed about—I forget how many hundreds of the crew right then.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">The only way they survived was they ran the cruiser aground, and I had—there’s pictures that I’ve seen online. Just in the last year or two, I started thinking, I wonder if they had pictures. And there’s pictures of these coconut logs that were put up in the bulkheads to keep—to allow the ship to go to sea again. 
+
+And meanwhile, Jim had been trapped in the engine room for quite a while. Got somewhat damaged from that but survived and overcame the—the effects of the steam and everything, and for six months it took them to steam back at about a half knot or so, because there were a lot of breakdowns, unescorted, they get back to Pearl Harbor.
+
+And when Jim came back to Oklahoma, I heard stories of him getting up in the middle of the night and going to the refrigerator and eating a whole cabbage because there had been no greens, no—nothing else, barely enough food to eat.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And so they refitted her with a new bow, which was waiting for them, and they weld that up, and off they go again. 
+
+So I forgot to tell you that in between all of that, they had been at Coral Sea, and then they had steamed back, flank speed, to get to Pearl and refit in time to be part of the Midway Battle [sic; the Battle of Midway].</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">So imagine in six, seven months how much that is. But also in your mind’s eye, think about what it means to have work-capable military forces that can move around the planet with such massive energy and logistics in such a short period of time, and that was over a half century ago. And if you ever read [Alfred T.] Mahan’s Sea Power [sic; The Influence of Sea Power Upon History: 1660–1783] and you start looking at the last 500 years of—of human history and parts of why Britannia ruled the waves and what was such a crucial part of not only the Industrial Revolution but—but the influence of Britain across the world—they didn’t have standing armies, but they had a very extraordinary naval tradition,—</u>
+      <u who="MARKOWITZ">Yes.</u>
+      <u who="BROSS">—great diplomacy and great commercial sector.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">And so—so think about that, and think about this cruiser going around at the very beginning of the war, when we were clearly outmanned, and caught wrong-footed. </u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">And so—so Jim finished up. He would actually be at Bikini [Atoll in the Marshall Islands], get irradiated and eventually would die as an atomic veteran but not until many years later.
+
+In the meantime, he got a meritorious appointment to [the U.S. Naval Academy at] Annapolis, which he turned down because he felt he had insufficient preparation for [it].</u>
+      <u who="MARKOWITZ">Oh, wow.</u>
+      <u who="BROSS">He became a—he worked for a major swimming pool company, became their top contract guy, and he retired after spending over 20 years as the chief engineer for St. Mary-Corwin Hospital [now St. Mary-Corwin Medical Center] in Pueblo, Colorado, where he moved his family—boy and a girl—to Colorado.
+
+And so Jim was a very interesting guy, and I’m going to just stay with him for the moment and not talk much more about that aspect of who I was or who I became. But Jim was a sea lawyer [chuckles], and a very independent kind of guy. And he—he got the attention of the XO [executive officer] when they put in at Pearl with emergency repairs that, in Jim’s view, would take a minimum of two days to three days to complete.
+
+The shipyard engineers said that they thought they could do it in a day, and Jim was sitting there, and the XO of the ship looked at Jim and asked him if he didn’t agree, and he said, “No, sir, I don’t.” [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And the executive officer, who was probably a lieutenant commander and very experienced and, after all, an officer, and Jim was just an enlisted man, said, “Who do you think you are?”” [Both chuckle.] So these engineers [Laughs] —how long it’s gonna take. He said, “Well, sir, that’s my opinion.”</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">And, of course, it did. He cooked for two days. But the XO kind of kept his eye on Jim ever after.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">There are little stories of the cat-and-mouse game, how he would try to read Jim’s mail. And Jim got one of these typical senators who wrote their constituents when elections were coming up, and so he gets something, and the XO finds out because he has the postal clerk kind of keeping an eye on mail for this rebellious guy [both chuckle], and this made him back off because he wasn’t sure but what Jim knew the senator [chuckles], and Jim wasn’t about to let anybody know.
+
+And meanwhile, he had been—become a machinist’s mate, and they wanted to promote him to chief, and he always refused to become a chief petty officer. And he ended up in the evaporators, and [unintelligible] main propulsion, which normally is a first class machinist’s mate would be capable of doing, and all the chiefs probably had to do it.
+
+And at a certain point, the XO had to call Jim in—not the XO, the chief engineering officer, and they said, “Jim,” he said, “the XO has pointed out to me that the engineering operating manual says that the senior enlisted man in the engineering department has to stand watch on main propulsion. I don’t know what I can do, Jim. I’ve got to assign you to watch the main propulsion.”
+
+And Jim looked at him. He said, “Well, who writes the engineering manual?” The engineering officer says, “Well, I do.,” So Jim said, “Why don’t you write it so that the senior enlisted man who is not a chief petty officer stands watch on the evaporator?” The engineering officer was probably a lieutenant, himself.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">He says, “I’ll do that.” [Laughter.] So Jim always stood watch on the evaporators. [Laughs.]</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">He was also a guy that later on, when I heard that there had been some reunions of the Mini, as she was called, that somebody would come up and say, “That’s the guy! That’s him! That’s the guy I was telling you about!” [Both chuckle.] Because he was such a funny—he was also extraordinarily good looking and in a very charming, kind of boyish way. And so he always, I’m sure, had a very good time [chuckles] whenever he had leave. Married a very extraordinary—his wife, Mary, is still alive. She’s in her 90s. Very beautiful woman. Beautiful kids.
+
+But, you know, he was just a very independent soul and very good guy. And when—when I got my commission, Jim said that he and the other guys—so John had been a boatswain’s [pronounced BO-sun’s] mate. That was an older brother. And his youngest brother, Warren, went into the Marine Corps. And he as actually an intelligence officer on the [USS] Oriskany [pronounced or-ISS-kuh-nee] when John [S.] McCain [III] was flying off the Oriskany, and that’s another story that I won’t go in there.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">And so Jim just said—he says, “We’re really proud of you, Don, you know, to—to be—have gone through the NROTC [Naval Reserve Officers’ Training Corps] program and now you’re an officer.” He said, “Do you remember that movie, Mister Roberts? Have you ever heard of that, Hannah?</u>
+      <u who="MARKOWITZ">No, I haven’t.</u>
+      <u who="BROSS">Yeah, [actor John U.] “Jack” Lemmon [III] and—oh, a famous—famous actor, whose name is escaping me. And he was Mister Roberts. And Mister Roberts—they were on this backwater supply ship in—in World War II. That’s the setting. And there’s this kind of [fictional character,] Captain [Philip] Queeg, crazy captain. And there’s a palm tree that he had the crew water, and a bunch of other stuff. And Lemmon was kind of inept and this, that and the other. But [fictional character Doug] Roberts was an excellent individual person as a person. He wanted to get into the war because he felt that was he is duty and that he really wasn’t fulfilling the responsibility he could as the XO of this little steamer, you know?</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">So there’s tension between him kind of standing up for the crew and—against some of the silliness that really was unjustified. Made—it made him this kind of icon of—of—of a lot of people who looked at both enlisted and an officer behavior in the military. And anyway, it’s a very funny movie. If you ever get a chance, I think you’ll appreciate it.</u>
+      <u who="MARKOWITZ">Yeah, I’ll check it out.</u>
+      <u who="BROSS">But Jim—Jim said, “Well, I’m glad you remember us to Roberts because if we ever find out that you acted any differently, I’m gonna come talk to you.” [Laughter.]</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">So when I got on my first ship, the old—that tanker, the old World War II tanker, I made sure that—the—the—the note that the captain sent to my mother was one thing. I didn’t worry about that. But I made sure, in a letter I wrote her, that she knew that the chiefs had invited me into the chief’s quarters to have a cup of coffee [laughs] some months after I got on this tanker, and I wanted to make sure that that word got back to Jim.</u>
+      <u who="MARKOWITZ">[Laughs.] It sounds like the Navy and these stories from Jim played a pretty big role in your childhood, growing up. And you also mentioned that as [the son of] a single mother, scholarship was pretty important in looking at colleges.</u>
+      <u who="BROSS">Yeah.</u>
+      <u who="MARKOWITZ">So could you talk a little bit more about NROTC and how—sort of how you got to Dartmouth and how you got involved with NROTC?</u>
+      <u who="BROSS">Well, it’s a good—it’s good you wanted that background because then it makes the story easier now. So I was—I really—I was fortunate, and—and—and I was bright, and I was somewhat athletic and a bunch of other things, but I went to, like, —I think I went to almost a dozen schools before I graduated from high school. A lot of schools.</u>
+      <u who="MARKOWITZ">Oh, wow.</u>
+      <u who="BROSS">Yeah, my mother was married and divorced two more times before I got out of high school. She was a modern woman, in so many respects. She was so far ahead of her time. She was so beautiful that no guy could—almost no guys—there was a congressman for a while—he was a delightful guy, and he wanted to marry her, but she said, “I’m a little bit old. You need to have a young wife and have kids.” And it turned out to be the case.
+
+But it was hard, you know. I observed this. And so I knew I really had to find a way, and so I really worked hard. And I was shocked that I did as well as I did in a lot of ways. I mean, I was studying—this was—there was—we were living the World War. When I was about eight or nine, and I just read, read, read, read, read, read. And I—I must tell you about 1950, about age eight, when I saw the pictures of the Holocaust in LIFE magazine, I was never the same. And it just sank in deeply, and I said I never want to have those I love and care about to be put in a position that these people were.</u>
+      <u who="MARKOWITZ">Mm-hm. </u>
+      <u who="BROSS">And I just—that’s why I could probably never be a pacifist. But my mother was very—she—she [chuckles]—not only did I babysit the children of doctors at National Jewish [Health] and—and Christian Scientists’ families and every other kind of Protestant denomination available—my mother knew about gay couples when nobody knew what a gay was.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">And we had a wonderful African-American couple, Susan and Willard Bell, who she paid to, you know, iron clothes and things like that, and Willard to do little repairs around our apartment and things like that. They were lovely people. My mother was just totally open to human beings and cared about them. And I couldn’t help but be the same way.
+
+The reason I ended up going to Mexico at 17 with money I earned as a busboy was because my mother had had Spanish when she was an undergraduate, just like she thought I should learn to be a—a typist, which—I did both things.
+
+And so I kept going to all these different schools, and I had to kind of keep my head down because I had to re-prove myself every time I went to a new school, which was virtually—sometimes twice a year. Once I had to spend six months in Oklahoma because my mother was going through the divorce of her second marriage.
+
+
+
+But I—so what happened is everything kind of came together. In my junior year, I knew I was never going to have a car if I couldn’t earn the money. And my mother had said I could have a car if I could buy the car, pay the insurance, pay for the gas, the maintenance, the upkeep, and buy a course in driving and pass the course. [Both chuckle.]
+
+So—so my—my schedule as a junior was to ride a bicycle two miles from near Denver University [sic; University of Denver] to South High School, and I was fortunate that year that we had over a thousand in my class and over 3,000 in the high school. And the Denver high schools were quite spectacular in those years. There’s another story about that, but—
+
+It was really fortunate that I spent the one time that I was in one place for three years was in South High School, sophomore, junior and senior. And there’s a few people kind of remembered me from times [chuckles] like other elementary schools or middle schools and so forth. But I was—you know, that’s a very large class.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">I would finish—I took six majors, and I enrolled in [U.S.] Army ROTC [Reserve Officers’ Training Corps], so I was in three years of Army ROTC while I was doing my other five academic majors.</u>
+      <u who="MARKOWITZ">Already in high school you were involved in ROTC?</u>
+      <u who="BROSS">Yeah, because—</u>
+      <u who="MARKOWITZ">Oh, okay.</u>
+      <u who="BROSS">—I knew about—I knew that you could get to [the U.S. Military Academy at] West Point or to the [U.S.] Air Force Academy, which was just coming up in Colorado.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">Or to the Naval Academy, and you get a free education. So I thought, I better, you know, increase my chances. If I—this is the best way for me to get a scholarship, then I could do that. And—so then after school, I would get on my bicycle and go Tiffin Inn, which was a restaurant, and I was a busboy, and I worked there 25 hours a week. And even though it was minimum wage, it was enough over a year to get a little Ford coupe [both chuckle] for $200. And so my last year, I could drive.
+
+And then I would go home, and I would go to sleep, and then I’d get up in the morning and study hard and get in, and I had a very solid academic year. And then that spring, we took the exams, and I blew out the top of the—you know, the—the College Boards, ACT [American College Testing]. I had [chuckles]—my—my English—I had Advanced Placement English with Harold [R.] Keables, who had gotten the Yale Teacher of the Year Award because his students kept winning all the scholastic writing awards.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And he was very demanding. That’s another story. Very interesting guy. And he called me in to say that my work in English [chuckles]—</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">—wasn’t re- —you know, a reflection of [chuckles] my scores on the tests. [Both chuckle.] But I did take, you know, Advanced Placement chemistry, and I was taking calculus—introductory calculus and all the—everything that they could throw, I was taking. 
+
+My best friends, two of them—[Edmund B.] “Ed” Frost [Class of 1964] ended up at Dartmouth. Solid guy. And even though he’s got an essay in there, he didn’t tell you everything about some of the brave things he did, including he—he only hints at the fact that he stood up for that young lieutenant when he was at the [U.S. Army Intelligence School in Maryland, and the young lieutenant had a mental breakdown, and Ed standed—stood up for him and represented him. And that’s why [chuckles] they were going to send him to Vietnam, and he ended up in Korea.
+
+But he didn’t tell the whole story. But Ed is a very solid guy. Came from a mining family. His dad was a mining engineer, and they were kind of—they were well to do and conservative. His mother had been a bus heiress, and—but his father was a Merit Badge counselor, and so I made Eagle [Scout] by the time I was 14. And that’s when I met their father.
+
+And so we get together in college—or in high school because they were nerdy guys. And Hill was a year older, went to MIT [Massachusetts Institute of Technology] and became a metallurgist, and Ed went to Dartmouth and then later law school. And he had been in the Superfund. But a very cool guy in a lot of ways. But you wouldn’t know it because when he was wearing braces, he was always kind of—of [chuckles]—dribbling. [Laughter.]
+
+
+
+But, you know, just solid and good human being. And always good to talk with and to laugh with. They had—they were making a lot of rockets, and I was their trigger man [chuckles], so we were trying to go to the moon [chuckles], and so we thought we were all—because I thought I was going to go—at that point, I’m thinking, I’ll go in the military and learn how to develop space satellites, and I need to know more about aeronautics and those sorts of things.
+
+And none of us lost any digits, and—‘but, you know, it was—it’s—today you couldn't do this because somebody in the neighborhood would hear the bangs and the whooshes and report you, and they’d wonder, “What are you doing?”</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">But we all turned out all right. And so—the other was Jeffrey Robinson, and Jeff was number one on the tennis team when I, as a last-minute, thought, I better do something athletically and ended up getting into a doubles team with a guy named Dave Magnuson [archivist note: spelling uncertain], who was raised by grandparents. I never heard the whole story, but Dave was just a really cool guy.
+
+He—the—the strongest language, Hannah, that he ever used with me is we went on to win a doubles championship in Denver—was, “You gotta go like a kitty cat.” [Laughs.] Oh, God, it was a wonderful—
+
+
+
+So anyways, so here I am, All City, and then somehow—I never quite figured out what happened—well, probably this is the key: So here I am, in ROTC, and two of the most extraordinarily beautiful women in our school, a year older than I, were honorary ROTC cadets. And one of them is very dark kind of New Orleans appearing, and the other was very kind of Austrian, blonde, and they were the best friends with each other.
+
+And they came to me when I was a—a freshman—I mean a sophomore, at the end of my sophomore year. They apparently had seen me around the office of the ROTC, and they asked me if I would help them try out to be cheerleaders. Well, I wasn’t stupid.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And I couldn't say it quickly. I said, “Well, yeah, sure.” [Laughs.]</u>
+      <u who="MARKOWITZ">Can’t turn that offer down.</u>
+      <u who="BROSS">No. So being ROTC was the worst thing in the world because you had these World War II, itchy, greenish uniforms, and the next worst thing to be would be a nerd, and I was clearly running around with [chuckles; unintelligible] a bunch of other guys. 
+
+I applied for and got into this Senate Club. That’s another thing. And I’m in the Chess Club. And a guy named John Zummer [archivist note: spelling uncertain] went to Princeton [University] and began working on unified field theory about a year after he got there, and he was number seven in the United States on the chemistry boards. He was the president of the Chess Club, and there’s a picture of he and I playing chess in the yearbook. And John wrote in there—he said, “Did you win?” [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And, of course, he knew I didn’t. [Laughs.] Because he was very good. So it was all these activities, and doing the work as I said. And then all of a sudden, things kind of, like, mushroomed. And so I was elected to [American Legion] Boys State, I was elected to be president of the Interclub Council, and I was elected to be a cheerleader. And I’m still in ROTC, and eventually I became second or third officer in that group.
+
+And I had these very high scores, so I had to have a scholarship, and in the fall of 1959, I applied to William [College], Wesleyan [University], Trinity [College], Tufts [University], the Air Force Academy—I didn’t apply to West Point; I applied to the Naval Academy. I applied to Dartmouth. And—</u>
+      <u who="MARKOWITZ">How—how had you heard about Dartmouth?</u>
+      <u who="BROSS">Well, I had a high school counselor, but I mostly went and read about colleges.</u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">Well, that’s—you know, that’s a great question you asked me. I forgot. There was this honorary high school frater- —service fraternity that was, quote, “religious,” but it wasn’t. It was ecumenical. But an insurance man had—you know, you’re going to think this is quite funny—in the 1950s, a good part of American adult society was pretty convinced that the younger generation was going to hell in a hand basket. As evidence of that, they could point to ducktails and Elvis [A.] Presley wiggling his hips and West Side Story, with the Jets and the Sharks [fictional gangs] fighting each other over a girl, and just one thing after another.
+
+And so Perkins was his name. Created this—across all the high schools in metro area—this idea of just a small group of guys that would dress up on weekends and go to a complete different service every weekend, as a group of 40 or 50 guys. And we also would take kids out trick-or-treating for Halloween, from the Denver orphanage, the Denver Children’s Home.
+
+And I had the first African-American black pledge son for the—for this high school fraternity. His father was an engineer. He had an intact family. In a way, he was better off than I was. But it was—it was good. And it turned out that a bunch of us got elected to Boys State. I was elected chief justice when I got to Boys State.
+
+But I was just a dupe, because a guy named Mac Sunley [archivist note: spelling uncertain], whose father was an economy—economist and an economics professor at DU. He asked me if I wanted to run. I said, “I don’t know. Why should I?” And he said, “Well, because you might get elected.” I said, “Okay.” [Chuckles.] So he managed the whole campaign. I won’t tell you the details except Mac went to Amherst [College], and he later became a deputy under secretary of the [U.S.] Treasury.
+
+And so I get through that, and that summer is when I decided to go to Mexico and learn some Spanish, and I used that money I earned as a busboy—I paid the car, so I could afford to go down there on this trip for a couple of weeks. And amazingly enough, the head girl and her two sisters went, too. So it was a good—it was a good, you know, time.
+
+But I really found being there and living with this family, who were wonderful human beings—when it was time to walk around the square in the city every Saturday night, dar lo paseo—you know, where the boys would walk one world [sic]; the girls would walk—shop around with the tourists the other way.
+
+And I didn’t have a suit or anything. His father gave me his suit, gave me his cologne [chuckles], and I was representing the family. And there I was. [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.] </u>
+      <u who="BROSS">Just a great introduction, you know, to my first trip out of the—you know, the country.
+
+So I come back. I make all these applications. I got into all, and I got scholarships in all, and I got one of particular interest from Trinity. They would give me their Baker Scholarship, and the president of the New York Stock Exchange wrote me to say that if I would take this, he would be interested in my career not only when I was at Trinity but thereafter.
+
+And meanwhile, I was still thinking, you know, space flight and the fact that we were in this very difficult competition between East and West, and lots of, you know, revolutions and the threat of nuclear exchange, and just lots of bad things. And so I was trying to figure out what I should do. You have a very short period of time.
+
+And I—Jim—about that time, I happened to see him and told him what I was trying to figure out. And he said, “Well, you know, if you find that you didn’t want the military as a career, it would be good to have a college degree.” He said, “Having—having an Ivy League degree wouldn’t be a bad thing.”</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And Dartmouth had offered me both a civilian scholarship and the NROTC. And NROTC allowed you to have choices between becoming a regular naval officer and be interleavened with the Naval Academy graduates, or go eventually into the Reserves, which is unique, and I think a very—very good idea that has fallen by the wayside.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">And so that pulled me in because it gave me choice. And only later, when I was in Kal[man H.] Silvert political science courses, he made this comment about, “Always make choices that give you more choices.” Then I realized that’s why I did it. But it also connected with the fact that I had seen some Dartmouth graduates at the Tau Sigma [National Honor Society] meetings in high school, and they seemed like regular guys, and they seemed like, you know—they—they were capable and people you wouldn’t mind trying to learn from. And they’d gone to Dartmouth.
+
+And so—Ed was going to Dartmouth, but that was almost a thing against it because I didn’t want to be around people I knew. I was trying to find out new things. But that’s—that’s—all those things came together, and I—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—I—I—oh, I forgot. The air academy—I think I mentioned I had an appointment from a Republican senator. I went down to thank him a couple of years later, and he was very upset that I didn’t take it, and he asked me why I didn’t. [Chuckles.]</u>
+      <u who="MARKOWITZ">For the Air Force Academy?</u>
+      <u who="BROSS">Yes.</u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">Because I would have been in the third class to graduate.</u>
+      <u who="MARKOWITZ">Oh, wow.</u>
+      <u who="BROSS">Anyway, so that’s a bit off—so—so this was useful, Hannah, in trying to understand why I believe in mixing things up in a way that people get different exposures. And right now it’s a good point to make. So I think I’ve been unusual in having the experience of being in Army, having great interest in aviation and then ending up in the Navy, where the integration of all these armed forces branches, to me, was not—it wasn’t that you didn’t need to have identity, as esprit de corps, but it’s also necessary to understand comprehensively—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—what the services are about. And—that’s probably more than you needed to know. [Laughs.]</u>
+      <u who="MARKOWITZ">No, that was all—that was great.
+
+So coming—</u>
+      <u who="BROSS">So there I am.</u>
+      <u who="MARKOWITZ">—coming to Dartmouth from your upbringing in Colorado—you mentioned that your mom—that your mother was sort of very ahead of—ahead of her time. What was it like coming to Dartmouth? What was the culture like at Dartmouth when you got here?</u>
+      <u who="BROSS">[Chuckles.] It was—well, for me it was a space shot. </u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">The Congressman from Wyoming. Teno Roncalio, who was, by the way, the man who stood up and gave [John F.] Kennedy as the nomination—he was the—the Wyoming delegation was the ones that put Kennedy over the top, and that turned out to be important when I got assigned to the Kennedy White House as his helicopter was taking off when Fred [H.] Eidlin [Class of 2964] had his “Meet the Ambassador” program, and I carried his tape recorder that spring of 1962.
+
+I didn’t have lots of connections, but I did have a few, and the ones I had were pretty good. [Both chuckle.] And so I get to Dartmouth, and I took, you know—because I—I had been a Scout. [in Boy Scouts of America]. We had a great high-adventure troop, and my explorer adviser was a wonderful general practitioner by the name of John Edwards, and I mention him because there were a number of foreshadowings of where I would end up, and John was one of those because Dr. Edwards, “Doc” Edwards had taken ten years to get through medical school, Hannah, because he grew up on a small farm in eastern Colorado, and he had to work as a forest ranger to make enough money to pay for the tuition at medical school.</u>
+      <u who="MARKOWITZ">Mmm.</u>
+      <u who="BROSS">So it took him ten years. [Chuckles.]</u>
+      <u who="MARKOWITZ">That’s a lot of school.</u>
+      <u who="BROSS">He was an incredible—oh, it’s a lot of money for—at that time, the ’20s. He was a marvelous person to go on a nature walk with. He could see bi- —he lived to his ’90s. He was going out and doing voluntary work in the Himalayas in his ‘90s, as a physician. And he had a pharmacist by the name of Joe Morgan, and they had offices on opposite sides of—of the corner of Downing [Street] and Evans [Avenue] in south Denver.
+
+And Joe had—it was an old family, as was Doc Edwards’. And Joe Morgan had been at [the University of California,] Berkeley studying pharmacy—I mean studying pharmaceuticals and becoming a druggist when the war broke out. He ended up [chuckles] in an LST [Landing Ship, Tank] as a commanding officer, going across the Pacific.
+
+But I didn’t even know about that until later on. I just knew that the Scout troop was a really good group and that Joe, who ended up having 25 years of this, even though he had lost a father and a son of a different man in a lightning strike about two years after he started being a scoutmaster—and so he’s another Navy connection that I didn’t—I found out a little bit about it, but he was a very good person.
+
+And years later, when I was a scoutmaster and we celebrated the 25th anniversary of this troop in Boulder, Joe and Doc came up unexpectedly for the celebration. And Joe’s wife said, “Well, all Joe ever tried to achieve was to have each boy grow up to be able to take care of himself. And if at all possible, one other person.” [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">That was brilliant.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">That was just the best.
+
+So anyway, that foreshadowing—again, these little things were happening, and you can say, okay, here you are in Dartmouth, but I had been in Scouts. I had eight-week honor field. I had done all this high—you know, camping in 21 below Fahren- —you know, degrees in World War II pup tents and stuff like that. So I went on the hike.
+
+And I was completely disoriented, honestly, when I got there. I mean, so many people had much more experience in really being disciplined in their studies. I really wasn’t terribly disciplined. I did my work, and I did all right. But, you know, the competition was much higher, so I actually flunked my Theory of Calculus course, which they gave me because they thought I was—had scored so high in math. But I really hadn’t completed calculus, so then I had to retake that, and the Navy was saying, “Boy, we got a loser here.”</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">But from that point on, my grades continued to go up, and eventually I ended up with high distinction in my majorette. But it was initially a shock. And—but here’s what Dartmouth was like: First of all, I may have mentioned earlier, I thought it was a bit of a monastery in the North Woods, very isolated, no women, and I thought that was—I increasingly thought that was a great tragedy [both chuckle] when you had to go three and a half hours over frost heaves to get to Boston, where there was life, or go to Montreal, the other way.
+
+And lots—you know, kind of funny stories about that. So these—you know, all these guys, you know, with all this academic pressure—and I wasn’t doing anything sports at that—well, that’s not true. I did rugby. [Chuckles.] Forgot. So I did rugby spring and fall. And that was probably a good thing under the circumstances. So I added—I bulked up, and I went from 175 to the 195 weight, and I’m right—</u>
+      <u who="MARKOWITZ">Oh, wow.</u>
+      <u who="BROSS">—at the 195 pounds at this time. But that changed me permanently. And—and I actually noticed this lieutenant who was really worried about me, and I happened to be the only guy who was playing anything like that at the time, and I threw this ball, and we got a touchdown, and I looked over, and the guy was looking at me. [Chuckles.] It was the first time, I think, he decided that the Navy should keep me. [Both chuckle.]
+
+So first cruise that summer. What I—what I haven’t told you about is the silliness. There was ways to entertain yourself. Mine was on the fourth floor of Russell Sage [Hall], and we were known as Bear Farm or Yellowstone the Second, because we had all these hockey, football players and this, that and the other.
+
+But I—I must say, Hannah, for me, I was pretty naïve, but I really was shocked at a lot of things, specifically the attitudes of a lot of guys about women. Not all of it. I mean, that’s the problem. Some of the sweetest, best guys in the w- —and some of these guys were brutally calculating and cynical. It really kind of turned me off.
+
+There was definitely differences of people who had grown up in wealth and people who, like me, were on scholarships. My roommates were both—well, one was barely on a scholarship. Across the hall were three guys that were there with their families’ supporting them. But you get exposed to everybody’s personalities and—and their character. And it was astonishing to me how diverse it was. And good, I think, in that way. But not as diverse as it was growing to be.
+
+A quick story is that for fraternity rush, my class, for some reason—200 fewer of us rushed than any class before. I was among those because one of my roommates, who wanted to be in a fraternity—the other one didn’t care. [Timothy H.] “Tim” Brooks [Class of 1964] didn’t care. [James] “Jim” Laughlin [III, Class of 1964] really wanted to be. And he got turned down, and it made me mad. And this whole business of, you know, dividing people out and not just taking the face values, it’s a good person. Why, of course, would we not want to be associated with him?
+
+So it was actually a little bit of an identity with the NROTC group, and we went that spring in 1961 down to Pensacola [Florida], and that was my chance to see if I wanted to fly. And, you know, actually, I did all right. I mean, I got to fly—they actually let me—I don’t know why, but I—I think different guys had different experiences. I was—I had 20/15 vision, and I was able to put my hands on the stick of not only a [Beechcraft] T-34 [Mentor] but on [North American] T-28 [Trojan]. The guy let me do a hammer stall [sic; hammerhead turn or stall turn] in a T-28!
+
+I also got to fly second seat in a [Grumman] F-911 [sic; F-11 Tiger] jet trainer, and—but here was the thing: We—we went out to the old [USS] Antietam, which was a wooden-decked aircraft carrier, the last of the Navy. And these guys and skyhogs were coming in, and I’d done a lot of work thinking about aerodynamics and things like that, and a glide ratio of 7:1 is what you get when you go up for entertainment. But the glide—I looked at these things, they were coming out at a 45-degree angle. I said, “These guys have a glide angle of a rock in these jets.”</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">They would hit the deck, and the whole ship would shudder, and I looked at these guys as the arresting gear would get them, and their heads would be snapping forward. And this whole big—this sky—it’s not a very big plane, but you could just see the weight of this thing, you know, pulling everything forward and I thought, Boy, if his hook doesn’t catch, he’s—you know, he’s going to be in trouble. And that’s why of course they had full throttle when they came in, so they could shoot out the other side if they didn’t catch.</u>
+      <u who="MARKOWITZ">Yeah.</u>
+      <u who="BROSS">And meanwhile, down below, where the catapults are—those things are, like, standing two feet away from a locomotive that goes from zero miles an hour to 136—150 miles an hour just like that. The noise, the pressure, the—I thought, Hmm, there is a reason why these guys are paying twice the insurance premium—</u>
+      <u who="MARKOWITZ">[Laughs.]</u>
+      <u who="BROSS">—as other naval officers. And—and the training officer who gave us our last lecture was a chain smoker, and in these 30 minutes, as he was convincing us to become naval aviators, he completely filled his ashtray up and warned us about not doing things stupid and doing night aerobatics the day we get our wings and buy the farm perpendicularly by, you know, going into the deck because you get disoriented.
+
+So this gave me pause. Some would say, “You’re just a coward.” But I had come in to do science, and I thought I could do that, but I thought, You know what? You have a little bit of a tendency sometimes to be drifty, to get interested in things and be thinking about things. You don’t want to go into this business if—some would describe flying as being 97 percent boredom interrupted by 3 percent or seconds of sheer terror. And you’re not gonna be a guy who doesn’t find enough stimulation in flying all the time.</u>
+      <u who="MARKOWITZ">Interesting.</u>
+      <u who="BROSS">And you better really think about it. And so with that in mind, I went on my first cruise. It was a destroyer out of Boston. My next-year’s roommate was there, and I stayed with his family. And we went up to Canada, and it’s the introduction, the beginning of why the Navy, of all the services, I think, is unique, and it’s how quickly you become aware of a much wider world. 
+
+And we were doing anti-submarine warfare, and that’s enough, probably, for now. But I—I was down, crawling around in the boiler room, in the engine room, taking readings and really being exposed to what you need to run naval vessels: how much skill, how much dedication.
+
+We went through deck, we went through operations. You know, I remember almost falling asleep on the flag bags up on the bridge. But I tell you, there was also a moon bolt that I’d never seen before in the North Atlantic [Ocean], those big waves. And it was these huge, towering white clouds with this unbelievable pale moon bolt up there, where the moon was.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">There were things like that that are really not mentioned very often, but they—they do happen. And being on a radar scope as we went up through the Saint Lawrence Seaway and learning a lot about—you know, beginning to understand how much was involved in living on this little microcosm of a ship and be self-sustaining and literally depending all the time on each other.
+
+And it was just—I was learning all kinds of lessons and came out of that and went through my second year. But I was feeling that I didn’t really know where I was headed. I wasn’t so convinced anymore that I was going to become an engineer, and I—I was increasing—I even created a science fiction novel of this whole thing in my mind about the—you know, people living on the top of hill look down versus the people who live in the valley and look up.
+
+And I was thinking about—you know, I was still puzzled about why, you know, we were having such trouble in the world as Americans, persuading people about the value of the life we had. And I didn’t—I just felt I didn’t understand the draw, the attraction of revolutions and social change, such a dimension that people are willing to die for it.
+
+And I—I had met [Louis W.] “Lou” Goodman [Class of 1964], and for whatever reason, Lou and I would talk about everything. Lou was so valuable to me. Probably as a student, the single-most influential person in my life at Dartmouth. Lou was raised as an ethical culturist, clearly Jewish, and a wonderful family in Connecticut. And we somehow bonded and just started conspiring [chuckles] to convince professors to let us go to Latin America.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">You wouldn’t know Lou, but Lou retired as the dean of the School of Foreign Service at American University [sic; American University’s School of International Service] about three years ago.</u>
+      <u who="MARKOWITZ">Oh, okay.</u>
+      <u who="BROSS">He was invited to be the new dean in Singapore and then one of the former Russian republics, and, you know, he’s just an incredibly bright guy. He—Lou knew everybody by name and face when he arrived at Dartmouth in 1960.</u>
+      <u who="MARKOWITZ">Huh! That’s pretty impressive.</u>
+      <u who="BROSS">And would say hello to them! [Laughs.] Not surprisingly, he was elected to the Palaeopitus [Senior Society] and some other things eventually. But he and I were in the weeds. We eventually become the co-presidentes of the Circulo Español. And I won’t go any further to tell you about all the funny things we did.
+
+But we both ended up creating our own major [chuckles] in Spanish-modified basic Latin American studies, —</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—through that trip. 
+
+Well, that spring is when I went with Fred Eidlin and was with him when he met all these ambassadors. So I was being—thanks to Dartmouth—so—so just stop and think for a minute. I’d had more than one kind of military exposure, but coming to Dartmouth is—is not something—I’m going to have experiences, Hannah, that you’re not going to get at the Naval Academy.</u>
+      <u who="MARKOWITZ">Right, right.</u>
+      <u who="BROSS">But at the same time, as a Dartmouth student—the average student is not going to have the experiences I had of going out in the real guys’ world of making a destroyer engine room work or navigating or doing anti-submarine warfare, understanding the sonar and doing gunnery practice, and doing the complexities of the manual labor as well as the skill, all of these things that are part of modern human life. And it was a lot going on. 
+
+So go to Marine Corps three weeks, and I was thinking all the time, Should I go Marines? But I kind of had learned a lot about walking and marching and combat, and my uncle had pointed out to me that life expectance of the average Marine officer in Iwo Jima was quite short.
+
+And the naval aviation training in Corpus Christi [Texas], the three weeks, was—we got into ejector seats and—you know, again, you were starting to get exposed to how you handle very high-danger, high-risk situations. Are you going to lose your head? And a few folks along the way were losing their head.
+
+I will tell a story. It wasn’t our class. It happened the year before we were in Corpus Christi. This young midshipman was riding the second seat of a jet trainer, and all of a sudden white, billowing vapors come out under his feet and start filling up the cockpit. And without asking, he pulls—there’s a loop that fit[s] in over the top of your helmet and your flight suit, and they didn’t eject the canopies in those days so much as they had a little triangular piece of metal that sat on the top of the seat, which was intended to shatter the canopy when you ejected.
+
+So he ejected [chuckles, then laughs]. The pilot is now flying this jet trainer with the air blowing through it, four or five hundred knots. [Laughs.] And he has no midshipmen. The canopy deploys, and this guy lands in a cattle pasture.
+
+And what it was, was oxygen vapor. It wasn’t smoke. The plane wasn’t on fire.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">But it was mutually agreed that he probably wasn’t fit for naval aviation. [Both chuckle.]</u>
+      <u who="MARKOWITZ">Either way.</u>
+      <u who="BROSS">[Laughs.] And so here’s what’s interesting, though, is as soon as that summer was over, I had to get myself to Peru. And so I—[Walter] “Walt” Smith was from Georgia, and his family was up here getting him, and he agreed to take my suitcase to New York City. Unfortunately, somebody broke in and stole all my clothes [both chuckle], so had to get clothes and get on a plane. I had hops, lady hops that got me to Florida.
+
+And so in late August, I was—</u>
+      <u who="MARKOWITZ">This is in 1962, or—</u>
+      <u who="BROSS">Yes.</u>
+      <u who="MARKOWITZ">Okay.</u>
+      <u who="BROSS">It’s a very interesting time. I had not only a wonderful Romance language professor, [Robert H.] “Bob” Russell, but Frank [R.] Safford had come to the campus as a Latin American history professor. And Kal Silvert—we learned about Kal Silvert. We heard rumors that this very outstanding Latin American scholar was coming to campus. Lou found out about it and he had shared it with me, or I found out about it and I shared it with him. But somehow Kal arrived in time, because I was, you know, not immediately going in—we only had six weeks of training that summer. I think I probably stayed in Hanover.</u>
+      <u who="MARKOWITZ">Mm-hm. </u>
+      <u who="BROSS">Hannah, I think I went over just to introduce myself and told him that I wondered if I might write him when I was in Peru, and I said, “Because I’m not sure what kind of a project I should do for my political science credits.” </u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">And he was wonderful. He—he just said, “Listen, just stay off of balconies [laughs] when they’re having street demonstrations and things.” And I looked, and he had this scar on his left cheek that he got when he was diving under a car in Buenos Aires [Argentina] during a riot. [Chuckles.]</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">And you’ve read my essay?</u>
+      <u who="MARKOWITZ">Yes, I did. It was—I definitely got the sense that he was—</u>
+      <u who="BROSS">Influential.</u>
+      <u who="MARKOWITZ">—an impressive mentor and very influential, as you stated in the essay.</u>
+      <u who="BROSS">Did it the warmth come through?</u>
+      <u who="BROSS">Yes, definitely. And all the—all the letters that you quoted from him, especially.</u>
+      <u who="BROSS">Yeah. So there I was on my moon shot, my—my second moon shot in as many years. Well, not quite. Yeah, in as many years, two years. So the first moon shot was Hanover [chuckles], and the next one is, What in the world?
+
+So here you are, down at Peru. And right before—of course you know the story. So I won’t go into the details because that’s all in my essays, about getting there. But I think the foreshadowing of going with Javier Servat—what an extraordinary individual he was! Coming from this very aristocratic family and becoming just a physician but one who was extraordinary and changed his country by creating that eye clinic in the north.
+
+And, you know, this is the hospital ship, and just—you know, if you ever see—you get a chance to see the movie—[John] le Carré, the Cold War spy thriller author wrote The Constant Gardener.</u>
+      <u who="MARKOWITZ">Okay.</u>
+      <u who="BROSS">It was a very poig- —yeah, a very poignant, a very—somewhat illuminating story of the use of—of pharmaceutical companies doing human subject research in Africa. And I was just—I—I was exposed to this in 1962 because a very good friend of Javier’s gave a ride up to Trujillo [Peru], and he was basically dumping pharmaceuticals out of Europe and Latin America.</u>
+      <u who="MARKOWITZ">Interesting.</u>
+      <u who="BROSS">I took one of them. Got deathly ill. [Chuckles.] Decided I’d rather have the diarrhea. </u>
+      <u who="MARKOWITZ">[Laughs.]</u>
+      <u who="BROSS">[Chuckles.] I mean, anyway, there was just all—there was so much going on. You know, my first exposure to cocaine was to have Javier pointing out to me how people would have—like, people who chew tobacco had these little poufy, you know, little cuds or whatever they have? Wads that they put in their cheeks?</u>
+      <u who="MARKOWITZ">Yeah.</u>
+      <u who="BROSS">And what was going on is they’d take raw coca leaves and put a little piece of catalyst, I think in the form of limestone, in there, and they would suck at it all day, and as he pointed out to me, it would—it was a stimulant, but it also anesthetized your alimentary system so you didn’t get hungry. But it created hollow people. I mean, I won’t go any further. I’m just saying that would not be your typical military exposure.</u>
+      <u who="MARKOWITZ">Right, right.</u>
+      <u who="BROSS">So—</u>
+      <u who="MARKOWITZ">Yeah—</u>
+      <u who="BROSS">I see—you know, see through his binocular vision of both language—and, again, I’ve got this physician, who I find enormously impressive in terms of how he saw the complexity of his—his—his people and his population and his patients. And I saw people with things like—either had elephantitis [sic; elephantiasis] or possibly leprosy. I mean, I saw things I never imagined existed. 
+
+
+
+And I also, for first time, because I had grown up reading conservative magazines—the first time that I really became jarringly aware of the mis- —the dissonance between what the world looked like from our view, living in this island nation, and going there to find out how we and our influence, power, wealth, military was experienced by people in these emerging world economies.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And the point is that when you say “underdeveloped,” we don't know what these words mean unless we actually experience what it means. So when people talk about turismo [tourism] or turista [tourist], it’s like only tourists get gastrointestinal infections. No, it’s endemic, not epidemic. Everybody has it almost all the time. The food is often adulterated. People don’t have immunizations.
+
+I lost about 40 pounds while I was there because I got so sick at one point. If I hadn’t, in my delirium, gotten a taxi and gone to an American hospital that gave me antibiotics—I was fortunate it was bacterial—I don’t know. That might have been the end of me.
+
+But I was eating everything everybody else ate down there. [Chuckles.] Things—some people would—don’t want me to describe what we were eating.</u>
+      <u who="MARKOWITZ">[Laughs.]</u>
+      <u who="BROSS">[Laughs.] And I was in a pensión [a boarding house], and twenty dollars a month, room and board. And they were from the rural areas and the urban areas, and they were always kidding me and trying to trick me and—but also trying to be friendly. I mean, it’s just all that mix.
+
+And I was realizing they don’t see us the way we see us. And, you know, to take a shower, you had to take—you know those little—you ever see those little dippers you put in a cup of water to heat up the water, you know?</u>
+      <u who="MARKOWITZ">Yeah, yeah, mm-hm.</u>
+      <u who="BROSS">Well, the way you got a shower is you had a—a reservoir for a toilet, with one of those little dippers. The water is quite cold there on the coast, and you would go in right before you were going to get a shower. You flip a switch, and when you thought it was sufficiently warm by that dipper, that you could get enough warm water [chuckles], you went and got your shower. 
+
+And the nice thing about the Navy is you have bird baths, sailor showers and what everybody else thinks is a shower or a bath. And so I was already exposed to the idea, You better get in, rinse, turn it off. Soap, get back in, rinse, get out of there. [Laughs.]</u>
+      <u who="MARKOWITZ">Yeah, get out as fast as possible.</u>
+      <u who="BROSS">So, again, this interplay between these different exposures. And so I write—and you know the story: I write Kal, and he writes this marvelous thing back.</u>
+      <u who="MARKOWITZ">Yes.</u>
+      <u who="BROSS">And I end up writing this thing, and, of course, the Cuban Missile Crisis happens, and I reported in at the Embassy. What I did not say, and I know we record, so I’ll be a little thoughtful about this. I was approached by someone at the Embassy, a good, nice man, and he asked me what was going on in Peru. [Chuckles.] And he asked me such naïve questions, honestly, that I found it shocking.
+
+And I don’t think he was a bad person, but he didn’t speak the language, and I knew so much of what was going on there by simply traveling and meeting people and listening and observing, and realized there was a heck of a lot going on.
+
+The—the fabricas de la Jardina del pescado, the fish flower factories, allowed the economy to boom, not just from mineralogy and from some kinds of agriculture— Peru is the second place in the planet which has long-staple cotton, along with Egypt. And so that irrigated form of cotton was—was a big export.
+
+But there was a lot of discrimination. People would say to me from the upper 10 percent, who were the Europeos—they were the blancos. They were the aristocrats, a lot of Europeans. They would say, “Isn’t it a shame that America has such racial divides?” And about two sentences later, they would say something about “lo sinverguenza Indios, which means “those shameless Indians.”</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">And they were talking about the fact that people didn’t have places where they could urinate or defecate, and so people would have to go off to the side and do it. And they said, “That’s why they’re shameless.” Well, the poverty was extraordinary. The average income, national income was $127 a year at the time. Think about being in the military and going into an emerging economy without that experience.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">But that—that’s just the beginning. Hannah, did you happen—I know you had lots on your plate—did you ever happen to find La Violencia en Colombia in the library?</u>
+      <u who="MARKOWITZ">I looked—I looked it up in the catalog, and it looks like they’ve—they have a sort of storage area where they keep a lot of the—</u>
+      <u who="BROSS">Special Collection books. [Laughs.]</u>
+      <u who="MARKOWITZ">Yeah. Not the Special Collections, but it’s, like, —I’m not sure what the name of it is exactly. But I saw that it was there. I didn’t have time to order it and get it brought back—</u>
+      <u who="BROSS">That’s alright.</u>
+      <u who="MARKOWITZ">—and brought back to campus, but I saw that it was tucked away in the library somewhere.</u>
+      <u who="BROSS">I will just tell you some stuff there. It’s all in Spanish. Let me tell you about some of the pictures. There are pictures of men, women and children, all headless, laid out side by side like fish that were caught in a stream.</u>
+      <u who="MARKOWITZ">Hmm.</u>
+      <u who="BROSS">Yeah.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">It’s horrific. So I go back—I go back, and it was a full year going to Kal’s courses, trying to make sense of things, continuing my Spanish. It was a better time to be back at Dartmouth, Hannah. I—I no longer wanted to get away from Dartmouth. I—I just thought, Boy, I’m not so sure. You know, I miss civilization, in a way. But by the time I got back, I realized I hadn’t had much time—Dartmouth had let me go, if that makes sense.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And it was very rewarding. </u>
+      <u who="MARKOWITZ">I’m sure.</u>
+      <u who="BROSS">And I—I no longer felt as if I was just thinking these abstract kinds of thoughts. I actually had some grounding in the real world. And I got into Ledyard Canoe Club and had a great time with that both as a junior and a senior, and competed in the first invitational whitewater thing and eventually went down the Connecticut [River]. And all these things were just easier for me to do because I was no longer feeling like I wasn’t going to survive there or that I wasn’t going to—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—you know, do the things—
+
+And then I get those orders pulled from the Philippines to Colombia, and now I’ve moved from being—oh, and of course you knew I was staying in the general national police force, and so I went to the Club Militar, went to the soccer game where he was sitting next to me and casually said that they’d had riots there two years before and over 250 people had been killed in the soccer stadium.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">Right. And we knew about Hugo Blanco, the guy who created the Sendero Luminoso, which is the Shining Path guerilla movement. Lou had some thoughts about going to interview him [laughs], which we discussed at length, and I was able to convince Lou that I didn’t think this was good.</u>
+      <u who="MARKOWITZ">Yeah. Did you draw the line there?</u>
+      <u who="BROSS">[Laughs.] So here it is. Now I’m going to Colombia, and now $15 a day per diem, uniforms, receptions, dances, and flying around in our own private—what we call here a private aviation, commercial aviation planes, like the Aero Commander, which is a plane you could take one inch and feather the prop and still keep going. [Chuckles.] And flew thousands of miles—you know, 105 hours in the air is a long time anyplace.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">So when the Llanos—</u>
+      <u who="MARKOWITZ">So your—sorry. Your trip to Colombia was—that was through the Navy.</u>
+      <u who="BROSS">All the military.</u>
+      <u who="MARKOWITZ">Okay.</u>
+      <u who="BROSS">I’m now in Kennedy’s People to People [Student Ambassador Program], Persona a Persona—</u>
+      <u who="MARKOWITZ">Right, yes. You did mention that in the essay.</u>
+      <u who="BROSS">Alianza para el Progreso—yes, the Alliance for—the Alliance for Progress in Latin America. And I haven’t touched on his assassination and things like that. That’s going to happen that fall, when I returned. So that program still was in existence.</u>
+      <u who="MARKOWITZ">It was—it was created by President Kennedy—</u>
+      <u who="BROSS">Kennedy.</u>
+      <u who="MARKOWITZ">—at the time?</u>
+      <u who="BROSS">Yes, and it went away after he was gone.</u>
+      <u who="MARKOWITZ">Oh, wow.</u>
+      <u who="BROSS">The Alliance for Progress. And it was the Peace Corps—there were so many useful things, in my view, that he did [that] moved us away from “everything is thermonuclear war or nothing.” And so when people criticize the military, I think, Yeah, but how profoundly do you understand human nature and human history when you say that this is—this was a terrible thing? There’s a lot of terrible things. How do we manage the terrible things? And how do we manage ourselves?
+
+So I’m seeing the world very differently, and I was more confined in terms of my own sense of need to be self-disciplined. So I wasn’t making a lot of observations or criticisms or saying anything, really, much about what I was seeing. But I’m thinking on myself, You know, they got a big challenge here to deal with this violence, and there’s a lot more going on here than we’re gonna discuss.
+
+
+
+So when we were on the Rio Putumayo, which is on the Ecuadorian border—and I know, because I know my history that a good—a huge chunk of Ecuador was taken away from Ecuador in successive wars by Colombia and Peru, and Peru had had a big chunk taken away. And if you don’t know these things—you know, this is where working years and years later—in things like medicine, child abuse, psychiatry—when you don’t understand someone’s behavior, you don’t have enough history.</u>
+      <u who="MARKOWITZ">Mm-hm. </u>
+      <u who="BROSS">History in medicine is you take a history as part of your diagnostic workup, and it’s the personal history of that individual that was presenting symptoms and so forth. So history—there’s all kinds of words of art, and it takes a while to know what language you’re speaking, right?</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">But it was true there as well. And [chuckles]—I will just mention a funny thing: So this one flight we took to the Rio Putumayo. Was it that one, or was it Amazon [River]? I think it was—I think it was that—yeah, it was that one. They—we—we almost got into the trees when we landed in the first airport in a rural area of Colombia. It turned out that the copilot was in training.</u>
+      <u who="MARKOWITZ">Oh!</u>
+      <u who="BROSS">So—[Laughs.]  So I heard this—people talking about this as we got off the plane to stretch before we got onto the next flight. We went through this scene, very scary, where the bottom drops out of this [Douglas] DC-3, and you correct, and you pick it up and you’re kind of “Rrrr, rrrr, rrrr, rrrr,” and then all of a sudden, the bottom drops out again. [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">Same guy, still in training. [Laughs.] And so—</u>
+      <u who="MARKOWITZ">I’m surprised you got back on the plane. [Chuckles.]</u>
+      <u who="BROSS">[Laughs.] Yeah, this was like it’s something. And the last time, I—I—I became aware—it was a long time, as it turns out, to get down to the Ecuadorian border. No roads there and very long way up the Amazon. And it was very quiet in the plane. And I suddenly realized how quiet it was. Nobody was talking. And I looked out to the right, and there was triple canopy jungle right below—at least it seemed pretty close—feathered props. I will say it was close enough that I could see flocks of parrots flying in between the trees. And I heard people saying their rosaries. Very fast. Lots of them, clicking of the beads.
+
+I thought, Well, this is interesting, because then my mind went to, How do you survive in triple canopy jungle? Once upon a time you were a Scout, and are you gonna be able to use that in this environment? [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">If you survive the crash? [Laughs.] And all of a sudden there’s this enormous roar. Smoke starts pouring out of the engine that I’m looking at, and the whole plane tips over onto the right wing and then tips back over onto the left wing, and we swing around and burst into this opening of a little tiny jungle airport. [Both chuckle.] 
+
+And what had happened was the pilot got frustrated, and he said, “Look, this is how you do it!” [Laughs.] But didn’t tell any of the rest of us.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">So we land—and landed. There was just this one little tiny tower with all the glass broken out. And the first men off—it was almost all men. They get off the plane. There was a few women. But the men all got down and kissed the pavement. [Both chuckle.] So the reason I’m telling you a little about this is we had a reception by the commanding officer, probably a captain in the Army. He had this strikingly beautiful wife, and we were all in this formal dining room. And he had this very fierce look about him [chuckles]. I don’t want to look at his wife. And then we start hearing this story about how these guys in these canoes were killed and that they had stopped this guerrilla movement.
+
+He never gave me, or them, any of us, any explanation of why did you think they were guerillas? Did you capture any contraband?</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">Did you have intelligence? And I thought to myself, God, I hope they don’t look at his wife. [Both chuckle.] I mean, it was just—you know, remember, if you see that book and you see the savagery on both sides, and this—this terrible—if you had a house painted red, the people who were on the blue side might shoot you for that. Same thing from the other color.
+
+But the politics—it wasn’t politics as we think of in classic western European terms. This was Hatfield-McCoy [feud] politics, personalism.
+
+Anyway, that’s—that’s important to understand, how many people who went to Vietnam, especially as young officers, would have had any of this exposure. How many students at Dartmouth would have had any reason to be into an environment where they would be treated as junior diplomats and invited to travel—</u>
+      <u who="MARKOWITZ">And it—yeah.</u>
+      <u who="BROSS">—all through the country, right? I don’t think—</u>
+      <u who="MARKOWITZ">It seems like this exposure definitely made you more critical and aware of things you would be doing later in Vietnam, especially?</u>
+      <u who="BROSS">I think, Hannah, more aware. I don’t think I’ve ever set out to be a critical person. I still believe, and I’ve always believed, that as much as possible, we should have things that speak for themselves.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">But I think sometimes things become so overwhelmingly obvious that you get into the question of, well, why does it seem so obvious to me or to another person but not obvious to others? And that leads us into examinations of human psychology.</u>
+      <u who="MARKOWITZ">Mm-hm. </u>
+      <u who="BROSS">And it’s important stuff.
+
+Well, have we done enough about—</u>
+      <u who="MARKOWITZ">So—</u>
+      <u who="BROSS">Yeah.</u>
+      <u who="MARKOWITZ">So 1963 was this—this People to People program that you went on—</u>
+      <u who="BROSS">Yeah.</u>
+      <u who="MARKOWITZ">—through the Ar- —through the Navy, and then ’64 is when you graduated from Dartmouth, correct?</u>
+      <u who="BROSS">Yeah. And I’ll tell you a little memory about that.</u>
+      <u who="MARKOWITZ">Yes, please.</u>
+      <u who="BROSS">Since my name comes first in the alphabet, I was the one that had to say “Attention” as we got commissioned and got sworn in. And resonating through my head at this time—and everybody else—I read a lot of the essays. Most people were not aware of Vietnam, but I could not help—by the way, I don’t know if you knew that Lou—Lou Goodman and I wrote a letter to the editor of the Dartmouth paper, saying—</u>
+      <u who="MARKOWITZ">Oh, yes, I actually did—I actually did come across that in the—in Rauner Library. They have all the old issues—</u>
+      <u who="BROSS">[Chuckles.]</u>
+      <u who="MARKOWITZ">—of The Dartmouth catalogued—</u>
+      <u who="BROSS">Extraordinary.</u>
+      <u who="MARKOWITZ">—very well. Yeah, so I actually did get a chance—</u>
+      <u who="BROSS">You’re a very good researcher.</u>
+      <u who="MARKOWITZ">—to read that. [Chuckles.]</u>
+      <u who="BROSS">What did you think?</u>
+      <u who="MARKOWITZ">It was fascinating.</u>
+      <u who="BROSS">[Laughs.]</u>
+      <u who="MARKOWITZ">This is the one about Panama, correct?</u>
+      <u who="BROSS">Yeah!</u>
+      <u who="MARKOWITZ">Yes. Yeah.</u>
+      <u who="BROSS">And of course I had traveled through there on—on, of all things, a Colombian oiler, fully aware of the irony of an American naval midshipman (that’s redundant)—a midshipmen, a cadet de la [unintelligible], —</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">—going through as a guest of the Colombian government on one of their tankers. A little foreshadowing there, in a couple of ways. I just was very aware of that and going to Cartagena [Colombia].
+
+I got to tell you a quick st- —well, no, I won’t. I won’t tell you. Too many diversions.
+
+So I’m glad you found that because, again, I do not think it’s the sort of thing that you would expect most midshipmen or most cadets would ever find themselves thinking of writing, much more actually publishing if they really wanted to have a good military career.</u>
+      <u who="MARKOWITZ">[Chuckles.] So going—by, yeah, I was really happy I came across that article, actually, in The Dartmouth, and just the idea of the—sort of the individual versus the responsibility to the larger state or country, I thought was very interesting.</u>
+      <u who="BROSS">Yeah.</u>
+      <u who="MARKOWITZ">But—go on.</u>
+      <u who="BROSS">So I’m sitting there, or standing there, and in my mind was this phrase: “Santiago y a ellos.” That’s Spanish, and it’s right out of this [El] Cid Campeador, and it’s the beginning of the Spanish attempt to throw the Muslims out of Spain. And it was their war cry. Translated roughly, it’s “To Saint Peter and at them,” “in the name of Saint Peter, let’s get them.”</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">I had this—it’s almost like I smelled incense. And I think it was my sense of concern and dread that we were getting ourselves into something that we didn’t know what we were up to. I know that doesn’t seem—that probably looks an awful lot like retrospect, but I can tell you, that was a distinctive memory, and I can’t explain entirely all the things that I was aware of that were making me think that we might be getting into something. And this was before [the] Gulf of Tonkin [incident].</u>
+      <u who="MARKOWITZ">Right, right.</u>
+      <u who="BROSS">But you do know I asked for a tanker. I didn’t ask for a cruiser. [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">Why in the world would anybody with aspirations go to the service? Well, it turned out to be a good choice.
+
+So go ahead. I didn’t mean to distract us too much.</u>
+      <u who="MARKOWITZ">Oh, no, I—I just wanted to get back to the—to that story you were about to tell, about your commissioning and I guess what the premonition that was in your mind at that time.</u>
+      <u who="BROSS">Yeah.</u>
+      <u who="MARKOWITZ">So you—you ac- —you entered the Navy or received orders for—</u>
+      <u who="BROSS">In New York, at—the World’s Fair was there. I met Lou, and I must—</u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">Lou must have been utterly shocked when I got on this decrepit old ship. I mean, it looked run down. It looked—they were just coming out of a yard period, but you wouldn't believe it to look at this thing. The wardroom had no furniture [chuckles] to speak of. It turned out that the—the executive officer had a temper and had done a lot of stuff that meant that they didn’t have furniture. But that’s another story.
+
+So there I am. I’m on—</u>
+      <u who="MARKOWITZ">And this—what year is this in?</u>
+      <u who="BROSS">Nineteen sixty-four, June.</u>
+      <u who="MARKOWITZ">Okay. Later—same year, same year. So where did—where did you go from there?</u>
+      <u who="BROSS">Well, so we went to the Caribbean [Sea], helped refuel for training exercises. And during the summer, I was sent to firefighting school because I was made liquid cargo officer, which meant I was responsible for the major reason why we were a tanker. Half of the weight of the ship is 85,000 barrels of Navy special fuel oil; 17,700 barrels of aviation gas, JP-5; and 7,300 barrels of aviation gasoline in two very special tanks with spark-proof pumps, with CO2 insulation around them.
+
+And I found out that my crew almost—there were only two people in the entire ship, with 270 men and 17 officers, that knew how to line up the valves to allow us to pump fuel on either side, port to starboard. So I had to teach myself, and I learned all the valves and how to do it. I could do everything and do it intimately.
+
+And then I went to the—the petty officer who was heading the—our division, which was responsible for all of this, and I said, “I’m gonna show every one of you how you do this, and any time from this moment on, from the time I’ve taught you”—and I didn’t say it that way. I just said, “Hey, listen, I’m gonna show you guys how to do this. And I’m gonna say, from to time, ‘Go set up number one and two ship service pumps, pumping to port side on stations three and seven, and I want you—and I want high suction—and I want you to be able to do it without asking me any questions, and do it properly.’”
+
+Because the morale of this division was that the two fireman apprentices could do this, but the ship commander first class couldn’t. And those two guys both had problems. One of them was marginally intelligent. The other guy was a severe alcoholic. And these other guys just—they came into weld and to do things like that. They didn’t come in to run fuel ships.</u>
+      <u who="MARKOWITZ">Mm-hm. </u>
+      <u who="BROSS">So that helped, to get that straightened around. [Chuckles.]</u>
+      <u who="MARKOWITZ">Yeah, it seems like an—an interesting dynamic there.</u>
+      <u who="BROSS">Yeah. And started—I don’t know how soon, but it was very soon I ended up as junior officer of the watch. So I had this very vast, double columns of everything the ship had to do to get under way, which was quite instructive. It taught me a lot about how do we learn things? By doing, is one of the best ways. There was everything from you have to have, a ship of that age, light off their boilers four hours minimum before you get under way; otherwise, you crack out all the fire bricks. And, you know, it just—they have to seal up. This is an engine that has to seal up. So you had four boilers, and you could get underway with maybe two boilers, but that doesn’t allow you to go flank. And all the way up to the ship’s whistle, and just—never mind. So that was going on.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">But the most important thing, probably, was being sent to firefighting school because I was the damage control assistant, so [if] we had flooding or fire, I was the officer who was supposed to handle all of that, including all the training. I had no clue.
+
+I went to two days of firefighting school in Norfolk [at the Naval Station Norfolk, Virginia] in the heat of the summer. I went through two of my khaki uniforms. (We had to buy our own uniforms.) Because that’s the intensity of that training. There were 30 of us there. I was the only guy wearing khakis. I didn’t have any insignia on. And, of course, they spotted my fresh face and said, “Hey, what are you? You don’t look old enough to be a chief, but you don’t have any insignia. God, can you be an officer?”
+
+And I never answered, because I knew they weren’t asking me that as—it was a rhetorical question. [Both chuckle.] And I was always first. And what they would do is take—I don’t know what room you’re in, but whatever room you’re in is probably big enough, and there would be a grate. Underneath that would be water. They would pour fuel in that. They would light the whole thing off.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">And they would have three or four of these compartments in sequence, and your task was to put that out. And the way you did it in those days was you had these two-and-a-half-inch hoses with about 175 pounds of pressure—oh, hang on. [Mutters to himself.] Maybe 200 pounds of pressure. And these things were so ready to brain because they had big, bronze heads on them where you could open and close them off. 
+
+So what you had to have was another guy back behind you. The two of you would then wrestle this thing, and the first guy, which I was always being put first—I would have to wrestle this thing with my right hand, with the—the hose coming across my shoulders from my left side, and then I would work it back and forth to sweep the fire away as we would enter in the compartment.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And then behind us were two more guys, and they had a gooseneck, which was the name for this extended device that would go out in front of us that would spray cooling water, which was—I can tell you, it didn’t entirely do the task, but if it hadn’t have been for that, it would have been a much more difficult task. As it was, it was very demanding physically.
+
+And there’s this enormous roar, so much noise that unless you shouted, you’d never be heard. And you’re surrounded by this fire, except on the side where you’re making your entry, and this noise. And at some point, —the first time or two this went through, there was some kind of commotion. All I knew was I gotta keep going.
+
+And apparently, the guys that were in the second hose had run out behind us [chuckles]. Panicked. [Laughs.] The instructors had to get back in and hold the cooling hose. And we swept out the first compartment and did that a lot. But the amount of—of oil and smoke and stuff that as you got—I mean, there was no way that the ship’s laundry was going to get that stuff out.
+
+And went on like this for two days. Gasoline fires and learning how to use horse blood, believe it or not, to create an emulsificant, which you could use to float across these fires. Because imagine what happens when you’re on a ship that’s got 12,500 tons of fuel, you are 700 or 800 miles out on the Atlantic Ocean, and a fire breaks out. You don’t call the fire department.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">[Chuckles.] You are the fire department.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">[Laughs.]</u>
+      <u who="MARKOWITZ">You figure it out. [Chuckles.]</u>
+      <u who="BROSS">Well, you better have figured it out before. You really—</u>
+      <u who="MARKOWITZ">[Laughs.]</u>
+      <u who="BROSS">—needed—otherwise, how would you not panic? You wouldn’t know where to start! You wouldn’t have the technique. You wouldn’t know which equipment to use. I—I—that was such an invaluable lesson—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—about what’s necessary to live in the world we live in and how much we take for granted.</u>
+      <u who="MARKOWITZ">Hmm.</u>
+      <u who="BROSS">And, again, this notion of society and culture and microcosms, which is what you have on a ship. So that was a very valuable experience, and that was just the first summer. [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And we head over to Europe, and now—I remember once—I’m an ensign. There was a guy whose name was J. J. Reddington III, from [College of the] Holy Cross. He was as wiry—he looked a little bit like he was a fanatic, a mad guy.  He was one of the funniest guys. He was I think Irish, but I don’t know for sure. But he had—he had a tongue on him that would—</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">—that would—would cut through class. [Chuckles.] I mean, he was so funny!
+
+Well, this lieutenant commander that was the executive office, who had this big temper? The worst thing in his life was Reddington, because Reddington [chuckles]—he could never control Reddington. [Chuckles.] And Reddington would infuriate him.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And Reddington knew it—and he was like the closest thing to the—the guy I told you about—my uncle said—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—[unintelligible]. The difference was Reddington was in your face. His wife, Fonda—it was Fonda that was—one of his best roles ever as an actor. He was Mister Roberts. But J. J. was much more in your face, especially with “the Hog.”</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">Well,—and what the chef called him, I won’t go into—I mean, I’m not going to give you his name, but his—the crew behind his back called him “the Hog.”</u>
+      <u who="MARKOWITZ">Oh, no!</u>
+      <u who="BROSS">Well, he would invite them to talk about their sexual proclivities on the beach, and the captain had told me he couldn’t be on the bridge. He was not the paragon of a military officer. Right?
+
+MARKOWITZ	Yes.</u>
+      <u who="BROSS">So there were little things going on in this little microcosm, including I end up with several African-American guys. I was perfectly happy to have them. They were competent. They hung one of my guys, you know, in one of the pump rooms, in effigy.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">I know.</u>
+      <u who="MARKOWITZ">Was—were there a lot of racial tensions in the Navy at that time?</u>
+      <u who="BROSS">There weren’t visibly lots, and I think as Vietnam came on and people started having to go to war together, there was less. But we are a society that has continued to deal with difference and struggled and succeeded and not succeeded, and failed. And you and I are living in this age, and we still deal with these issues. 
+
+
+
+But it was, for me—I wanted to know that all of our men were taken care of and we had everybody involved, and yet there were—there were definitely, in the wardroom and other places, most of it unsaid, but it was there—and it was just another thing you dealt with.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">And most of it, I think, on a daily basis didn’t interfere—but for the individuals discriminated against, it was a horrific thing. And it shouldn’t have happened.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">So—so Reddington and I are up on watch one night. [Chuckles.] We had been refueling for, like, 30 hours. We were up high in the—you know, out of the water. But we were in the Mediterranean, probably not far from Gibraltar. And that’s an intensely congested area of sea lanes. You’ve got close separation between North Africa—from Africa, the northern coast—Morocco and so forth—and the tip of Spain.
+
+By the way, Gibraltar comes from Jabal Tariq, which is the Rock [or Mountain] of Tariq. That’s where Tariq [ibn Ziyad] saw and came and invaded, the first Muslim invader of Spain.
+
+So we’re right there in this strait, and you’re looking on the radar—you don’t have to look on the radar because you look out on the bridge, and there are lights everyplace, of ships. I mean, everyplace, and close. And the radar has got maybe 200 contacts on it.
+
+So here’s J. J. He’s 23, and I am still 22, probably. And everybody else on the ship is asleep, including the guys on our watch. This one guy had fallen asleep on the chart desk. He had the earphones for the engine room so that if our—if our direct communication, the engine room telegraph, didn’t work, we had to be able to call the guy. And [chuckles] Reddington walked over and just slapped his hand, I’ll never forget, he goes, “Wha! Wha!” He gets the guy up.
+
+And so, you know, I learned—I was always a tea drinker until I was in the Navy, and then it was to drink coffee or die. So—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—drank a lot of coffee and saying, Holy smokes!  You know, I am making $200 a month, from which they’re extracting money for my food and my uniforms. Boy, I’m getting paid about 22 cents an hour, and they’re relying on us to not run into somebody.</u>
+      <u who="MARKOWITZ">[Chuckles.] Seems like a higher-paying job.</u>
+      <u who="BROSS">[Laughs.] I mean, it’s certainly—it’s certainly tuition. It’s certainly an education.</u>
+      <u who="MARKOWITZ">That’s true.</u>
+      <u who="BROSS">At one time on that particular cruise, —</u>
+      <u who="MARKOWITZ">So—</u>
+      <u who="BROSS">Yeah, I end up just telling stories, and you say, “What’s the connection?”</u>
+      <u who="MARKOWITZ">No, no, no, no. I’m—</u>
+      <u who="BROSS">Go ahead.</u>
+      <u who="MARKOWITZ">Continue, please. Oh, I mean, I was just—if you were—if you were done speaking about that section of your service, I was going to jump forward a little bit, but if there is more that you want to highlight there, that’s also perfectly fine.</u>
+      <u who="BROSS">Well, I must say that we don’t—we should go back to requiring languages.</u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">And there’s many justifications for that. So we put into the southeast coast of Spain late that next spring, before we went back to the States. And by that time, you know, I had stayed and done the Ouija boards because a tanker can break apart in heavy seas from either hog or sag stress, which is eight tons per square inch or more. And every time you move big volumes of—of petroleum products around, you create stresses on the ship when it gets under waves.
+
+So by that time, I was getting pretty used to doing that and doing it accurately. But, again, how much you learn about engineering and ocean transport and the importance of it, right? I can’t take the time to tell you the story, but it’s a fascinating story. We—we are sitting—I’m looking at a radar that says we are 100 feet from a pure—a pure obstacle, closer than I ever saw in all my time on that ship. And I was very worried, as junior officer of the watch, that we were so close to the beach. Except it turns out when the mist cleared, it wasn’t a beach, it was an enormous cliff.</u>
+      <u who="MARKOWITZ">Oh, wow.</u>
+      <u who="BROSS">And we had many fathoms, 150, 200 fathoms of water underneath us, so this is extraordinary. And I kept going back and forth, fathometer, radar, fathometer radar. You couldn’t see anything. It was all mist until the sun came out. It turns out we were in Cartagena, Spain, which is where the Cartagena, Colombia, comes from, of course.
+
+
+
+And there was this little putt, putt, putt, putt, putt, putt as the sun started clearing off the mist, and the captain asked if anybody on the bridge spoke any Spanish. I said, “Well, I speak a little.” I go down and meet this guy, and I said, in Spanish, you know, “Master”—I said, “Maestro, quiere bien abordo a proposito. ¿Cómo se dice?”
+
+And then what I was asking him was to give me a little brief dictionary of nautical terms, like, how do you say, “port and starboard”—babor y estribor. And how do you say, “Advance the engines one-third, two-thirds”? And by the time we came up to the bridge, which was, what, two minutes, just walking up to that level, he and I were communicating pretty well.
+
+And so I ended up—we put this 572-foot ship through a very narrow passage into an enormous caldera, but a caldera would only take about the length of two of my ships in there. And we put into this port, and we load—because I had to load first—and I couldn't believe the pressure of the oil that was coming on board in this caldera. And I thought, Holy smokes! After we finished, I had everybody really pay attention because I could just see us having a disaster.
+
+And we had to cut down to make sure we didn’t have that happen. And I walked over and said, “Boy, you must have some really enormous pumps.” And the guy said, “Well, would you like to see?” And I said, “Sure.” He puts me in this carry-all or Jeep, and we go up, and with the support of the Nazis, they had bored huge tunnels in this caldera, and there was open pools of black oil. And it was hundreds of feet above the surface of the ocean. And all you had to do was to open up the valve, and this stuff would pour down.
+
+The ship was throbbing when we were loading. I could take my hardhat off and set it over the [unintelligible] port, and it would float.</u>
+      <u who="MARKOWITZ">[Laughs.] Wow.</u>
+      <u who="BROSS">Now, the whole purpose of this was—I mean, how many things are out there that we don’t have any sense about and you suddenly discover? But also how language was so valuable at that moment, because from that point on, the captain actually thought that I was—I could speak every language. [Both chuckle.]
+
+So when we went to southern France and I visited another oiler, I got to be invited as the least, you know, senior officer on board, and I got a tour of a French oiler by its engineering officer, who pointed out the two immaculate vats of 1,500 liters each of vano de mer, which they would replenish at sea. They pumped wine to sea to keep their navy running, which isn’t something that helps your—but it just tells you there’s so many interesting things that happen.
+
+But the rest of the story, quickly, is do you know where Cartagena comes from?</u>
+      <u who="MARKOWITZ">No.</u>
+      <u who="BROSS">It stands for Cartago Noveno, which is New Carthage. And New Carthage was started by the folks that helped bring written language into the Mediterranean. </u>
+      <u who="MARKOWITZ">Okay.</u>
+      <u who="BROSS">And originally named for Carthage’s new city. So you have new city, new city, new city, new city—four stages of using that name before you get to Cartagena, Colombia. I didn’t figure that out for a long time.
+
+While we were there,—</u>
+      <u who="MARKOWITZ">Speak- </u>
+      <u who="BROSS">Mmm?</u>
+      <u who="MARKOWITZ">Oh, no, go ahead.</u>
+      <u who="BROSS">So we were fueling the [USS] Boston, which was the flagship, and I was getting severely criticized, let’s say, by the engineering officer of the Boston for not putting out enough pressure to get this thing done. And so I did everything I could, including putting on a stripper pump, to get pressure.
+
+And then I noticed—it was about 10 in the evening; it was all dark, and we’re alongside on the starboard and this—this cruiser with its immaculate teakwood decks on the port side. And all of a sudden, they got very close to us. I mean, it seemed sudden because I was paying attention to all the pumping and stuff. But I looked up—I’m on the cargo deck, and I thought, Oh, that’s too close!
+
+I went over and told Dar, he’s the ship [unintelligible]. I said, “Dar, you gotta secure pumping.” And he looked at me like I was crazy. He was a very bright guy. I said, “No, Dar, secure pumping!” And I started to walk over to use the gate valve if I had to do that, which would create enormous back pressure. And he got it, and he started running down.
+
+All of a sudden, the Boston looked like it was a trout on the end of a line, because it’s night and you’re only seeing lights. And all of a sudden, you start hearing snapping, and the span wires are going down, which is going to drop stuff that could hit into your screws and do all kinds of damage.
+
+What had happened is the [unintelligible] on our ship had gone out. It was precessing. And it was an old ship, and nobody had noticed. And I’d have to explain more to you about how you keep stationary in these environments, but it was damn near being a real disaster.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">And it just shows the kind of things that are happening all the time in that environment.</u>
+      <u who="MARKOWITZ">Hmm. Speaking of—</u>
+      <u who="BROSS">So—yeah.</u>
+      <u who="MARKOWITZ">—what you said about, like, the value of language and knowing the history and culture, I think in your essay you mentioned that when you did get your order to a Swift Boat in Vietnam, you underwent this two-month training program that you believed to be very scarce and minimal.</u>
+      <u who="BROSS">In some ways, yeah.</u>
+      <u who="MARKOWITZ">I was just wondering if you could—if you could elaborate more on—</u>
+      <u who="BROSS">Sure.</u>
+      <u who="MARKOWITZ">—what—what that entailed and what it was like getting the order to go to Vietnam.</u>
+      <u who="BROSS">Well, I had applied for non-combatants, basically. Again, I had a lot of concerns about—didn’t even know what we were doing. And I couldn’t know that because I hadn’t been there. And at sea you don’t get much news. I—I was starved for news, but there was nothing I could do much to satisfy all. All the music was changing, and I knew that I was well removed from much of what was happening in society. Was trying to make up for it by absorbing as much as I could, right?</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And so anyway, we were back in Europe, this time in northern Europe. And in between, by the way, we had been north of the Arctic Circle and supported the laying of the buoys to detect the boomers coming out of Murmansk [Russia], and also had been to South Africa, where I got to observe apartheid first hand, probably the only—</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">—because we were auxiliary—the only U.S. naval vessel to go in past the quarantine for probably 20 years. 
+
+So here it is, it’s the spring of 1966, and I get my orders, and I was pretty surprised. And I had gotten a letter from [William B.] “Bruce” Nickerson that,—you know, he was concerned that we didn’t—you know, I—I didn’t want to keep that letter because I didn’t want it—I was worried that it might be misinterpreted, okay? And that’s why I got rid of it.</u>
+      <u who="MARKOWITZ">And what—what exactly did the letter—was in the letter?</u>
+      <u who="BROSS">It’s—I had alluded to it in my—in my essay.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">You know, he and I had gotten to know each other only because he was the dorm chairman for Cutter [Hall], and I was the dorm chairman for North [Hall]. And we got to like each other, and everything that you read about Bruce in the essay, that his—one of his old girlfriends had written about him is—was true in my experience. And so I didn’t realize at that time that he’d been killed by the time I got the letter.</u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">But I was concerned. And I didn’t have much information, honestly, Hannah, because I hadn’t been in a position to read enough. But I knew that we were—there was a hot war starting up.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">I think over time, you kind of get used to the idea of reading between the lines, and reading between the lines, I thought, This thing is heatin’ up fast. But I don’t quite understand—I know that it’s containment. I understand containment. But I also know that that’s an area that I know very little about. And I knew that if you were going to get into conflict of that nat- —of actually war, if you want to call it that or if you want to call it a police action—same thing—you know that I would—by this time in my life, even though I was still quite young—have formed a belief that you should know a lot [chuckles], if possible, about your enemies and about the context of the conflict.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And I felt blind. So I guess I had pretty high expectations, and so when I got there, the running of the boat—you know, everything from the radios to the machine guns, the mortars and the characteristics of the patrol and understanding the interdiction and the role of [Operation] Market Time—that to me was not bad at all. In fact, we spent a lot of time doing those things. You know, you had to get familiar. You had to go out there and be able to be independent.
+
+But the part that was cartoonish to me was—was the introduction to the history of Vietnam, its cultures, the language and the complexities of the place, the French experience. Why didn’t they succeed? Why were they thrown out? Much more the history of—of an attempt to reach out to the United States and be recognized and that they—you know, always a big question was: Is this nationalism? Is it communism? Is it a combination of both? Is it a revolutionary thing? What—what—what is the nature of this conflict? And I just didn’t see hardly anything about that except, “Well, we’ve got to stop the communists.”</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">I did know—</u>
+      <u who="MARKOWITZ">So in light of—I’m sorry.</u>
+      <u who="BROSS">That’s okay.</u>
+      <u who="MARKOWITZ">I was just—in light of your—in light of the letter from Bruce and your sort of lot, you know that there was something missing, sort of, it seems like. What—what still was driving you—</u>
+      <u who="BROSS">I was being trained.</u>
+      <u who="MARKOWITZ">—as you went into service.</u>
+      <u who="BROSS">Yeah, I still felt—I just a need, and that’s when I started going out and looking for other books, and I tried the library, which was skimpy, and I looked for a number of books, and I didn’t buy more than one, but the two that I remembered the best because each in its own way gave me information I didn’t have before. And you know about them. It’s the—</u>
+      <u who="MARKOWITZ">Yes.</u>
+      <u who="BROSS">—as I said, the kind of propagandistic thing by Victor Pike, and the other was The Quicksand War[: Prelude to Vietnam], and I’m glad I had those two things before I went. At least it gave me a better—a little glimpse of what we were going to be dealing with.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">But only a glimpse. I mean, I was used to speaking a language and learning—talking to other military officers, talking to ordinary people, talking to leaders, talking to people from all walks of life, in their language, and knew how people responded to you when you spoke their language if you were reasonably fluent.
+
+Beyond this, I can point out, I suppose, best at this moment, is I’ve thought about this over the years. You think about World War II, which I had studied a lot. We had extraordinarily knowledgeable people. For example, with Japan, we had Edwin [O.] Reischauer, who was married to a Japanese woman, who eventually became an ambassador to Japan.
+
+Ruth [Fulton] Benedict, in her book, The Chrysanthemum and the Sword, was a cultural anthropologist of the first order, who helped us understand something about who Japanese people were and are.
+
+And in Europe, with the Germans, most people had a European view and knew a lot about European history, often spoke European languages, knew the history of the various wars in Europe and the politics, the cultural differences, the economics state of all of these places. There was enormous knowledge in—in our leadership, even in our people and certainly among many of our military leaders and even among a lot of the folks that served.
+
+And it showed. It showed in the fact that after these things were over, we didn’t make some of the mistakes that had been made in the past and created a—a reasonable afterwards both in Europe and in Japan.
+
+But I can say—I mean, since then I haven’t seen—maybe the Balkans, where the price of us going into the Balkans was that the Europeans committed to providing experts in the management of municipal and policing affairs in the Balkans, as the price for American involvement with its military.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And—but rarely have we seen that forethought. Why—why do we go kill people?</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">What are we trying to achieve? Was it just building a wall against communist invasion? Well, haven’t we already learned that that isn’t going to do it?
+
+By the way, I didn’t know about the War of the Running Dogs, which was the experience of the British in Malaysia. Why were the British more successful in their counterinsurgency efforts? No—no discussion of that. No discussion of counterinsurgency theory.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">You know, when you look at La Violencia en Colombia and you realize the intensity of the emotion and the depths and that these people are motivated by their experiences, and if you don’t understand what these experiences have been, how do you predict or understand how to communicate and behave with each other? I mean, this is a very long, extended discussion that we’re not going to be able to address in detail—</u>
+      <u who="MARKOWITZ">Right, of course.</u>
+      <u who="BROSS">—because after all, I was learning on the job, and I was just starting to think about these things in the way you and I are now discussing them. </u>
+      <u who="MARKOWITZ">Mm-hm. Did you think—did you feel like you were sort of the only—one of the few people to be considering these things at the time of the Vietnam War, when you were serving on either your—your Swift Boat there or combat base?</u>
+      <u who="BROSS">Yeah. Well, so the stuff I sent you, Hannah, and I tried to give you—I know your task is to write—I thought of you writing a paper about the U.S. Navy, anyway so this is a good time to refer to some of the links I sent you.
+
+I thought you would find the United States of America-Vietnam War Commemoration valuable because the idea that—you know, how this Market Time begins, it’s in the third paragraph, the discovery of a 100-ton enemy trawler.</u>
+      <u who="MARKOWITZ">Yes.</u>
+      <u who="BROSS">And that led to Market Time. The—the fact that we had a 1,200-mile coast of South Vietnam, and so they had to have a pretty major effort, and Task Force 115 had started to do this, because—and I’m going to come back to that. Why is this such a big deal?
+
+So if you think about the American Civil War, our coast, if you include the Mississippi and the other rivers—what was achieved by the North is astonishing. And the contrasts and the similarities between these two things is minimal in some ways, but in the other, it was illustrative because we have to have things that help us understand.
+
+And so the Anaconda Plan in the Civil War actually eventually succeeds, and to an extraordinary extent because the South was underdeveloped in terms of manufacturing and things like that. A crucial reason—one crucial reason that the North prevails is the success of—in a day of sail and steam—literally succeeding and keeping enough out of the South that they were starving: starving for military supplies,—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—starving for medical supplies and even starving for food and salt and basics. And what’s the difference? Well, the Vietnam coast—the difference is that the coast is just the coast; you can’t get around it. You cannot create a cordon successfully around the entire place. We were always going to be working on the edge. And they had—like Napoleon [Bonaparte] found out when he went into Russia—when you have defense in depth of that nature, that’s, to say the least, a very challenging proposition.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">China is enormous. The rest of Southeast Asia, you go back and look at what happened in World War II. It’s a horrible place to fight in. Very difficult. And stopping enough supplies coming in over the land to completely isolate that area, if you’re just thinking in purely military and logistics terms, is daunting.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">Now, that does not mean, however, that you shouldn’t care about the fact that you find a 100-ton trawler. Why? What does it mean to have a pound of explosives or ten pounds or a hundred pounds, a ton? How many—how many rocket- propelled grenades does it take to have a ton of rocket-propelled grenades? Who cares?
+
+When I first arrived, they had the RPG-2, which you and I each—even me as an elderly guy; you, as a young woman—could put six of these in a knapsack and carry the launcher, because it’s so light, and go a long ways, as far basically as we can go without a load, and fire these things. Well, who cares?
+
+Because that rocket-propelled—that RPG-2 could go through three inches of homogeneous steel or a foot of sandbags. And it was effective at 250 meters. How long is a football field?</u>
+      <u who="MARKOWITZ">A hundred yards.</u>
+      <u who="BROSS">Uh-huh, a hundred meters, more or less, right?</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">While I was there, the RPG-7 came in. The rocket-propelled grenade 7, developed by the Russians—the way it works is it has a piezo[electric] crystal fuse in the nose. Any time it hits metal or something like that, it deforms. And it has this very hot, focused stream of metal, and that RPG-7 could go through 12 inches of homogeneous steel.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">Or 100 inches of sandbags.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And you could carry six of them in a little bundle and walk around, and you could weigh 125 or [1]30 pounds and do it. Now, how many—you know, what would be a ton of those? And so you had 100 tons of cargo. 
+
+One of the reasons I gave you that thing is to show that the Navy was responsible for us having the logistics to sustain that war. Ninety-five percent of everything that’s brought in the war is coming over the ocean.
+
+It’s hard for people to understand how important water transportation is. Let me see if I can illustrate it quickly. Do you have any idea how long it took to cross from New York City to Buffalo [New York] in 1818?</u>
+      <u who="MARKOWITZ">No.</u>
+      <u who="BROSS">About 30 days.</u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">With the Erie Canal, how long did it take?</u>
+      <u who="MARKOWITZ">Five days?</u>
+      <u who="BROSS">You’re pretty darn close. Four.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">What was the decrease in the cost of a ton of goods in the form of, say, grain out of Ohio or Indiana, as they were developing the farmlands and they would bring it over and ship it through the Erie Canal? How much did it decrease the cost of transportation? I’ll tell you: 97 percent.</u>
+      <u who="MARKOWITZ">I was going to say probably a decent amount.</u>
+      <u who="BROSS">So these are kinds of things that we don’t get taught. We have no reason to think about these things, especially if we never think about the military, if we end up in shipping or something like this, and we’re forced to come to think about these things. But it’s pretty potent, isn’t it?</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">You know, water transport has made a huge difference in the world. It continues to, and that’s why I put that in there, is to make sure that we didn’t get too narrowed in on thinking about things that were just part of the picture.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">And so if you have a bicycle, even in the worst trails, a Vietnamese porter could carry 100 pounds down the Hồ Chí Minh trail. But even so—and they did—even so, it’s just a heck of a lot easier if you could just bring your ship right up and drop off a hundred tons of stuff, right?</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">There was a reason for them to be there. It looks like—my experience was there was probably about 15 attempts after this first episode. I think all but one of them got stopped. And I was on watch, way up north when, in my—in my division, I heard at midnight, around New Year’s Eve, between 1966 and ’67, suddenly comes on line a call, in code, but not very much in code, pretty much plain language: “So-and-so, So-and-so, I’ve been shot! I’ve been shot!” And this is the Swift Boat who thought that they had an LST and it turned out to be a trawler and they just got real close and put a light on it, and immediately 762 shells go shooting right through—fortunately, the officer in charge had just jumped out of his chair before the shells came through. Knocked out his lights, and they took off in panic. And they tried to come back, and they engaged them. But that trawler I think got in. I think all the rest, one way or the other, got detected.</u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">So to the extent that even in—and in 1983, in a subsequent major battle, they didn’t try to use the sea much to bring in additional supplies. The [Operation] Game Warden comes because they recognize that the rivers were just as important in terms of huge amounts of—of material and people being easily transported. Okay, so that’s how you get Task Force 116. But it wasn’t enough—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—because they would fortify banks and ambush, and that’s how you end up with these monitors and other armored vehicles with their bar armor. And the reason bar armor works, by the way, is that that rocket-propelled grenade, when it detonates—</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">—anytime it goes to that bar armor and detonates, that space of 12 inches that you used the bar armor—that expends the force and the effectiveness of the rocket-propelled grenade before it reaches the armor, okay?</u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">So that’s what they did. And if you’re on a river patrol boat or a PCF [Patrol Craft Fast], you kind of hoped that they would go through and not detonate by hitting an engine or a radio or a person or something like that. You hoped that somehow it would just hit and pass through, but sometimes that was a forlorn hope.</u>
+      <u who="MARKOWITZ">Would you mind talking about the PCFs just a little more?</u>
+      <u who="BROSS">Sure, and compare those to the PBRs [Patrol Boat, River] and compare them to the Coast Guard cutters. It was fortunate to serve with the Coast Guard because they had 85-foot steel cutters, a somewhat larger crew than we had, and they were self-righting. That means that if they turned over in a big storm, they would come back up.
+
+Also, they had four watertight compartments. That meant that if you holed two of them with the rocket-propelled grenade or a 75 mm recoilless rifle, they would still float. Plus you had people who were trained in doing coastal interdiction. So that’s really—they were not blue-water navy guys, although they have cutters that go out into the deep blue water; it’s just that they were very focused on this sort of thing that I defined my role as being involved in Market Time: interdiction, trying to keep huge supplies of explosives and weapons from coming into the country. And it was great to go to school on those guys and just see how differently they thought about things.
+
+The PCF was produced by Sewart Seacraft out of Louisianan, and they were used to ferry oil rig crews out to the various platforms. Quite inexpensive. About $200,000 before—or less—before they got outfitted. They built a tub where you could put a twin 50-caliber mount above them, and that made them a little bit more top heavy. You put a—they go up to about 25 knots. They draft about four and a half feet. They have two 12-V71 engines to drive them that speed. They’re pretty effect- —you could take one from the Philippines over to Vietnam I believe without refueling; that’s how they got a lot of them there.
+
+They’re 3/8-inch aluminum, basically, is the construction. They have no watertight integrity. If you get one round into them, they could go down. And in fact, two boats in my unit were—were sunk in that way: one, up in the Rung Sat Special Zone; another, down further south, off the peninsula.
+
+They had two radios. Their armament, in addition to a twin-mount .50 caliber over the pilothouse on the fantail, you had a big box with 80 rounds of 81 mm mortar, and right behind that, mounted on the deck, was an over-and-under mount with a mortar and a machine gun on top of that. You could use either one. But you would use them together.
+
+The mortar is actually a machine gun, so that caliber of .50—you wanted to keep them out of the hands of—of the enemy because they could easily shoot down a helicopter, and the range is about three or four thousand yards or more. And that’s why I was always reluctant just to go shooting in the beach unless somebody had really shot at us.
+
+And we had free fire zones. I was always worried that people gathering firewood or something like that, if somebody just went down there and decided to shoot them off—I just worried about how far they would go in a populated area.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">The mortars also had—actually, I’m thinking I may have it wrong. It may be as much as 8,000 yards. But the mortars certainly had a comparable range. And now my memory is wrong. It was 4,000 or 8,000. But it was a long way, and I suspect probably stick with 4,000 yards because that’s a long way.</u>
+      <u who="MARKOWITZ">Yeah.</u>
+      <u who="BROSS">And it’s also—if you think about it, it’s like a 3-inch shell, and if a shell like that dropped into a living room, I don’t think anyone would survive not being wounded, and a number of people would be killed. So it’s a pretty big weapon for a little boat.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">Hard to fire that mortar on a boat that’s wobbling back and forth. Not that easy with the machine guys. But it depends on the weather. It depends on where you need to direct the fire and lots of other things. But there’s plenty of—I think plenty of armament, especially if you had armor-piercing rounds. I think when they used just ball and they wanted to stop a steel-hulled trawler, that probably was unrealistic.
+
+What else can I tell you? One of the big problems with them is that they weren’t as good at sea-keeping as, say, the cutters were, and so six of them, to my understanding, were lost during the war by capsizing.</u>
+      <u who="MARKOWITZ">Uh-oh.</u>
+      <u who="BROSS">The worst example of that was one that went into a river mount. The bow hit the beach because you had big waves, and it was a rough sea, and the boat went stern over bow. I think they lost three dead, and I don’t think they recovered a lot of the weaponry or the entire boat.
+
+So you really had to be aware that—of issues of stability when the weather got really fierce. And my own perspective was if I was infiltrating, I would choose the worst weather possible and do it at night or in the middle storms, where my enemy’s technological and material superiority would be diminished. I did have a reputation for being able to go out and maintain patrols in all conditions.
+
+The river patrol boats, the PBRs, were plastics, made out of Bellingham—well, not plastic; they had aluminum hulls—out of Bellingham, Washington. They—I’ve heard different things. I thought they only drew about six inches at speed; others have said two feet. But they had no screws in the sense of no propellers that would catch or snag or be ripped off.
+
+They had water jets, and they would suck the water up from halfway up the boat and then expel it out the back, and they could turn, within their own link, at top speed, which is extraordinary.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">Very agile, very low to the water. I think really for their purposes, they were better adapted than the Swifts, but the Swifts had the advantage of being cheap. And available. 
+
+What else do you want to know about them?</u>
+      <u who="MARKOWITZ">I guess just what—what your—what the daily missions or what you perceived to be the day-to-day tasks on one of the PCFs was. I mean, you mentioned interdiction, for sure, but—</u>
+      <u who="BROSS">Yeah</u>
+      <u who="MARKOWITZ">—but any—any—just any other specific stories about what you encountered from—on these—the Swift Boats.</u>
+      <u who="BROSS">So you have about a 20-mile stretch along the coast. It goes 12 miles out to sea. And you want to make sure that whatever is happening, you’re close enough or patrolling actively enough at all times of day and night to have a sense if there’s somebody going into the beach who shouldn’t be doing that,—</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">—or if there’s vessels meeting off the coast that—why would they do that? Why would they be meeting? Are they handing off things? So your primary mission is to know what’s going on in that 20 by 12 mile area of ocean. And it’s fine when there’s nothing happening. You just have junk traffic, sampan [flat-bottomed wooden boat] traffic going—mostly junk traffic—going up and down, and once in a while you’ll see, a little further out, various sizes of tugs for tows, small steaming vessels and so forth. And so you want to make sure you know who they are and what they’re up to.
+
+The way it was set up, the radar picket ships were supposed to pick up, way out at sea, any trawlers coming in, but obviously the 15 that got close enough, a lot of them weren’t detected early. And what I sent you about the [USS] Vance were significant for the reason that that was their role, was to be out there as the first line of detection.
+
+The second thing would be, in my view, was to—to just try to see if there was anything going on that indicated something that was not what was usual, either in terms of cargo or in terms of individuals. And so, like police officers, you say, “Well, what do you do as a police officer than just patrol?” [Chuckles.] Well, if a firefight breaks out, if, you know, people start shooting or somebody gets under fire, you basically have to try to stop it. You want to get to that place and—and see that whoever is shooting—if they’re shooting at your people or shooting at a base and there’s a base under attack, you want to position yourself, if at all possible, to decrease their ability to attack.
+
+Most of the time, you also had—there was a theoretical possibility—and, for example, the Vance did rescue a pilot, so pilots that got out and had to bail out. You might have a search—you know, a rescue operation.
+
+Once in a while, an insertion—there was a Vietnamese navy junk that went aground on the beach, and so my PCF and another PCF went up to the place where it was and directed fire to try to destroy it. There was no way we could land; it was a very rocky shore. It was—even in a calm sea, there was waves that would have probably damaged the boats and the screws. But you could get close enough to do a lot of damage. It would not be usable again after you finished firing at it.</u>
+      <u who="MARKOWITZ">Mm-hm. </u>
+      <u who="BROSS">I did find people carrying money in quantities that were not authorized by their documentation. I would sometimes see people with very soft hands, who were supposedly out fishing. I mean, there’s lot of little indications—</u>
+      <u who="MARKOWITZ">Interesting.</u>
+      <u who="BROSS">—about things that you would worry about.</u>
+      <u who="MARKOWITZ">And was all of this just you learning—learning these little indications on the job? Did you—</u>
+      <u who="BROSS">Well, once in a while—you know, I had a Vietnamese interpreter once, and we caught somebody with a very large amount of money that we had to turn into the authorities. </u>
+      <u who="MARKOWITZ">Mm-hm. </u>
+      <u who="BROSS">And—that was—that was most of it. I—I think it—the weather was the biggest problem because you knew darn well that the harder things got at sea, the more likely we were going to have to deal with something.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">The long hours—to me, that wasn’t the issue. You know, you go out for 24 hours at a time, and you would just trade off your crew. We—we did things like—there was—for a while, there was a gasoline barge off of Phan Thiết, and it was a perfect target for a sapper [member of Viet Cong elite C-10 Sapper Battalion] to come in and blow it up and destroy the supplies for that part of Vietnam. So we would hopefully unpredictably drop concussion grenades at different distances around it, in case there were any swimmers.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">We would sometimes—we sometimes carried Army liaison officers. Most of them didn’t like the sea [chuckles] in terms of getting seasick. You know, it was understandable. I mean, they didn’t have their sea legs, and so that wasn’t usually a very enjoyable sort of thing.</u>
+      <u who="MARKOWITZ">Right, right.</u>
+      <u who="BROSS">Could sometimes support the Vietnamese Navy activities. As long as you’re talking about the northern—Vũng Tàu—this is all pretty descriptive. As soon as you head south and you’re into the mouths of the [Mekong] Delta, things get a little bit more interesting, because it sounds simple just to stay on a patrol, and it is where the water is reasonably deep, and—and your radars, which are not outstanding, can help you define—even when it’s utterly pitch black, you know how close you are to the beach. You know that you can either see—we had night scopes—and/or your radar is going to pick up most activity that’s likely to happen in your area.
+
+And I really looked at my job largely as kind of like what coast guards do, except more intensely.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">Once—the—the job, though, becomes much more complicated. When you go to the mouths of the delta, the tides are up to 13 and a half feet twice a day. It’s hard to imagine water that fills up a room and then empties the room twice a day—</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">—and with the force that that generates. So the Swift Boat had only a four-and-a-half-foot draft, but it could go aground ten miles off the coast at low tide.</u>
+      <u who="MARKOWITZ">Okay.</u>
+      <u who="BROSS">The area was not fully charted. There was actually an area in our patrols, that we had to patrol, where it was just blank because a survey vessel that had gone in to detect the depth there was almost sunk by fire from shore.</u>
+      <u who="MARKOWITZ">Oh, wow.</u>
+      <u who="BROSS">So they had to withdraw, and so we had a blank spot. But even when you had—</u>
+      <u who="MARKOWITZ">But you guys still patrolled there?</u>
+      <u who="BROSS">Yes, you had to. Also, the thing is that even with—even with charts, it could be very misleading because the sand and the mud and the silt coming down from the mouths of the Mekong—all these different rivers—would come through, flow out and be deposited, but then you would have the currents. Ocean currents are always prevalent, but also the winds and the waves and the storms. So it would not be long before the contours of the bottom had been shifted again.
+
+One of the things we used to help navigate as we moved into the mouths of the Mekong was what we called fish stakes, but that doesn’t mean like it’s a filet.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">What it means is something like a small—a small telephone pole that the fisherman had learned to pile-drive into the silt, and so you have a crossbar and men, maybe one on each side, would go jumping up and down, and they would drive these poles into the silt. They were as long as they could get them. And when they were finished and they had a number of these, they would put them—they would all be lined up perpendicular to the flow of the current. So you have this line of these poles sticking up out of the river mouths. 
+
+And then they would build catwalks, walkways between these poles, and then they would drop nets down from the whole arrangement, the whole affair, and as the current would go in and out—when the force of the current became sufficient, they dropped those nets down. The fish would be swept into it.</u>
+      <u who="MARKOWITZ">Mm-hm. </u>
+      <u who="BROSS">And they would just pull the fish up by—by loads. It was a brilliant economical use of human technology. And they showed up on radar at night [huh!] as bright points.</u>
+      <u who="MARKOWITZ">Oh. Wow.</u>
+      <u who="BROSS">And that meant that when you were looking for the deepest places, where you wouldn’t go aground even at low tide, those were the obvious pathways. They weren’t lighted, but the radar—they were visible to you. However,—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—always in my mind was: a perfect place for an ambush. </u>
+      <u who="MARKOWITZ">True.</u>
+      <u who="BROSS">So you really had to think about what—how much could they set, and was there any activity around there that would say, I wonder if they put in a—you know, a mine or some kind of explosive, an IED [improvised explosive device] or similar kind of device. And there was traps in thinking—with not thinking it out clearly. 
+
+So Vũng Tàu harbor had been the site of a Japanese—it had been a port that the Japanese used, and our forces in World War II had sunk several of these warships, and even though it was 100-and-something feet or deeper off the southern tip of Vũng Tàu, some of these ships were big enough or close enough that they still stuck up near to the surface of the water. In one or two instances, you could actually see the old wreck sticking out.
+
+In addition to having these nets and fish trap arrangements across the—the flow of the rivers, because of the currents around the shore, they also had put fish stakes that extended out from the shore, like a radiating—from the southern tip of that area—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—and were they would similarly drop the nets. And we had one young officer who, on his very first assignment that day, went steaming out at 25 knots and launched his boats off of a sunken Japanese vessel—</u>
+      <u who="MARKOWITZ">Oh, wow.</u>
+      <u who="BROSS">—and left both his screws behind. And there he is, with men and ammunition having fallen off both sides of the boat. And he obviously wasn’t going to go on his mission that day, which, as they said in the Navy parlance, it ruined his whole day.</u>
+      <u who="MARKOWITZ">[Chuckles.] I’m sure.
+
+What—so when you—when you weren’t out on these 24-hour patrols, were you at a naval base? I think you mentioned in the essay—and forgive me if I mispronounce this—but it was Cat [pronouncing it GOT] Lo [Naval Base, Vietnam]?</u>
+      <u who="BROSS">Yeah, Cat [pronouncing it CAT] Lo. </u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">So Cat Lo was—had Quonset huts, and they had supplies, and we had, to the north of us, both the Australian infantry and the New Zealand artillery that were supposed to be responsible, trying to make it more difficult for us to be attacked. But we always knew that this could happen, so we had barbed wire, and we were all ready to defend the base. But we weren’t as exposed as people would be, say, in I Corps or in the interior. But we knew it could happen, and so we had to be aware of it. 
+
+And we had certain alerts, and we would be stationed out at night on our boats, defending the waterways, as well as having a cordon on land.
+
+We—you know, it was—it was not bad to be on land, but we would sometimes go out for extended times. I spent I think it was 45 days out from the base,—</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">—where we would go on board a supporting destroyer and spend the night, one night, and then the next night we’d be out on patrol, so 24 hours in our boats, 24 hours in the destroyer. </u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">And just went back and forth for 45 days. But there’s one period of three days when the water was too heavy, and I remember edging the boat along the port quarter of the [unintelligible name of ship]. Very good captain. And he really wanted to give us some relief, and I think we’d been out for two days at that point. But as we came edging up along the side, the water was so steep at one point, my boats—I decided to take the conn on this, and I was handling the engines and the steering. And without me being able to control of it because of the intensity of the waves, we slid back slightly, and I looked over—out of the corner of my eye, and I could see the screws of the destroyer turning slowly off to the side of my boat. Clearly, didn’t want to be swept back into that.
+
+So I add a few RPMs and started creeping back up, but there was this very enormous wave, a wave high enough that it put us up with the level of the destroyer’s deck.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And all of a sudden, the bottom dropped out, which made me worry. It was about a 20- or 25-foot drop. It made me worry that we would dismount the engines. Meanwhile, my—my fellow officers were on the radio saying, “Pull away! Pull away!” </u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And I had, by that time, decided they were probably right, and so we just, you know, quietly started edging back towards—to the shore, about five or six, seven miles away, so we could find a little bit of a lee. And I secured one engine, and then we just crept back and forth with one engine all along the coast there. It was 72 hours before we finally got off the boat.</u>
+      <u who="MARKOWITZ">Wow. And how many—how many crew members were on one PCF during—</u>
+      <u who="BROSS">Five enlisted and me.</u>
+      <u who="MARKOWITZ">—a patrol?
+
+Okay.</u>
+      <u who="BROSS">Five enlisted and me. So you had a radio man, you had a gunner’s mate, you had a boatswain, and you had two others.</u>
+      <u who="MARKOWITZ">Would you go out with the same five enlisted every time?</u>
+      <u who="BROSS">Pretty much, until somebody was short-timed and left, so a lot of these guys were made up of people who were ending their time in the Navy, and so I did have two young men, Frank [J.] Furrer and [Robert E.] “Bob” Lorona, who were with me throughout the time I was there. There was turnover in the other positions.</u>
+      <u who="MARKOWITZ">This—this might be a—a broad question, so feel free to answer it in any—in any way you see fit, but something that really interests me is how to—and I mentioned this in the e-mail a little bit—sort of how—how would you define or categorize the success of the—the Navy in Vietnam? You know, we hear—I guess a lot of the things that I’ve read so far talked about the brown-water navy and how revolutionary it was. So how would you describe the success of what—what you were doing there in the PCF and all the work you were doing off the coast and in these small rivers and the delta?</u>
+      <u who="BROSS">The reason I wanted you to have that overview is because there were so many components to what was the Navy’s role. So Market Time, I think was significant. I tried to touch on why it was significant,—</u>
+      <u who="MARKOWITZ">Yes, yes, sure.</u>
+      <u who="BROSS">—because even though it didn’t keep all armaments out, it would have been worse if we hadn’t had Market Time, I think. And there’s some evidence for that.
+
+And I tried to bring out the point: Look, if those merchant ships weren’t getting in and out of Vietnam with 95 percent of everything we needed, that would have been a problem. And so you had that, you had Navy hospitals, you had the air war to the north. The set of links I gave you—I just wanted you to use those to recog- —to say this—your discussion with me is in the context of the overall effort.
+
+So we have all these things in that—the United States of America-Vietnam War Commemoration, U.S. Navy, Vietnam. And then you have Operation Sealords, which breaks down these various coastal and riverine efforts, so Market Time, [Operation] Game Warden and so forth. And I added the Coast Guard in it.
+
+And then I wanted you to know about the [unintelligible] thing because that was really fascinating, about—that was Vietnam’s Caine Mutiny Court-Martial.
+
+But you also have naval gunfire support. And I gave you a description of that. But you think about naval gunfire, it’s only good for 10 or 15 miles inland. Naval air operations was a huge thing in and off itself. And then there’s close air support. And the [U.S.] Marines, and the Marines and the Navy are combat-in-arms, you know, buddies. And so the whole—I gave it a whole page, and I said, “We’re not going to go there because”—but that’s, in a sense, part of who the Navy is, is this close affiliation with its very highly mobile amphibious or even broader experienced group of infantry, Marine infantry.
+
+I mean, the real problem, isn’t it?—that—I mean, I look back. I don’t see—you could have—you could have used nuclear weapons and killed everybody, and/or you could have—I thought of the possibility of a Hong Kong approach, where the people that really, really, really would never live under a communist system unless they were just enslaved or imprisoned, and kind of decide where to position the part of Vietnam that those people could come to. And then you would, over time, with their desire to do whatever necessary to not to fall under communist rule, they would help you separate out the wheat and the chaff. You know, it’s like North Korea and South Korea.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">And—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—east and western—and all this. But I don’t see any other way that anybody’s efforts were going to succeed in, quotes, “winning.” I do appreciate the Quaker saying, “No one has ever won a fire or a war.” Wars should really be something you only do when you absolutely don’t see another option. 
+
+The problem we have is we’ve learned through history that sometimes certain kinds of situations, if you do intervene in a limited way a little bit early, you can put off or even eliminate full conflict later on.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">If you look at the survival of England, I feel you have an example of what I mean. And the reason it matters is because in this age of a multi-polar world, we’re no longer in this east-west simplistic setting. It’s not simplistic in its actual experience, but, I mean, it’s just like a lot of the conflicts in the U.S. were hidden over and papered over as long as we had an enemy that everybody agreed on. And then in 1989, with the fall of the Soviet empire, a lot of these flaws and conflicts that had not been addressed adequately began to surface more and more and more.
+
+But the British didn’t have standing armies in the places that they conquered. They largely managed to have an empire in which the sun never set by limiting their military engagements. And what would happen is when any alliance of forces got arrayed against them or some powerful individual, like a Napoleon or a[n] [Adolf] Hitler or a Kaiser or so many other places, they would create—they would work on alliances and maximize the use of their sea power, their diplomacy and their commercial sector. And it worked for centuries.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">We as a nation state have to decide how to contend with this very complex world. You know, if the only tool you have is a hammer, the world looks like a nail. So if the idea is that, you know, you’re going to solve all our problems through the military, it’s—it’s wrong. It’s just not going to happen. </u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">If you decide there is no role for hammers, well, then you only construct certain kinds of things [both chuckle], and you can only deal with certain kinds of problems.</u>
+      <u who="MARKOWITZ">So you said—</u>
+      <u who="BROSS">So this is not very satisfying. It’s—it’s—it’s nuanced.</u>
+      <u who="MARKOWITZ">Yeah.</u>
+      <u who="BROSS">It is the idea that war is only politics by other means. It is about knowing why you don’t want to have militaries that are too isolated from their sustaining culture and population. </u>
+      <u who="MARKOWITZ">Did you—</u>
+      <u who="BROSS">If you look at what happens to a place like the Middle East, the Shias and the Sunnis. They can’t develop police forces and militaries that actually are equally protective and serving of each of the religious communities.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">Many of the major problems we confront today are from the militaries in Latin America, Asia and Africa, and the Middle East taking over. I’m just now reading The Fall of the Ottoman Empire [sic; The Fall of the Ottomans: The Great War in the Middle East]. It’s—it’s a very interesting book, and it makes very clear how that part of the Middle East got into the position that it is and what people were reacting to.
+
+I never realized that it was a deliberate German effort to introduce jihad into supporting the German effort to contend with the other powers of Europe, and it was one of many efforts of their part to develop alliances that would be sufficiently strong to counter not the threat so much as their feeling of—of relative weakness when they didn’t like that. They weren’t—</u>
+      <u who="MARKOWITZ">That’s so interesting that you—</u>
+      <u who="BROSS">—necessarily—</u>
+      <u who="MARKOWITZ">—that you bring that up because I’m actually in a—I’m in a class this term on Violence and Conflict in the Middle East, and we’ve spent the first, multiple weeks of the term looking at the fall of the Ottoman Empire and—</u>
+      <u who="BROSS">Good.</u>
+      <u who="MARKOWITZ">—the implications of that, and it really is all so related, —</u>
+      <u who="BROSS">Mm-hm, mm-hm. </u>
+      <u who="MARKOWITZ">—which is—but—yeah. So it was just—just funny that you mentioned that.</u>
+      <u who="BROSS">Well, relevant hopefully.</u>
+      <u who="MARKOWITZ">Yes, very relevant.</u>
+      <u who="BROSS">When you were in Vietnam—</u>
+      <u who="MARKOWITZ">You said—</u>
+      <u who="BROSS">The problem in Vietnam at the heart is that they—that they were not a well-integrated society, that there was these enormous fissures between the various—the various ethnic groups and religious groups. And the—you know—I mean, you can go way back and ask the question about colonialism, and I’m going to—I have a somewhat cartoonish perspective, meaning that I’m not as educated as I would like to be about this.
+
+So my cartoon is that—and I’m not one of these people who believes that the—the French national anthem is Retreat. I think that that arrogance is the kind of thing that gets Americans into trouble—you know, where you just write off a certain culture or people.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">After all, they bankrupted themselves for the United States to have a successful American Revolution just as a beginning of point, counterpoint. 
+
+But when we try to understand the colonial experience and why different cultures in this current world ended up being like they are, my cartoonist’s impression is you had, you know, the Belgians and the Low Countries had certain parts of Africa; you had the French, you had the English, you had the Portuguese. So I’m just going to stay with my cartoon picture, that when somebody rose head and shoulders above everyone else as a leader, in mostly the French colonies, it was the guillotine. They didn’t want competing leadership.
+
+And I will go on with the cartoon thing, that when you rose head and shoulders above your fellows in the British system—and not that there aren’t exceptions in both these; that’s where the cartooning comes in—but my feeling is they sent them to [the University of] Oxford [University] or [the University of] Cambridge.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">I know. It’s funny, isn’t it? But, I mean, I think that South Africa and somebody like Nelson [R.] Mandela is only possible when you have a society that actually has some belief that this—that you can have that kind of change that isn’t just within one group; it is within more than one group. </u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">I don’t think that Mahatma Gandhi would have been as successful in dealing with, say, mm, I don’t know, who do I—who do I act like I’m prejudiced against, you know? Pick somebody. Let’s say the—the Mongol hordes were running India. I don’t think that Mahatma Gandhi would have been as successful with his campaigns of passive resistance and, you know, resisting the collection of salt and doing so many things that he did had it not been for lots of things: certainly the weakened state of England after the war but also the fact that they had begun to understand each other,—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—with lots of misunderstanding along the way,—</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">—and that he understood what leverage he had. After all, the British had given up on the United States. And going back to Vietnam, think about where the British were during the American Revolution. They could go up and down the coast. They could blockade us. We had just—we had some wonderful, you know, brief victories—you know, with John Paul Jones and, you know, the “Old Ironsides [USS Constitution] and things like that. But the fact of the matter is, if there hadn’t been Napoleon and lots of other things going on, they would have had—we would have had their undivided attention.</u>
+      <u who="MARKOWITZ">Yeah.</u>
+      <u who="BROSS">But they—they were confronted with the problem that we had an infinite depth behind us, and we were always moving deeper into the continent that the Europeans that arrived on the East Coast had begun to occupy. And there was a whole number of things. I mean, the reason we get Louisiana so cheaply, I believe now as I’ve read the history, that actually Napoleon wanted to sell the property. It wasn’t [President Thomas] Jefferson’s idea. They—they made him an offer that kind of like Jefferson couldn’t refuse—you know, $15 million to double the size of the United States.
+
+But what I didn’t understand was it was because almost all of the—I mean, the entire French army in Haiti was virtually wiped out by malaria. And there was malaria in New Orleans. And he knew that he couldn’t sustain that effort. Besides, he wanted to bring them all into Europe. He wanted to defend Europe, and he had to deal with the British.
+
+So you think about Vietnam, with the whole continent of Asia basically available. We were always going to have limited effects. When you get into a world war, where you have, say, Russia on the east and the other allies on the west, it still is a major effort to reduce German war-producing capacity.
+
+Who was it, the great military historian? [Carl Philipp Gottlieb von] Clausewitz said that America was in a very rare place in the world, with peaceful neighbors to the north and south and massive ocean moats on our east and west.</u>
+      <u who="MARKOWITZ">Right.
+
+So going—going back to something you said earlier, you—you said that you couldn’t—you felt you couldn’t really oppose the war without experiencing it first—</u>
+      <u who="BROSS">Going there.</u>
+      <u who="MARKOWITZ">—and going there.</u>
+      <u who="BROSS">I didn’t think I’d have the ability—</u>
+      <u who="MARKOWITZ">So after—right, of course. So after—after going there and experiencing it, what—had your thoughts or opinions on it changed at all, or developed?</u>
+      <u who="BROSS">Well, they did at the time. First of all, I could not disclose my feelings if I was a training officer. Instead, I had to take everything I had learned and try to make the people who were going to go over there better able to (1) survive and (2) not commit atrocities.</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">Emotionally, cognitively, psychologically very complex. I had a good relationship, I think, with Roy Boehm. He I think wanted me to stay. And Roy was a very tough character. I—he—you know, when I was a patrol officer, I would sometimes swim under the vessels where you stopped and looked. I never asked my men to do that. There were a number of things I did that tried to give me insights, and I never knew that they would work, but I just kept trying.
+
+And when I got back, I had seen enough. I was increasingly discouraged the longer I was there.</u>
+      <u who="MARKOWITZ">How long exactly were you there for?</u>
+      <u who="BROSS">I was there for the year. </u>
+      <u who="MARKOWITZ">Okay. </u>
+      <u who="BROSS">I got there in the fall of ’66 and left in the fall of ’67, and I said that I had sold my 30 shares of stock when [Gen. William C.] Westmoreland said he saw the light at the end of the tunnel—</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">—November 15. And we had [the] Tet [Offensive] at the end of January. And back in the Statesides, some other officers and I could feel each other out a little bit and have discussions that were not matters of disloyalty but matters of trying to metabolize and understand what was going on, how to fulfill our role and do so responsibly, but not to set people up, not to have them marching off, you know, to—like I said, to Saint, you know, Peter or [Saint] James—to Saint James I guess it is—and at them, this kind of religious patriotism that’s so unthinking or a risk of being so fanatic—</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">—that you never ask yourself the question, Are we doing the right thing? Are we doing it in the right way? And so I canvassed for Eugene [J.] McCarthy.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">But nobody knew it. My wife knew it, or my fiancée and then later my wife. But I didn’t go telling people. I didn’t wear my uniform. And of all the people I talked to—and I did it in a Navy town, so there was some risk of me running into somebody from the base, but one person challenged me. I said, “Well,”—I didn’t explain that I was still in the Navy. I said, “I just got back.”</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And what I was doing was trying to raise discussion. And then I was immediately going to night school at Berkeley, and that was really the beginning of students challenging me. When I got to [the University of] Madison[-Wisconsin], I was older than most students, even graduate students. It was very—they had the Dow [Chemical Company] demonstrations before I got there. It was a place where eventually, while I was there, the four students would blow up the math building because they were against violence.
+
+But I would—I would go up in Bascom Hills [sic; Hill, the main quadrangle forming the core of the university] at the height of some of these riots, and I would talk with the police and tell them a little bit about my uncles and my own background. And I said, “I just—I just hope you won’t shoot the students.” [Chuckles.]</u>
+      <u who="MARKOWITZ">Right. [Chuckles.]</u>
+      <u who="BROSS">And I tried to talk to the students. And I had one guy that I actually believe—who will ever know? And so you could say, “Well, that’s just [a] paranoid state,” but I actually think there was some guy who said he was in NROTC, and I thought that he acted a little bit like an agent provocateur. You know, it’s, like, one—the thing that kind of sealed it for me was one of the times of some of the worst riots, he came running up to me and said, “I just shoved a couple of pigs through a plate glass window.” I looked at him, and I said, “I thought you were against violence. I don’t want to ever see you again.”</u>
+      <u who="MARKOWITZ">Hmm.</u>
+      <u who="BROSS">He looked so ashamed and so crestfallen, all I could think of is this guy—I can’t ima-—he was so unlike these overly serious SDS [Students for a Democratic Society] and other kinds of students that I would sometimes run into, you know, who were just,—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—you know, as religiously fanatic and convinced as anybody could be that this was the most important conflict the world had ever seen and that only their personal sacrifice would end it, up to and including their death or mine, right? [Both chuckle.]
+
+I—I—I tried as much as possible to create cognitive dissonance for the people who thought that all of us who served in Vietnam were baby killers. That’s when I grew my beard. And over time, a lot of folks were able to, I think, move away from this—these false dichotomies that get created in these kinds of conditions.</u>
+      <u who="MARKOWITZ">Did you try to be as open or as public as possible about your service—</u>
+      <u who="BROSS">By the time I was out of the Navy, sure.</u>
+      <u who="MARKOWITZ">—and your opinions?</u>
+      <u who="BROSS">I mean, everyone knew kind of how I felt. That’s probably why, if I was indeed targeted to see if I was really over the top, that would probably be why, is that I had been in—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—parades, demonstrations, and I told the students how I felt. Bill was my closest friend in graduate school, and you know his background. His—his younger brother took the Phoenix [of Hiroshima] into Haiphong. [Chuckles.]  
+
+And, by the way, that brother has just recently retired. He—he moved on to removing land mines [chuckles] from emerging world nation states.
+
+I—I—you know, it’s the same way, Hannah, I was about religion. I grew up, and I—I had a Protestant affiliation, and it was a kind of intellectual Protestant affiliation because they had the [unintelligible] School of Theology, and a lot of the young ministers would come from that. And so they liked to think and provoke and discuss, and that was okay with me until they said they couldn't vote for John Kennedy because he was a Catholic. And I left the church. [Laughs.] I couldn’t believe in it anymore. [Chuckles.] I just couldn’t believe—and people use religion to justify their actions. They just—it was against me. I couldn’t do it.
+
+I believe—you know,—I think it was Miguel de Unamuno who said that—and he was a guy who was born in Basque [Country], Spain, deeply Catholic, in 1880, and studied and learned Danish so that he could read [Søren] Kierkegaard, the existentialist. [Chuckles.] And he said, “One should believe, but one should never believe absolutely.”
+
+And later on, when I was reading Alice Miller’s work and she talked about young—you know, children growing up in central Europe for two and a half centuries, who were severely, corporally punished at home, school and in religious settings and that they got punished most for questioning whether they deserved the punishment. And she called it “soul murder.” That resonates for me.
+
+At first, I thought, That’s a little bit over the top. [Chuckles.] And then I thought, But she’s right!  How do we decide justice? We have to experience these things and realize there are some tough things.
+
+You know, when [German pediatrician C.] Henry Kempe died, I ended up reading some Talmud because the ecumenical service in Montreal [Quebec, Canada] in 1984 included a priest, a rabbi and a Protestant minister. But the rabbi was the one that caught my attention because he used a parable out of—</u>
+      <u who="MARKOWITZ">Sorry, I know you—I know you have told me about Henry Kempe, but just for the purposes of the interview, would you mind describing him and his work a little bit?</u>
+      <u who="BROSS">Sure. Well, Dr. Kempe hired me in—right after my own son was born in 1976, out of the legal counsel’s office. And the conversation started out—it was May, like, 23rd or so of 1976. And I was doing five different jobs at that time: working on my Ph.D., working half time as a consultant to the health department, clerking for the University counselor for minimum wage, helping people buy and sell real estate, plus doing my Ph.D. actual research.
+
+And Jodi [Bross] was gonna have John [J. Bross], and he had just been born about a month and a half before. And I get into this little deconsecrated convent that Henry Kempe had obtained with money [chuckles]—he had borrowed money from his wet lab research so that he could buy this place to create the National Center for the Prevention and Treatment of Child Abuse and Neglect [now the Kempe Center], which I didn’t know anything about.
+
+George Duque [archivist note: spelling uncertain], my mentor in law, had to say, “There’s this doctor. Some people find him a little bit difficult to work for, but would you like me to refer you? He’s looking for a lawyer.” And I said, “Yeah!”
+
+Later on, I looked back, and I said, You know, I think Henry [K.] Silver was scouting me when I was in my second year of law school—Eve Goldstein [archivist note: spelling uncertain] he said, “Would you like to meet a doctor from the hospital? I know you have done some medical sociology.” I said, “Oh, sure!” He was a very nice man. And I didn’t think about it again until later on I became, you know, on the faculty and realized who he was, and I said, Oh, man! I missed the boat on that! I should have realized—he was such a wonderful support, such a good guy.
+
+And so here I am, my first—and I get there at 8 a.m. in the morning—my little Volvo—I drive up there, and I go in. I told—I had told George Duque, “Yeah, I need a job! Thanks for the referral.”
+
+So I go in—</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">I want this job, and [chuckles] Dr. Kempe brings me into his office. You know, it was this—might have been a mother superior’s office for all I know. Most of the religious artifacts had been taken out. So they could have whole families living with us, three to four—four of them at a time. And we would treat them for up to a half year for the severe abuse and neglect that was happening in their families. 
+
+I didn’t know that yet, but I would soon. And he started, I [sic] said, “You have your master’s and you’re getting your Ph.D., and you have your law degree. I need 60 hours of work each week from you, and I can’t pay you anything. Why would you want to work for me?”</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">That’s kind of breathtaking, isn’t it? [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.] It’s a good question.</u>
+      <u who="BROSS">[Laughs.] It was a good ques- —yeah, I didn’t even say that I’m thinking fast, and I’m thinking, Hmm. Well,—so I said—he didn’t know that—anything about G. Keith Funston and the New York Stock Exchange or any of that stuff. I just said, “Well, Dr. Kempe, I suppose that if money was the most important thing in my life, I wouldn't have gone into sociology.” He nodded. 
+
+And then he went on to another question. They just kept coming. And this went on for about ten—one of the questions I kind of remember—he said he needed somebody with character, and I thought to myself, Well, I’m a character. But I didn’t say that.
+
+This is—this guy immediately—you know, you could just tell this guy just got a—you know, it’s the magnetic, powerful charisma and intelligence, right? Not—not mean. Not—but, boy, was he direct! And so then he stands up, and he says, “I’m not very good at these things. Do you have any questions?” [Laughs.] So he hired me.
+
+And later on, about two years later, he gave me this little slip of paper and said, “Never show this to anyone.” And he had written—</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">—he told me he had a hundred candidates, and he had graded everybody, and I was first, and he had given me what I won’t tell you because he didn’t want me to tell anybody. But basically he said, “Well, I think I made a good decision.” [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">But he would—he was extraordinary! And I came to know, over time, his—his—his story that he was born in Breslau, Germany, and he was—would have been about—let’s see, when was Kristal Night—was that—Kristallnacht. Was that 1938?</u>
+      <u who="MARKOWITZ">[No audible reply.]</u>
+      <u who="BROSS">That sound about right.</u>
+      <u who="MARKOWITZ">I believe so, ’38 or ’39.</u>
+      <u who="BROSS">Yeah, so—’38 I think is about right because that’s—that’s when his parents decided they had to get out of town. He—with his sister—and I think the idea was that he could finish high school. He was 15. He would finish high school, and then he would leave, because they were worried, with reason.
+
+And so he had a—there was a family friend who was a doctor, and he was staying with him, and they were stopped by the German police, and they said, “Well”—they looked at the papers—“You have to come with us.” And the doctor said, “Well, you can’t take him. He’s just a child.” And they said, “Oh, yes, I see. Your birthday is a few months from now. Well, we’ll come back and see you then.”
+
+He got to England. I learned that he found out later that his good friend, the doctor, had been murdered within a few days. Sheltered by first the Quakers in England and then eventually gets to Los Angeles, where he’s, quotes, an “enemy alien” because we’re at war with Germany. And—but he goes through the educational system, so he’s learning his English, he’s dealing with being that isolated, and he gets all the way through the California educational system, medical school in San Francisco, and he’s a virologist and eventually would become hugely important in the eradication of smallpox, especially in places like India.
+
+And he comes to the East Coast, to Yale [School of Medicine], where he does his residency and he meets Ruth [Svibergson] Kempe, [a] marvelous child psychiatrist as she became—she was there for residency in child psychiatry.
+
+And so Dr. Kempe ended up in the Army, and I could—there are some wonderful stories about—for example, the Mariel boatlift in 1961. Smallpox was still sometimes occurring in the Cuban population, and they would vaccinate everybody, and Henry Kempe was one of the wor- —he was the world’s expert in terms of the risks of the vaccine. So a resident comes up and says, “Dr. Kempe, there’s this child in Miami or someplace, or Florida, and she’s reacting”—and he described the symptoms. And he said—Dr. Kempe said, “We need her here immediately. She needs to be treated, and we know how to do this.”
+
+And the guy said, “Well, the family doesn’t have any money, and the State Department [U.S. Department of State] is not sure. He wrote out this number. He hands it to the residents. “Call this number.” The next day, a huge Army transport dropped this child off in Denver [laughs],—</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">—where she was treated. So this guy was—there was a lot going on.</u>
+      <u who="MARKOWITZ">Did your—yeah.</u>
+      <u who="BROSS">So he comes, at the age of 33, to become the chairman of the Department of Pediatrics at the University of Colorado School of Medicine. At that time, there was a total of three doctors. [Both chuckle]. He—we now have one of the top ten children’s hospitals in the United States. A very large department, noticed for a lot of things. 
+
+But in the late 1950s, he’s only been there a few years. He was actually going on weekends to observe in emergency departments because the thought had been apparently occurring to him and to Dr. [Henry K.] Silver, his colleague, who he had recruited from Yale, that some things were happening to children that were very traumatic, very injurious. They were afraid that—that they were actually being injured by their caregivers.
+
+And when others heard this, they said, “Well, there goes Henry again,” because he had already been warning us that we would get to a point where he had to stop vaccinating against smallpox because of the risks of the vaccine, not just—and we were eliminating this agent from the population. And there was a reaction against him for about a year, and then everybody came around and said, “Oh, Henry’s right.”
+
+So in 1959, the two Henrys, Henry Silver and Henry Kempe, write a letter to the American Journal of Diseases of Childhood, and say, “You know, we’re concerned that some of the injuries we’re seeing may be inflicted, and they may be inflicted by their caregivers, and we think there may even be crimes going on in some families.”
+
+A guy by the name of—in 1946—Caffey. John Caffey was one of the original pediatric radiologists—he had described these unexpected fractures in infants in different stages of healing with no underlying disease process. But he never went the next step and described that as inflicted injury.
+
+And you can go back to [August A.] Tardieu [French medical doctor and preeminent forensic medical scientist of the mid-19th century] in 1860, who was at the Paris Morgue, and he wrote a paper about the deaths of over 31 children from physical and sexual abuse, 31 children.
+
+And there’s a whole ’nother story about when Sigmund Freud moved from thinking that a lot of mental illness was traumatic in origin, but he was told by colleagues that if he didn’t stop suggesting that some upper middle-class Viennese women—girls were being sexually assaulted, they were going to stop referring patients to him. And within a few months later, he came up with the idea of the Oedipus complex. [Chuckles.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">So coming back here to Henry Kempe, he is experiencing what I and others—I—I think it was Kit Olmsted [archivist note: spelling uncertain] at Oxford, a friend of the pioneers in child abuse in this country, called gaze aversion. You get presented as a doctor with a patient, let’s say an upper middle-class woman, who comes in, and you notice—you’ve had her for a patient for some time—you notice some bruises on her lower arms, she got long sleeves on but you still eventually see these bruises. And you get concerned about it, and you were running the differential diagnosis through your mind, and you’re thinking, Well, could it be coagulopathy? She’s taking aspirin or she has an underlying disease process, some medication I’d given her. Could these be defensive wounds? Her spouse is battering her? Is she drinking and falling down and we just don’t know it? I’ve never sensed that. But, you know, her husband is one of the vice chancellors, and you’re not, you know, at ease with these bruises because they could also be defensive injuries.
+
+And then you remember that she and her husband are well-to-do and that they ride the foxes. You know, they got on these horses, and you get pounding around, fall off of them, you get slapped by things, and of course you’re going to have bruises.
+
+So when he talked to his residents about it, he would say, “Depending on your response—first of all, this is an open warning. You should take more history. You should ask some questions. If you don’t, that’s gaze aversion.”</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">And that’s the term I was trying to get to, because Henry Kempe was experiencing, already in ’58, gaze aversion. People didn’t want to talk about human violence in the home. It was frightening, disturbing—</u>
+      <u who="MARKOWITZ">Did you and Henry—</u>
+      <u who="BROSS">Hmm?</u>
+      <u who="MARKOWITZ">Did you and—did you and Henry Kempe ever talk about your shared experiences with the military at all?</u>
+      <u who="BROSS">Well, no because I think he delegated it to Dr. Rembrandt [F. “Brandt”] Steele. He was never called Rembrandt. His name was [F.] Brandt Steele. Brandt was a marvelous partner for Henry Kempe. Brandt Steele was born in Indianapolis [Indiana] in 1907, of a businessman, but his grandfather was T. C. Steele, the American impressionist painter who did the Kellogg family. His grandmother was a Quaker who was part of the Underground Railroad in southern Illinois. 
+
+
+
+And Brandt went to medical school in Indiana and eventually did his residency at—Bellevue [Hospital Center, now New York City Health + Hospitals/Bellevue] in the Depression and was paying off his medical school debts, married with two children, when he got paralytic polio and made him quadriplegic.
+
+He goes from the height of everything—being competent and, you know, being a caregiver and taking care of people—to being completely infantilized, not able to change himself, feed himself. And we became close friends, and he was Henry’s close friend and supporter. And Henry, with so much going on, was so—he—he—no male had survived 60 in Dr. Kempe’s family, in memory, on either the maternal or paternal side. And he eventually died at age 61.
+
+So he was a dynamo, and when he had his massive heart attack that cost him to step aside as chairman of the department, he talked to [Herbert J.] “Herb” Rothenberg, his cardiologist, and Herb Rothenberg said, “You’ve got to slow up, Henry.” And Dr. Kempe said, “I can’t. I have to do in 20 years what most people have 40 years to achieve.”
+
+And so people like Ruth, as a child psychiatrist, and Brandt, like an adult psychiatrist—they were part of his team that allowed him to continue to address this very difficult problem of family violence. If he’d have stayed away from that, life would have been simpler.
+
+And—and—and so Brandt’s experience is that his nurse, who he claimed was probably a major reason why he survived, went on a brief vacation, and Brandt said he later had these murderous thoughts. And he was a Phi Beta Kappa [Society] guy. I mean, he wasn’t stupid. He was a bright man, and a caring man. And he couldn’t tell anyone what he was thinking. He would say, “What’s wrong with you, Steele? What is wrong with you? This angel is caring for you.”
+
+Well, the amazing thing is he not only recovers, he refuses the iron lung. Many around him basically withered away, either on or off the lung. He recovered. I mean, got a full life back. And World War II breaks out, and he’s drafted. It happened very commonly.</u>
+      <u who="MARKOWITZ">Hmm.</u>
+      <u who="BROSS">And he was getting ready to go to Europe and Texas when his commanding officer comes up and says, “Steele, you’ve always been interested in why people do things. We’ve lost our psychiatrist. You’re going to have to be our psychiatrist.” So [chuckles] they get to England, and—and Brandt goes—again—he says, “Listen, I would like to go to an English psychiatric hospital and learn what I’m supposed to do as a psychiatrist.” And he said, “Aw, you can’t do that! We might have to bug out anytime. You have to stay here.”
+
+So he went AWOL [away without leave] [chuckles] for two weeks. Learned what he could. [Both chuckle.] And about three or four days after the invasion of [the] Normandy [region of France], he and another doctor and five nurses had a thousand one hundred battle shock casualties in a big field. And throughout the rest of the war, that’s what Brandt did, was deal with men who were traumatized by the violence of the war.
+
+And that’s why—my second interview was with Brandt and a social worker, who was the associate director, and a predecessor lawyer, Brian—his name is escaping me. It’s been a while. Fraser. Brian [G.] Fraser. So the three of them interviewed [me], and Brian had no questions. He was getting out of town. It was Brandt that started out by saying—and I’m sure he and Henry had talked about it—he said, “I see you were in Vietnam. What was that like?” [Laughs.] You know, psychiatrists. [Chuckles.]</u>
+      <u who="MARKOWITZ">[Unintelligible.]</u>
+      <u who="BROSS">Very nice, quiet question, right? [Laughs.]</u>
+      <u who="MARKOWITZ">Yeah! Started out strong.</u>
+      <u who="BROSS">Yeah. Both of them had a way of opening up the conversation. [Chuckles.] And I said, “Well,” I said, “I didn’t lose anybody, and we didn’t commit any atrocities, but we did what we were responsible for doing.” And he just nodded. [Laughs.] 
+
+But later on, he and I would have talk after talk after talk about his experience in the war and my experience in the war, and how we saw people dealing with these kinds of things, and then how do these things happen that these people would take on—you know, attack their spouses and these little babies and do these terrible injuries?
+
+And I—I—I was close to the Kempe family. I was the one they invited to speak at his memorial service, and Ruth and I wrote the last article together, and I’ve written chapters about Henry. But he never would go back to Germany, and he was very closed off about that whole thing. He was very involved with the Jewish community, supported Israel, but he was very guarded. And I never pushed him on that.</u>
+      <u who="MARKOWITZ">But you—you said you would—so you would talk to his close—close friend Brandt about—</u>
+      <u who="BROSS">Yeah. I know he and Brandt—</u>
+      <u who="MARKOWITZ">—sort of making—</u>
+      <u who="BROSS">—helped each other—</u>
+      <u who="MARKOWITZ">—sense of—yeah.</u>
+      <u who="BROSS">Yeah, and Ruth, because Brandt could talk about the nature of human violence and help Henry understand it and contend with it. And Henry’s first step when he began to solve this problem was to hire a social worker, because he had taught social workers, to make money when he was in medical school, and later he got—and then he—he tried—he tracked Brandt because he knew he was a great psychiatrist, that he helped set up major programs in Colorado. And he was quite a few years older than Henry.
+
+And the story—the early story is that they were in the hospital, and Brandt had declined because he had a full plate, but one day Dr. Kempe said, “You know, I’ve got this young woman. She’s from Such-and-such family”—who were quite well-to-do—“and her baby is here with a bunch of fractures, and she’s got a bed here in the hospital. I wonder if there’s any chance you might see her.” [Chuckles.]
+
+And I think Brandt kind of—kind of decided he’s going to have to either, you know, concede to Henry Kempe or this would never stop. [Chuckles.] So he looks at his—his little book, and he says, “Well, I don’t have anybody at four. Why—why don’t I stop up and I’ll see her?” [Both chuckle.]
+
+And he didn’t get out until eight that night.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">Henry had done it. I mean, he—</u>
+      <u who="MARKOWITZ">Were there any specific—[Chuckles.]</u>
+      <u who="BROSS">Well, when he told me about—</u>
+      <u who="MARKOWITZ">Were there any specific aspects of your time in Vietnam that helped you understand or start to make sense of human violence in a way similar to Brandt?</u>
+      <u who="BROSS">Mmm. No, it just made me aware of the conditions that might produce—you know, put people in a position where they found themselves defending—you know, committing violence. But he and I would talk about things like—you know, we say “self-defense,” and we try to understand violence. He said, “Don, what is one universal thing we can say about violence?” And I would—for a while, I had to stop and think. Eventually, I figured out what he really wanted me to be able to understand, that we disapprove of the violence of others, Hannah, and we approve of our own. </u>
+      <u who="MARKOWITZ">Hmm.</u>
+      <u who="BROSS">Yeah.
+
+And when people say, “They killed for self-defense”? He didn’t think that was actually quite right when it came to the kind of interpersonal violence he and I were trying to understand and contend with. He believed people didn’t murder for self-defense as much as loss of identity.
+
+
+
+So this doesn’t go to war. He really, in some ways, had to throw up his hands about war once you get into a certain point in the middle of these conflicts. What interested both of us is that people remained at all human and all humane—</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">—in wars. And I fully appreciate and understand that. And we put people in these incredible situations, and that’s all the more reason for me that you don’t just send cannon fodder. You know, that’s—that’s not how we should think about these things.</u>
+      <u who="MARKOWITZ">Right.
+
+Well, I’ve taken up three hours of your time at this point—</u>
+      <u who="BROSS">Oh, really?</u>
+      <u who="MARKOWITZ">—which I really, really appreciate. It flew by. I was just looking at the recording and noticing how quickly that went. If there’s anything else you want to add, feel free. I just want to make sure I’m not taking up your whole day here.</u>
+      <u who="BROSS">Well, I couldn’t say enough about Henry, and there’s a lot to say. And as I said, I’ve actually written something about how he came to deal with child abuse and the effects of that. I will tell you a little bit more because I wanted this part to be part of how hard it is to deal with human violence and how it’s understandable that—</u>
+      <u who="MARKOWITZ">Right.</u>
+      <u who="BROSS">—Ivy League faculties want to throw military officers in training off their campus, because who wants to think about such terrible things? But why I also said I thought it was a reasonable—</u>
+      <u who="MARKOWITZ">Yes, I definitely wanted to get back to ROTC and the decision that Dartmouth made.</u>
+      <u who="BROSS">So this to me is resonant of the experience that Dr. Kempe had when he tried to get people to deal with the violence in families, and as respected as he was, his colleagues really didn’t want him to do that. 
+
+And here’s some evidence for that: So the letter that he and Henry Silver send in in 1959—what do you think was the response to—by the readers of the American Journal of Diseases of Childhood [sic; American Journal of Diseases of Children]?</u>
+      <u who="MARKOWITZ">[No audible reply.]</u>
+      <u who="BROSS">Nothing!</u>
+      <u who="MARKOWITZ">That they weren’t right? Nothing?</u>
+      <u who="BROSS">Nobody—no- —I have found no evidence that anybody even read it, but if they did, they didn’t write the editor, nor did they write Dr. Kempe or Dr. Silver.
+
+In 1960 they decided to submit a paper to the American Academy of Pediatrics’ annual meeting on what—at some point—I’m not sure if he had already identified the term “the battered child syndrome” or not. But what do you think with—these are—now, this is internationally noted virologists. And Henry [K] Silverman was a radiologist at Stanford [University], highly respected and so forth. I mean, what do you—what do you suppose the reaction was from the program committee to this submission?</u>
+      <u who="MARKOWITZ">Nothing again?</u>
+      <u who="BROSS">Well, they did a little bit better than that. They rejected it as being unscientific. [Both chuckle.]</u>
+      <u who="MARKOWITZ">At least they got—they got a response that time. [Chuckles.]</u>
+      <u who="BROSS">It’s breathtaking. Are you kidding me? A guy with his reputation—you know, with the scientific research he had accomplished, his wet lab research in viruses. It’s unbelievable. 
+
+So what did Dr. Kempe do? He arranged to be appointed as the chairman of the scientific committee for the 1961 meeting of the American Academy of Pediatrics. [Laughs.]</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">Which is the place where the battered child syndrome was first presented. Justine—last name, French, but I never met her—was a woman judge from New York, Henry Silverman, a medical student by the name of [William] Droegemueller, Dr. Steele, Dr. Silver and Dr. Kempe presented. It was about a thousand people, Brandt remembered. It was a large audience because these were well-known folks.
+
+What was the response, Hannah? You should know the answer by now.</u>
+      <u who="MARKOWITZ">Not scientific?</u>
+      <u who="BROSS">No, go back to the original answer. Silence. [Laughs.] </u>
+      <u who="MARKOWITZ">Nothing. [Chuckles.]</u>
+      <u who="BROSS">Not a challenge. As they were leaving—they had lots of friends, and someone would kind of come up and say, “You know, I think I may have seen a child like this once.” I mean, last year we had 650,000 confirmed cases and about 1,500 or 2,000 deaths.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">So it was 1962 in June that the battered child syndrome was published in JAMA[:The Journal of the American Medical Association]. And in the early 1980s, the American Medical Association had a committee that decided to choose the 50 most important contributions of the Journal of the American Medical Association to American medicine in its first 100 years. And the battered child syndrome was one of those papers.
+
+There’s now a permanent website at CDC [Centers for Disease Control and Prevention], talking about the sequelae [aftereffects] of what are called “adverse childhood experiences,” ACEs, which includes lots of physical things like risk for heart disease, cancers, autoimmune diseases as well behavioral risks.
+
+Very few people have the extraordinary effect on us that Dr. Henry Kempe had.</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">Is that enough? For now?</u>
+      <u who="MARKOWITZ">Yeah, that was—that was great. [Chuckles.]</u>
+      <u who="BROSS">I really appreciate your interest. I really appreciate your thoughtfulness and care in your preparation. I did try to send you a bunch of stuff because I know there’s a risk—</u>
+      <u who="MARKOWITZ">Thank you, thank you.</u>
+      <u who="BROSS">—yeah, that we—this gets to be too narrow in its understanding if you want to just focus on these military things. I do feel it’s been a great gift—</u>
+      <u who="MARKOWITZ">Yes, I—I really appreciate that you—that you sort of gave me the—the wider perspective in talking about Kempe and everything that sort of came before and after as well. Going all the way back through his childhood experience was really interesting.</u>
+      <u who="BROSS">Well, you know,—and I mentioned Alice Miller. I won’t go through that again, but you know about that. And, you know, this idea—</u>
+      <u who="MARKOWITZ">Mm-hm.</u>
+      <u who="BROSS">—of treating children with such brutality and not allowing them to develop a sense of empathy.
+
+Did I ever tell you that the—I probably didn’t. So in 19- —hang on; got to think it straight—1991 The Denver Post had an editorial, and there’s some visibility for child abuse here because of Kempe Center. And the editorial was about Saddam Hussein, and in the intro, they remarked that the known biography of Saddam Hussein was that he ran away from an incredibly abusive father at age 9 and went to the capital city, where he was sheltered by his uncle, who was the leading terrorist against the British at that time.
+
+He says this early life experience of brutality and abuse, exposure to violence does not excuse Saddam Hussein’s later behaviors, which you and I both know were unbelievable.</u>
+      <u who="MARKOWITZ">Yes.</u>
+      <u who="BROSS">I mean, using gas against his own people and things like that. The Denver Post went on to say however, perhaps it helps us to appreciate, not justify or accept, appreciate in the sense of understand or have insight into how somebody raised in this fashion would come to believe that when they were in power, that they were literally entitled or justified in doing whatever they wanted to somebody else who opposed them or disagreed with them.</u>
+      <u who="MARKOWITZ">Hmm.</u>
+      <u who="BROSS">We could go on, but we probably shouldn’t. [Both chuckle.] It’s enough for you to—I was left in the second generation of what Dr. Kempe and Dr. Steele agreed was a five-generation problem, to try to get to a better place. And I’m only in the second generation.</u>
+      <u who="MARKOWITZ">Wow.</u>
+      <u who="BROSS">I feel that Henry left us [chuckles] with at least five generations more work.</u>
+      <u who="MARKOWITZ">[Laughs.] At least.</u>
+      <u who="BROSS">Yes, exactly.</u>
+      <u who="MARKOWITZ">Yes.</u>
+      <u who="BROSS">And by the way, just so—another insight for Brandt. The last—I can’t keep going on. So Brandt felt that, look, we as human beings have these essential drives of—of aggression and sexuality, and he thought another one might be difference, and he thought we react to difference. And difference is what is based on him being a physician in the old school before he becomes a psychiatrist and what he’s thinking about immune systems and how the body biologically responds to external pathogens.
+
+And one of the many features of immune systems is you have to identify self and other, and when it’s other, then the immune system is activated. And Brandt was toying with the idea for the last decade of his life, over, you know, the reaction to everything from race or religion to the difference between men and women or, for that matter, even babies, because babies are not like us. And it isn’t good enough to have sympathy for the baby, you have to have empathy for the baby.
+
+And when my wife goes through Lamaze, I can’t feel her birth pains during contractions, but I could go through Lamaze and try to be empathic and kind of pick up on where she might be going in this birth process at this moment and try to either, you know, kind of back off or say, “Hmm, expedite.” [Laughs.] And—and fortunately I got that training; otherwise, we would have had a baby on the Boulder Turnpike.</u>
+      <u who="MARKOWITZ">[Laughs.]</u>
+      <u who="BROSS">So anyway, that’s the kind of insights, spending time thinking about us and just—we’re—I said to Brandt once—I said something about reading [Daniel J.] Boorstin’s book on—The Discoverers. It wasn’t until the end of the book that we found ourselves. And Brandt said, “We haven’t discovered ourselves yet.” [Laughs.] “We still have so much to understand.”
+
+And, you know, when Al[vin] Toffler talked about [future shock in his book,] Future Shock, he said the future would be composed of high-tech and high-touch. But he was only half right. We’ve got high-tech coming out of our ears, but when it comes to high-touch, emotionality, caregiving—I mean, I spend a lot of my time thinking about emotional labor. Emotional labor is what people who are caregivers—which women traditionally had that entire responsibility.
+
+I’ve been fortunate to be around men who have the capacity to do emotional labor, but we don’t support people who do emotional labor, whether they’re social workers dealing with abusive families or first responders or, for that matter, don’t understand that a lot of the labor that people that we send into fires and in police work and in military have enormous demands placed on them in terms of emotional labor.
+
+Okay. I know. That should be enough for now.</u>
+      <u who="MARKOWITZ">Did you—what did—[Laughs.] Yeah. Wow. That—that leaves me a lot to think about as well—</u>
+      <u who="BROSS">Good!</u>
+      <u who="MARKOWITZ">–which is great.</u>
+      <u who="BROSS">Good. That’s exactly—that’s the value, is to have somebody that actually thinks it’s interesting that people—being curious and having questions about people is such a wonderful gift, and that’s why I’ve appreciated the time you’ve given me.</u>
+      <u who="MARKOWITZ">Yeah, I—again, thank you so, so much for agreeing to have this conversation. It was very valuable for me and I hope for you as well [chuckles], but—</u>
+      <u who="BROSS">Oh, absolutely.</u>
+      <u who="MARKOWITZ">—thank you so much for offering your time.</u>
+      <u who="BROSS">I’ll tell you a quote from Dr. [Richard D.] Krugman. Dr. Krugman just retired as the dean of the medical school [at the University of Colorado], and he’s come back to the Kempe Center. He is the most successful dean we’ve ever had after 24 years. They named the chair after him. He was the dean of all the deans of the medical schools of the United States. And Dick had a license plate that says, “NO ABUSE.” [Laughs.] And he talked about that and how we didn’t want to have any abuse for medical students, much more our patients or, you know, our staff.</u>
+      <u who="MARKOWITZ">[Chuckles.]</u>
+      <u who="BROSS">And so—so Dick’s a very smart, funny guy from New York and a Princeton [University] grad. He and I have talked a lot, but he—he has four sons and now seven grandchildren, and I still get—now I get to see him, whereas we—I’ve tried to stay out of his way for the time he was dean. But Dick would say, in response to the nice words you said, “Well, the pleasure wasn’t all yours.” [Laughs.] So thank you for your time.</u>
+      <u who="MARKOWITZ">Yes, thank you very much. It was so nice to speak with you.</u>
+      <u who="BROSS">You can follow-up at any time, Hannah, if there is anything else you want to—</u>
+      <u who="MARKOWITZ">I’m going to go ahead and stop—oh, great. Thank you so much.</u>
+      <u who="BROSS">Yes. [cross-talk; unintelligible].</u>
+      <u who="MARKOWITZ">I’m going to go ahead and stop the recording now.</u>
+      <u who="BROSS">Okay. 
+
+[End of interview.]</u>
+    </body>
+  </text>
+</TEI>
